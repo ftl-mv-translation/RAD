@@ -191,7 +191,7 @@ msgstr "Перехватчик призраков"
 #: src-en/data/autoBlueprints.xml.append:1257
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_INTERCEPTOR_LANIUS\"]/class"
-msgstr "Списанный перехватчик"
+msgstr "Разбитый перехватчик"
 
 #: src-en/data/autoBlueprints.xml.append:1280
 msgid ""

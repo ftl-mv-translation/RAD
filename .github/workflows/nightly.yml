@@ -34,16 +34,7 @@ jobs:
 
     - name: Build packages
       run: |
-        bash snippets/ci-nightly.sh ko
-        bash snippets/ci-nightly.sh fr
-        bash snippets/ci-nightly.sh de
-        bash snippets/ci-nightly.sh zh_Hans
         bash snippets/ci-nightly.sh ru
-        bash snippets/ci-nightly-machine.sh ja
-        bash snippets/ci-nightly-machine.sh es
-        bash snippets/ci-nightly-machine.sh it
-        bash snippets/ci-nightly-machine.sh pl
-        bash snippets/ci-nightly-machine.sh pt_BR
 
     - name: Tag the commit
       run: |
@@ -62,7 +53,6 @@ jobs:
     - name: Release the mod
       uses: softprops/action-gh-release@v1
       with:
-        body_path: snippets/ci-nightly-body.md
         files: packages/*
         tag_name: nightly
         token: ${{ secrets.FTLMV_WEBLATE_BOT_TOKEN }}

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-03 10:49+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2024-11-03 13:22+0000\n"
+"Last-Translator: RaBiKyLiT <bozhok7@bk.ru>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataautoblueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -45,7 +45,7 @@ msgstr "Лаборатория R&D"
 #: src-en/data/autoBlueprints.xml.append:382
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_SCIENCE_OPERATOR\"]/class"
-msgstr ""
+msgstr "Научный оператор"
 
 #: src-en/data/autoBlueprints.xml.append:416
 msgid ""

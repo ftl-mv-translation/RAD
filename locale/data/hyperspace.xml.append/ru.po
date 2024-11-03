@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-03 10:49+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2024-11-03 13:12+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -26,7 +26,7 @@ msgstr "Устраивает пожар в текущем отсеке."
 #: src-en/data/hyperspace.xml.append:1581
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_missile\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БУМ"
 
 #: src-en/data/hyperspace.xml.append:1582
 msgid ""
@@ -36,38 +36,38 @@ msgstr "Взорвать."
 #: src-en/data/hyperspace.xml.append:1681
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_bomb\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БУМ"
 
 #: src-en/data/hyperspace.xml.append:1682
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_bomb\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Взорвать."
 
 #: src-en/data/hyperspace.xml.append:1779
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_bomb_2\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БУМ"
 
 #: src-en/data/hyperspace.xml.append:1780
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_bomb_2\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Взорвать."
 
 #: src-en/data/hyperspace.xml.append:1878
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_bomb_3\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БУМ"
 
 #: src-en/data/hyperspace.xml.append:1879
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_bomb_3\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Взорвать."
 
 #: src-en/data/hyperspace.xml.append:1897
 msgid "data/hyperspace.xml.append$//drone[@name=\"RAD_REPULSOR\"]/tooltipName"
-msgstr ""
+msgstr "Репульсорный дрон"
 
 #: src-en/data/hyperspace.xml.append:1901
 msgid ""
 "data/hyperspace.xml.append$//drone[@name=\"RAD_REPULSOR_ENEMY\"]/tooltipName"
-msgstr ""
+msgstr "Репульсорный дрон"

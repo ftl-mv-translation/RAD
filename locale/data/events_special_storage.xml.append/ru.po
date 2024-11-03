@@ -1,41 +1,51 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-11-04 13:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
+"dataevents_special_storagexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_storage.xml.append:9
 msgid ""
 "data/events_special_storage.xml.append$/FTL/mod:findName[1]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Стыковочный бур) Пробурить корабль."
 
 #: src-en/data/events_special_storage.xml.append:19
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_DOCKING_RAM\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "За это время двигатели противника будут приведены в рабочее состояние."
 
 #: src-en/data/events_special_storage.xml.append:33
 msgid ""
 "data/events_special_storage.xml.append$/FTL/mod:findName[2]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Стыковочный бур) Пробурить корабль."
 
 #: src-en/data/events_special_storage.xml.append:89
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_MISSILE\"]/crewMember"
-msgstr ""
+msgstr "Бомба"
 
 #: src-en/data/events_special_storage.xml.append:95
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_1\"]/crewMember"
-msgstr ""
+msgstr "Универсальная бомба"
 
 #: src-en/data/events_special_storage.xml.append:98
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_2\"]/crewMember"
-msgstr ""
+msgstr "Управляющая бомба"
 
 #: src-en/data/events_special_storage.xml.append:101
 msgid ""
@@ -46,37 +56,46 @@ msgstr "Зажигательная бомба"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Технологии Ученых."
 
 #: src-en/data/events_special_storage.xml.append:131
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Настроить фабрику дронов."
 
 #: src-en/data/events_special_storage.xml.append:133
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "Какой дрон следует создать на фабрике."
 
 #: src-en/data/events_special_storage.xml.append:135
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[1]/text"
 msgstr ""
+"Создать универсальные дроны - 2 урона по корпусу, 2 по системам, 60 по "
+"членам экипажа, 100% шанс создать пробоину, без управление взрывами."
 
 #: src-en/data/events_special_storage.xml.append:142
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[2]/text"
 msgstr ""
+"Создать управляющие дроны - 2 урона по корпусу, 1 по системам, 30 по членам "
+"экипажа, 50% шанс создать пробоину, полный контроль над взрывами."
 
 #: src-en/data/events_special_storage.xml.append:149
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[3]/text"
 msgstr ""
+"Создать зажигательные дроны - 0 урона по корпусу, 1 по системам, 15 по "
+"членам экипажа, 100% шанс устроить пожар, без управление взрывами."
 
 #: src-en/data/events_special_storage.xml.append:156
 msgid ""
@@ -88,31 +107,40 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Настроить вторую фабрику дронов."
 
 #: src-en/data/events_special_storage.xml.append:164
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "Какой дрон следует создать на фабрике."
 
 #: src-en/data/events_special_storage.xml.append:166
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[1]/text"
 msgstr ""
+"Создать универсальные дроны - 2 урона по корпусу, 2 по системам, 60 по "
+"членам экипажа, 100% шанс создать пробоину, без управление взрывами."
 
 #: src-en/data/events_special_storage.xml.append:173
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[2]/text"
 msgstr ""
+"Создать управляющие дроны - 2 урона по корпусу, 1 по системам, 30 по членам "
+"экипажа, 50% шанс создать пробоину, полный контроль над взрывами."
 
 #: src-en/data/events_special_storage.xml.append:180
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[3]/text"
 msgstr ""
+"Создать зажигательные дроны - 0 урона по корпусу, 1 по системам, 15 по "
+"членам экипажа, 100% шанс устроить пожар, без управление взрывами."
 
 #: src-en/data/events_special_storage.xml.append:187
 msgid ""
@@ -121,14 +149,16 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:195
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/text"
-msgstr ""
+msgstr "Выбрать модуль для внутреннего размещения."
 
 #: src-en/data/events_special_storage.xml.append:197
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_BIGSHOT\"]/text"
-msgstr ""
+msgstr "Установить внутреннее Оружие высокой энергии."
 
 #: src-en/data/events_special_storage.xml.append:199
 msgid ""
@@ -138,12 +168,13 @@ msgstr "Вы устанавливаете улучшение."
 #: src-en/data/events_special_storage.xml.append:205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_BIGSHOT\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить...1"
 
 #: src-en/data/events_special_storage.xml.append:211
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_MULTISHOT\"]/text"
-msgstr ""
+msgstr "Установить внутреннее Многозарядное оружие."
 
 #: src-en/data/events_special_storage.xml.append:213
 msgid ""
@@ -153,12 +184,13 @@ msgstr "Вы устанавливаете улучшение."
 #: src-en/data/events_special_storage.xml.append:219
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_MULTISHOT\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить...1"
 
 #: src-en/data/events_special_storage.xml.append:225
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_RAILGUN\"]/text"
-msgstr ""
+msgstr "Установить внутреннее Ускоренное рельсовое оружие."
 
 #: src-en/data/events_special_storage.xml.append:227
 msgid ""
@@ -168,12 +200,13 @@ msgstr "Вы устанавливаете улучшение."
 #: src-en/data/events_special_storage.xml.append:233
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_RAILGUN\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить...1"
 
 #: src-en/data/events_special_storage.xml.append:239
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_MOD_SUS\"]/text"
-msgstr ""
+msgstr "Установить внутренние Стабилизаторы ремонта."
 
 #: src-en/data/events_special_storage.xml.append:244
 msgid ""
@@ -183,7 +216,7 @@ msgstr "Вы устанавливаете улучшение."
 #: src-en/data/events_special_storage.xml.append:247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_MOD_SUS\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить...1"
 
 #: src-en/data/events_special_storage.xml.append:253
 msgid ""

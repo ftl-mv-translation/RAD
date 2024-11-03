@@ -1,0 +1,26 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_main.xml.append:70
+msgid ""
+"data/events_special_main.xml.append$//eventButton[@name=\"BUTTON_RAD_ARTI\"]/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:71
+msgid ""
+"data/events_special_main.xml.append$//eventButton[@name=\"BUTTON_RAD_ARTI\"]/inactiveTooltip"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:92
+msgid ""
+"data/events_special_main.xml.append$//eventButton[@name=\"UI_TOGGLE_BUTTON\"]/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:93
+msgid ""
+"data/events_special_main.xml.append$//eventButton[@name=\"UI_TOGGLE_BUTTON\"]/inactiveTooltip"
+msgstr ""

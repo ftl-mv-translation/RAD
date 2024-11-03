@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/sector_data.xml.append:8
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECRET_RAD_SCIENCE\"]/nameList/name"
+msgstr ""

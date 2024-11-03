@@ -1,0 +1,138 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:3
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_lab\"]"
+msgstr "R&D LAB"
+
+#: src-en/data/text_misc.xml.append:4
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_quest\"]"
+msgstr "QUEST [!]"
+
+#: src-en/data/text_misc.xml.append:5
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pirate\"]"
+msgstr "PIRATE [!]"
+
+#: src-en/data/text_misc.xml.append:6
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pirate_d\"]"
+msgstr "DAMAGED PIRATE [!]"
+
+#: src-en/data/text_misc.xml.append:7
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pirate_e\"]"
+msgstr "PIRATE ENFORCER [!]"
+
+#: src-en/data/text_misc.xml.append:8
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_dynasty_out\"]"
+msgstr "DYNASTY OUTPOST [!]"
+
+#: src-en/data/text_misc.xml.append:9
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_dynasty_sta\"]"
+msgstr "DYNASTY STATION [!]"
+
+#: src-en/data/text_misc.xml.append:10
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_science_meet\"]"
+msgstr "RENDEZVOUS [!]"
+
+#: src-en/data/text_misc.xml.append:11
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pulsar\"]"
+msgstr "PULSAR [!]"
+
+#: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_link\"]"
+msgstr "LINK [QUEST] [!]"
+
+#: src-en/data/text_misc.xml.append:13
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_under\"]"
+msgstr "STOLEN SHIP [!]"
+
+#: src-en/data/text_misc.xml.append:14
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mirror1\"]"
+msgstr "OUTPOST [!]"
+
+#: src-en/data/text_misc.xml.append:15
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mirror2\"]"
+msgstr "MAIN BASE [!]"
+
+#: src-en/data/text_misc.xml.append:16
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_warped1\"]"
+msgstr "TRACKER [!]"
+
+#: src-en/data/text_misc.xml.append:17
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_warped2\"]"
+msgstr "QUEST [!]"
+
+#: src-en/data/text_misc.xml.append:18
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_scrap1\"]"
+msgstr "TRANSPORT [!]"
+
+#: src-en/data/text_misc.xml.append:19
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_main_lab\"]"
+msgstr "R&D HEADQUARTERS"
+
+#: src-en/data/text_misc.xml.append:20
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_main_quest\"]"
+msgstr "TESTING FACILITY"
+
+#: src-en/data/text_misc.xml.append:21
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_corvette\"]"
+msgstr "CORVETTE [!]"
+
+#: src-en/data/text_misc.xml.append:22
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mines_h\"]"
+msgstr "PIRATES [!]"
+
+#: src-en/data/text_misc.xml.append:23
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mines_p\"]"
+msgstr "FEDERATION [!]"
+
+#: src-en/data/text_misc.xml.append:27
+msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_rad2\"]"
+msgstr ""
+"R&D\n"
+"Currently Enabled.\n"
+"Click to see more info."
+
+#: src-en/data/text_misc.xml.append:30
+msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_rad\"]"
+msgstr ""
+"R&D\n"
+"Currently Enabled.\n"
+"Click to see more info."
+
+#: src-en/data/text_misc.xml.append:33
+msgid "data/text_misc.xml.append$//text[@name=\"tip_rad_loot\"]"
+msgstr ""
+"SCIENCE LOOT\n"
+"-1 damage\n"
+"+1 system damage\n"
+"+1 shield pierce\n"
+"-2 power\n"
+"-10 second cooldown"
+
+#: src-en/data/text_misc.xml.append:40
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lightning\"]"
+msgstr ""
+"Lightning Weapons jump to an adjacent room, and deal the same damage again. "
+"They repeat this again after the first jump."
+
+#: src-en/data/text_misc.xml.append:42
+msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_combiner\"]"
+msgstr ""
+"Fires several projectiles at once with a small radius, similar to a flak "
+"weapon."
+
+#: src-en/data/text_misc.xml.append:43
+msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_laser_smart\"]"
+msgstr ""
+"Smart weapons override your manual targeting based on some priority list."
+
+#: src-en/data/text_misc.xml.append:44
+msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_focus_burst\"]"
+msgstr ""
+"Tip: Burst pinpoint beams trade the high damage of most pinpoints for a "
+"burst of multiple consecutive low power beams, allowing for a shorter charge"
+" time when compared with normal pinpoint beams."

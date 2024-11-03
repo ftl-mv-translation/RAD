@@ -1,0 +1,135 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_blueprints.xml.append:2
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_STATION_unlock\"]"
+msgstr "Retrieve this station from some pirates."
+
+#: src-en/data/text_blueprints.xml.append:3
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_STATION_2_unlock\"]"
+msgstr "Hunt down a rogue employee."
+
+#: src-en/data/text_blueprints.xml.append:4
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_STATION_3_unlock\"]"
+msgstr "Get to sector 5 with either the A or B variant of this ship."
+
+#: src-en/data/text_blueprints.xml.append:5
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLESH_unlock\"]"
+msgstr "Recover a prototype cruiser."
+
+#: src-en/data/text_blueprints.xml.append:6
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLESH_2_unlock\"]"
+msgstr "Recover a joint project with the Engi."
+
+#: src-en/data/text_blueprints.xml.append:7
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_GHOST_unlock\"]"
+msgstr "Retrieve and side with a tortured phantom."
+
+#: src-en/data/text_blueprints.xml.append:8
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_GHOST_2_unlock\"]"
+msgstr "Deal with some poor customers."
+
+#: src-en/data/text_blueprints.xml.append:9
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_RICH_unlock\"]"
+msgstr "Side with the son of a rich tycoon."
+
+#: src-en/data/text_blueprints.xml.append:10
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_POOR_unlock\"]"
+msgstr "Side Against the son of a rich tycoon."
+
+#: src-en/data/text_blueprints.xml.append:11
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_HUGE_unlock\"]"
+msgstr "Unlock every other ship on this page."
+
+#: src-en/data/text_blueprints.xml.append:12
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CRYSTAL_unlock\"]"
+msgstr "Deal with some crystalline rebels."
+
+#: src-en/data/text_blueprints.xml.append:13
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CRYSTAL_2_unlock\"]"
+msgstr "Find out what happened to the missing station."
+
+#: src-en/data/text_blueprints.xml.append:14
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MANTIS_unlock\"]"
+msgstr "Side with the scientists and betray a certain experiment."
+
+#: src-en/data/text_blueprints.xml.append:15
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MANTIS_2_unlock\"]"
+msgstr "Deal with some highway aliens."
+
+#: src-en/data/text_blueprints.xml.append:16
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MINE_unlock\"]"
+msgstr "Test a new weapon and wage war with pirates."
+
+#: src-en/data/text_blueprints.xml.append:17
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MINE_2_unlock\"]"
+msgstr "Test a new weapon and make peace with the pirates."
+
+#: src-en/data/text_blueprints.xml.append:19
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_unlock\"]"
+msgstr "Complete all of the quests from the R&D Lab."
+
+#: src-en/data/text_blueprints.xml.append:20
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_2_unlock\"]"
+msgstr ""
+"Complete all the quests from the R&D Lab, and unlock the type C for each of "
+"the quest cruisers."
+
+#: src-en/data/text_blueprints.xml.append:21
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_3_unlock\"]"
+msgstr "Win with every quest cruiser (slots A and B). COMING SOON"
+
+#: src-en/data/text_blueprints.xml.append:22
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_2_HIDDEN_unlock\"]"
+msgstr "COMING SOON"
+
+#: src-en/data/text_blueprints.xml.append:23
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_ELITE_unlock\"]"
+msgstr "Unlock all slots of both science cruisers."
+
+#: src-en/data/text_blueprints.xml.append:24
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_ELITE_2_unlock\"]"
+msgstr "Win with the slot A of both science cruisers."
+
+#: src-en/data/text_blueprints.xml.append:26
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_unlock\"]"
+msgstr "Unlocked in the ??? sector."
+
+#: src-en/data/text_blueprints.xml.append:27
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_2_unlock\"]"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
+
+#: src-en/data/text_blueprints.xml.append:28
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_3_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."

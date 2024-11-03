@@ -111,7 +111,7 @@ msgstr "Охранник учёных"
 #: src-en/data/autoBlueprints.xml.append:791
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Транспортник учёных"
 
 #: src-en/data/autoBlueprints.xml.append:818
 msgid ""

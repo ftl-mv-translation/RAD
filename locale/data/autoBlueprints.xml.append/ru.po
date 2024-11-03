@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-03 13:34+0000\n"
-"Last-Translator: Scorbogusenechka <a.9455208.z@gmail.com>\n"
+"PO-Revision-Date: 2024-11-04 13:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataautoblueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -216,4 +216,4 @@ msgstr "Пиратский такелажник"
 #: src-en/data/autoBlueprints.xml.append:1382
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_B_MSHIP_PIRATE\"]/class"
-msgstr "Материнское судно Пиратов"
+msgstr "Материнский корабль пиратов"

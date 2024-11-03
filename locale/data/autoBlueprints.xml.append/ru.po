@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-11-03 13:29+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Scorbogusenechka <a.9455208.z@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataautoblueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -86,12 +86,12 @@ msgstr "Корабль энджи???"
 #: src-en/data/autoBlueprints.xml.append:618
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_UNDERAIDER\"]/class"
-msgstr ""
+msgstr "Тестовый крейсер"
 
 #: src-en/data/autoBlueprints.xml.append:644
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_REBELOUT\"]/class"
-msgstr ""
+msgstr "Аванпост Повстанцев"
 
 #: src-en/data/autoBlueprints.xml.append:668
 msgid ""

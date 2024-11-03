@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-03 13:12+0000\n"
+"PO-Revision-Date: 2024-11-03 13:22+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datatext_miscxmlappend/ru/>\n"
@@ -51,23 +51,23 @@ msgstr "ПУЛЬСАР [!]"
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_link\"]"
-msgstr ""
+msgstr "СВЯЗЬ [КВЕСТ] [!]"
 
 #: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_under\"]"
-msgstr ""
+msgstr "УКРАДЕННЫЙ КОРАБЛЬ [!]"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mirror1\"]"
-msgstr ""
+msgstr "ФОРПОСТ [!]"
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mirror2\"]"
-msgstr ""
+msgstr "ГЛАВНАЯ БАЗА [!]"
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_warped1\"]"
-msgstr ""
+msgstr "ТРЕКЕР [!]"
 
 #: src-en/data/text_misc.xml.append:17
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_warped2\"]"
@@ -75,52 +75,74 @@ msgstr "КВЕСТ [!]"
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_scrap1\"]"
-msgstr ""
+msgstr "ТРАНСПОРТ [!]"
 
 #: src-en/data/text_misc.xml.append:19
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_main_lab\"]"
-msgstr ""
+msgstr "ШТАБ-КВАРТИРА НИОКР"
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_main_quest\"]"
-msgstr ""
+msgstr "ИСПЫТАТЕЛЬНЫЙ ЦЕНТР"
 
 #: src-en/data/text_misc.xml.append:21
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_corvette\"]"
-msgstr ""
+msgstr "КОРВЕТ [!]"
 
 #: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mines_h\"]"
-msgstr ""
+msgstr "ПИРАТЫ [!]"
 
 #: src-en/data/text_misc.xml.append:23
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mines_p\"]"
-msgstr ""
+msgstr "ФЕДЕРАЦИЯ [!]"
 
 #: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_rad2\"]"
 msgstr ""
+"R&D\n"
+"В настоящее время включен.\n"
+"Нажмите, чтобы увидеть больше информации."
 
 #: src-en/data/text_misc.xml.append:30
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_rad\"]"
 msgstr ""
+"R&D\n"
+"В настоящее время включен.\n"
+"Нажмите, чтобы увидеть больше информации."
 
 #: src-en/data/text_misc.xml.append:33
 msgid "data/text_misc.xml.append$//text[@name=\"tip_rad_loot\"]"
 msgstr ""
+"ПРОТОТИП УЧЕНЫХ\n"
+"-1 урон\n"
+"+1 урон системам\n"
+"+1 пробитие щитов\n"
+"-2 энергии\n"
+"-10 секунд перезарядка"
 
 #: src-en/data/text_misc.xml.append:40
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lightning\"]"
 msgstr ""
+"С помощью молниеносного оружия можно переместиться в соседний отсек и снова "
+"нанести тот же урон. После первого перехода оно повторяет это снова."
 
 #: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_combiner\"]"
 msgstr ""
+"Выпускает сразу несколько снарядов с небольшим радиусом поражения, подобно "
+"осколочному оружию."
 
 #: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_laser_smart\"]"
 msgstr ""
+"Умное оружие, которое невозможно наводить вручную на цель, оно само это "
+"делает основываясь на неком списке приоритетов."
 
 #: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_focus_burst\"]"
 msgstr ""
+"Подсказка: взрывные лучи заменяют высокий урон большинства точечных лучей на "
+"серию из нескольких последовательных лучей низкой мощности, что позволяет "
+"сократить время зарядки по сравнению с обычными лучами."

@@ -81,7 +81,7 @@ msgstr "Силовик энджи?"
 #: src-en/data/autoBlueprints.xml.append:594
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_ENGIZOLTON\"]/class"
-msgstr "Корабль Энджи ???"
+msgstr "Корабль энджи???"
 
 #: src-en/data/autoBlueprints.xml.append:618
 msgid ""

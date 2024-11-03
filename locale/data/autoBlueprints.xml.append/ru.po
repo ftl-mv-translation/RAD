@@ -131,7 +131,7 @@ msgstr "Разведчик Ученых"
 #: src-en/data/autoBlueprints.xml.append:900
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_SCOUT_ELITE\"]/class"
-msgstr "Элитный разведчик учёных"
+msgstr "Элитный разведчик Ученых"
 
 #: src-en/data/autoBlueprints.xml.append:922
 msgid ""

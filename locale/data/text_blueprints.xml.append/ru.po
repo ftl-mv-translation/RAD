@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-03 13:28+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-11-04 13:50+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datatext_blueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -98,7 +98,7 @@ msgstr "Испытайте новое оружие и заключите мир 
 #: src-en/data/text_blueprints.xml.append:19
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_unlock\"]"
-msgstr "Выполните все квесты в лаборатории НИОКР."
+msgstr "Выполните все квесты от лаборатории R&D."
 
 #: src-en/data/text_blueprints.xml.append:20
 msgid ""

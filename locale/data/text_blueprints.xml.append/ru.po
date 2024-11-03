@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-03 13:22+0000\n"
+"PO-Revision-Date: 2024-11-03 13:28+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datatext_blueprintsxmlappend/ru/>\n"
@@ -73,42 +73,44 @@ msgstr "Разберитесь с кристаллическими повста�
 #: src-en/data/text_blueprints.xml.append:13
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CRYSTAL_2_unlock\"]"
-msgstr ""
+msgstr "Узнайте, что случилось с пропавшей станцией."
 
 #: src-en/data/text_blueprints.xml.append:14
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MANTIS_unlock\"]"
-msgstr ""
+msgstr "Встаньте на сторону Ученых и проведите определенный эксперимент."
 
 #: src-en/data/text_blueprints.xml.append:15
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MANTIS_2_unlock\"]"
-msgstr ""
+msgstr "Разберитесь с пришельцами на дороге."
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MINE_unlock\"]"
-msgstr ""
+msgstr "Испытайте новое оружие и начните войну с пиратами."
 
 #: src-en/data/text_blueprints.xml.append:17
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MINE_2_unlock\"]"
-msgstr ""
+msgstr "Испытайте новое оружие и заключите мир с пиратами."
 
 #: src-en/data/text_blueprints.xml.append:19
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_unlock\"]"
-msgstr ""
+msgstr "Выполните все квесты в лаборатории НИОКР."
 
 #: src-en/data/text_blueprints.xml.append:20
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_2_unlock\"]"
 msgstr ""
+"Выполните все задания в лаборатории НИОКР и разблокируйте тип В для каждого "
+"из квестовых крейсеров."
 
 #: src-en/data/text_blueprints.xml.append:21
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_3_unlock\"]"
-msgstr ""
+msgstr "Выиграйте с каждым квестовым крейсером (типы A и Б). СКОРО"
 
 #: src-en/data/text_blueprints.xml.append:22
 msgid ""
@@ -118,17 +120,18 @@ msgstr "СКОРО ПОЯВИТСЯ"
 #: src-en/data/text_blueprints.xml.append:23
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_ELITE_unlock\"]"
-msgstr ""
+msgstr "Разблокируйте все типы обоих крейсеров Ученых."
 
 #: src-en/data/text_blueprints.xml.append:24
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_ELITE_2_unlock\"]"
-msgstr ""
+msgstr "Победите, используя тип A обоих крейсеров Ученых."
 
 #: src-en/data/text_blueprints.xml.append:26
+#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_unlock\"]"
-msgstr ""
+msgstr "Разблокирован в секторе ???"
 
 #: src-en/data/text_blueprints.xml.append:27
 msgid ""

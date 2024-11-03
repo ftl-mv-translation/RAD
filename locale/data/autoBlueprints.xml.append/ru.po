@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-11-03 13:30+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Scorbogusenechka <a.9455208.z@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataautoblueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -106,7 +106,7 @@ msgstr "Крейсер кристаллинов"
 #: src-en/data/autoBlueprints.xml.append:756
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_GUARD\"]/class"
-msgstr ""
+msgstr "Охранник учёных"
 
 #: src-en/data/autoBlueprints.xml.append:791
 msgid ""

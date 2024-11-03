@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-11-03 13:29+0000\n"
-"Last-Translator: Scorbogusenechka <a.9455208.z@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataautoblueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -53,6 +53,7 @@ msgid ""
 msgstr "Станция Министерства"
 
 #: src-en/data/autoBlueprints.xml.append:446
+#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"ENEMY_SHIP_RAD_FLESH\"]/class"
 msgstr "Крейсер Плоти"
@@ -65,7 +66,7 @@ msgstr "Мастер Лучей"
 #: src-en/data/autoBlueprints.xml.append:507
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_RICHSON\"]/class"
-msgstr "Крейсер класса Яхта"
+msgstr "Крейсер класса \"Яхта\""
 
 #: src-en/data/autoBlueprints.xml.append:539
 msgid ""

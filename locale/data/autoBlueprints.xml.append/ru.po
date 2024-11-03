@@ -216,4 +216,4 @@ msgstr "Пиратский такелажник"
 #: src-en/data/autoBlueprints.xml.append:1382
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_B_MSHIP_PIRATE\"]/class"
-msgstr ""
+msgstr "Материнское судно Пиратов"

@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-11-03 13:12+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
+"dataevents_sector_rad_sciencexml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_sector_rad_science.xml:28
 msgid ""
@@ -24,6 +32,10 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"START_RAD_SCIENCE\"]/text"
 msgstr ""
+"Вы прибыли в сектор, принадлежащий Ученым. Ученые держатся особняком, хотя в "
+"их секторе проживает много гражданских, которые чувствуют себя здесь в "
+"безопасности. Ученые, в свою очередь, начали охранять свои маяки от всех, "
+"кто пытается устроить беспорядки. Все будет хорошо, если мы не будем мешать."
 
 #: src-en/data/events_sector_rad_science.xml:51
 msgid ""
@@ -34,6 +46,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/text"
 msgstr ""
+"Сторожевой корабль вызывает вас. \"Ренегат, мы понимаем вашу цель, но мы не "
+"можем рисковать нарушением исследований или жизнями людей, позволяя вам "
+"привести сюда повстанцев, мы не хотим в этом участвовать!\""
 
 #: src-en/data/events_sector_rad_science.xml:60
 msgid ""
@@ -83,6 +98,7 @@ msgstr "(Член экипажа-человек) Попытаться убеди
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[@req=\"rad_scientist\"]/text"
 msgstr ""
+"(Член экипажа человек-Ученый) Попросить Ученого убедить их пропустить вас."
 
 #: src-en/data/events_sector_rad_science.xml:94
 msgid ""
@@ -108,6 +124,7 @@ msgstr "(Продв. Автопилот) Активировать автопил
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[1]/text"
 msgstr ""
+"\"Я понимаю вас, но если вы не уйдете, я буду вынужден заставить вас уйти!\""
 
 #: src-en/data/events_sector_rad_science.xml:116
 msgid ""
@@ -118,6 +135,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[2]/text"
 msgstr ""
+"\"Я понимаю вас, но если вы не уйдете, я буду вынужден заставить вас уйти!\""
 
 #: src-en/data/events_sector_rad_science.xml:124
 msgid ""
@@ -128,11 +146,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[3]/text"
 msgstr ""
+"\"Возможно, ваше дело стоит того риска, и вы можете пройти, мы сделаем все "
+"возможное, чтобы задержать повстанцев\"."
 
 #: src-en/data/events_sector_rad_science.xml:135
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[1]/text"
 msgstr ""
+"\"А, коллега-Ученый, вы можете пройти, если хотите, но остальные члены вашей "
+"команды - нет\"."
 
 #: src-en/data/events_sector_rad_science.xml:138
 msgid ""
@@ -143,11 +165,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[2]/text"
 msgstr ""
+"\"О, моя оплошность, я не знал, что на вашем корабле есть Ученый, вы можете "
+"пройти\"."
 
 #: src-en/data/events_sector_rad_science.xml:147
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[3]/text"
 msgstr ""
+"\"О, моя оплошность, я не знал, что на вашем корабле есть Ученый, вы можете "
+"пройти\"."
 
 #: src-en/data/events_sector_rad_science.xml:168
 msgid ""
@@ -163,6 +189,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"RAD_SCIENCE_FREE_DRONES\"]/text[1]"
 msgstr ""
+"Неподалеку находятся несколько заброшенных беспилотников, они могут не "
+"функционировать, однако вы сможете извлечь из них несколько деталей."
 
 #: src-en/data/events_sector_rad_science.xml:178
 msgid ""
@@ -177,11 +205,17 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"RAD_SCIENCE_FREE_DRONES\"]/text[3]"
 msgstr ""
+"На ваших сканерах появляется небольшой корабль, который, похоже, летит прямо "
+"к вам. Ваша команда быстро переходит к действиям и разносит его на куски. Вы "
+"пытаетесь подобрать все ценное, но единственное, что уцелело, - это ящик с "
+"дрон-комплектами."
 
 #: src-en/data/events_sector_rad_science.xml:183
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/text"
 msgstr ""
+"Вы получаете сигнал от небольшого корабля, который пролетает неподалеку, "
+"похоже, это один из Ученых."
 
 #: src-en/data/events_sector_rad_science.xml:185
 msgid ""
@@ -192,16 +226,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/text"
 msgstr ""
+"\"Ах, какой у вас прекрасный корабль, капитан, не возьмете ли вы меня на "
+"борт?\""
 
 #: src-en/data/events_sector_rad_science.xml:189
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Добро пожаловать на борт."
 
 #: src-en/data/events_sector_rad_science.xml:193
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Возможно, мне следует об этом сказать, но некоторые пираты хотят меня "
+"убить. Уверен, что такой сильный и способный капитан, как вы, сможет с ними "
+"справиться\"."
 
 #: src-en/data/events_sector_rad_science.xml:195
 msgid ""
@@ -217,6 +256,8 @@ msgstr "Отказаться."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"Маленький корабль Ученого улетает, и в тот момент, когда вы думаете, что все "
+"кончено, мимо вас пролетает пиратский корабль, преследуя его."
 
 #: src-en/data/events_sector_rad_science.xml:205
 msgid ""
@@ -232,6 +273,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_DESTROY\"]/text"
 msgstr ""
+"Вы победили сторожевой корабль Ученых. Все, что могло быть в их грузе, "
+"наверняка уничтожено, но вы можете хотя бы забрать некоторые припасы с "
+"корабля."
 
 #: src-en/data/events_sector_rad_science.xml:236
 msgid ""
@@ -242,6 +286,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_DEADCREW\"]/text"
 msgstr ""
+"Вы победили сторожевой корабль Ученых. Если на борту нет команды, которая "
+"могла бы помешать вам, вы можете исследовать их груз. Вы находите оружие, "
+"которое поднимаете на корабль, и приступаете к разбору их корпуса."
 
 #: src-en/data/events_sector_rad_science.xml:245
 msgid ""
@@ -252,6 +299,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_FOLLOWUP\"]/text"
 msgstr ""
+"Уничтожив сторожевой корабль Ученых, вы определенно кого-то разозлили; будем "
+"надеяться, что слухи об этом распространятся не так быстро."
 
 #: src-en/data/events_sector_rad_science.xml:255
 msgid ""
@@ -277,7 +326,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_rad_science.xml:306
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_CIVILIAN_TRANSFORM\"]/text"
-msgstr ""
+msgstr "Гражданский на вашем корабле предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_sector_rad_science.xml:308
 msgid ""
@@ -301,26 +350,36 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[1]"
 msgstr ""
+"Когда вы разбираете обломки корабля Ученых, становится ясно, что их "
+"передовых технологий недостаточно, чтобы спастись их от вас."
 
 #: src-en/data/events_sector_rad_science.xml:326
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[2]"
 msgstr ""
+"Капитан Ученых произносит последнее ругательство, когда корабль превращается "
+"в пепел."
 
 #: src-en/data/events_sector_rad_science.xml:327
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[3]"
 msgstr ""
+"Сверкающий корпус корабля ученых разлетается на куски в космосе. Вы "
+"подлетаете к нему, чтобы разобрать останки."
 
 #: src-en/data/events_sector_rad_science.xml:328
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[4]"
 msgstr ""
+"Корабль взрывается, уничтожая все живое внутри. Ваша команда пытается "
+"избегать останков существ, разбирая только части корабля."
 
 #: src-en/data/events_sector_rad_science.xml:329
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[5]"
 msgstr ""
+"В ярости искр и взрывов корпус корабля разрушается. Вы быстро разбираете "
+"обломки, которые, судя по всему, находятся ещё в хорошем состоянии."
 
 #: src-en/data/events_sector_rad_science.xml:336
 msgid ""
@@ -352,16 +411,21 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[3]"
 msgstr ""
+"Вы уничтожили весь экипаж. Осталось только разобрать корабль на металлолом."
 
 #: src-en/data/events_sector_rad_science.xml:348
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[4]"
 msgstr ""
+"\"Если честно... это было выше моих... сил...\" Вражеский капитан хватается "
+"за сердце и падает."
 
 #: src-en/data/events_sector_rad_science.xml:349
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[5]"
 msgstr ""
+"\"Ты еще пожалеешь об этом! Карма всегда возвращается к таким, как ты. Будь "
+"ты проклят... Нам, Ученым, было бы лучше без вас, Ренегатов...\""
 
 #: src-en/data/events_sector_rad_science.xml:355
 msgid ""
@@ -372,6 +436,8 @@ msgstr "Принять их капитуляцию."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"SURRENDER_ACCEPT\"]/text"
 msgstr ""
+"Ученые достаточно умны, чтобы понять, что им лучше жить, пусть и немного "
+"беднее."
 
 #: src-en/data/events_sector_rad_science.xml:361
 msgid ""
@@ -389,36 +455,57 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[1]"
 msgstr ""
+"\"Пожалуйста! Мы, Ученые, - единственная причина существования половины "
+"технологий в Мультивселенной, мы изобрели космическую вафельницу! Вы не "
+"можете нас убить!\""
 
 #: src-en/data/events_sector_rad_science.xml:378
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[2]"
 msgstr ""
+"\"Послушайте, просто дайте нам жить, и мы отдадим вам наши вещи, ведь именно "
+"этого вы, Ренегаты, хотите?\""
 
 #: src-en/data/events_sector_rad_science.xml:379
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[3]"
 msgstr ""
+"Капитан Ученых умоляет вас оставить его в живых. \"Пожалуйста, моя семья! Я "
+"нужен им, я их единственный источник дохода! Я отдам вам все, что смогу, "
+"если вы оставите меня в живых!\""
 
 #: src-en/data/events_sector_rad_science.xml:380
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[4]"
 msgstr ""
+"Вы получаете сигнал из другой части корабля, где кроме капитана негромко "
+"говорит еще один член команды. \"Пожалуйста, если вы прекратите огонь, я "
+"отдам вам все, что осталось в грузе. Наш капитан непреклонен, но остальные "
+"члены экипажа не хотят умирать!\""
 
 #: src-en/data/events_sector_rad_science.xml:381
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[5]"
 msgstr ""
+"Корабль Ученых находится в плачевном состоянии. Возможно, сейчас вы сможете "
+"договориться об их капитуляции."
 
 #: src-en/data/events_sector_rad_science.xml:385
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_CAPTURE_RAD_SCIENCE\"]/text"
 msgstr ""
+"Команда погибла, и корабль переходит в ваши руки. Его груз - ваш. На борту "
+"находится особая технология, которую вы надеялись заполучить, и которую вы "
+"поднимаете на свой корабль."
 
 #: src-en/data/events_sector_rad_science.xml:398
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/text"
 msgstr ""
+"Вы зачищаете крейсер обороны и возвращаете его обратно на станцию. Вас "
+"благодарят и дают в награду большое количество металлолома.\n"
+"\n"
+"Один из членов экипажа станции предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_sector_rad_science.xml:402
 msgid ""
@@ -429,6 +516,8 @@ msgstr "Принять его в экипаж корабля."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/choice[1]/event/text"
 msgstr ""
+"Оказывается, это один из солдат, который ранее находился на борту крейсера "
+"обороны."
 
 #: src-en/data/events_sector_rad_science.xml:410
 msgid ""
@@ -439,6 +528,7 @@ msgstr "Отклонить предложение."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/choice[2]/event/text"
 msgstr ""
+"Вы отказываетесь от предложения, вам сейчас не нужны новые члены экипажа."
 
 #: src-en/data/events_sector_rad_science.xml:429
 msgid ""
@@ -459,6 +549,9 @@ msgstr "Непосещенное место."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/text"
 msgstr ""
+"На этом маяке находится транспорт Ученых. Можно с уверенностью сказать, что "
+"корабль, скорее всего, перевозит какие-то особые технологии. Если вы сможете "
+"убить его экипаж, их груз станет вашим."
 
 #: src-en/data/events_sector_rad_science.xml:436
 msgid ""
@@ -505,7 +598,7 @@ msgstr "Сразиться с ними!"
 #: src-en/data/events_sector_rad_science.xml:475
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы заряжаете оружие и атакуете Ученых."
 
 #: src-en/data/events_sector_rad_science.xml:478
 msgid ""
@@ -515,12 +608,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_rad_science.xml:484
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на корабль Ученых."
 
 #: src-en/data/events_sector_rad_science.xml:486
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы пролетаете мимо корабля Ученых."
 
 #: src-en/data/events_sector_rad_science.xml:488
 msgid ""
@@ -536,21 +629,30 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[1]"
 msgstr ""
+"Корабль Ученых исследует планету в этом районе. Других кораблей поблизости "
+"нет."
 
 #: src-en/data/events_sector_rad_science.xml:500
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[2]"
 msgstr ""
+"Вы заметили другой корабль, принадлежащий Ученым, который дрейфует на "
+"некотором расстоянии от вас. Корабль полностью исправен, но вежливо "
+"отказывается от любых попыток с ними связаться."
 
 #: src-en/data/events_sector_rad_science.xml:501
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[3]"
 msgstr ""
+"Прилично вооруженное судно Ученых патрулирует маяк, и если вы не создадите "
+"проблем, то вряд ли им будет до вас дело."
 
 #: src-en/data/events_sector_rad_science.xml:505
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/text"
 msgstr ""
+"Расположенное неподалеку судно Ученых выступает в качестве склада снабжения, "
+"они предлагают вам пополнить запасы."
 
 #: src-en/data/events_sector_rad_science.xml:508
 msgid ""
@@ -560,7 +662,7 @@ msgstr "Предъявить удостоверение личности и по
 #: src-en/data/events_sector_rad_science.xml:514
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[@req=\"rad_scientist\"]/text"
-msgstr ""
+msgstr "(Член экипажа человек-Ученый) Запросить дополнительные припасы."
 
 #: src-en/data/events_sector_rad_science.xml:520
 msgid ""
@@ -575,7 +677,7 @@ msgstr "Атаковать, мы однозначно можем получит�
 #: src-en/data/events_sector_rad_science.xml:529
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[4]/event/text"
-msgstr ""
+msgstr "Вы заряжаете оружие и атакуете Ученых."
 
 #: src-en/data/events_sector_rad_science.xml:532
 msgid ""
@@ -585,12 +687,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_rad_science.xml:538
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[5]/text"
-msgstr ""
+msgstr "Не обращать внимания на склад."
 
 #: src-en/data/events_sector_rad_science.xml:540
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[5]/event/text"
-msgstr ""
+msgstr "Вы игнорируете Ученых."
 
 #: src-en/data/events_sector_rad_science.xml:542
 msgid ""
@@ -606,16 +708,18 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/text"
 msgstr ""
+"С соседней станции подают сигнал бедствия: оказывается, их оборонительный "
+"крейсер украли пираты."
 
 #: src-en/data/events_sector_rad_science.xml:557
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[1]/text"
-msgstr ""
+msgstr "Уничтожьте или захватите крейсер обороны."
 
 #: src-en/data/events_sector_rad_science.xml:559
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы заряжаете оружие и атакуете пиратов."
 
 #: src-en/data/events_sector_rad_science.xml:562
 msgid ""
@@ -626,11 +730,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[@req=\"cloaking\"]/text"
 msgstr ""
+"(Улучш. Маскировка) Замаскироваться и разобрать на металлолом часть станции, "
+"пока она беззащитна."
 
 #: src-en/data/events_sector_rad_science.xml:570
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[@req=\"cloaking\"]/event/text"
 msgstr ""
+"Крейсер обороны похищен, и охранять станцию некому. Используя маскировку вы "
+"срезаете часть обшивки и быстро улетаете."
 
 #: src-en/data/events_sector_rad_science.xml:575
 msgid ""
@@ -641,6 +749,7 @@ msgstr "Держаться от этого подальше."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[3]/event/text"
 msgstr ""
+"Вы пролетаете мимо станции. Надеюсь, ситуация разрешится... не благодаря вам."
 
 #: src-en/data/events_sector_rad_science.xml:579
 msgid ""
@@ -656,26 +765,28 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/text"
 msgstr ""
+"Прибыв на маяк, вы обнаруживаете путешествующего торговца, и что еще лучше - "
+"Ученого."
 
 #: src-en/data/events_sector_rad_science.xml:594
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/text"
-msgstr ""
+msgstr "Купить Таинственное оружие."
 
 #: src-en/data/events_sector_rad_science.xml:596
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Торговец передает вам большой ящик, после чего уходит в прыжок."
 
 #: src-en/data/events_sector_rad_science.xml:601
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Открыть ящик."
 
 #: src-en/data/events_sector_rad_science.xml:603
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "Похоже, он не обманул вас."
 
 #: src-en/data/events_sector_rad_science.xml:606
 msgid ""
@@ -690,12 +801,12 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_rad_science.xml:618
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[2]/text"
-msgstr ""
+msgstr "Посмотреть на его товары."
 
 #: src-en/data/events_sector_rad_science.xml:620
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Он приветствует вас в своем маленьком магазинчике."
 
 #: src-en/data/events_sector_rad_science.xml:623
 msgid ""
@@ -710,12 +821,12 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_rad_science.xml:633
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[3]/text"
-msgstr ""
+msgstr "Атаковать его!"
 
 #: src-en/data/events_sector_rad_science.xml:635
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Вы заряжаете оружие и нападаете на торговца."
 
 #: src-en/data/events_sector_rad_science.xml:638
 msgid ""
@@ -726,16 +837,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/text"
 msgstr ""
+"Источник сигнала бедствия - гражданское судно, атакованное абордажным "
+"кораблем повстанцев! Мы должны помочь?"
 
 #: src-en/data/events_sector_rad_science.xml:667
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[1]/text"
-msgstr ""
+msgstr "Спасти гражданских."
 
 #: src-en/data/events_sector_rad_science.xml:669
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[1]/event/text"
 msgstr ""
+"Вы заряжаете оружие и вступаете в бой с пиратским судном. Похоже, что на "
+"корабле все еще живы два гражданских, и вы сможете спасти их, если "
+"избавитесь от повстанцев."
 
 #: src-en/data/events_sector_rad_science.xml:673
 msgid ""
@@ -750,7 +866,7 @@ msgstr "Не обращать внимания на корабль."
 #: src-en/data/events_sector_rad_science.xml:681
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы надеетесь, что им удастся спастись."
 
 #: src-en/data/events_sector_rad_science.xml:683
 msgid ""
@@ -766,6 +882,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/text"
 msgstr ""
+"Источник сигнала бедствия - небольшой гражданский шаттл, его сейчас "
+"подбирает корабль Ученых."
 
 #: src-en/data/events_sector_rad_science.xml:698
 msgid ""
@@ -776,6 +894,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/text"
 msgstr ""
+"\"Ренегат, держи дистанцию, мы только что задержали двух гражданских, "
+"которые, как мы полагаем, являются членами пиратской организации. Мы "
+"надеемся, что пираты не придут мстить\"."
 
 #: src-en/data/events_sector_rad_science.xml:702
 msgid ""
@@ -786,6 +907,9 @@ msgstr "Спасти гражданских."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"Вы заряжаете оружие и вступаете в бой с Ученым. Двое гражданских еще живы, "
+"и, похоже, они не собираются сдаваться без боя. Возможно, вам удастся спасти "
+"их, если вы избавитесь от повстанцев."
 
 #: src-en/data/events_sector_rad_science.xml:708
 msgid ""
@@ -796,11 +920,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[2]/text"
 msgstr ""
+"Оставайтесь здесь и защищайте корабль Ученых в течение короткого времени."
 
 #: src-en/data/events_sector_rad_science.xml:716
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"Не более чем через несколько минут к вам приближается пиратский корабль, "
+"совершая такие маневры, словно собирается начать схватку!"
 
 #: src-en/data/events_sector_rad_science.xml:719
 msgid ""
@@ -816,6 +943,8 @@ msgstr "Не обращать внимания на корабль."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[3]/event/text"
 msgstr ""
+"Вы переключаете свое внимание на собственный корабль, пока ваш ССД "
+"заряжается."
 
 #: src-en/data/events_sector_rad_science.xml:729
 msgid ""
@@ -830,7 +959,7 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_rad_science.xml:760
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_GHOST\"]/text"
-msgstr ""
+msgstr "Вы разбираете то, что осталось от перехватчика."
 
 #: src-en/data/events_sector_rad_science.xml:763
 msgid ""
@@ -847,7 +976,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_rad_science.xml:773
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE_GHOST\"]/text"
-msgstr ""
+msgstr "Вы избавились от призраков на развалинах."
 
 #: src-en/data/events_sector_rad_science.xml:776
 msgid ""
@@ -864,11 +993,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_rad_science.xml:786
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_GHOST_SUR\"]/text"
-msgstr ""
+msgstr "Ваше последнее попадание, похоже, перегрузило вражеский реактор."
 
 #: src-en/data/events_sector_rad_science.xml:792
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/text"
 msgstr ""
+"Прибыв на маяк, вы обнаруживаете разрушенный перехватчик Ученых. Похоже, что "
+"некоторые части корабля все еще частично целы, поскольку маяк бедствия все "
+"еще работает."
 
 #: src-en/data/events_sector_rad_science.xml:797
 msgid ""
@@ -879,11 +1011,16 @@ msgstr "Исследовать."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[1]/event/text"
 msgstr ""
+"По мере приближения к развалинам он включается. Вы получаете сообщение.\n"
+"\n"
+"\"Пожалуйста, помогите, на нас напали призраки, и моя команда мертва. Либо "
+"телепортируйте меня с этого корабля, либо повредите его настолько, чтобы я "
+"смог перегрузить реактор и телепортироваться через личный телепортатор\"."
 
 #: src-en/data/events_sector_rad_science.xml:802
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Д-р К. Свартвоут"
 
 #: src-en/data/events_sector_rad_science.xml:805
 msgid ""
@@ -893,12 +1030,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_rad_science.xml:811
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на развалины."
 
 #: src-en/data/events_sector_rad_science.xml:813
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Это не стоит вашего времени на исследования."
 
 #: src-en/data/events_sector_rad_science.xml:815
 msgid ""
@@ -914,16 +1051,29 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FAILED\"]/text"
 msgstr ""
+"К сожалению, вы не смогли спасти Ученого, но, возможно, в альтернативной "
+"вселенной вы не потерпели неудачу."
 
 #: src-en/data/events_sector_rad_science.xml:831
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_SAVED\"]/text"
 msgstr ""
+"\"Отличная работа, капитан, вы прибыли как раз вовремя, меня зовут Корнелиус "
+"Свартвоут. \n"
+"Полагаю, вы можете помочь мне в чем-то еще, я и моя команда направлялись на "
+"один из наших объектов для испытаний нового крейсера, и вы могли бы "
+"доставить меня туда\"."
 
 #: src-en/data/events_sector_rad_science.xml:851
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FACILITY\"]/text"
 msgstr ""
+"Вы прибыли в испытательный центр, похоже, крейсер только что начали "
+"тестировать.\n"
+"    \n"
+"Д-р Свартвоут присоединяется к вам, чтобы понаблюдать за испытаниями: \"Все, "
+"что мы сегодня проверяем, - это способность крейсера использовать свое "
+"оружие, для испытаний мы приготовили автоматический корабль повстанцев\"."
 
 #: src-en/data/events_sector_rad_science.xml:855
 msgid ""
@@ -934,6 +1084,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FACILITY\"]/choice/event/text"
 msgstr ""
+"Как раз в тот момент, когда начинается испытательная стрельба, "
+"автоматический корабль повстанцев выходит на связь и запускает на крейсер "
+"хакерский дрон. Вы слышите по связи приглушенное удивление, когда другие "
+"Ученые, находящиеся поблизости, понимают, что происходит.\n"
+"        \n"
+"Вы выдвигаетесь, чтобы уничтожить дрон, пока он не причинил слишком много "
+"вреда."
 
 #: src-en/data/events_sector_rad_science.xml:862
 msgid ""
@@ -944,16 +1101,24 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_REBEL_AUTO\"]/text"
 msgstr ""
+"Вам удалось уничтожить автоматический корабль повстанцев, но, похоже, вы "
+"действовали слишком медленно. Хакерский дрон, который развернул корабль "
+"повстанцев, сумел захватить контроль над судном Ученых и ушел в прыжок.\n"
+"Ученые смогли отследить, куда он улетел. Надеюсь, вам удастся вернуть "
+"корабль или хотя бы предотвратить его попадание в руки повстанцев."
 
 #: src-en/data/events_sector_rad_science.xml:894
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_FIGHT_2\"]/text"
 msgstr ""
+"Вы уничтожили автоматический корабль повстанцев, но, похоже, сделали это "
+"слишком медленно: крейсер Ученых снова в строю, но на этот раз он под "
+"контролем повстанцев..."
 
 #: src-en/data/events_sector_rad_science.xml:899
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_FIGHT_2_2\"]/text"
-msgstr ""
+msgstr "Время на исходе, крейсер Ученых почти настиг вас."
 
 #: src-en/data/events_sector_rad_science.xml:902
 msgid ""
@@ -964,6 +1129,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_SECOND\"]/text"
 msgstr ""
+"Вы прибываете к маяку и обнаруживаете, что автоматический крейсер Ученых "
+"находится в режиме ожидания, похоже, вы опередили повстанцев.\n"
+"Как только вы начинаете приближаться к кораблю, он включает оружие, похоже, "
+"повстанцы не собираются просто так отдавать его без боя."
 
 #: src-en/data/events_sector_rad_science.xml:912
 msgid ""
@@ -974,6 +1143,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_CUTTERENEMY\"]/text"
 msgstr ""
+"\"Нам повезло, что вы оказались здесь, иначе все могло бы пойти очень плохо. "
+"В знак благодарности мы отправим чертежи крейсера в Федерацию, как только "
+"устраним уязвимости, которые вы нашли\"."
 
 #: src-en/data/events_sector_rad_science.xml:944
 msgid ""
@@ -984,21 +1156,31 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[1]"
 msgstr ""
+"Неподалеку дрейфуют останки корабля гражданских, но прежде чем вы успеваете "
+"подобрать хоть что-то ценное из них, корабль Ученых принимает вас за "
+"нападавшего и готовится отомстить за безвинных гражданских."
 
 #: src-en/data/events_sector_rad_science.xml:950
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[2]"
 msgstr ""
+"У вас возникли проблемы с идентификацией корабля Ученых на этом маяке, и "
+"вскоре после этого ситуация накалилась до предела!"
 
 #: src-en/data/events_sector_rad_science.xml:951
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[3]"
 msgstr ""
+"Ученые на этом маяке, похоже, принимают одного из членов вашего экипажа за "
+"известного пирата за которого назначена большая награда. Не собираясь "
+"отдавать им своего члена экипажа, вы готовитесь к бою."
 
 #: src-en/data/events_sector_rad_science.xml:955
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/text"
 msgstr ""
+"Возле этого маяка вы натыкаетесь на аванпост Ученых, которые отказываются "
+"пропустить вас. По всей видимости, за проход через этот маяк нужно платить."
 
 #: src-en/data/events_sector_rad_science.xml:958
 msgid ""
@@ -1009,6 +1191,8 @@ msgstr "Отказаться платить."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[1]/event/text"
 msgstr ""
+"Ученые не тратят времени на разговоры - как только вы отказываетесь, их "
+"оружие активируется!"
 
 #: src-en/data/events_sector_rad_science.xml:963
 msgid ""
@@ -1023,7 +1207,7 @@ msgstr "Заплатить пошлину."
 #: src-en/data/events_sector_rad_science.xml:971
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Ученые берут оплату и позволяют вам двигаться дальше."
 
 #: src-en/data/events_sector_rad_science.xml:983
 msgid ""
@@ -1034,21 +1218,32 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[1]"
 msgstr ""
+"Нужно быть смелым пиратским капитаном - или глупым, - чтобы попытаться взять "
+"верх над космическими Учеными. Заметив приближающийся вражеский корабль, вы "
+"надеетесь, что он окажется последним, и готовитесь к бою."
 
 #: src-en/data/events_sector_rad_science.xml:989
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[2]"
 msgstr ""
+"Пиратское судно приближается, оружие уже наготове. На этой территории, "
+"должно быть, идет настоящая бойня, и они готовы отвлечься от кораблей Ученых "
+"и гражданских и сразиться с вашими!"
 
 #: src-en/data/events_sector_rad_science.xml:990
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[3]"
 msgstr ""
+"Несмотря на передовые технологии, Ученым, похоже, не удалось полностью "
+"уничтожить пиратов. Один из них направляется прямо к вашему кораблю!"
 
 #: src-en/data/events_sector_rad_science.xml:991
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[4]"
 msgstr ""
+"Вы улавливаете отблеск проносящегося мимо пурпура. Вскоре после этого в поле "
+"зрения появляется пиратский корабль. \"Ха-ха! Я забрал жизни многих "
+"гражданских, а теперь заберу ваши! Приготовьтесь к бою!\""
 
 #: src-en/data/events_sector_rad_science.xml:998
 msgid ""
@@ -1059,16 +1254,23 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[1]"
 msgstr ""
+"Флот Ученых может похвастаться большим количеством кораблей, но это также "
+"делает их главной мишенью для пиратов, которым нужно новое развлечение. "
+"Корабль Ученых, управляемый пиратами, приближается к нам, сверкая оружием."
 
 #: src-en/data/events_sector_rad_science.xml:1004
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[2]"
 msgstr ""
+"Пиратский корабль, желающий испытать новое оборудование, которое они только "
+"что украли у Ученых, настигает ваш корабль и атакует!"
 
 #: src-en/data/events_sector_rad_science.xml:1005
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[3]"
 msgstr ""
+"Сначала вы думаете, что перед вами обычный корабль Ученых, пока не видите "
+"пиратскую раскраску, украшающую его корпус. Пираты совсем близко!"
 
 #: src-en/data/events_sector_rad_science.xml:1012
 msgid ""
@@ -1088,26 +1290,41 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[2]"
 msgstr ""
+"Повстанцы, похоже, затаили злобу на Ученых, вероятно, потому что проиграли "
+"свои деньги в слишком большом количестве казино Ученых. Корабль повстанцев, "
+"похоже, жаждет сражения, и поскольку вы здесь единственный корабль, они "
+"решили, что вы будете достойным противником."
 
 #: src-en/data/events_sector_rad_science.xml:1019
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[3]"
 msgstr ""
+"Корабль повстанцев подчистую разобрал остатки гражданской станции. Спустя "
+"несколько секунд после вашего прыжка они замечают вас и решают сделать вас "
+"своей следующей целью."
 
 #: src-en/data/events_sector_rad_science.xml:1035
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_ELITE\"]/text"
 msgstr ""
+"Вам удалось уничтожить один из самых опасных кораблей в секторе, вы "
+"разбираете корабль на металлолом и становитесь гораздо богаче."
 
 #: src-en/data/events_sector_rad_science.xml:1040
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE_ELITE\"]/text"
 msgstr ""
+"Когда замертво падает последний солдат, ваша команда начинает разбирать "
+"корабль на металлолом. Вы покидаете их корабль с кучей металлолома."
 
 #: src-en/data/events_sector_rad_science.xml:1045
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_ELITE\"]/text"
 msgstr ""
+"Корабли элитных сил обороны НИОКР - одни из самых смертоносных во флоте "
+"ученых, и на то есть веские причины. На этих кораблях собраны хорошо "
+"обученные экипажи, и они не церемонятся в бою. К несчастью для вас, этот "
+"корабль считает вас угрозой и атакует!"
 
 #: src-en/data/events_sector_rad_science.xml:1048
 msgid ""
@@ -1117,16 +1334,19 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_rad_science.xml:1105
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Главная база Ученых."
 
 #: src-en/data/events_sector_rad_science.xml:1106
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "Главная база Ученых."
 
 #: src-en/data/events_sector_rad_science.xml:1108
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/text"
 msgstr ""
+"Вы прибыли на главную базу Ученых. Похоже, на станции не хватает персонала, "
+"поскольку большая часть флота отправилась сражаться с наступающей угрозой "
+"повстанцев."
 
 #: src-en/data/events_sector_rad_science.xml:1112
 msgid ""
@@ -1137,6 +1357,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/choice/event/text"
 msgstr ""
+"Поскольку большинство сотрудников станции отсутствуют, вы можете пробраться "
+"на борт и получить доступ к технологиям станции."
 
 #: src-en/data/events_sector_rad_science.xml:1116
 msgid ""
@@ -1150,7 +1372,7 @@ msgstr "Уйти."
 
 #: src-en/data/events_sector_rad_science.xml:1128
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LEAVE\"]/text"
-msgstr ""
+msgstr "Вы покидаете территорию."
 
 #: src-en/data/events_sector_rad_science.xml:1130
 msgid ""
@@ -1165,26 +1387,31 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_rad_science.xml:1148
 msgid ""
 "data/events_sector_rad_science.xml$//eventButton[@name=\"UI_RAD_BOARD\"]/tooltip"
-msgstr ""
+msgstr "Покинуть станцию (вы не сможете вернуться)."
 
 #: src-en/data/events_sector_rad_science.xml:1149
 msgid ""
 "data/events_sector_rad_science.xml$//eventButton[@name=\"UI_RAD_BOARD\"]/inactiveTooltip"
-msgstr ""
+msgstr "Чтобы уйти, ваш экипаж должен находиться в помещении с телепортатором."
 
 #: src-en/data/events_sector_rad_science.xml:1156
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_BOARD\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "По истечении этого времени вражеская система дверей будет отключена."
 
 #: src-en/data/events_sector_rad_science.xml:1175
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_RETURN2\"]/text"
 msgstr ""
+"Конечно, вы не сможете взорвать станцию, но ваша тайная миссия по "
+"проникновению прошла успешно."
 
 #: src-en/data/events_sector_rad_science.xml:1200
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_1\"]/text"
 msgstr ""
+"Вы прибываете к маяку и встречаетесь лицом к лицу с массивным корветом "
+"ученых. Судя по всему, это готовая версия корабля, стоящего в доке, и, "
+"похоже, вам предстоит сражение."
 
 #: src-en/data/events_sector_rad_science.xml:1203
 msgid ""
@@ -1194,24 +1421,31 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_rad_science.xml:1209
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2\"]/text"
 msgstr ""
+"Корвет взрывается, но получает лишь незначительные повреждения. Корабль "
+"нуждается в ремонте, и он уходит в прыжок."
 
 #: src-en/data/events_sector_rad_science.xml:1215
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3\"]/text"
 msgstr ""
+"Корвет взрывается, но получает лишь незначительные повреждения. Корабль "
+"нуждается в ремонте, и он уходит в прыжок."
 
 #: src-en/data/events_sector_rad_science.xml:1229
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP\"]/text"
 msgstr ""
+"Даже если часть корабля отсутствует, они продолжают сражаться и даже "
+"включили еще несколько систем. У вас есть несколько мгновений, чтобы "
+"перевести дух, прежде чем корабль окажется в пределах боя."
 
 #: src-en/data/events_sector_rad_science.xml:1234
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Корвет будет введен в строй после окончания этого периода ожидания."
 
 #: src-en/data/events_sector_rad_science.xml:1240
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP_2\"]/text"
-msgstr ""
+msgstr "Корвет находится на расстоянии выстрела..."
 
 #: src-en/data/events_sector_rad_science.xml:1243
 msgid ""
@@ -1221,16 +1455,19 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_rad_science.xml:1256
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP\"]/text"
 msgstr ""
+"Вы проследили за корветом Ученых, однако корабль все еще функционирует. У "
+"вас есть несколько мгновений, прежде чем вражеский корабль сможет атаковать "
+"вас."
 
 #: src-en/data/events_sector_rad_science.xml:1262
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Корвет будет введен в строй после окончания этого периода ожидания."
 
 #: src-en/data/events_sector_rad_science.xml:1268
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP_2\"]/text"
-msgstr ""
+msgstr "Корвет находится на расстоянии выстрела..."
 
 #: src-en/data/events_sector_rad_science.xml:1271
 msgid ""
@@ -1240,63 +1477,71 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_rad_science.xml:1277
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_WEAPON\"]/text"
 msgstr ""
+"Вы вошли в оружейную комнату, которая, похоже, в основном вычищена, однако "
+"на стеллажах все еще лежит оружие."
 
 #: src-en/data/events_sector_rad_science.xml:1281
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/text"
 msgstr ""
+"Вы вошли в складское помещение. Здесь есть несколько механизмов, но через "
+"телепортатор вы сможете переместить только один."
 
 #: src-en/data/events_sector_rad_science.xml:1283
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[1]/text"
-msgstr ""
+msgstr "Взять модуль:"
 
 #: src-en/data/events_sector_rad_science.xml:1289
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[2]/text"
-msgstr ""
+msgstr "Взять модуль:"
 
 #: src-en/data/events_sector_rad_science.xml:1295
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[3]/text"
-msgstr ""
+msgstr "Взять модуль:"
 
 #: src-en/data/events_sector_rad_science.xml:1301
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[4]/text"
-msgstr ""
+msgstr "Взять модуль:"
 
 #: src-en/data/events_sector_rad_science.xml:1307
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[5]/text"
-msgstr ""
+msgstr "Уйти, ничего не взяв."
 
 #: src-en/data/events_sector_rad_science.xml:1313
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/text"
-msgstr ""
+msgstr "Вы вошли в комнату управления реактором."
 
 #: src-en/data/events_sector_rad_science.xml:1315
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/choice/text"
-msgstr ""
+msgstr "Отключить систему безопасности."
 
 #: src-en/data/events_sector_rad_science.xml:1318
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/choice/event/text"
-msgstr ""
+msgstr "Система дверей отключается."
 
 #: src-en/data/events_sector_rad_science.xml:1323
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/text"
 msgstr ""
+"Вы вошли в комнату криогенной обработки. В одной из капсул, похоже, "
+"заморожен человек."
 
 #: src-en/data/events_sector_rad_science.xml:1325
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/choice[1]/text"
-msgstr ""
+msgstr "Открыть капсулу."
 
 #: src-en/data/events_sector_rad_science.xml:1327
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/choice[1]/event/text"
 msgstr ""
+"Вы открываете капсулу и выпускаете человека, он в замешательстве, но "
+"предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_sector_rad_science.xml:1332
 msgid ""
@@ -1305,25 +1550,35 @@ msgstr "Оставьте его в покое."
 
 #: src-en/data/events_sector_rad_science.xml:1337
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/text"
-msgstr ""
+msgstr "Вы вошли в комнату управления верфью. Консоль управления заблокирована."
 
 #: src-en/data/events_sector_rad_science.xml:1340
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/choice/text"
-msgstr ""
+msgstr "Разблокировать консоль."
 
 #: src-en/data/events_sector_rad_science.xml:1342
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/choice/event/text"
 msgstr ""
+"Вы используете пароль, загруженный из центра хранения данных, чтобы "
+"разблокировать консоль.\n"
+"        \n"
+"Вы можете загрузить данные Ученых о новом типе крейсера, который они строят, "
+"похоже, один из них сейчас проходит испытания в полевых условиях, вы "
+"загружаете данные о корабле."
 
 #: src-en/data/events_sector_rad_science.xml:1350
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_HACK\"]/text"
 msgstr ""
+"Вы вошли в комнату хранения данных. Вы можете загрузить код доступа к центру "
+"управления верфью (рулевая рубка)."
 
 #: src-en/data/events_sector_rad_science.xml:1354
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_4\"]/text"
 msgstr ""
+"В конце концов корабль взрывается, превращаясь в кучу обломков, и вы "
+"начинаете латать свой корпус, а затем грабить убитых."
 
 #: src-en/data/events_sector_rad_science.xml:1360
 msgid ""
@@ -1333,4 +1588,4 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_rad_science.xml:1362
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_4\"]/choice/event/text"
-msgstr ""
+msgstr "Среди обломков вы находите небольшой ящик, наполненный добычей."

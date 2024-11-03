@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-11-03 13:33+0000\n"
-"Last-Translator: Scorbogusenechka <a.9455208.z@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataautoblueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -151,7 +151,7 @@ msgstr "Элитный бомбардировщик Ученых"
 #: src-en/data/autoBlueprints.xml.append:1014
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_INTERCEPTOR\"]/class"
-msgstr "Перехватчик учёных"
+msgstr "Перехватчик Ученых"
 
 #: src-en/data/autoBlueprints.xml.append:1043
 msgid ""

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-05 15:46+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-11-06 15:18+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1898,19 +1898,27 @@ msgstr ""
 #: src-en/data/events.xml.append:1627
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_SEPSTAT\"]/text"
 msgstr ""
+"Вы убили экипаж корабля Сепаратистов. Похоже, что они не имеют никакого "
+"отношения к пропавшему кораблю, но в любом случае вы не брезгуете поживиться "
+"на их останках."
 
 #: src-en/data/events.xml.append:1634
 msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_3\"]/text"
 msgstr ""
+"Вы прибываете к маяку и обнаруживаете нечто странное: похоже, это учебный "
+"корабль Сепаратистов.\n"
+"Вы можете напасть на корабль, возможно, они как-то связаны с пропавшим "
+"кораблем, но похоже, что энджи просто послали вас сюда, чтобы уничтожить "
+"Сепаратистов."
 
 #: src-en/data/events.xml.append:1639
 msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_3\"]/choice[1]/text"
-msgstr ""
+msgstr "Атаковать корабль, они могут что-то знать."
 
 #: src-en/data/events.xml.append:1641
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы активируете свои орудия и атакуете корабль."
 
 #: src-en/data/events.xml.append:1644
 msgid ""
@@ -1924,11 +1932,13 @@ msgstr "Уйти."
 #: src-en/data/events.xml.append:1652
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_3\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Если вы не станете выполнять приказы Гармонии просто так, вы уходите."
 
 #: src-en/data/events.xml.append:1663
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_ENGIFINAL\"]/text"
 msgstr ""
+"Вы уничтожили корабль золтан-энджи. Вы отправляете сообщение Ученым, сообщая "
+"им, что вы нашли корабль."
 
 #: src-en/data/events.xml.append:1666
 msgid ""
@@ -1938,6 +1948,8 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:1672
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_ENGIFINAL\"]/text"
 msgstr ""
+"Вы убили экипаж корабля золтан-энджи. Вы отправляете сообщение Ученым о том, "
+"что вам удалось вернуть корабль."
 
 #: src-en/data/events.xml.append:1675
 msgid ""
@@ -1947,40 +1959,60 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:1683
 msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_7\"]/text"
 msgstr ""
+"Вы прибываете к маяку и сразу же замечаете странно выглядящий корабль энджи. "
+"Вы сканируете его и обнаруживаете, что это тот самый украденный корабль. "
+"Корабль, похоже, отключен, и вы видите, что над ним работают дроны.\n"
+"Однако рядом с кораблем находится еще один корабль энджи, пилотируемый "
+"золтанами, и, похоже, вам придется уничтожить его, чтобы вернуть корабль."
 
 #: src-en/data/events.xml.append:1688
 msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_7\"]/choice/text"
-msgstr ""
+msgstr "Вы активируете свои орудия, чтобы атаковать."
 
 #: src-en/data/events.xml.append:1694
 msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_8\"]/text"
 msgstr ""
+"После недолгого ожидания прибывает корабль, это Ученые.\n"
+"\"Отличная работа, капитан, нам удалось восстановить конструкцию "
+"уничтоженного вами корабля и некоторые технологии на нем, мы передадим все "
+"это вам и Федерации в качестве оплаты за вашу работу\"."
 
 #: src-en/data/events.xml.append:1710
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/text"
 msgstr ""
+"\"Мы были наняты богатой группой наемников, чтобы разработать и создать для "
+"них особый вид суперщита, который можно установить под обычным щитом, а не "
+"поверх него\".\n"
+"\"Мы успешно создали технологию и установили ее на тестовый корабль для "
+"группы наемников, намереваясь дать им возможность испытать щит, прежде чем "
+"заплатить нам за установку его на их собственные корабли\"."
 
 #: src-en/data/events.xml.append:1713
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/text"
-msgstr ""
+msgstr "Они украли испытательный корабль, не так ли?"
 
 #: src-en/data/events.xml.append:1715
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/event/text"
 msgstr ""
+"\"К сожалению, вы правы, однако мы стараемся обезопасить нашу работу и "
+"установили на корабле маячок, все, что вам нужно сделать, - это долететь до "
+"маяка и уничтожить корабль\"."
 
 #: src-en/data/events.xml.append:1717
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Звучит просто."
 
 #: src-en/data/events.xml.append:1719
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "\"Так и есть, сейчас я загружу вам местоположение корабля\"."
 
 #: src-en/data/events.xml.append:1734
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_UNDERAIDER\"]/text"
 msgstr ""
+"Вы уничтожили испытательный корабль. Вы отправляете сообщение Ученым, "
+"сообщая им, что уничтожили корабль."
 
 #: src-en/data/events.xml.append:1737
 msgid ""
@@ -1990,6 +2022,8 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:1743
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_UNDERAIDER\"]/text"
 msgstr ""
+"Вы убили экипаж испытательного корабля. Вы отправляете сообщение Ученым, "
+"чтобы они узнали, что вы вернули корабль."
 
 #: src-en/data/events.xml.append:1746
 msgid ""
@@ -1999,18 +2033,44 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:1754
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_2\"]/text"
 msgstr ""
+"Вы прибываете к маяку, похоже, что маячок Ученых привел вас туда,куда нужно, "
+"перед вами - испытательный крейсер, и вы можете наблюдать спор, происходящий "
+"на открытой частоте.\n"
+"\"Что значит, корабль взорвется!\"\n"
+"\"Я имею в виду, что если суперщит будет отключен, корабль взорвется\".\n"
+"\"Ты хочешь сказать, что Ученые спроектировали корабль так, чтобы мы не "
+"смогли его украсть... Погоди, наверное, это было правильное решение с их "
+"стороны, учитывая, что мы украли корабль...\"\n"
+"\n"
+"Похоже, наемники только что заметили вас: они отключили связь и активировали "
+"орудия, похоже, вам предстоит бой."
 
 #: src-en/data/events.xml.append:1763
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_2\"]/choice/text"
-msgstr ""
+msgstr "Активировать собственные орудия."
 
 #: src-en/data/events.xml.append:1769
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_3\"]/text"
 msgstr ""
+"Вместо самих Ученых появляется небольшой дрон, который сразу же направляется "
+"к обломкам испытательного корабля.\n"
+"Корабль взрывается.\n"
+"Через несколько мгновений из-под обломков появляется дрон и доставляет вам "
+"модуль: похоже, он извлек из корабля суперщит.\n"
+"Вы получаете сообщение. \"Мы взяли на себя смелость заплатить вам суперщитом "
+"с испытательного корабля, мы также отправили в Федерацию чертежи этого "
+"корабля, который мы сделали для наемников, теперь он нам не нужен\"."
 
 #: src-en/data/events.xml.append:1782
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/text"
 msgstr ""
+"\"Вы ведь слышали о кристаллинах?\"\n"
+"\"Ну, так вот, мы работали над проектом по разработке особого вида "
+"кристаллической структуры, способной отражать лучи\".\n"
+"\"Мы продали формулу кристаллинам, но они вернулись к нам с проблемой: каким-"
+"то образом во время транспортировки группа повстанцев также смогла "
+"заполучить технологию, они стали проблемой для кристаллинов, и поэтому они "
+"наняли нас, чтобы мы разобрались с повстанцами\"."
 
 #: src-en/data/events.xml.append:1786
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/text"
@@ -2019,16 +2079,25 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:1788
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/event/text"
 msgstr ""
+"\"Мы обнаружили один из их аванпостов, но не знаем, где находится их главная "
+"база\".\n"
+"\"Слушайте внимательно, мы установили на месте происшествия кое-какое "
+"оборудование, поэтому вы должны быть готовы, когда прибудете на место\"."
 
 #: src-en/data/events.xml.append:1791
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Хорошо, мы готовы выслушать ваши инструкции."
 
 #: src-en/data/events.xml.append:1793
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Хорошо, когда вы прибудете туда, мы телепортируем вас на борт их корабля. "
+"Мы предоставим вам Медика, но вы должны сами подобрать остальную команду для "
+"высадки\".\n"
+"Как только вы окажетесь на борту, вам нужно будет убить команду, "
+"обслуживающую станцию, а затем вы сможете найти их главную базу, удачи\"."
 
 #: src-en/data/events.xml.append:1796
 msgid ""
@@ -2039,31 +2108,42 @@ msgstr "Продолжить..."
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Хорошо, сейчас мы загружаем информацию о местоположении аванпоста, не "
+"забудьте подготовить экипаж к абордажу\"."
 
 #: src-en/data/events.xml.append:1834
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_2\"]/text"
 msgstr ""
+"Вы прибываете на маяк, и корабль Ученых немедленно направляет вас к их "
+"аванпосту.\n"
+"\"Когда вы будете готовы, нажмите вон ту кнопку, и весь ваш экипаж "
+"переместится на аванпост\"."
 
 #: src-en/data/events.xml.append:1842
 msgid "data/events.xml.append$//eventButton[@name=\"UI_RAD_BOARD\"]/tooltip"
-msgstr ""
+msgstr "Взять аванпост на абордаж."
 
 #: src-en/data/events.xml.append:1843
 msgid ""
 "data/events.xml.append$//eventButton[@name=\"UI_RAD_BOARD\"]/inactiveTooltip"
-msgstr ""
+msgstr "Вы не можете взять аванпост на абордаж."
 
 #: src-en/data/events.xml.append:1852
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_3\"]/text"
-msgstr ""
+msgstr "Ваш экипаж переместился на борт аванпоста повстанцев."
 
 #: src-en/data/events.xml.append:1869
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_REBELOUT\"]/text"
 msgstr ""
+"Теперь, когда вы убили экипаж, вы можете загрузить информацию о главной базе "
+"и разобрать аванпост на лом."
 
 #: src-en/data/events.xml.append:1880
+#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_CRYSTALENEMY\"]/text"
 msgstr ""
+"Вы уничтожили корабль кристаллинов. Вы отправляете сообщение Ученым, сообщая "
+"им, что уничтожили корабль."
 
 #: src-en/data/events.xml.append:1883
 msgid ""
@@ -2071,8 +2151,11 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events.xml.append:1889
+#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_CRYSTALENEMY\"]/text"
 msgstr ""
+"Вы убили экипаж корабля кристаллинов. Вы отправляете сообщение Ученым, чтобы "
+"они узнали, что вы вернули корабль."
 
 #: src-en/data/events.xml.append:1892
 msgid ""
@@ -2080,8 +2163,14 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events.xml.append:1903
+#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_4\"]/text"
 msgstr ""
+"Вы прибыли на главную базу повстанцев-кристаллинов.\n"
+"    \n"
+"Вас сразу заметили, похоже, они подготовили крейсер для защиты базы и "
+"используют технологии, украденные у кристаллинов.\n"
+"Приготовьтесь к бою."
 
 #: src-en/data/events.xml.append:1909
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_4\"]/choice/text"
@@ -2090,10 +2179,23 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:1915
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_5\"]/text"
 msgstr ""
+"Похоже, во время вашего боя повстанцы успели всех эвакуировать.\n"
+"Прибывают Ученые.\n"
+"Вы рассказываете им, что произошло, и они начинают обстрел базы.\n"
+"\"Ну, может, мы и не взяли всех повстанцев, но мы уничтожили их базу, этого "
+"должно быть достаточно для кристаллинов\".\n"
+"\"Мы отправили чертежи корабля, с которым вы только что сражались, в "
+"Федерацию, а также восстановили некоторые технологии, мы передадим их вам в "
+"качестве оплаты\"."
 
 #: src-en/data/events.xml.append:1929
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_1\"]/text"
 msgstr ""
+"\"Ладно, это немного неловко, но мы потеряли станцию\".\n"
+"\"Как будто мы оставили станцию на одном маяке, а потом вернулись и она "
+"пропала\".\n"
+"\"В любом случае, нам нужно, чтобы вы выяснили, что произошло, мы не знаем "
+"как это могло произойти\"."
 
 #: src-en/data/events.xml.append:1933
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_1\"]/choice/text"
@@ -2102,6 +2204,8 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:1935
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_1\"]/choice/event/text"
 msgstr ""
+"\"Мы дадим вам координаты трекера на станции, посмотрим, сможете ли вы "
+"вернуть станцию, надеюсь, она просто ушла в дрейф или что-то в этом роде\"."
 
 #: src-en/data/events.xml.append:1937
 msgid ""
@@ -2111,11 +2215,13 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:1939
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_WARPED_1\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "\"Хорошо, сейчас мы загружаем информацию о местонахождении трекера\"."
 
 #: src-en/data/events.xml.append:1954
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_CRYSTALENEMY2\"]/text"
 msgstr ""
+"Вы уничтожили корабль кристаллинов, который оказался покрыт странными "
+"рунами, но вы не можете перевести эти символы."
 
 #: src-en/data/events.xml.append:1957
 msgid ""
@@ -2126,10 +2232,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events.xml.append$//event[@name=\"DESTROYED_RAD_CRYSTALENEMY2\"]/choice/event/text"
 msgstr ""
+"Вам удается собрать некоторые данные о корабле и с их помощью определить, "
+"откуда он прилетел, а вместе с ними вы находите странное орудие."
 
 #: src-en/data/events.xml.append:1967
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_CRYSTALENEMY2\"]/text"
 msgstr ""
+"Вы убили экипаж корабля кристаллинов, который, как оказалось, покрыт "
+"странными рунами, но вы не можете перевести эти символы."
 
 #: src-en/data/events.xml.append:1970
 msgid ""
@@ -2140,10 +2250,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_CRYSTALENEMY2\"]/choice/event/text"
 msgstr ""
+"Вам удается собрать некоторые данные о корабле и с их помощью определить, "
+"откуда он прилетел, а вместе с ними вы находите странное орудие."
 
 #: src-en/data/events.xml.append:1985
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_2\"]/text"
-msgstr ""
+msgstr "Вы прибываете к маяку, но ничего не видно."
 
 #: src-en/data/events.xml.append:1987
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_2\"]/choice[1]/text"
@@ -2156,6 +2268,17 @@ msgstr "Ничего не делать."
 #: src-en/data/events.xml.append:1993
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_2_2\"]/text"
 msgstr ""
+"Как раз в тот момент, когда вы собираетесь сдаться, на маяк прыгает "
+"странного вида корабль.\n"
+"Корабль немедленно активирует орудия.\n"
+"\n"
+"К счастью, один из членов вашего экипажа оказался достаточно "
+"сообразительным, чтобы зарядить орудия на всякий случай, и вы выпускаете "
+"залп, который пробивает щиты и попадает по корпусу.\n"
+"\n"
+"К сожалению, это не наносит кораблю особых повреждений, а вместо этого "
+"корабль, воспользовавшись вашим залпом, мгновенно заряжает одно из своих "
+"орудий и отвечает залпом, который, к счастью, промахивается."
 
 #: src-en/data/events.xml.append:2001
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_2_2\"]/choice/text"
@@ -2164,6 +2287,8 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:2014
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/text"
 msgstr ""
+"Вы прибываете на место и сразу же замечаете станцию: похоже, что "
+"уничтоженный вами корабль каким-то образом переместил станцию сюда."
 
 #: src-en/data/events.xml.append:2017
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/text"
@@ -2172,21 +2297,28 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:2019
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/event/text"
 msgstr ""
+"Вы поднимаетесь на борт станции и обнаруживаете, что она пуста.\n"
+"Вы обыскиваете корабль и обнаруживаете, что в нем нет ничего полезного, "
+"однако в одном из компьютеров вы находите координаты странного сектора, но "
+"они написаны какими-то странными символами, которые вы не можете "
+"расшифровать, вам понадобится какой-то переводчик, чтобы расшифровать их."
 
 #: src-en/data/events.xml.append:2022
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/event/choice[@req=\"UPG_AETHER_TRANSLATOR\"]/text"
-msgstr ""
+msgstr "(Рунический переводчик) Перевести координаты."
 
 #: src-en/data/events.xml.append:2024
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/event/choice[@req=\"UPG_AETHER_TRANSLATOR\"]/event/text"
 msgstr ""
+"Вам удается расшифровать координаты; похоже, вы сможете изменить маршрут к "
+"следующему выходному маяку."
 
 #: src-en/data/events.xml.append:2027
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/event/choice[@req=\"UPG_AETHER_TRANSLATOR\"]/event/choice/text"
-msgstr ""
+msgstr "Связаться с Учеными."
 
 #: src-en/data/events.xml.append:2033
 msgid ""
@@ -2196,22 +2328,33 @@ msgstr "Связаться с Учеными."
 #: src-en/data/events.xml.append:2035
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_4\"]/text"
 msgstr ""
+"Прибывают Ученые.\n"
+"\n"
+"\"Отличная работа, капитан, мы обязательно свяжемся с вами в будущем, если у "
+"нас будет для вас работа\"."
 
 #: src-en/data/events.xml.append:2048
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_1\"]/text"
 msgstr ""
+"\"У нас возникла проблема с грабежами наших транспортных кораблей, но, как "
+"ни странно, только тогда, когда они перевозят металлолом. Нам нужно, чтобы "
+"вы выяснили, кто нас грабит, и остановили их\"."
 
 #: src-en/data/events.xml.append:2050
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_1\"]/choice/text"
-msgstr ""
+msgstr "\"Все просто\"."
 
 #: src-en/data/events.xml.append:2052
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_1\"]/choice/event/text"
 msgstr ""
+"\"В любом случае, вот координаты одного из транспортных кораблей, который "
+"они ограбили, не стесняйтесь посмотреть и на наши коммерческие товары\"."
 
 #: src-en/data/events.xml.append:2065
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_SCRAP_LANIUS1\"]/text"
 msgstr ""
+"Вы очистили корабль от ланиусов и забираете лом себе, а затем ищете улики на "
+"корабле ланиусов..."
 
 #: src-en/data/events.xml.append:2068
 msgid ""
@@ -2222,18 +2365,26 @@ msgstr "Продолжить..."
 msgid ""
 "data/events.xml.append$//event[@name=\"DESTROYED_RAD_SCRAP_LANIUS1\"]/choice/event/text"
 msgstr ""
+"Вы не находите ничего особенного, но вам удается найти координаты другого "
+"маяка на борту, возможно, он приведет вас к центру преступной группировки."
 
 #: src-en/data/events.xml.append:2083
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_2\"]/text"
 msgstr ""
+"Вы прибыли к маяку, неподалеку находятся обломки одного из кораблей Ученых. "
+"Поблизости вы заметили небольшое, но странное судно ланиусов, но оно кажется "
+"заброшенным."
 
 #: src-en/data/events.xml.append:2085
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_2\"]/choice/text"
-msgstr ""
+msgstr "Провести расследование..."
 
 #: src-en/data/events.xml.append:2087
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_2\"]/choice/event/text"
 msgstr ""
+"Как раз в тот момент, когда вы начинаете приближаться к этим двум кораблям, "
+"обломки крейсера Ученых начинают движение, похоже, вы прервали ланиусов в "
+"самый разгар их пира."
 
 #: src-en/data/events.xml.append:2090
 msgid ""
@@ -2243,10 +2394,15 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:2103
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_SCRAP_LANIUS2\"]/text"
 msgstr ""
+"С огромным крейсером разобрались, остальные ланиусы разлетелись, похоже, вы "
+"выиграли, по крайней мере, на данный момент..."
 
 #: src-en/data/events.xml.append:2117
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_3\"]/text"
 msgstr ""
+"Прибыв к маяку, вы обнаруживаете огромную свалку. Вы замечаете несколько "
+"небольших кораблей ланиусов, которые снуют туда-сюда, перемещаясь между "
+"грудами металлолома."
 
 #: src-en/data/events.xml.append:2119
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_3\"]/choice/text"
@@ -2255,6 +2411,11 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:2121
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_3\"]/choice/event/text"
 msgstr ""
+"Мгновение спустя среди мусора появляется огромный корабль, похоже, именно он "
+"терроризирует местность.\n"
+"\n"
+"Корабль активирует оружия, похоже, им не нравятся незваные гости в их "
+"пространстве..."
 
 #: src-en/data/events.xml.append:2126
 msgid ""
@@ -2264,6 +2425,8 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:2135
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_1\"]/text"
 msgstr ""
+"\"В этот раз нам не нужно, чтобы вы кого-то выслеживали, на этот раз мы "
+"просим вас протестировать прототип орудия, а именно миномет\"."
 
 #: src-en/data/events.xml.append:2141
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_1\"]/choice/text"
@@ -2272,40 +2435,49 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:2145
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_1\"]/choice/event/text"
 msgstr ""
+"\"Все, что нам нужно от вас, - это 10 выстрелов из оружия, в идеале по живым "
+"мишеням. Мы свяжемся с вами, как только это будет сделано, удачи\"."
 
 #: src-en/data/events.xml.append:2152
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_2\"]/text"
-msgstr ""
+msgstr "Вы завершили тесты для Ученых, они сообщили место встречи."
 
 #: src-en/data/events.xml.append:2162
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_3\"]/text"
 msgstr ""
+"Как раз в этот момент вы получаете еще одну передачу от Ученых: похоже, их "
+"задержали на пути к месту встречи, и они загрузили новое место для встречи."
 
 #: src-en/data/events.xml.append:2176
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/text"
 msgstr ""
+"Как раз в тот момент, когда вы собираетесь уходить, к маяку прибывает "
+"пиратский корабль.\n"
+"\"Эй, откуда у вас эта пушка, мистер\"."
 
 #: src-en/data/events.xml.append:2179
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[1]/text"
-msgstr ""
+msgstr "Сказать им, что это конфиденциальная информация."
 
 #: src-en/data/events.xml.append:2181
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[1]/event/text"
 msgstr ""
+"\"Это орудие принадлежит боссу, так что лучше скажите мне, где вы его взяли, "
+"иначе у вас возникнут проблемы\"."
 
 #: src-en/data/events.xml.append:2183
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Объяснить, откуда у вас орудие."
 
 #: src-en/data/events.xml.append:2187
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Да пошли они."
 
 #: src-en/data/events.xml.append:2191
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4_HOSTILE\"]/text"
-msgstr ""
+msgstr "Вражеский корабль активирует свои орудия, похоже, вам предстоит бой."
 
 #: src-en/data/events.xml.append:2194
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4_HOSTILE\"]/choice/text"
@@ -2313,11 +2485,16 @@ msgstr "Продолжить..."
 
 #: src-en/data/events.xml.append:2202
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[2]/text"
-msgstr ""
+msgstr "Объяснить, что кое-какие Ученые поручили вам испытать орудие."
 
 #: src-en/data/events.xml.append:2204
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4_FRIENDLY\"]/text"
 msgstr ""
+"\"Мне это трудно в это поверить. Я думаю, что вы вор, учитывая, что мы "
+"наняли этих Ученых, чтобы они создали это орудие для нас самих\".\n"
+"        \n"
+"Пираты прерывают связь и активируют орудия. Будет неловко перед Учеными, "
+"если вы убьете их клиентов."
 
 #: src-en/data/events.xml.append:2209
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4_FRIENDLY\"]/choice/text"
@@ -2325,12 +2502,14 @@ msgstr "Продолжить..."
 
 #: src-en/data/events.xml.append:2215
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[3]/text"
-msgstr ""
+msgstr "Не обращать на них внимания и постараться уйти в прыжок."
 
 #: src-en/data/events.xml.append:2221
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_RIGGER_DESTROYED\"]/text"
 msgstr ""
+"Вы уничтожили пиратов и любую надежду на мир с их боссом, по крайней мере, "
+"вы получили с них добычу."
 
 #: src-en/data/events.xml.append:2224
 msgid ""
@@ -2341,6 +2520,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_RIGGER_DEADCREW\"]/text"
 msgstr ""
+"Вы уничтожили всех пиратов на их корабле, что позволило вам поживиться их "
+"припасами."
 
 #: src-en/data/events.xml.append:2233
 msgid ""
@@ -2349,11 +2530,13 @@ msgstr "Продолжить..."
 
 #: src-en/data/events.xml.append:2241
 msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_RIGGER_DEAD\"]/text"
-msgstr ""
+msgstr "Надеюсь, убийство этих парней не обернется для вас неприятностями..."
 
 #: src-en/data/events.xml.append:2255
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/text"
 msgstr ""
+"Прибыв на маяк, вы обнаруживаете, что корабль Ученых на этот раз "
+"действительно появился."
 
 #: src-en/data/events.xml.append:2257
 msgid ""
@@ -2366,6 +2549,9 @@ msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"\"Здравствуйте, Ренегат, к сожалению, мы не можем оставить вас в живых, это "
+"было бы не очень хорошо для бизнеса, если бы мы позволили вам убивать наших "
+"клиентов, приготовьтесь к смерти\"."
 
 #: src-en/data/events.xml.append:2263
 msgid ""
@@ -2384,6 +2570,12 @@ msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"\"Мы слышали о вашей стычке с пиратами, и мы рады, что вы не решили их "
+"убить, это привело бы нас к большим неприятностям\".\n"
+"        \n"
+"\"Мы еще не устаканили эту ситуацию, босс пиратов, с которыми вы "
+"столкнулись, уже на пути сюда, он говорит, что хочет поговорить, но это "
+"может означать что угодно\"."
 
 #: src-en/data/events.xml.append:2276
 msgid ""
@@ -2396,12 +2588,17 @@ msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"Мгновение спустя к маяку прибывает большой пиратский корабль, и он тут же "
+"активирует орудия.\n"
+"Ученые связываются с вами: \"Послушайте, если вы выиграете немного времени, "
+"мы сможем их уговорить, просто задержите их, пока мы будем вести переговоры\""
+"."
 
 #: src-en/data/events.xml.append:2283
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
 " and @lvl=\"0\"]/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Выиграйте время, чтобы Ученые смогли договориться с пиратами."
 
 #: src-en/data/events.xml.append:2288
 msgid ""
@@ -2413,6 +2610,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_MSHIP_DESTROYED\"]/text"
 msgstr ""
+"Уничтожив корабль, вы разбираете его обломки с целью найти что-нибудь ценное."
 
 #: src-en/data/events.xml.append:2301
 msgid ""
@@ -2422,6 +2620,8 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:2307
 msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_MSHIP_DEADCREW\"]/text"
 msgstr ""
+"Вы зачистили корабль от всех пиратов, что позволяет вам забрать все, что не "
+"закреплено."
 
 #: src-en/data/events.xml.append:2310
 msgid ""
@@ -2431,10 +2631,25 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:2318
 msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_MSHIP_DEAD\"]/text"
 msgstr ""
+"Надеюсь, убийство этих парней не обернется для вас неприятностями...\n"
+"    \n"
+"Похоже, пока вы сражались с пиратами, Ученые бросили попытки помочь и "
+"улетели.\n"
+"Однако перед уходом они сообщили, куда направляются, на случай, если вы "
+"выживете."
 
 #: src-en/data/events.xml.append:2327
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_SUCCEED\"]/text"
 msgstr ""
+"Внезапно пиратский корабль деактивирует орудия, и Ученые приказывают вам не "
+"стрелять - похоже, им удалось убедить пиратов остановиться.\n"
+"    \n"
+"\"Мы благодарны вам за то, что вы не убили наших людей раньше, но вы все "
+"равно нанесли серьезный ущерб нашим кораблям, и за это придется заплатить\"."
+"\n"
+"\"Ученые любезно вызвались помочь вам в решении одной нашей проблемы, в "
+"частности, нам нужно, чтобы вы разобрались с крейсером Федерации, который "
+"доставляет нам проблемы\"."
 
 #: src-en/data/events.xml.append:2332
 msgid ""
@@ -2445,10 +2660,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_SUCCEED\"]/choice/event/text"
 msgstr ""
+"Ученые связываются с вами перед тем, как вы улетите. \"Выполните это "
+"задание, и мы будем в расчете, мы даже увеличим награду, если вы выполните "
+"это задание\"."
 
 #: src-en/data/events.xml.append:2346
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_FAIL\"]/text"
 msgstr ""
+"Вы прибываете на маяк и сразу же замечаете, что ваши двигатели были "
+"дистанционно отключены.\n"
+"    \n"
+"\"Здравствуйте, Ренегат, к сожалению, мы не можем оставить вас в живых, это "
+"было бы не очень хорошо для бизнеса, если бы мы позволили вам убивать наших "
+"клиентов, приготовьтесь к смерти\"."
 
 #: src-en/data/events.xml.append:2352
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_FAIL\"]/choice/text"
@@ -2467,20 +2691,24 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:2383
 msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_SCIENCE_DEAD\"]/text"
 msgstr ""
+"Порывшись в обломках, вы находите чертеж продвинутого корабля, похоже, "
+"именно для его создания пираты наняли Ученых."
 
 #: src-en/data/events.xml.append:2396
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_QUEST\"]/text"
 msgstr ""
+"Вы прибываете к маяку и видите крейсер Федерации, ожидающий на небольшом "
+"аванпосте своей следующей миссии."
 
 #: src-en/data/events.xml.append:2399
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_QUEST\"]/choice[1]/text"
-msgstr ""
+msgstr "Вступить в бой с крейсером Федерации."
 
 #: src-en/data/events.xml.append:2401
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_QUEST\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Активировать свои орудия и атаковать."
 
 #: src-en/data/events.xml.append:2404
 msgid ""
@@ -2491,6 +2719,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_QUEST\"]/choice[2]/text"
 msgstr ""
+"Вы не собираетесь убивать офицеров Федерации по прихоти пирата и просто "
+"уходите."
 
 #: src-en/data/events.xml.append:2425
 msgid ""
@@ -2505,6 +2735,8 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:2440
 msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_FED_DEAD\"]/text"
 msgstr ""
+"Вы сообщаете о своем успехе Ученым, и они доставляют вам большое количество "
+"металлолома и чертежи нового корабля, который они разработали."
 
 #: src-en/data/events.xml.append:2459
 msgid ""
@@ -2519,10 +2751,15 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:2474
 msgid "data/events.xml.append$//event[@name=\"RAD_H_PIRATE_SCIENCE_DEAD\"]/text"
 msgstr ""
+"Разбирая обломки, вы обнаруживаете местонахождение пиратов, которые наняли "
+"Ученых..."
 
 #: src-en/data/events.xml.append:2484
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_HOSTILE_QUEST\"]/text"
 msgstr ""
+"Вы прибываете к маяку и сталкиваетесь лицом к лицу с большим пиратским "
+"кораблем. Похоже, это те самые пираты, которые наняли Ученых, и у них "
+"наверняка есть ценные вещи, но сначала вам придется их уничтожить."
 
 #: src-en/data/events.xml.append:2487
 msgid ""
@@ -2533,6 +2770,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_H_PIRATE_MSHIP_DESTROYED\"]/text"
 msgstr ""
+"Уничтожив корабль, вы разбираете его обломки с целью найти что-нибудь ценное."
 
 #: src-en/data/events.xml.append:2501
 msgid ""
@@ -2542,6 +2780,8 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:2507
 msgid "data/events.xml.append$//event[@name=\"RAD_H_PIRATE_MSHIP_DEADCREW\"]/text"
 msgstr ""
+"Вы зачистили корабль от всех пиратов, что позволяет вам забрать все, что не "
+"закреплено."
 
 #: src-en/data/events.xml.append:2510
 msgid ""

@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-04 13:50+0000\n"
+"PO-Revision-Date: 2024-11-05 15:46+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datatext_blueprintsxmlappend/ru/>\n"
@@ -43,7 +43,7 @@ msgstr "Восстановите совместный проект с энджи
 #, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_GHOST_unlock\"]"
-msgstr "Восстановите и примите сторону измученного фантома."
+msgstr "Найдите измученного фантома и встаньте на его сторону."
 
 #: src-en/data/text_blueprints.xml.append:8
 msgid ""

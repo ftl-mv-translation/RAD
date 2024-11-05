@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-03 13:28+0000\n"
+"PO-Revision-Date: 2024-11-05 15:46+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datatext_miscxmlappend/ru/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_lab\"]"
-msgstr "ЛАБОРАТОРИЯ НИОКР"
+msgstr "ЛАБОРАТОРИЯ R&D"
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_quest\"]"
@@ -51,7 +51,7 @@ msgstr "ПУЛЬСАР [!]"
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_link\"]"
-msgstr "СВЯЗЬ [КВЕСТ] [!]"
+msgstr "КАНАЛ СВЯЗИ [КВЕСТ] [!]"
 
 #: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_under\"]"
@@ -59,7 +59,7 @@ msgstr "УКРАДЕННЫЙ КОРАБЛЬ [!]"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mirror1\"]"
-msgstr "ФОРПОСТ [!]"
+msgstr "АВАНПОСТ [!]"
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mirror2\"]"
@@ -79,7 +79,7 @@ msgstr "ТРАНСПОРТ [!]"
 
 #: src-en/data/text_misc.xml.append:19
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_main_lab\"]"
-msgstr "ШТАБ-КВАРТИРА НИОКР"
+msgstr "ШТАБ-КВАРТИРА R&D"
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_main_quest\"]"
@@ -119,7 +119,7 @@ msgstr ""
 "+1 урон системам\n"
 "+1 пробитие щитов\n"
 "-2 энергии\n"
-"-10 секунд перезарядка"
+"-10 секунд перезарядки"
 
 #: src-en/data/text_misc.xml.append:40
 #, fuzzy

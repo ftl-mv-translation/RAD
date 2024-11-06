@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-06 15:18+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-11-07 15:29+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -17,7 +17,7 @@ msgstr ""
 msgid "data/events.xml.append$//event[@name=\"ADDON_RAD_INFO\"]/text"
 msgstr ""
 "R&D\n"
-"Разработано компанией: Арк\n"
+"Разработчик: Arc\n"
 "В настоящее время включен.\n"
 "\n"
 "Аддон, созданный на основе использования Lua для создания забавных и "
@@ -46,7 +46,7 @@ msgstr ""
 msgid "data/events.xml.append$//event[@name=\"ADDON_AEA_2\"]/text"
 msgstr ""
 "FTL: The Outer Expansion\n"
-"Разработано компанией: Арк\n"
+"Разработчик: Arc\n"
 "В настоящее время отключен.\n"
 "        \n"
 "Добавляет новые расы, сектора, корабли и оружие, в настоящее время "
@@ -59,7 +59,7 @@ msgstr ""
 msgid "data/events.xml.append$//event[@name=\"ADDON_FISH_2\"]/text"
 msgstr ""
 "FTL: FISHIER THAN LIGHT\n"
-"Разработано компанией: Арк\n"
+"Разработчик: Arc\n"
 "В настоящее время отключен.\n"
 "      \n"
 "FTL рыбалка, что еще нужно сказать. Более 60 рыб, каждая из которых имеет "
@@ -72,11 +72,11 @@ msgstr ""
 msgid "data/events.xml.append$//event[@name=\"ADDON_GOF_2\"]/text"
 msgstr ""
 "FTL: GALAXY ON FIRE\n"
-"Разработано компанией: Арк\n"
-"В настоящее время отключено.\n"
+"Разработчик: Arc\n"
+"В настоящее время отключен.\n"
 "        \n"
 "Добавляет 3 корабля, 40 новых видов оружия, 2 новых члена экипажа и 1 новое "
-"событие, основанное на франшизе \"Галактика в огне\". Все оружие работает "
+"событие, основанное на франшизе \"Galaxy on fire\". Все оружие работает "
 "совершенно новыми, невиданными ранее способами, используя совершенно новые "
 "функции Lua.\n"
 "        \n"
@@ -86,10 +86,10 @@ msgstr ""
 #: src-en/data/events.xml.append:58
 msgid "data/events.xml.append$//event[@name=\"NEMESIS_RAD\"]/text"
 msgstr ""
-"\"Я познакомился с крутыми Учеными, и они продали мне эти крутые лучи. Они "
+"\"Я познакомилась с крутыми Учеными, и они продали мне эти крутые лучи. Они "
 "должны телепортировать твой экипаж в эту крутую тюремную камеру, вот сюда, "
 "сцука!\"\n"
-"\tПохоже, Лиа заполучила несколько телепортационных фокусирующих лучей. "
+"\tПохоже, Лия заполучила несколько телепортационных фокусирующих лучей. "
 "Будьте осторожны!"
 
 #: src-en/data/events.xml.append:62
@@ -135,7 +135,7 @@ msgid ""
 msgstr ""
 "\"Превосходно. Нам нужна ваша помощь в решении одного вопроса, связанного с "
 "некой нелегальной технологией. Однако мы не можем сообщить вам подробности, "
-"если только вы не уверены, что поможете\".\n"
+"если вы не будете абсолютно уверены в том, что хотите помочь\".\n"
 "\t\t\t\t\t\"В любом случае, не стесняйтесь ознакомиться с нашими "
 "коммерческими технологиями, я уверен, что кто-то вроде вас найдет им "
 "применение\"."
@@ -143,77 +143,77 @@ msgstr ""
 #: src-en/data/events.xml.append:102
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr "Вы поможете. [Случайный квест]"
+msgstr "Мы поможем. [Случайный квест]"
 
 #: src-en/data/events.xml.append:110
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_total\"]/text"
-msgstr "Вы поможете. [??? Квест]"
+msgstr "Мы поможем. [??? Квест]"
 
 #: src-en/data/events.xml.append:114
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_13\"]/text"
-msgstr "Вы поможете. [Незавершенный квест 13]"
+msgstr "Мы поможем. [Незавершенный квест 13]"
 
 #: src-en/data/events.xml.append:118
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_12\"]/text"
-msgstr "Вы поможете. [Незавершенный квест 12]"
+msgstr "Мы поможем. [Незавершенный квест 12]"
 
 #: src-en/data/events.xml.append:122
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_11\"]/text"
-msgstr "Вы поможете. [Незавершенный квест 11]"
+msgstr "Мы поможем. [Незавершенный квест 11]"
 
 #: src-en/data/events.xml.append:126
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_9\"]/text"
-msgstr "Вы поможете. [Незавершенный квест 10]"
+msgstr "Мы поможем. [Незавершенный квест 10]"
 
 #: src-en/data/events.xml.append:130
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_8\"]/text"
-msgstr "Вы поможете. [Незавершенный квест 9]"
+msgstr "Мы поможем. [Незавершенный квест 9]"
 
 #: src-en/data/events.xml.append:134
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_7\"]/text"
-msgstr "Вы поможете. [Незавершенный квест 8]"
+msgstr "Мы поможем. [Незавершенный квест 8]"
 
 #: src-en/data/events.xml.append:138
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_6\"]/text"
-msgstr "Вы поможете. [Незавершенный квест 7]"
+msgstr "Мы поможем. [Незавершенный квест 7]"
 
 #: src-en/data/events.xml.append:142
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_5\"]/text"
-msgstr "Вы поможете. [Незавершенный квест 6]"
+msgstr "Мы поможем. [Незавершенный квест 6]"
 
 #: src-en/data/events.xml.append:146
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_4\"]/text"
-msgstr "Вы поможете. [Незавершенный квест 5]"
+msgstr "Мы поможем. [Незавершенный квест 5]"
 
 #: src-en/data/events.xml.append:150
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_23\"]/text"
-msgstr "Вы поможете. [Незавершенный квест 4]"
+msgstr "Мы поможем. [Незавершенный квест 4]"
 
 #: src-en/data/events.xml.append:154
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_3\"]/text"
-msgstr "Вы поможете. [Незавершенный квест 3]"
+msgstr "Мы поможем. [Незавершенный квест 3]"
 
 #: src-en/data/events.xml.append:158
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_2\"]/text"
-msgstr "Вы поможете. [Незавершенный квест 2]"
+msgstr "Мы поможем. [Незавершенный квест 2]"
 
 #: src-en/data/events.xml.append:162
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_q1\"]/text"
-msgstr "Вы поможете. [Незавершенный квест 1]"
+msgstr "Мы поможем. [Незавершенный квест 1]"
 
 #: src-en/data/events.xml.append:166
 msgid ""

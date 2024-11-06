@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-04 13:50+0000\n"
+"PO-Revision-Date: 2024-11-06 15:18+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataautoblueprintsxmlappend/ru/>\n"
@@ -53,10 +53,9 @@ msgid ""
 msgstr "Станция Министерства"
 
 #: src-en/data/autoBlueprints.xml.append:446
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"ENEMY_SHIP_RAD_FLESH\"]/class"
-msgstr "Крейсер Плоти"
+msgstr "Крейсер плоти"
 
 #: src-en/data/autoBlueprints.xml.append:480
 msgid ""

@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-05 15:46+0000\n"
+"PO-Revision-Date: 2024-11-06 15:18+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datatext_blueprintsxmlappend/ru/>\n"
@@ -26,7 +26,7 @@ msgstr "Выследите недобросовестного сотрудник
 #: src-en/data/text_blueprints.xml.append:4
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_STATION_3_unlock\"]"
-msgstr "Доберитесь до сектора 5 на этом на типе A или Б."
+msgstr "Достигните сектора 5 на этом корабле на типе A или Б."
 
 #: src-en/data/text_blueprints.xml.append:5
 msgid ""
@@ -104,8 +104,8 @@ msgstr "Выполните все квесты от лаборатории R&D."
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_2_unlock\"]"
 msgstr ""
-"Выполните все задания в лаборатории НИОКР и разблокируйте тип В для каждого "
-"из квестовых крейсеров."
+"Выполните все задания в лаборатории R&D и разблокируйте тип В для каждого из "
+"квестовых крейсеров."
 
 #: src-en/data/text_blueprints.xml.append:21
 msgid ""
@@ -131,7 +131,7 @@ msgstr "Победите, используя тип A обоих крейсер�
 #, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_unlock\"]"
-msgstr "Разблокирован в секторе ???"
+msgstr "Разблокируйте в секторе ???"
 
 #: src-en/data/text_blueprints.xml.append:27
 msgid ""

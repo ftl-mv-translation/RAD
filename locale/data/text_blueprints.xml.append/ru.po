@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-06 15:18+0000\n"
+"PO-Revision-Date: 2024-11-07 15:29+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datatext_blueprintsxmlappend/ru/>\n"
@@ -131,7 +131,7 @@ msgstr "Победите, используя тип A обоих крейсер�
 #, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_unlock\"]"
-msgstr "Разблокируйте в секторе ???"
+msgstr "Разблокируется в секторе ???"
 
 #: src-en/data/text_blueprints.xml.append:27
 msgid ""

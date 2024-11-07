@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-05 15:46+0000\n"
+"PO-Revision-Date: 2024-11-08 17:37+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datatext_miscxmlappend/ru/>\n"
@@ -27,7 +27,7 @@ msgstr "ПИРАТ [!]"
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pirate_d\"]"
-msgstr "ПОВРЕЖДЕННЫЙ ПИРАТЫ [!]"
+msgstr "ПОВРЕЖДЕННЫЙ ПИРАТ [!]"
 
 #: src-en/data/text_misc.xml.append:7
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pirate_e\"]"
@@ -125,8 +125,8 @@ msgstr ""
 #, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lightning\"]"
 msgstr ""
-"С помощью молниеносного оружия можно переместиться в соседний отсек и снова "
-"нанести тот же урон. После первого перехода оно повторяет это снова."
+"Совет: с помощью молниеносного оружия можно переместиться в соседний отсек и "
+"снова нанести тот же урон. После первого перехода оно повторяет это снова."
 
 #: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_combiner\"]"

@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-06 15:18+0000\n"
+"PO-Revision-Date: 2024-11-07 16:45+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataautoblueprintsxmlappend/ru/>\n"
@@ -105,37 +105,37 @@ msgstr "Крейсер кристаллинов"
 #: src-en/data/autoBlueprints.xml.append:756
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_GUARD\"]/class"
-msgstr "Сторожевой корабль Ученых"
+msgstr "Сторожевой корабль ученых"
 
 #: src-en/data/autoBlueprints.xml.append:791
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_TRANSPORT\"]/class"
-msgstr "Транспортный корабль Ученых"
+msgstr "Транспортный корабль ученых"
 
 #: src-en/data/autoBlueprints.xml.append:818
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_ASSUALT\"]/class"
-msgstr "Штурмовой крейсер Ученых"
+msgstr "Штурмовой крейсер ученых"
 
 #: src-en/data/autoBlueprints.xml.append:848
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_ASSUALT_ELITE\"]/class"
-msgstr "Элитный штурмовой крейсер Ученых"
+msgstr "Элитный штурмовой крейсер ученых"
 
 #: src-en/data/autoBlueprints.xml.append:879
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_SCOUT\"]/class"
-msgstr "Разведчик Ученых"
+msgstr "Разведчик ученых"
 
 #: src-en/data/autoBlueprints.xml.append:900
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_SCOUT_ELITE\"]/class"
-msgstr "Элитный разведчик Ученых"
+msgstr "Элитный разведчик ученых"
 
 #: src-en/data/autoBlueprints.xml.append:922
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_BOMBER\"]/class"
-msgstr "Бомбардировщик Ученых"
+msgstr "Бомбардировщик ученых"
 
 #: src-en/data/autoBlueprints.xml.append:951
 msgid ""
@@ -145,12 +145,12 @@ msgstr "Пиратский бомбардировщик"
 #: src-en/data/autoBlueprints.xml.append:984
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_BOMBER_ELITE\"]/class"
-msgstr "Элитный бомбардировщик Ученых"
+msgstr "Элитный бомбардировщик ученых"
 
 #: src-en/data/autoBlueprints.xml.append:1014
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_INTERCEPTOR\"]/class"
-msgstr "Перехватчик Ученых"
+msgstr "Перехватчик ученых"
 
 #: src-en/data/autoBlueprints.xml.append:1043
 msgid ""
@@ -160,22 +160,22 @@ msgstr "Пиратский перехватчик"
 #: src-en/data/autoBlueprints.xml.append:1076
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_INTERCEPTOR_ELITE\"]/class"
-msgstr "Элитный перехватчик Ученых"
+msgstr "Элитный перехватчик ученых"
 
 #: src-en/data/autoBlueprints.xml.append:1106
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_ENEMY_CORVETTE_1\"]/class"
-msgstr "Корвет Ученых"
+msgstr "Корвет ученых"
 
 #: src-en/data/autoBlueprints.xml.append:1132
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_ENEMY_CORVETTE_2\"]/class"
-msgstr "Корвет Ученых"
+msgstr "Корвет ученых"
 
 #: src-en/data/autoBlueprints.xml.append:1159
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_ENEMY_CORVETTE_3\"]/class"
-msgstr "Корвет Ученых"
+msgstr "Корвет ученых"
 
 #: src-en/data/autoBlueprints.xml.append:1209
 msgid ""
@@ -195,7 +195,7 @@ msgstr "Разбитый перехватчик"
 #: src-en/data/autoBlueprints.xml.append:1280
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_CUTTER_ENEMY\"]/class"
-msgstr "Автоматический корабль Ученых"
+msgstr "Автоматический корабль ученых"
 
 #: src-en/data/autoBlueprints.xml.append:1308
 msgid ""

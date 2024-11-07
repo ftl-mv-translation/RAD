@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-07 15:29+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-11-07 16:45+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datatext_blueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -78,7 +78,7 @@ msgstr "Узнайте, что случилось с пропавшей стан
 #: src-en/data/text_blueprints.xml.append:14
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MANTIS_unlock\"]"
-msgstr "Встаньте на сторону Ученых и проведите определенный эксперимент."
+msgstr "Встаньте на сторону ученых и проведите определенный эксперимент."
 
 #: src-en/data/text_blueprints.xml.append:15
 msgid ""
@@ -120,12 +120,12 @@ msgstr "СКОРО ПОЯВИТСЯ"
 #: src-en/data/text_blueprints.xml.append:23
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_ELITE_unlock\"]"
-msgstr "Разблокируйте все типы обоих крейсеров Ученых."
+msgstr "Разблокируйте все типы обоих крейсеров ученых."
 
 #: src-en/data/text_blueprints.xml.append:24
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_ELITE_2_unlock\"]"
-msgstr "Победите, используя тип A обоих крейсеров Ученых."
+msgstr "Победите, используя тип A обоих крейсеров ученых."
 
 #: src-en/data/text_blueprints.xml.append:26
 #, fuzzy

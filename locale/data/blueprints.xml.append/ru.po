@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-07 15:29+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-11-07 16:45+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1736,13 +1736,12 @@ msgstr ""
 "орудия у вас были до боя, те у вас и останутся."
 
 #: src-en/data/blueprints.xml.append:3805
-#, fuzzy
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/desc"
 msgstr ""
 "Научно подготовленный юнит, более эффективный против дронов.\n"
 "    \n"
-"Унаследованные характеристики людей: незначительное сопротивление удушью, "
-"быстрее осваивает навыки"
+"Наследует характеристики людей: незначительное сопротивление удушью, быстрее "
+"осваивает навыки"
 
 #: src-en/data/blueprints.xml.append:3810
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/title"
@@ -2715,7 +2714,7 @@ msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/des
 msgstr ""
 "Минометы быстро заряжаются и выпускают серию медленно движущихся снарядов, "
 "которые специально разработаны для установки самоходных мин, способных "
-"перемещаться по вражескому кораблю для его уничтожения. Также это "
-"эффективный способ расставить ловушки для флота.\n"
+"перемещаться по вражескому кораблю для его уничтожения. Также служат "
+"эффективным средством создания ловушек для флота.\n"
 "\t\n"
-"\tПозволяет задержать на 2 прыжка флот за 13 боеголовок на пустых маяках."
+"\tМожет задержать флот на 2 прыжка за 13 боеголовок на пустых маяках."

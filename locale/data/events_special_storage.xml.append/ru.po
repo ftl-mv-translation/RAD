@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-07 15:29+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-11-07 16:45+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -56,7 +56,7 @@ msgstr "Зажигательная бомба"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice/text"
-msgstr "Технологии Ученых."
+msgstr "Технологии ученых."
 
 #: src-en/data/events_special_storage.xml.append:131
 msgid ""

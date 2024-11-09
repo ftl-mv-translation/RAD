@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-08 17:37+0000\n"
+"PO-Revision-Date: 2024-11-10 18:37+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/ru/>\n"
@@ -1718,7 +1718,6 @@ msgid ""
 msgstr "Ящик Пандоры"
 
 #: src-en/data/blueprints.xml.append:3723
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/desc"
 msgstr ""

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-07 16:45+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-11-10 18:37+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -927,7 +927,6 @@ msgid ""
 msgstr "Вашего члена экипажа нельзя клонировать, так как он все еще жив."
 
 #: src-en/data/events.xml.append:798
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_GHOST_5\"]/choice/event/choice[1]/event/text"
 msgstr ""
@@ -2138,11 +2137,10 @@ msgstr ""
 "и разобрать аванпост на лом."
 
 #: src-en/data/events.xml.append:1880
-#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_CRYSTALENEMY\"]/text"
 msgstr ""
 "Вы уничтожили корабль кристаллинов. Вы отправляете сообщение ученым, сообщая "
-"им, что уничтожили корабль."
+"им, что вы уничтожили корабль."
 
 #: src-en/data/events.xml.append:1883
 msgid ""
@@ -2150,7 +2148,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events.xml.append:1889
-#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_CRYSTALENEMY\"]/text"
 msgstr ""
 "Вы убили экипаж корабля кристаллинов. Вы отправляете сообщение ученым, чтобы "
@@ -2162,10 +2159,9 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events.xml.append:1903
-#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_4\"]/text"
 msgstr ""
-"Вы прибыли на главную базу повстанцев-кристаллинов.\n"
+"Вы прибыли на главную базу повстанцев, где находится судно кристаллинов.\n"
 "    \n"
 "Вас сразу заметили, похоже, они подготовили крейсер для защиты базы и "
 "используют технологии, украденные у кристаллинов.\n"

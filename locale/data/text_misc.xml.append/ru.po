@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-08 17:37+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-11-10 18:37+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -125,8 +125,8 @@ msgstr ""
 #, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lightning\"]"
 msgstr ""
-"Совет: с помощью молниеносного оружия можно переместиться в соседний отсек и "
-"снова нанести тот же урон. После первого перехода оно повторяет это снова."
+"Совет: молниеносное оружие перескакивает в соседний отсек и снова наносит "
+"тот же урон. После перескакивания оно повторяет это снова."
 
 #: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_combiner\"]"

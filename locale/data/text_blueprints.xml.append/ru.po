@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-07 16:45+0000\n"
+"PO-Revision-Date: 2024-11-10 18:37+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datatext_blueprintsxmlappend/ru/>\n"
@@ -34,13 +34,11 @@ msgid ""
 msgstr "Восстановите прототип крейсера."
 
 #: src-en/data/text_blueprints.xml.append:6
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLESH_2_unlock\"]"
-msgstr "Восстановите совместный проект с энджи."
+msgstr "Верните совместный проект с энджи."
 
 #: src-en/data/text_blueprints.xml.append:7
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_GHOST_unlock\"]"
 msgstr "Найдите измученного фантома и встаньте на его сторону."
@@ -128,7 +126,6 @@ msgid ""
 msgstr "Победите, используя тип A обоих крейсеров ученых."
 
 #: src-en/data/text_blueprints.xml.append:26
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_unlock\"]"
 msgstr "Разблокируется в секторе ???"

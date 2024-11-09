@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-07 16:45+0000\n"
+"PO-Revision-Date: 2024-11-10 18:37+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -36,16 +36,14 @@ msgid ""
 msgstr "Бомба"
 
 #: src-en/data/events_special_storage.xml.append:95
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_1\"]/crewMember"
 msgstr "Универсальная бомба"
 
 #: src-en/data/events_special_storage.xml.append:98
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_2\"]/crewMember"
-msgstr "Управляющая бомба"
+msgstr "Управляемая бомба"
 
 #: src-en/data/events_special_storage.xml.append:101
 msgid ""
@@ -71,31 +69,28 @@ msgid ""
 msgstr "Какой дрон следует создать на фабрике."
 
 #: src-en/data/events_special_storage.xml.append:135
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[1]/text"
 msgstr ""
 "Создать универсальные дроны - 2 урона по корпусу, 2 по системам, 60 по "
-"членам экипажа, 100% шанс создать пробоину, без управление взрывами."
+"членам экипажа, 100% шанс создать пробоину, без управления взрывом."
 
 #: src-en/data/events_special_storage.xml.append:142
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[2]/text"
 msgstr ""
 "Создать управляющие дроны - 2 урона по корпусу, 1 по системам, 30 по членам "
-"экипажа, 50% шанс создать пробоину, полный контроль над взрывами."
+"экипажа, 50% шанс создать пробоину, полный контроль над взрывом."
 
 #: src-en/data/events_special_storage.xml.append:149
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[3]/text"
 msgstr ""
 "Создать зажигательные дроны - 0 урона по корпусу, 1 по системам, 15 по "
-"членам экипажа, 100% шанс устроить пожар, без управление взрывами."
+"членам экипажа, 100% шанс устроить пожар, без управления взрывом."
 
 #: src-en/data/events_special_storage.xml.append:156
 msgid ""
@@ -116,31 +111,28 @@ msgid ""
 msgstr "Какой дрон следует создать на фабрике."
 
 #: src-en/data/events_special_storage.xml.append:166
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[1]/text"
 msgstr ""
 "Создать универсальные дроны - 2 урона по корпусу, 2 по системам, 60 по "
-"членам экипажа, 100% шанс создать пробоину, без управление взрывами."
+"членам экипажа, 100% шанс создать пробоину, без управления взрывом."
 
 #: src-en/data/events_special_storage.xml.append:173
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[2]/text"
 msgstr ""
 "Создать управляющие дроны - 2 урона по корпусу, 1 по системам, 30 по членам "
-"экипажа, 50% шанс создать пробоину, полный контроль над взрывами."
+"экипажа, 50% шанс создать пробоину, полный контроль над взрывом."
 
 #: src-en/data/events_special_storage.xml.append:180
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[3]/text"
 msgstr ""
 "Создать зажигательные дроны - 0 урона по корпусу, 1 по системам, 15 по "
-"членам экипажа, 100% шанс устроить пожар, без управление взрывами."
+"членам экипажа, 100% шанс устроить пожар, без управления взрывом."
 
 #: src-en/data/events_special_storage.xml.append:187
 msgid ""
@@ -149,10 +141,9 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:195
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/text"
-msgstr "Выбрать модуль для внутреннего размещения."
+msgstr "Преобразовать модуль во внутреннюю версию."
 
 #: src-en/data/events_special_storage.xml.append:197
 msgid ""

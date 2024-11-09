@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-11-10 18:37+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -140,7 +140,7 @@ msgstr "Телепортационный фокусирующий луч \"По�
 
 #: src-en/data/blueprints.xml.append:217
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR\"]/short"
-msgstr "\"Похититель\""
+msgstr "Похититель"
 
 #: src-en/data/blueprints.xml.append:218
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR\"]/desc"
@@ -178,7 +178,7 @@ msgstr "Телепортационный фокусирующий луч \"По�
 #: src-en/data/blueprints.xml.append:265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR_ENEMY\"]/short"
-msgstr "\"Похититель\""
+msgstr "Похититель"
 
 #: src-en/data/blueprints.xml.append:266
 msgid ""
@@ -193,7 +193,7 @@ msgstr "Телепортационный фокусирующий луч \"По�
 #: src-en/data/blueprints.xml.append:296
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_JAILERBEAM\"]/short"
-msgstr "\"Похититель\""
+msgstr "Похититель"
 
 #: src-en/data/blueprints.xml.append:297
 msgid ""
@@ -768,7 +768,7 @@ msgstr "Исцеляет корабль"
 #: src-en/data/blueprints.xml.append:1374
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/class"
-msgstr "Экспериментал. крейсер призраков"
+msgstr "Эксперимент. крейсер призраков"
 
 #: src-en/data/blueprints.xml.append:1375
 msgid ""
@@ -1398,7 +1398,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2856
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_TIME_HULL\"]/title"
-msgstr "Искривленное обшивка кор."
+msgstr "Искривленная обшивка кор."
 
 #: src-en/data/blueprints.xml.append:2857
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_TIME_HULL\"]/desc"

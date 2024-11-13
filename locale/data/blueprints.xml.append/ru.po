@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-10 18:37+0000\n"
+"PO-Revision-Date: 2024-11-14 06:20+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/ru/>\n"
@@ -150,6 +150,8 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR\"]/descriptionOverride"
 msgstr ""
+"(Примечание от переводчиков: На данный момент пушка сломана, и не выполняет "
+"функцию телепортации)\n"
 "Кому-то пришла в голову блестящая идея взять технологию телепортации и "
 "установить ее внутри кучи линз и научных приборов, чтобы она могла быть "
 "направлена на конкретного индивида на другом корабле. В космосе это мало чем "
@@ -208,7 +210,7 @@ msgstr "Телепортационный фокусирующий луч \"Тю�
 #: src-en/data/blueprints.xml.append:326
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_JAILERBEAM_PLAYER\"]/short"
-msgstr "\"Тюремщик\""
+msgstr "Тюремщик"
 
 #: src-en/data/blueprints.xml.append:327
 msgid ""
@@ -1289,7 +1291,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2772
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/title"
-msgstr "Высокоэнергетическое оружие"
+msgstr "Высокоэнергетич. оружие"
 
 #: src-en/data/blueprints.xml.append:2773
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/desc"
@@ -1344,7 +1346,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2812
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_BIGSHOT\"]/title"
-msgstr "Высокоэнергетическое оружие"
+msgstr "Высокоэнергетич. оружие"
 
 #: src-en/data/blueprints.xml.append:2813
 msgid ""
@@ -1726,7 +1728,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3797
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SHIELD\"]/title"
-msgstr "Оружейный скремблер"
+msgstr "Оружейный генер. помех"
 
 #: src-en/data/blueprints.xml.append:3798
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SHIELD\"]/desc"
@@ -2337,7 +2339,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5015
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_RANDOM\"]/title"
-msgstr "Суперскремблер"
+msgstr "Супер генератор помех"
 
 #: src-en/data/blueprints.xml.append:5016
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_RANDOM\"]/desc"

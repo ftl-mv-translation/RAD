@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-01-30 23:22+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/rad/"
+"datablueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
@@ -327,7 +334,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:879
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RADLAB_1\"]/class"
-msgstr ""
+msgstr "Laboratoire R&D"
 
 #: src-en/data/blueprints.xml.append:880
 msgid ""
@@ -493,9 +500,10 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:1212
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH\"]/class"
-msgstr ""
+msgstr "Croiseur de chair"
 
 #: src-en/data/blueprints.xml.append:1213
 msgid ""
@@ -699,7 +707,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1639
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH\"]/class"
-msgstr ""
+msgstr "Croiseur de classe Yacht"
 
 #: src-en/data/blueprints.xml.append:1640
 msgid ""
@@ -729,7 +737,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1790
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_2\"]/class"
-msgstr ""
+msgstr "Croiseur de classe Yacht"
 
 #: src-en/data/blueprints.xml.append:1791
 msgid ""
@@ -744,7 +752,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1863
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_3\"]/class"
-msgstr ""
+msgstr "Croiseur de classe Yacht"
 
 #: src-en/data/blueprints.xml.append:1864
 msgid ""

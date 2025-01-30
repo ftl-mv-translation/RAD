@@ -1,13 +1,20 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-01-30 23:22+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/rad/"
+"datatext_miscxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_lab\"]"
-msgstr ""
+msgstr "LAB R&D"
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_quest\"]"
@@ -19,47 +26,48 @@ msgstr "PIRATE [!]"
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pirate_d\"]"
-msgstr ""
+msgstr "PIRATE ENDOMMAGÉ [!]"
 
 #: src-en/data/text_misc.xml.append:7
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pirate_e\"]"
-msgstr ""
+msgstr "EXECUTEUR PIRATE [!]"
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_dynasty_out\"]"
-msgstr ""
+msgstr "AVANT POSTE DE LA DYNASTIE [!]"
 
 #: src-en/data/text_misc.xml.append:9
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_dynasty_sta\"]"
-msgstr ""
+msgstr "STATION DE LA DYNASTIE [!]"
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_science_meet\"]"
-msgstr ""
+msgstr "RENDEZVOUS [!]"
 
 #: src-en/data/text_misc.xml.append:11
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pulsar\"]"
-msgstr ""
+msgstr "PULSAR [!]"
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_link\"]"
-msgstr ""
+msgstr "LIEN [QUÊTE] [!]"
 
 #: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_under\"]"
-msgstr ""
+msgstr "VAISSEAU VOLÉ [!]"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mirror1\"]"
-msgstr ""
+msgstr "AVANT POSTE [!]"
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mirror2\"]"
-msgstr ""
+msgstr "BASE PRINCIPALE [!]"
 
 #: src-en/data/text_misc.xml.append:16
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_warped1\"]"
-msgstr ""
+msgstr "TRACKER [!]"
 
 #: src-en/data/text_misc.xml.append:17
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_warped2\"]"
@@ -67,52 +75,77 @@ msgstr "QUÊTE [!]"
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_scrap1\"]"
-msgstr ""
+msgstr "TRANSPORTEUR [!]"
 
 #: src-en/data/text_misc.xml.append:19
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_main_lab\"]"
-msgstr ""
+msgstr "SIÈGE DE LA R&D"
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_main_quest\"]"
-msgstr ""
+msgstr "CENTRE D'ESSAIS"
 
 #: src-en/data/text_misc.xml.append:21
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_corvette\"]"
-msgstr ""
+msgstr "CORVETTE [!]"
 
 #: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mines_h\"]"
-msgstr ""
+msgstr "PIRATES [!]"
 
 #: src-en/data/text_misc.xml.append:23
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mines_p\"]"
-msgstr ""
+msgstr "FEDERATION [!]"
 
 #: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_rad2\"]"
 msgstr ""
+"R&D\n"
+"Actuellement activé.\n"
+"Cliquez pour plus d'informations."
 
 #: src-en/data/text_misc.xml.append:30
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_rad\"]"
 msgstr ""
+"R&D\n"
+"Actuellement activé.\n"
+"Cliquez pour plus d'informations."
 
 #: src-en/data/text_misc.xml.append:33
 msgid "data/text_misc.xml.append$//text[@name=\"tip_rad_loot\"]"
 msgstr ""
+"BUTTIN DE LA SCIENCE\n"
+"-1 dommage\n"
+"+1 dommage au système\n"
+"+1 percée du bouclier\n"
+"-2 puissance\n"
+"-10 secondes de recharge"
 
 #: src-en/data/text_misc.xml.append:40
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lightning\"]"
 msgstr ""
+"Les armes électriques sautent dans une pièce adjacente et infligent à "
+"nouveau les mêmes dégâts. Elles répètent cette action une fois de plus après "
+"le premier saut."
 
 #: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_combiner\"]"
 msgstr ""
+"Tire plusieurs projectiles à la fois avec un faible rayon, comme une arme de "
+"DCA."
 
 #: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_laser_smart\"]"
 msgstr ""
+"Les armes intelligentes remplacent votre ciblage manuel sur la base d'une "
+"liste de priorités."
 
 #: src-en/data/text_misc.xml.append:44
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_focus_burst\"]"
 msgstr ""
+"Conseil : les rayons de pointe en rafale échangent les dégâts élevés de la "
+"plupart des pointes contre une rafale de plusieurs rayons consécutifs de "
+"faible puissance, ce qui permet un temps de charge plus court par rapport "
+"aux rayons de pointe normaux."

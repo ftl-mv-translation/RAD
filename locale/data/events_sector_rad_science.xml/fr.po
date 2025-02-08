@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-09 14:22+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/rad/"
+"dataevents_sector_rad_sciencexml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_sector_rad_science.xml:28
 msgid ""
@@ -24,6 +31,11 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"START_RAD_SCIENCE\"]/text"
 msgstr ""
+"Vous êtes arrivé dans le secteur des scientifiques. Les scientifiques sont "
+"discrets, mais une grande partie de la population civile se sent en sécurité "
+"dans leur secteur. Les scientifiques, quant à eux, ont commencé à protéger "
+"leurs balises contre tous ceux qui tentent de semer le trouble. Nous nous en "
+"sortirons bien si nous restons à l'écart."
 
 #: src-en/data/events_sector_rad_science.xml:51
 msgid ""
@@ -34,6 +46,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/text"
 msgstr ""
+"Le garde vous contacte : \"Renégat, nous comprenons votre cause, mais nous "
+"ne pouvons pas risquer de perturber la recherche ou la vie des gens en vous "
+"laissant attirer la rébellion jusqu'ici, nous ne voulons pas y participer !\""
 
 #: src-en/data/events_sector_rad_science.xml:60
 msgid ""
@@ -84,6 +99,8 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[@req=\"rad_scientist\"]/text"
 msgstr ""
+"(Scientifique humain) Demander au scientifique de les convaincre de vous "
+"laisser passer."
 
 #: src-en/data/events_sector_rad_science.xml:94
 msgid ""
@@ -109,6 +126,8 @@ msgstr "(Pilotage de pointe) Activer l'auto-pilote et essayer de s'enfuir."
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[1]/text"
 msgstr ""
+"\"Je comprends votre cause, mais si vous ne partez pas, je serai obligé de "
+"vous faire partir !\""
 
 #: src-en/data/events_sector_rad_science.xml:116
 msgid ""
@@ -119,6 +138,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[2]/text"
 msgstr ""
+"\"Je comprends votre cause, mais si vous ne partez pas, je serai obligé de "
+"vous faire partir !\""
 
 #: src-en/data/events_sector_rad_science.xml:124
 msgid ""
@@ -129,11 +150,15 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[3]/text"
 msgstr ""
+"\"Peut-être que votre cause vaut la peine d'être défendue. Très bien, vous "
+"pouvez passer, nous ferons de notre mieux pour retenir les rebelles.\""
 
 #: src-en/data/events_sector_rad_science.xml:135
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[1]/text"
 msgstr ""
+"\"Ah, un collègue scientifique, vous pouvez passer si vous le souhaitez, "
+"mais pas le reste de votre équipage.\""
 
 #: src-en/data/events_sector_rad_science.xml:138
 msgid ""
@@ -144,11 +169,15 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[2]/text"
 msgstr ""
+"\"Oh, pardonné-moi, je n'avais pas réalisé qu'il y avait un collègue "
+"scientifique sur votre vaisseau, vous pouvez passer.\""
 
 #: src-en/data/events_sector_rad_science.xml:147
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[3]/text"
 msgstr ""
+"\"Oh, pardonné-moi, je n'avais pas réalisé qu'il y avait un collègue "
+"scientifique sur votre vaisseau, vous pouvez passer.\""
 
 #: src-en/data/events_sector_rad_science.xml:168
 msgid ""
@@ -164,6 +193,8 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"RAD_SCIENCE_FREE_DRONES\"]/text[1]"
 msgstr ""
+"A proximité se trouvent plusieurs drones hors d'usage, ils ne sont peut-être "
+"pas fonctionnels mais vous pouvez en récupérer quelques pièces."
 
 #: src-en/data/events_sector_rad_science.xml:178
 msgid ""
@@ -177,11 +208,17 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"RAD_SCIENCE_FREE_DRONES\"]/text[3]"
 msgstr ""
+"Un petit vaisseau apparaît sur vos scanners, il semble venir droit sur vous. "
+"Votre équipage réagit rapidement et le réduit en pièces. Vous tentez de le "
+"récupérer, mais la seule chose qui a survécu est une boîte de pièces de "
+"drones."
 
 #: src-en/data/events_sector_rad_science.xml:183
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/text"
 msgstr ""
+"Vous recevez un appel d'un petit vaisseau flottant à proximité, qui semble "
+"être l'un des scientifiques."
 
 #: src-en/data/events_sector_rad_science.xml:185
 msgid ""
@@ -192,16 +229,21 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/text"
 msgstr ""
+"\"Ahh, c'est un beau vaisseau que vous avez là, Capitaine, pourriez-vous "
+"m'emmener à bord ?\""
 
 #: src-en/data/events_sector_rad_science.xml:189
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Bienvenue à bord."
 
 #: src-en/data/events_sector_rad_science.xml:193
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"\"J'aurais probablement dû le mentionner, mais certains pirates veulent me "
+"tuer. Je suis sûr qu'un capitaine fort et compétent comme vous peut "
+"s'occuper d'eux.\""
 
 #: src-en/data/events_sector_rad_science.xml:195
 msgid ""
@@ -217,6 +259,8 @@ msgstr "Refuser."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"Le petit vaisseau du scientifique s'envole, et au moment où vous pensez que "
+"c'est fini, vous voyez un vaisseau pirate qui vous poursuit."
 
 #: src-en/data/events_sector_rad_science.xml:205
 msgid ""
@@ -232,6 +276,9 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_DESTROY\"]/text"
 msgstr ""
+"Vous avez vaincu le garde scientifique. Ce qu'il y avait dans leur cargaison "
+"a certainement été détruit, mais vous pouvez au moins récupérer quelques "
+"fournitures du vaisseau."
 
 #: src-en/data/events_sector_rad_science.xml:236
 msgid ""
@@ -242,6 +289,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_DEADCREW\"]/text"
 msgstr ""
+"Vous avez vaincu le garde scientifique. Sans équipage à bord pour vous "
+"arrêter, vous pouvez enquêter sur leur cargaison. Vous trouvez une arme à "
+"rapporter au vaisseau, et vous vous attaquez au démantèlement de la coque."
 
 #: src-en/data/events_sector_rad_science.xml:245
 msgid ""
@@ -252,6 +302,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_FOLLOWUP\"]/text"
 msgstr ""
+"En tuant le garde scientifique, vous avez certainement énervé quelqu'un ; "
+"espérons seulement que la nouvelle ne se répandra pas rapidement."
 
 #: src-en/data/events_sector_rad_science.xml:255
 msgid ""
@@ -277,7 +329,7 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_rad_science.xml:306
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_CIVILIAN_TRANSFORM\"]/text"
-msgstr ""
+msgstr "Un civil à bord de votre vaisseau propose de rejoindre votre équipage."
 
 #: src-en/data/events_sector_rad_science.xml:308
 msgid ""
@@ -301,26 +353,38 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[1]"
 msgstr ""
+"Alors que vous récoltez les restes du vaisseau des scientifiques, il est "
+"clair que leur technologie avancée n'est pas suffisante pour les sauver de "
+"vous."
 
 #: src-en/data/events_sector_rad_science.xml:326
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[2]"
 msgstr ""
+"Le capitaine scientifique laisse échapper un dernier juron alors que le "
+"vaisseau est anéanti."
 
 #: src-en/data/events_sector_rad_science.xml:327
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[3]"
 msgstr ""
+"La coque étincelante du vaisseau scientifique se fragmente dans l'espace. "
+"Vous arrivez en trombe pour récupérer les restes."
 
 #: src-en/data/events_sector_rad_science.xml:328
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[4]"
 msgstr ""
+"Le vaisseau explose, anéantissant toutes les vies à bord. Votre équipage "
+"évite les restes tandis qu'il récupère les débris du vaisseau."
 
 #: src-en/data/events_sector_rad_science.xml:329
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[5]"
 msgstr ""
+"Dans un déchaînement d’étincelles et d’explosions, la coque du vaisseau s’"
+"effondre. Vous récupérez rapidement les débris, qui semblent encore de bonne "
+"qualité."
 
 #: src-en/data/events_sector_rad_science.xml:336
 msgid ""
@@ -352,16 +416,23 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[3]"
 msgstr ""
+"Vous avez massacré l'ensemble de l'équipage. Il ne reste plus qu'à "
+"démanteler leur vaisseau."
 
 #: src-en/data/events_sector_rad_science.xml:348
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[4]"
 msgstr ""
+"\"Pour être honnête... c’était bien au-dessus de mon... niveau de salaire..."
+"\" Le capitaine ennemi porte une main à son cœur avant de s’effondrer."
 
 #: src-en/data/events_sector_rad_science.xml:349
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[5]"
 msgstr ""
+"\"Vous le regretterez ! Le karma revient toujours vers les gens comme vous. "
+"Soyez maudits... Nous, les scientifiques, aurions été mieux lotis sans ces "
+"renégats...\""
 
 #: src-en/data/events_sector_rad_science.xml:355
 msgid ""
@@ -372,6 +443,8 @@ msgstr "Accepter leur reddition."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"SURRENDER_ACCEPT\"]/text"
 msgstr ""
+"Les scientifiques sont suffisamment intelligents pour savoir qu'ils sont "
+"mieux en vie, même s'ils sont un peu plus pauvres"
 
 #: src-en/data/events_sector_rad_science.xml:361
 msgid ""
@@ -389,26 +462,41 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[1]"
 msgstr ""
+"\"S'il vous plaît ! Nous, les scientifiques, sommes la seule raison pour "
+"laquelle la moitié de la technologie du multivers existe, nous avons inventé "
+"le gaufrier spatial ! Vous ne pouvez pas nous tuer !\""
 
 #: src-en/data/events_sector_rad_science.xml:378
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[2]"
 msgstr ""
+"\"Ecoutez, laissez-nous vivre et nous vous donnerons nos affaires, c'est ce "
+"que vous voulez, vous les renégats, n'est-ce pas ?\""
 
 #: src-en/data/events_sector_rad_science.xml:379
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[3]"
 msgstr ""
+"Le capitaine scientiste vous supplie de les laisser en vie : \"S'il vous "
+"plaît, ma famille ! Ils ont besoin de moi, je suis leur seule source de "
+"revenus ! Je vous donnerai tout ce que je peux si vous me laissez vivre !\""
 
 #: src-en/data/events_sector_rad_science.xml:380
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[4]"
 msgstr ""
+"Vous recevez un appel d'une autre partie du vaisseau, où un autre membre de "
+"l'équipage que le capitaine parle doucement. \"S'il vous plaît, si vous "
+"arrêtez de tirer, je vous donnerai tout ce qu'il reste dans la cargaison. "
+"Notre capitaine est inflexible, mais le reste de l'équipage ne veut pas "
+"mourir !\""
 
 #: src-en/data/events_sector_rad_science.xml:381
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[5]"
 msgstr ""
+"Le vaisseau des scientifiques est en lambeaux. Vous pourriez probablement "
+"négocier leur reddition à ce stade."
 
 #: src-en/data/events_sector_rad_science.xml:385
 msgid ""
@@ -422,6 +510,12 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/text"
 msgstr ""
+"Vous nettoyez le croiseur de défense et le remorquez jusqu'à la station. "
+"Vous êtes remercié et recevez une grande quantité de ferraille en guise de "
+"récompense.\n"
+"\n"
+"L'un des membres de l'équipage de la station propose de rejoindre votre "
+"équipe."
 
 #: src-en/data/events_sector_rad_science.xml:402
 msgid ""
@@ -432,6 +526,8 @@ msgstr "L'accepter dans votre vaisseau."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/choice[1]/event/text"
 msgstr ""
+"Il s'avère qu'il s'agit de l'un des soldats qui étaient auparavant "
+"stationnés à bord du croiseur de défense."
 
 #: src-en/data/events_sector_rad_science.xml:410
 msgid ""
@@ -442,6 +538,8 @@ msgstr "Refuser leur offre."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/choice[2]/event/text"
 msgstr ""
+"Vous refusez l'offre, vous n'avez pas besoin d'un nouvel équipier pour le "
+"moment."
 
 #: src-en/data/events_sector_rad_science.xml:429
 msgid ""
@@ -462,6 +560,9 @@ msgstr "Endroit non exploré."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/text"
 msgstr ""
+"Cette balise héberge un transport de scientifiques. Il y a fort à parier que "
+"le vaisseau transporte des technologies spéciales. Si vous parvenez à tuer "
+"son équipage, leur cargaison sera la vôtre."
 
 #: src-en/data/events_sector_rad_science.xml:436
 msgid ""
@@ -506,7 +607,7 @@ msgstr "Les combattre !"
 #: src-en/data/events_sector_rad_science.xml:475
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Vous chargez  vos armes et attaquez les scientifiques."
 
 #: src-en/data/events_sector_rad_science.xml:478
 msgid ""
@@ -516,12 +617,12 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_rad_science.xml:484
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[2]/text"
-msgstr ""
+msgstr "Ignorer le vaisseau des scientifiques."
 
 #: src-en/data/events_sector_rad_science.xml:486
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Vous passez devant le vaisseau des scientifiques."
 
 #: src-en/data/events_sector_rad_science.xml:488
 msgid ""
@@ -537,21 +638,30 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[1]"
 msgstr ""
+"Un vaisseau scientifique est en train d'étudier une planète dans le secteur. "
+"Aucun autre vaisseau ne se trouve à proximité."
 
 #: src-en/data/events_sector_rad_science.xml:500
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[2]"
 msgstr ""
+"Vous remarquez qu'un autre vaisseau, appartenant aux Scientifiques, dérive à "
+"une certaine distance. Le vaisseau est entièrement fonctionnel mais refuse "
+"poliment tout appel."
 
 #: src-en/data/events_sector_rad_science.xml:501
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[3]"
 msgstr ""
+"Un vaisseau scientifique bien armé patrouille à la balise. Si vous ne causez "
+"pas d'ennuis, il est peu probable qu'ils s'intéressent à vous."
 
 #: src-en/data/events_sector_rad_science.xml:505
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/text"
 msgstr ""
+"Un vaisseau scientifique proche fait office de dépôt de ravitaillement, il "
+"vous offre un réapprovisionnement."
 
 #: src-en/data/events_sector_rad_science.xml:508
 msgid ""
@@ -561,7 +671,7 @@ msgstr "Vous identifier et récupérer des ressources."
 #: src-en/data/events_sector_rad_science.xml:514
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[@req=\"rad_scientist\"]/text"
-msgstr ""
+msgstr "(Scientifique humain) Demander des fournitures supplémentaires."
 
 #: src-en/data/events_sector_rad_science.xml:520
 msgid ""
@@ -576,7 +686,7 @@ msgstr "Attaquer, on peut sûrement recevoir plus de leur part !"
 #: src-en/data/events_sector_rad_science.xml:529
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[4]/event/text"
-msgstr ""
+msgstr "Vous chargez vos armes et attaquez les scientifiques."
 
 #: src-en/data/events_sector_rad_science.xml:532
 msgid ""
@@ -586,12 +696,12 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_rad_science.xml:538
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[5]/text"
-msgstr ""
+msgstr "Ignorer le dépôt."
 
 #: src-en/data/events_sector_rad_science.xml:540
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[5]/event/text"
-msgstr ""
+msgstr "Vous ignorez les scientifiques."
 
 #: src-en/data/events_sector_rad_science.xml:542
 msgid ""
@@ -607,16 +717,18 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/text"
 msgstr ""
+"Une station voisine émet un signal de détresse, il semble que leur croiseur "
+"de défense ait été volé par des pirates."
 
 #: src-en/data/events_sector_rad_science.xml:557
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[1]/text"
-msgstr ""
+msgstr "Détruire ou recapturer le croiseur de défense."
 
 #: src-en/data/events_sector_rad_science.xml:559
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Vous chargez vos armes et attaquez les pirates."
 
 #: src-en/data/events_sector_rad_science.xml:562
 msgid ""
@@ -627,11 +739,16 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[@req=\"cloaking\"]/text"
 msgstr ""
+"(Camouflage amélioré) Occulter et démanteler une partie de la station "
+"pendant qu'elle est sans défense."
 
 #: src-en/data/events_sector_rad_science.xml:570
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[@req=\"cloaking\"]/event/text"
 msgstr ""
+"Le croiseur de défense ayant été volé, il n'y a plus personne pour garder la "
+"station. Sous couvert de votre camouflage, vous arrachez une partie du "
+"blindage et partez rapidement."
 
 #: src-en/data/events_sector_rad_science.xml:575
 msgid ""
@@ -642,6 +759,8 @@ msgstr "rester à distance de cette affaire."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[3]/event/text"
 msgstr ""
+"Vous passez devant la station. Avec un peu de chance, la situation sera "
+"résolue... mais ce ne sera pas grâce à vous."
 
 #: src-en/data/events_sector_rad_science.xml:579
 msgid ""
@@ -657,26 +776,28 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/text"
 msgstr ""
+"Vous arrivez à la balise et trouvez un vendeur itinérant, et mieux encore, "
+"c'est un scientifique."
 
 #: src-en/data/events_sector_rad_science.xml:594
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/text"
-msgstr ""
+msgstr "Acheter une arme mystérieuse."
 
 #: src-en/data/events_sector_rad_science.xml:596
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Le vendeur vous remet une grande boîte avant de s'éloigner."
 
 #: src-en/data/events_sector_rad_science.xml:601
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Ouvrir la boîte"
 
 #: src-en/data/events_sector_rad_science.xml:603
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "Il semble qu'il ne mentait pas."
 
 #: src-en/data/events_sector_rad_science.xml:606
 msgid ""
@@ -691,12 +812,12 @@ msgstr "Ne rien faire."
 #: src-en/data/events_sector_rad_science.xml:618
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[2]/text"
-msgstr ""
+msgstr "Voir ses produits."
 
 #: src-en/data/events_sector_rad_science.xml:620
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Il vous accueille dans sa petite boutique."
 
 #: src-en/data/events_sector_rad_science.xml:623
 msgid ""
@@ -711,12 +832,12 @@ msgstr "Ne rien faire."
 #: src-en/data/events_sector_rad_science.xml:633
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[3]/text"
-msgstr ""
+msgstr "L'attaquer !"
 
 #: src-en/data/events_sector_rad_science.xml:635
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Vous chargez vos armes et attaquez le vendeur."
 
 #: src-en/data/events_sector_rad_science.xml:638
 msgid ""
@@ -727,16 +848,21 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/text"
 msgstr ""
+"La source du signal de détresse semble être un vaisseau civil attaqué par un "
+"vaisseau d'abordage rebelle ! Devons-nous apporter notre aide ?"
 
 #: src-en/data/events_sector_rad_science.xml:667
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[1]/text"
-msgstr ""
+msgstr "Sauver les civils."
 
 #: src-en/data/events_sector_rad_science.xml:669
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[1]/event/text"
 msgstr ""
+"Vous chargez les armes et engagez le combat avec le vaisseau pirate, il "
+"semble qu'il y ait encore 2 civils en vie sur le vaisseau, vous pourrez peut-"
+"être les sauver si vous éliminez les rebelles."
 
 #: src-en/data/events_sector_rad_science.xml:673
 msgid ""
@@ -751,7 +877,7 @@ msgstr "Ignorer le vaisseau."
 #: src-en/data/events_sector_rad_science.xml:681
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Vous espérez qu'ils pourront se sauver."
 
 #: src-en/data/events_sector_rad_science.xml:683
 msgid ""
@@ -767,6 +893,8 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/text"
 msgstr ""
+"La source du signal de détresse est une petite navette civile, elle est en "
+"train d'être récupérée par un vaisseau scientifique."
 
 #: src-en/data/events_sector_rad_science.xml:698
 msgid ""
@@ -777,6 +905,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/text"
 msgstr ""
+"\"Renégat, garde tes distances, nous venons d'appréhender deux civils que "
+"nous pensons être des membres d'une organisation pirate. Nous espérons juste "
+"que nous n'aurons pas de pirates qui viendront se venger.\""
 
 #: src-en/data/events_sector_rad_science.xml:702
 msgid ""
@@ -787,6 +918,10 @@ msgstr "Sauver les civils."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"Vous chargez vos armes et engagez le combat avec le scientifique. Les deux "
+"civils sont encore en vie, et il semble qu'ils ne se laisseront pas faire "
+"sans se battre. Vous pourrez peut-être les sauver si vous éliminez les "
+"rebelles."
 
 #: src-en/data/events_sector_rad_science.xml:708
 msgid ""
@@ -797,11 +932,15 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[2]/text"
 msgstr ""
+"Rester dans les parages et défendre le vaisseau scientifique pendant une "
+"courte période."
 
 #: src-en/data/events_sector_rad_science.xml:716
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"À peine quelques minutes plus tard, un vaisseau pirate fait son apparition. "
+"On dirait bien que vous allez devoir vous battre !"
 
 #: src-en/data/events_sector_rad_science.xml:719
 msgid ""
@@ -817,6 +956,8 @@ msgstr "Ignorer le vaisseau."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[3]/event/text"
 msgstr ""
+"Vous reportez votre attention sur votre propre vaisseau pendant que votre "
+"moteur se charge."
 
 #: src-en/data/events_sector_rad_science.xml:729
 msgid ""
@@ -831,7 +972,7 @@ msgstr "Ne rien faire."
 #: src-en/data/events_sector_rad_science.xml:760
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_GHOST\"]/text"
-msgstr ""
+msgstr "Vous avez détruit ce qui restait de l'intercepteur."
 
 #: src-en/data/events_sector_rad_science.xml:763
 msgid ""
@@ -848,7 +989,7 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_rad_science.xml:773
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE_GHOST\"]/text"
-msgstr ""
+msgstr "Vous avez nettoyé l'épave des fantômes."
 
 #: src-en/data/events_sector_rad_science.xml:776
 msgid ""
@@ -865,7 +1006,7 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_rad_science.xml:786
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_GHOST_SUR\"]/text"
-msgstr ""
+msgstr "Votre dernier coup semble avoir surchargé le réacteur ennemi."
 
 #: src-en/data/events_sector_rad_science.xml:792
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/text"

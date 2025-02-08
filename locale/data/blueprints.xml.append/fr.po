@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-01-30 23:22+0000\n"
+"PO-Revision-Date: 2025-02-09 14:22+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/fr/>\n"
@@ -1032,12 +1032,17 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/desc"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:2782
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_RAILGUN\"]/title"
-msgstr ""
+msgstr "Armes à accélération électromagnétique"
 
 #: src-en/data/blueprints.xml.append:2783
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_RAILGUN\"]/desc"
 msgstr ""
+"Multiplie la vitesse de tous vos projectiles et faisceaux par 4. Les canons "
+"électromagnétique, ça envoi !\n"
+"Peut être installé en interne pour 10 ferrailles dans le menu de stockage, "
+"ne s'additionne pas."
 
 #: src-en/data/blueprints.xml.append:2791
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MOD_SUS\"]/title"
@@ -1068,14 +1073,19 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:2823
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_RAILGUN\"]/title"
-msgstr ""
+msgstr "Armes à accélération électromagnétique"
 
 #: src-en/data/blueprints.xml.append:2824
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_RAILGUN\"]/desc"
 msgstr ""
+"Multiplie la vitesse de tous vos projectiles et faisceaux par 4. Les canons "
+"électromagnétique, ça envoi !\n"
+"      Peut être installé en interne pour 10 ferrailles dans le menu de "
+"stockage."
 
 #: src-en/data/blueprints.xml.append:2834
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_MOD_SUS\"]/title"
@@ -1698,7 +1708,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4490
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOCKING_DRILL\"]/title"
-msgstr ""
+msgstr "Forage d'amarrage"
 
 #: src-en/data/blueprints.xml.append:4491
 msgid ""
@@ -1792,6 +1802,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/desc"
 msgstr ""
+"Ce vaisseau utilise une foreuse d'amarrage pour permettre à votre équipage "
+"d'entrer et de sortir instantanément du vaisseau ennemi."
 
 #: src-en/data/blueprints.xml.append:4825
 msgid ""

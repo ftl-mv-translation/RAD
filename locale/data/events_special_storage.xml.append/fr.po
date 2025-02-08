@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-01-30 23:22+0000\n"
+"PO-Revision-Date: 2025-02-09 14:22+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -16,18 +16,18 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/FTL/mod:findName[1]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Forage d'amarrage) Forer dans le vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:19
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_DOCKING_RAM\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Les moteurs de l'ennemi seront opérationnels dans ce laps de temps."
 
 #: src-en/data/events_special_storage.xml.append:33
 msgid ""
 "data/events_special_storage.xml.append$/FTL/mod:findName[2]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Forage d'amarrage) Forer dans le vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:89
 msgid ""
@@ -37,56 +37,61 @@ msgstr "Bombe"
 #: src-en/data/events_special_storage.xml.append:95
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_1\"]/crewMember"
-msgstr ""
+msgstr "Bombe générique"
 
 #: src-en/data/events_special_storage.xml.append:98
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_2\"]/crewMember"
-msgstr ""
+msgstr "Bombe de contrôle"
 
 #: src-en/data/events_special_storage.xml.append:101
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_3\"]/crewMember"
-msgstr ""
+msgstr "Bombe incendiaire"
 
 #: src-en/data/events_special_storage.xml.append:124
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Technologie scientifique."
 
 #: src-en/data/events_special_storage.xml.append:131
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Configurer l'usine de Drone."
 
 #: src-en/data/events_special_storage.xml.append:133
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "Quel drone l'usine doit-elle construire ?"
 
 #: src-en/data/events_special_storage.xml.append:135
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[1]/text"
 msgstr ""
+"Construire des drones génériques - 2 pts coques, 2 pts systèmes, 60 membres "
+"d'équipage, 100% de brèche, pas de contrôle d'explosion."
 
 #: src-en/data/events_special_storage.xml.append:142
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[2]/text"
 msgstr ""
+"Drones de contrôle de construction - 2 pts coques, 1 pt système, 30 membres "
+"d'équipage, 50 % de brèche, contrôle total de l'explosion."
 
 #: src-en/data/events_special_storage.xml.append:149
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[3]/text"
 msgstr ""
+"Construire des drones de feu - 0 pt coque, 1 pt système, 15 membres "
+"d'équipage, 100% feu, pas de contrôle d'explosion."
 
 #: src-en/data/events_special_storage.xml.append:156
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[4]/text"
@@ -96,34 +101,39 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Configurer l'usine de drones secondaire."
 
 #: src-en/data/events_special_storage.xml.append:164
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "Quel drone l'usine doit-elle construire ?"
 
 #: src-en/data/events_special_storage.xml.append:166
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[1]/text"
 msgstr ""
+"Construire des drones génériques - 2 pts coques, 2 pts systèmes, 60 membres "
+"d'équipage, 100% de brèche, pas de contrôle d'explosion."
 
 #: src-en/data/events_special_storage.xml.append:173
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[2]/text"
 msgstr ""
+"Drones de contrôle de construction - 2 pts coques, 1 pt système, 30 membres "
+"d'équipage, 50 % de brèche, contrôle total de l'explosion."
 
 #: src-en/data/events_special_storage.xml.append:180
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[3]/text"
 msgstr ""
+"Construire des drones de feu - 0 pt coque, 1 pt système, 15 membres "
+"d'équipage, 100% feu, pas de contrôle d'explosion."
 
 #: src-en/data/events_special_storage.xml.append:187
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[4]/text"
@@ -132,12 +142,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/text"
-msgstr ""
+msgstr "Choisir une augmentation à installer en interne."
 
 #: src-en/data/events_special_storage.xml.append:197
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_BIGSHOT\"]/text"
-msgstr ""
+msgstr "Installer des armes à haute énergie en interne."
 
 #: src-en/data/events_special_storage.xml.append:199
 msgid ""
@@ -152,7 +162,7 @@ msgstr "Continuer...1"
 #: src-en/data/events_special_storage.xml.append:211
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_MULTISHOT\"]/text"
-msgstr ""
+msgstr "Installer des armes à projectiles multiples en interne."
 
 #: src-en/data/events_special_storage.xml.append:213
 msgid ""
@@ -167,7 +177,7 @@ msgstr "Continuer...1"
 #: src-en/data/events_special_storage.xml.append:225
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_RAILGUN\"]/text"
-msgstr ""
+msgstr "Installer des armes à accélération électromagnétique en interne."
 
 #: src-en/data/events_special_storage.xml.append:227
 msgid ""
@@ -182,7 +192,7 @@ msgstr "Continuer...1"
 #: src-en/data/events_special_storage.xml.append:239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_MOD_SUS\"]/text"
-msgstr ""
+msgstr "Installer des supports de réparation en interne."
 
 #: src-en/data/events_special_storage.xml.append:244
 msgid ""
@@ -195,7 +205,6 @@ msgid ""
 msgstr "Continuer...1"
 
 #: src-en/data/events_special_storage.xml.append:253
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[5]/text"
 msgstr "Laisser tomber."

@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-10 15:22+0000\n"
+"PO-Revision-Date: 2025-02-13 01:22+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "dataevents_sector_rad_sciencexml/fr/>\n"
@@ -607,7 +607,7 @@ msgstr "Les combattre !"
 #: src-en/data/events_sector_rad_science.xml:475
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[1]/event/text"
-msgstr "Vous chargez  vos armes et attaquez les scientifiques."
+msgstr "Vous chargez vos armes et attaquez les scientifiques."
 
 #: src-en/data/events_sector_rad_science.xml:478
 msgid ""
@@ -912,7 +912,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:702
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[1]/text"
-msgstr "Sauver les civils."
+msgstr "Secourir les civils."
 
 #: src-en/data/events_sector_rad_science.xml:704
 msgid ""
@@ -1074,8 +1074,7 @@ msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_SAVED\"]/text"
 msgstr ""
 "\"Bon travail, capitaine, vous êtes arrivé juste à temps. Mon nom est "
-"Cornelius Swartwout. \n"
-"\n"
+"Cornelius Swartwout.\n"
 "Je ne suppose pas que vous puissiez m’aider davantage ? Mon équipage et moi "
 "étions en route vers l’une de nos installations de projet pour tester un "
 "nouveau croiseur. Ce serait d’une grande aide si vous pouviez m’y emmener.\""
@@ -1183,16 +1182,24 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[2]"
 msgstr ""
+"Vous avez des ennuis à cause de votre identification avec le vaisseau "
+"scientifique à cette balise, et peu de temps après, les choses s'enveniment "
+"au point de devenir conflictuelles !"
 
 #: src-en/data/events_sector_rad_science.xml:951
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[3]"
 msgstr ""
+"Les scientifiques de cette balise semblent prendre l'un des membres de votre "
+"équipage pour un infâme pirate avec une lourde prime à la clé. Ne voulant "
+"pas abandonner votre équipage, vous vous préparez à vous battre."
 
 #: src-en/data/events_sector_rad_science.xml:955
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/text"
 msgstr ""
+"Vous tombez sur un avant-poste scientifique près de cette balise, qui refuse "
+"de vous laisser passer. Apparemment, cette balise exige un droit de passage."
 
 #: src-en/data/events_sector_rad_science.xml:958
 msgid ""
@@ -1203,6 +1210,8 @@ msgstr "Refuser de payer."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[1]/event/text"
 msgstr ""
+"Les scientifiques ne perdent pas de temps avec la conversation - à la "
+"seconde où vous refusez, leurs armes s'allument !"
 
 #: src-en/data/events_sector_rad_science.xml:963
 msgid ""
@@ -1218,6 +1227,7 @@ msgstr "Payer le péage."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[2]/event/text"
 msgstr ""
+"Les scientifiques perçoivent le paiement et vous permettent de continuer."
 
 #: src-en/data/events_sector_rad_science.xml:983
 msgid ""
@@ -1228,21 +1238,35 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[1]"
 msgstr ""
+"Il faut être un capitaine pirate audacieux – ou stupide – pour s’aventurer "
+"dans l’espace des scientifiques. En voyant le vaisseau hostile approcher, "
+"vous espérez qu’il s’agit de la seconde option, tandis que vous vous "
+"préparez au combat."
 
 #: src-en/data/events_sector_rad_science.xml:989
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[2]"
 msgstr ""
+"Un vaisseau pirate s'approche, les armes déjà chargées. Ils doivent être en "
+"train de tuer à tour de bras sur ce territoire, et ils sont prêts à faire "
+"une pause dans les vaisseaux scientifiques et civils pour combattre les "
+"vôtres !"
 
 #: src-en/data/events_sector_rad_science.xml:990
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[3]"
 msgstr ""
+"Malgré leur technologie avancée, il semble que les scientifiques n'aient pas "
+"réussi à éliminer complètement les pirates. Il y en a un qui se dirige tout "
+"droit vers votre vaisseau !"
 
 #: src-en/data/events_sector_rad_science.xml:991
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[4]"
 msgstr ""
+"Vous apercevez une lueur violette filer devant vous. Peu après, un vaisseau "
+"pirate apparaît. \"Haha ! J’ai fauché la vie de nombreux civils, et "
+"maintenant, je vais prendre la vôtre ! Préparez-vous à vous battre !\""
 
 #: src-en/data/events_sector_rad_science.xml:998
 msgid ""
@@ -1253,16 +1277,25 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[1]"
 msgstr ""
+"La flotte scientifique dispose d'un grand nombre de vaisseaux, mais cela en "
+"fait également une cible de choix pour les pirates à la recherche d'une "
+"nouvelle monture. Un vaisseau scientifique contrôlé par des pirates "
+"s'approche, armes chargées."
 
 #: src-en/data/events_sector_rad_science.xml:1004
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[2]"
 msgstr ""
+"Un vaisseau pirate, cherchant à tester le nouvel équipement qu’il vient de "
+"voler aux scientifiques, verrouille votre vaisseau et passe à l’attaque !"
 
 #: src-en/data/events_sector_rad_science.xml:1005
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[3]"
 msgstr ""
+"Vous pensez d'abord qu'il s'agit d'un vaisseau scientifique ordinaire, "
+"jusqu'à ce que vous aperceviez la peinture pirate qui orne sa coque. Pirates "
+"en approche !"
 
 #: src-en/data/events_sector_rad_science.xml:1012
 msgid ""
@@ -1282,26 +1315,42 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[2]"
 msgstr ""
+"La Rébellion semble en vouloir aux Scientifiques, probablement parce qu'ils "
+"ont perdu leur argent dans un trop grand nombre de casinos scientifiques. Le "
+"vaisseau rebelle ici présent semble vouloir en découdre, et comme vous êtes "
+"le seul vaisseau ici, ils décident que vous serez un adversaire satisfaisant."
 
 #: src-en/data/events_sector_rad_science.xml:1019
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[3]"
 msgstr ""
+"Un vaisseau Rebelle a nettoyé les restes d'une station civile. Quelques "
+"secondes après votre arrivée, ils vous repèrent et décident de faire de vous "
+"leur prochaine cible."
 
 #: src-en/data/events_sector_rad_science.xml:1035
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_ELITE\"]/text"
 msgstr ""
+"Vous avez réussi à détruire l'un des vaisseaux les plus dangereux du "
+"secteur, vous démolissez son vaisseau et vous en sortez plus riche."
 
 #: src-en/data/events_sector_rad_science.xml:1040
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE_ELITE\"]/text"
 msgstr ""
+"Lorsque le dernier soldat tombe, votre équipage commence à démanteler le "
+"vaisseau. Vous quittez leur vaisseau avec des tonnes de ferraille."
 
 #: src-en/data/events_sector_rad_science.xml:1045
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_ELITE\"]/text"
 msgstr ""
+"Les vaisseaux de l'Elite R&D Defense Force sont parmi les plus meurtriers de "
+"la flotte scientifique, et ce pour une bonne raison. Dotés d'un équipage "
+"hautement qualifié, ces vaisseaux ne plaisantent pas au combat. "
+"Malheureusement pour vous, le vaisseau ici présent vous considère comme une "
+"menace et vous attaque !"
 
 #: src-en/data/events_sector_rad_science.xml:1048
 msgid ""
@@ -1311,16 +1360,19 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_rad_science.xml:1105
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "La base principale des scientifiques."
 
 #: src-en/data/events_sector_rad_science.xml:1106
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "La base principale des scientifiques."
 
 #: src-en/data/events_sector_rad_science.xml:1108
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/text"
 msgstr ""
+"Vous êtes arrivés à la base principale des scientifiques. Il semble que la "
+"station manque de personnel, la majeure partie de la flotte étant partie "
+"pour faire face à l'avancée de la menace rebelle."
 
 #: src-en/data/events_sector_rad_science.xml:1112
 msgid ""
@@ -1331,6 +1383,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/choice/event/text"
 msgstr ""
+"La plupart du personnel ayant quitté la station, il est possible de se "
+"faufiler à bord et d'accéder à la technologie qui s'y trouve. Il semble même "
+"qu'un grand croiseur soit en construction sur le côté de la station."
 
 #: src-en/data/events_sector_rad_science.xml:1116
 msgid ""
@@ -1344,7 +1399,7 @@ msgstr "Partir."
 
 #: src-en/data/events_sector_rad_science.xml:1128
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LEAVE\"]/text"
-msgstr ""
+msgstr "Vous quittez la zone."
 
 #: src-en/data/events_sector_rad_science.xml:1130
 msgid ""
@@ -1359,26 +1414,31 @@ msgstr "Ne rien faire."
 #: src-en/data/events_sector_rad_science.xml:1148
 msgid ""
 "data/events_sector_rad_science.xml$//eventButton[@name=\"UI_RAD_BOARD\"]/tooltip"
-msgstr ""
+msgstr "Quitter la station (vous ne pouvez pas revenir)."
 
 #: src-en/data/events_sector_rad_science.xml:1149
 msgid ""
 "data/events_sector_rad_science.xml$//eventButton[@name=\"UI_RAD_BOARD\"]/inactiveTooltip"
-msgstr ""
+msgstr "Votre équipe doit se trouver dans la salle du téléporteur pour partir."
 
 #: src-en/data/events_sector_rad_science.xml:1156
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_BOARD\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Le système de porte de l'ennemi sera désactivé après ce délai."
 
 #: src-en/data/events_sector_rad_science.xml:1175
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_RETURN2\"]/text"
 msgstr ""
+"Vous ne pourrez certainement pas faire exploser la station, mais votre "
+"mission d'infiltration s'est bien déroulée."
 
 #: src-en/data/events_sector_rad_science.xml:1200
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_1\"]/text"
 msgstr ""
+"Vous arrivez à la balise et tombez nez à nez avec une énorme corvette "
+"scientifique. Elle semble être une version finie du vaisseau du chantier "
+"spatial, et il semble que vous allez devoir vous battre."
 
 #: src-en/data/events_sector_rad_science.xml:1203
 msgid ""
@@ -1388,24 +1448,31 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_rad_science.xml:1209
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2\"]/text"
 msgstr ""
+"La corvette semble exploser, mais elle ne subit que des dégâts mineurs. Le "
+"vaisseau a néanmoins besoin de réparations et il s'éloigne en sautant."
 
 #: src-en/data/events_sector_rad_science.xml:1215
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3\"]/text"
 msgstr ""
+"La corvette semble exploser, mais elle ne subit que des dégâts mineurs. Le "
+"vaisseau a néanmoins besoin de réparations et il s'éloigne en sautant."
 
 #: src-en/data/events_sector_rad_science.xml:1229
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP\"]/text"
 msgstr ""
+"Même avec un morceau du vaisseau en moins, ils continuent de se battre et "
+"mettent même en route d'autres systèmes. Vous avez quelques instants pour "
+"reprendre votre souffle avant que le vaisseau ne soit à portée de combat."
 
 #: src-en/data/events_sector_rad_science.xml:1234
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "La corvette sera opérationnelle à la fin de ce délai."
 
 #: src-en/data/events_sector_rad_science.xml:1240
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP_2\"]/text"
-msgstr ""
+msgstr "La corvette est à portée de tir..."
 
 #: src-en/data/events_sector_rad_science.xml:1243
 msgid ""
@@ -1415,16 +1482,19 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_rad_science.xml:1256
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP\"]/text"
 msgstr ""
+"Vous avez suivi la corvette scientifique, mais le vaisseau n'est pas encore "
+"fini. Il vous reste quelques instants avant que le vaisseau ennemi ne puisse "
+"vous attaquer."
 
 #: src-en/data/events_sector_rad_science.xml:1262
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "La corvette sera opérationnelle à la fin de ce délai."
 
 #: src-en/data/events_sector_rad_science.xml:1268
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP_2\"]/text"
-msgstr ""
+msgstr "La corvette est à portée de tir..."
 
 #: src-en/data/events_sector_rad_science.xml:1271
 msgid ""
@@ -1434,63 +1504,71 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_rad_science.xml:1277
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_WEAPON\"]/text"
 msgstr ""
+"Vous avez pénétré dans l'armurerie, qui semble en grande partie nettoyée, "
+"mais il reste une arme sur les étagères."
 
 #: src-en/data/events_sector_rad_science.xml:1281
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/text"
 msgstr ""
+"Vous êtes entré dans la salle de stockage. Il y a quelques machines, mais "
+"vous ne pourrez en placer qu'une seule dans le téléporteur."
 
 #: src-en/data/events_sector_rad_science.xml:1283
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[1]/text"
-msgstr ""
+msgstr "Prendre l'augment :"
 
 #: src-en/data/events_sector_rad_science.xml:1289
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[2]/text"
-msgstr ""
+msgstr "Prendre l'augment :"
 
 #: src-en/data/events_sector_rad_science.xml:1295
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[3]/text"
-msgstr ""
+msgstr "Prendre l'augment :"
 
 #: src-en/data/events_sector_rad_science.xml:1301
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[4]/text"
-msgstr ""
+msgstr "Prendre l'augment :"
 
 #: src-en/data/events_sector_rad_science.xml:1307
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[5]/text"
-msgstr ""
+msgstr "Partir sans rien prendre."
 
 #: src-en/data/events_sector_rad_science.xml:1313
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/text"
-msgstr ""
+msgstr "Vous êtes entré dans la salle de contrôle du réacteur."
 
 #: src-en/data/events_sector_rad_science.xml:1315
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/choice/text"
-msgstr ""
+msgstr "Désactiver le système de sécurité."
 
 #: src-en/data/events_sector_rad_science.xml:1318
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/choice/event/text"
-msgstr ""
+msgstr "Le système de porte s'éteint."
 
 #: src-en/data/events_sector_rad_science.xml:1323
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/text"
 msgstr ""
+"Vous êtes entré dans la salle de cryogénie. Il semble y avoir un humain "
+"congelé dans l'un des caissons."
 
 #: src-en/data/events_sector_rad_science.xml:1325
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/choice[1]/text"
-msgstr ""
+msgstr "Ouvrir le caisson."
 
 #: src-en/data/events_sector_rad_science.xml:1327
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/choice[1]/event/text"
 msgstr ""
+"Vous ouvrez le caisson et libérez l'humain, il est confus mais propose de "
+"rejoindre votre équipage."
 
 #: src-en/data/events_sector_rad_science.xml:1332
 msgid ""
@@ -1500,24 +1578,37 @@ msgstr "Le laisse tranquille."
 #: src-en/data/events_sector_rad_science.xml:1337
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/text"
 msgstr ""
+"Vous êtes entré dans la salle de contrôle du chantier spatial. La console "
+"qui y est connectée est verrouillée."
 
 #: src-en/data/events_sector_rad_science.xml:1340
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/choice/text"
-msgstr ""
+msgstr "Déverrouiller la console."
 
 #: src-en/data/events_sector_rad_science.xml:1342
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/choice/event/text"
 msgstr ""
+"Vous utilisez le mot de passe téléchargé depuis le centre de stockage de "
+"données pour déverrouiller la console.\n"
+"        \n"
+"Vous pouvez télécharger les données scientifiques d'un nouveau type de "
+"croiseur qu'ils construisent, il semble qu'un soit testé sur le terrain en "
+"ce moment même, vous téléchargez les données de suivi du vaisseau."
 
 #: src-en/data/events_sector_rad_science.xml:1350
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_HACK\"]/text"
 msgstr ""
+"Vous êtes entré dans la salle de stockage de données. Vous pouvez "
+"télécharger un code d'accès pour le centre de contrôle du chantier spatial ("
+"salle de pilotage)."
 
 #: src-en/data/events_sector_rad_science.xml:1354
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_4\"]/text"
 msgstr ""
+"Le vaisseau finit par exploser en un champ de débris. Vous commencez à "
+"réparer votre coque avant de piller les restes de votre victoire."
 
 #: src-en/data/events_sector_rad_science.xml:1360
 msgid ""
@@ -1528,3 +1619,5 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_4\"]/choice/event/text"
 msgstr ""
+"Vous trouvez une petite caisse de stockage remplie de butin flottant parmi "
+"les débris."

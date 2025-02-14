@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-13 01:22+0000\n"
+"PO-Revision-Date: 2025-02-15 11:22+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "dataeventsxmlappend/fr/>\n"
@@ -658,8 +658,9 @@ msgid "data/events.xml.append$//event[@name=\"RAD_PIRATE_QUEST_FINISH\"]/text"
 msgstr ""
 "Peu après, un nouveau vaisseau arrive. Ce sont les scientifiques. Goose vous "
 "salue.\n"
-"\t\"Ah, Renégat, excellent travail ! Tu seras bien payé pour ça. Nous y "
-"ajouterons même les plans de la station. Tu pourras peut-être t'en servir.\""
+"\t\"Ah, Renégat, excellent travail ! Vous serez bien payé pour ça. Nous y "
+"ajouterons même les plans de la station. Vous pourrez peut-être vous en "
+"servir.\""
 
 #: src-en/data/events.xml.append:533
 msgid ""

@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-15 11:22+0000\n"
+"PO-Revision-Date: 2025-02-17 21:41+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "dataeventsxmlappend/fr/>\n"
@@ -748,8 +748,8 @@ msgstr "Les scientifiques vous donnent un lieu de rendez-vous à proximité."
 #: src-en/data/events.xml.append:606
 msgid "data/events.xml.append$//event[@name=\"RAD_LAB_GHOST_1\"]/text"
 msgstr ""
-"\"Le plus excellent, pour commencer, c'est de comprendre que beaucoup de ces "
-"choses sont très avancées, alors essayez de les garder secrètes.\"\n"
+"\"Très bien, pour commencer, comprenez que beaucoup de ces choses sont très "
+"avancées, essayez de les garder secrètes.\"\n"
 "\tGoose vous conduit jusqu'à un terminal accroché au mur.\n"
 "\t\"Le problème est assez simple. L'un de nos actifs s'est enfui et nous "
 "aimerions le récupérer. Nous sommes prêts à payer très cher pour qu'il nous "
@@ -1048,37 +1048,68 @@ msgstr ""
 #: src-en/data/events.xml.append:891
 msgid "data/events.xml.append$//event[@name=\"RAD_LAB_ROGUE_1\"]/text"
 msgstr ""
+"\"Très bien, pour commencer, comprenez que beaucoup de ces choses sont très "
+"avancées, essayez de les garder secrètes.\"\n"
+"\tGoose vous conduit jusqu'à un terminal accroché au mur.\n"
+"\t\"Le problème auquel nous sommes confrontés est celui de la trahison. L'un "
+"des nôtres s'est emparé d'un de nos vaisseaux avancés. D'après ce que nous "
+"avons compris, il cherche à vendre la technologie aux Zoltans. Nous avons "
+"besoin de vous pour l'intercepter et récupérer le vaisseau, ou au moins "
+"empêcher qu'il ne soit vendu.\""
 
 #: src-en/data/events.xml.append:895
 msgid "data/events.xml.append$//event[@name=\"RAD_LAB_ROGUE_1\"]/choice/text"
-msgstr ""
+msgstr "\"Où devons-nous commencer ?\""
 
 #: src-en/data/events.xml.append:897
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_ROGUE_1\"]/choice/event/text"
 msgstr ""
+"\"Bien, nous avons suivi le vaisseau jusqu’à une station du Ministère à "
+"proximité. Rendez-vous là-bas et récupérez toutes les informations qu’ils "
+"possèdent.\""
 
 #: src-en/data/events.xml.append:908
 msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/text"
 msgstr ""
+"Vous arrivez à la station. Après un échange rapide, vous obtenez les droits "
+"d'amarrage.\n"
+"\t\n"
+"\tMaintenant que vous êtes sur la station, vous devez décider de ce que vous "
+"allez faire."
 
 #: src-en/data/events.xml.append:912
 msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Se faufiler et essayer de télécharger les informations."
 
 #: src-en/data/events.xml.append:914
 msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/choice[1]/event/text"
 msgstr ""
+"Vous décidez d'essayer de télécharger les données.\n"
+"\t\t\tAprès un rapide examen de la zone publique, vous identifiez un poste "
+"de sécurité.\n"
+"\t\t\tVous vous organisez avec votre équipage et enfoncez rapidement la "
+"porte. A l'intérieur, il y a quelques gardes et un terminal informatique.\n"
+"\t\t\tVous éliminez rapidement les gardes et vérifiez le terminal. "
+"Heureusement, les gardes l'ont laissé connecté.\n"
+"\t\t\tAprès une recherche rapide, vous trouvez ce que vous cherchez. Il "
+"semble que l'employé malhonnête soit passé par ici, qu'il ait vendu quelques "
+"technologies mineures et qu'il ait été envoyé à la rencontre d'un croiseur "
+"d'élite du ministère.\n"
+"\t\t\tIl est temps de partir."
 
 #: src-en/data/events.xml.append:922
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Retourner à votre vaisseau."
 
 #: src-en/data/events.xml.append:924
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Alors que vous êtes en train de regagner votre vaisseau, vous entendez des "
+"cris derrière vous. On dirait que vous avez été découvert plus vite que "
+"prévu. Préparez-vous à vous battre !"
 
 #: src-en/data/events.xml.append:927
 msgid ""
@@ -1089,11 +1120,16 @@ msgstr "Continuer..."
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/choice[@req=\"zoltan\"]/text"
 msgstr ""
+"Demander l'information en vertu de l'acte d'échange 47-2 (Membre d'équipage "
+"Zoltan)"
 
 #: src-en/data/events.xml.append:937
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/choice[@req=\"zoltan\"]/event/text"
 msgstr ""
+"Après une rapide exploration de la station, vous identifiez un agent zoltan. "
+"Après un rapide échange de ferraille, vous recevez l'information dont vous "
+"avez besoin et retournez à votre vaisseau."
 
 #: src-en/data/events.xml.append:950
 msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_3\"]/text"

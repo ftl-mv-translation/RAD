@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-13 01:22+0000\n"
+"PO-Revision-Date: 2025-02-22 13:13+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "dataevents_sector_rad_sciencexml/fr/>\n"
@@ -607,7 +607,7 @@ msgstr "Les combattre !"
 #: src-en/data/events_sector_rad_science.xml:475
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[1]/event/text"
-msgstr "Vous chargez vos armes et attaquez les scientifiques."
+msgstr "Vous activez vos armes et attaquez les scientifiques."
 
 #: src-en/data/events_sector_rad_science.xml:478
 msgid ""
@@ -686,7 +686,7 @@ msgstr "Attaquer, on peut sûrement recevoir plus de leur part !"
 #: src-en/data/events_sector_rad_science.xml:529
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[4]/event/text"
-msgstr "Vous chargez vos armes et attaquez les scientifiques."
+msgstr "Vous activez vos armes et attaquez les scientifiques."
 
 #: src-en/data/events_sector_rad_science.xml:532
 msgid ""
@@ -728,7 +728,7 @@ msgstr "Détruire ou recapturer le croiseur de défense."
 #: src-en/data/events_sector_rad_science.xml:559
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[1]/event/text"
-msgstr "Vous chargez vos armes et attaquez les pirates."
+msgstr "Vous activez vos armes et attaquez les pirates."
 
 #: src-en/data/events_sector_rad_science.xml:562
 msgid ""
@@ -837,7 +837,7 @@ msgstr "L'attaquer !"
 #: src-en/data/events_sector_rad_science.xml:635
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[3]/event/text"
-msgstr "Vous chargez vos armes et attaquez le vendeur."
+msgstr "Vous activez vos armes et attaquez le vendeur."
 
 #: src-en/data/events_sector_rad_science.xml:638
 msgid ""
@@ -918,7 +918,7 @@ msgstr "Secourir les civils."
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"Vous chargez vos armes et engagez le combat avec le scientifique. Les deux "
+"Vous activez vos armes et engagez le combat avec le scientifique. Les deux "
 "civils sont encore en vie, et il semble qu'ils ne se laisseront pas faire "
 "sans se battre. Vous pourrez peut-être les sauver si vous éliminez les "
 "rebelles."

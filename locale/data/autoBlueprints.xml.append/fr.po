@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-01-30 23:22+0000\n"
+"PO-Revision-Date: 2025-02-22 13:13+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "dataautoblueprintsxmlappend/fr/>\n"
@@ -52,10 +52,9 @@ msgid ""
 msgstr "Station du ministère"
 
 #: src-en/data/autoBlueprints.xml.append:446
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"ENEMY_SHIP_RAD_FLESH\"]/class"
-msgstr "Croiseur de chair"
+msgstr "Croiseur Organique"
 
 #: src-en/data/autoBlueprints.xml.append:480
 msgid ""

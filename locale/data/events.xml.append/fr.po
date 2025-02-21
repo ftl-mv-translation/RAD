@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 21:41+0000\n"
+"PO-Revision-Date: 2025-02-22 13:13+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "dataeventsxmlappend/fr/>\n"
@@ -237,7 +237,7 @@ msgstr ""
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[2]/event/text"
 msgstr ""
-"Vous allumez vos armes ! Le laboratoire vous interpelle : \"Vous faites une "
+"Vous activez vos armes ! Le laboratoire vous interpelle : \"Vous faites une "
 "erreur.\""
 
 #: src-en/data/events.xml.append:182
@@ -502,7 +502,7 @@ msgstr "Combattre l'homme de main."
 #: src-en/data/events.xml.append:412
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_2\"]/choice[@req=\"RAD_JUMP_TRACER\"]/event/choice[1]/event/text"
-msgstr "Vous allumez vos armes et engagez le pirate."
+msgstr "Vous activez vos armes et ciblez le vaisseau pirate."
 
 #: src-en/data/events.xml.append:415
 msgid ""
@@ -616,7 +616,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events.xml.append:498
 msgid "data/events.xml.append$//event[@name=\"RAD_PIRATE_FIGHT_TRIGGER\"]/text"
-msgstr "Vous allumez vos armes."
+msgstr "Vous activez vos armes."
 
 #: src-en/data/events.xml.append:500
 msgid ""
@@ -987,7 +987,7 @@ msgid ""
 msgstr ""
 "Comment les scientifiques ont-ils pu faire des expériences aussi brûlantes "
 "et cruelles ? Vous êtes prêt à vous battre pour qu'ils n'infligent plus rien "
-"à ce fantôme. Vous allumez vos armes, le chasseur scientifique fait de même."
+"à ce fantôme. Vous activez vos armes, le chasseur scientifique fait de même."
 
 #: src-en/data/events.xml.append:812
 msgid ""
@@ -1134,6 +1134,16 @@ msgstr ""
 #: src-en/data/events.xml.append:950
 msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_3\"]/text"
 msgstr ""
+"Vous arrivez à la balise juste à temps pour assister à un échange entre le "
+"vaisseau scientifique que vous recherchez et le vaisseau d'élite du "
+"Ministère.\n"
+"\t\n"
+"\tVous envoyez un tir en direction des deux vaisseaux pour qu'ils se "
+"séparent. Au moment où ils s'éloignent, vous interceptez un signal crypté "
+"envoyé entre les deux vaisseaux.\n"
+"\t\n"
+"\tOn dirait que le vaisseau du ministère va essayer de vous détruire pendant "
+"que le vaisseau scientifique se rend à un nouveau lieu de rendez-vous !"
 
 #: src-en/data/events.xml.append:956
 msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_3\"]/choice/text"
@@ -1142,6 +1152,10 @@ msgstr "Continuer..."
 #: src-en/data/events.xml.append:965
 msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_4\"]/text"
 msgstr ""
+"Vous arrivez à la balise et vous apercevez le vaisseau scientifique qui vous "
+"attend.\n"
+"\tS'attendant manifestement au vaisseau du Ministère, leur surprise ne dure "
+"pas longtemps et ils ne tardent pas à mettre leurs armes en marche."
 
 #: src-en/data/events.xml.append:968
 msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_4\"]/choice/text"
@@ -1150,6 +1164,8 @@ msgstr "Continuer..."
 #: src-en/data/events.xml.append:981
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_SEC_GUARD\"]/text"
 msgstr ""
+"Vous avez détruit le vaisseau de sécurité. Vous pillez les restes avant "
+"d'entrer dans le bâtiment."
 
 #: src-en/data/events.xml.append:984
 msgid ""
@@ -1159,6 +1175,8 @@ msgstr "Continuer..."
 #: src-en/data/events.xml.append:990
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_SEC_GUARD\"]/text"
 msgstr ""
+"Vous avez tué l'équipage du vaisseau de sécurité. Vous pillez les restes "
+"avant d'entrer dans le bâtiment."
 
 #: src-en/data/events.xml.append:993
 msgid ""
@@ -1168,6 +1186,9 @@ msgstr "Continuer..."
 #: src-en/data/events.xml.append:1004
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_FLESH\"]/text"
 msgstr ""
+"Vous avez détruit le Croiseur Organique, bien qu’il ne semble pas réellement "
+"mort, juste en morceaux. Vous pillez les restes avant de contacter les "
+"scientifiques."
 
 #: src-en/data/events.xml.append:1007
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_FLESH\"]/choice/text"
@@ -1176,6 +1197,8 @@ msgstr "Continuer..."
 #: src-en/data/events.xml.append:1013
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_FLESH\"]/text"
 msgstr ""
+"Vous avez tué le groupe de défense des droits des aliens. Vous pillez le "
+"vaisseau avant de contacter les scientifiques."
 
 #: src-en/data/events.xml.append:1016
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_FLESH\"]/choice/text"
@@ -1183,32 +1206,47 @@ msgstr "Continuer..."
 
 #: src-en/data/events.xml.append:1022
 msgid "data/events.xml.append$//event[@name=\"RAD_FLESH\"]/text"
-msgstr ""
+msgstr "Vaisseau débloqué"
 
 #: src-en/data/events.xml.append:1027
 msgid "data/events.xml.append$//event[@name=\"RAD_LAB_FLESH_1\"]/text"
 msgstr ""
+"\"C'est un peu délicat, un de nos projets a été volé. Volé par un groupe de "
+"défense des droits des aliens.\"\n"
+"\t\"Ils pensent que ce que nous avons fait était cruel et contraire à "
+"l'éthique. Bien sûr que non, mais ils l'ont quand même volé. Quoi qu'il en "
+"soit, c'est un prototype de croiseur. Nous avons besoin de vous pour le "
+"récupérer.\""
 
 #: src-en/data/events.xml.append:1030
 msgid "data/events.xml.append$//event[@name=\"RAD_LAB_FLESH_1\"]/choice/text"
-msgstr ""
+msgstr "D'accord, où sont-ils ?"
 
 #: src-en/data/events.xml.append:1032
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_FLESH_1\"]/choice/event/text"
 msgstr ""
+"\"Nous savons que les bureaux du groupe se trouvent sur un monde proche, "
+"c'est donc là que je commencerais à chercher. Mais attention, ils sont sur "
+"une planète assez peuplée. Il faut s'attendre à des mesures de sécurité.\""
 
 #: src-en/data/events.xml.append:1043
 msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_2\"]/text"
 msgstr ""
+"Vous arrivez sur place. Il s'agit d'une grande tour d'entreprise située au "
+"milieu d'une ville tentaculaire.\n"
+"\tAlors que vous vous apprêtez à vous amarrer à la tour, un vaisseau de "
+"sécurité vous appelle pour vous demander de partir."
 
 #: src-en/data/events.xml.append:1046
 msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Cibler le vaisseau de sécurité."
 
 #: src-en/data/events.xml.append:1048
 msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_2\"]/choice[1]/event/text"
 msgstr ""
+"Le vaisseau de sécurité allume ses armes en réponse. On dirait que vous "
+"allez vous battre."
 
 #: src-en/data/events.xml.append:1051
 msgid ""
@@ -1217,11 +1255,11 @@ msgstr "Continuer..."
 
 #: src-en/data/events.xml.append:1057
 msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_2\"]/choice[2]/text"
-msgstr ""
+msgstr "Partir"
 
 #: src-en/data/events.xml.append:1059
 msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_2\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Vous décollez de la zone. Vous ne feriez rien d'illégal, après tout."
 
 #: src-en/data/events.xml.append:1065
 msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/text"
@@ -1405,6 +1443,16 @@ msgstr "Continuer..."
 #: src-en/data/events.xml.append:1230
 msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_6\"]/text"
 msgstr ""
+"Après une courte attente, un vaisseau scientifique arrive.\n"
+"\tIls font quelque chose sur leur vaisseau et le Croiseur Organique commence "
+"à se réparer.\n"
+"\t\n"
+"\t\"Ah, excellent travail avec ce groupe de défense des droits des aliens. "
+"Il est clair que ce vaisseau cause plus d'ennuis qu'il n'en vaut la peine... "
+"Nous n'en voulons plus, nous allons donc l'envoyer à la Fédération. Avec un "
+"peu de chance, l'un de vos capitaines pourra s'en servir.\"\n"
+"\t\n"
+"\t\"Oh, et avant que j'oublie, voici votre paiement.\""
 
 #: src-en/data/events.xml.append:1247
 msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_1\"]/text"

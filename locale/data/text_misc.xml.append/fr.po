@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-01-30 23:22+0000\n"
+"PO-Revision-Date: 2025-02-23 10:00+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datatext_miscxmlappend/fr/>\n"
@@ -65,9 +65,8 @@ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mirror2\"]"
 msgstr "BASE PRINCIPALE [!]"
 
 #: src-en/data/text_misc.xml.append:16
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_warped1\"]"
-msgstr "TRACKER [!]"
+msgstr "TRACEUR [!]"
 
 #: src-en/data/text_misc.xml.append:17
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_warped2\"]"

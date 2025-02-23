@@ -3,7 +3,7 @@ name: nightly
 on:
   schedule:
     # 00:00 UTC every day
-    - cron: '0 0 * * *' 
+    - cron: '0 0 * * *'
   workflow_dispatch:
     # Manual run
 
@@ -35,6 +35,7 @@ jobs:
     - name: Build packages
       run: |
         bash snippets/ci-nightly.sh ru
+        bash snippets/ci-nightly.sh fr
 
     - name: Tag the commit
       run: |

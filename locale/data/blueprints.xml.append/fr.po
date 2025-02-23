@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-23 10:00+0000\n"
+"PO-Revision-Date: 2025-02-23 21:33+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/fr/>\n"
@@ -96,12 +96,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:157
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLUSTER_MISSILE_3\"]/title"
-msgstr ""
+msgstr "Prototype de missile à fragmentation"
 
 #: src-en/data/blueprints.xml.append:158
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLUSTER_MISSILE_3\"]/short"
-msgstr ""
+msgstr "Fragmentation avancée"
 
 #: src-en/data/blueprints.xml.append:159
 msgid ""
@@ -112,14 +112,35 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLUSTER_MISSILE_3\"]/descriptionOverride"
 msgstr ""
+"Ce missile était une tentative de certains scientifiques de miniaturiser la "
+"technologie de verrouillage des cristaux en plusieurs petites ogives, qu'ils "
+"ont ensuite chargées dans un missile à fragmentation.\n"
+"\n"
+"\t\tCaractéristiques :\n"
+"\t\tPuissance requise : 4\n"
+"\t\tTemps de charge : 14 secondes\n"
+"\t\tConsommation de missile : 1\n"
+"\n"
+"\t\tTirs par charge : 1\n"
+"\t\t\n"
+"\t\tDommages de base à la coque : 0\n"
+"\t\tDommages totaux au système : 0\n"
+"\t\tDommages totaux à l'équipage : 0\n"
+"\t\tPerforation du bouclier : 10\n"
+"\t\tDommages à la coque adjacente : 2\n"
+"\t\tDommages aux systèmes adjacents : 3\n"
+"\t\t\n"
+"\t\tApplique l'effet de verrouillage aux pièces adjacentes.\n"
+"\t\t\n"
+"\t\tPrix par défaut : 90~ - Prix de vente :45~"
 
 #: src-en/data/blueprints.xml.append:216
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR\"]/title"
-msgstr ""
+msgstr "Rayon focalisé de téléportation 'Ravisseur'"
 
 #: src-en/data/blueprints.xml.append:217
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR\"]/short"
-msgstr ""
+msgstr "'Ravisseur'"
 
 #: src-en/data/blueprints.xml.append:218
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR\"]/desc"
@@ -129,16 +150,36 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR\"]/descriptionOverride"
 msgstr ""
+"Quelqu'un a eu la brillante idée de prendre la technologie d'un téléporteur, "
+"de la placer derrière un tas de lentilles et d'y ajouter un peu de science "
+"afin de pouvoir la concentrer sur une personne spécifique à bord d'un autre "
+"vaisseau. Cela ne leur fera pas grand-chose pendant le transfert, alors "
+"préparez-vous à les rencontrer dans votre salle des armes.\n"
+"\t\n"
+"\tCaractéristiques :\n"
+"\tPuissance requise : 1\n"
+"\tTemps de charge : 20 secondes\n"
+"\n"
+"\tNombre de tirs par charge : 1\n"
+"\t\n"
+"\tDommages de base à la coque : 0\n"
+"\tDommages totaux au système : 0\n"
+"\tDommages totaux à l'équipage : 0\n"
+"\tPerforation du bouclier : 10\n"
+"\t\n"
+"\tRisque de brèche : 30 % (ajusté : 30 %)\n"
+"\t\n"
+"\tPrix par défaut : 80~ - Prix de vente : 40~"
 
 #: src-en/data/blueprints.xml.append:264
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR_ENEMY\"]/title"
-msgstr ""
+msgstr "Rayon focalisé de téléportation 'Ravisseur'"
 
 #: src-en/data/blueprints.xml.append:265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR_ENEMY\"]/short"
-msgstr ""
+msgstr "'Ravisseur'"
 
 #: src-en/data/blueprints.xml.append:266
 msgid ""
@@ -148,12 +189,12 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:295
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_JAILERBEAM\"]/title"
-msgstr ""
+msgstr "Rayon focalisé de téléportation 'Abducteur'"
 
 #: src-en/data/blueprints.xml.append:296
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_JAILERBEAM\"]/short"
-msgstr ""
+msgstr "'Ravisseur'"
 
 #: src-en/data/blueprints.xml.append:297
 msgid ""
@@ -163,12 +204,12 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:325
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_JAILERBEAM_PLAYER\"]/title"
-msgstr ""
+msgstr "Rayon focalisé de téléportation 'geôlier'"
 
 #: src-en/data/blueprints.xml.append:326
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_JAILERBEAM_PLAYER\"]/short"
-msgstr ""
+msgstr "'Geôlier'"
 
 #: src-en/data/blueprints.xml.append:327
 msgid ""
@@ -179,6 +220,26 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_JAILERBEAM_PLAYER\"]/descriptionOverride"
 msgstr ""
+"Un rayon d'enlèvement encore plus puissant, cette arme est capable de "
+"balayer un vaisseau et d'infliger 1 dégât aux systèmes, tout en enlevant "
+"tout l'équipage qu'elle touche, et parfois même une partie du plancher.\n"
+"\n"
+"\t\tCaractéristiques :\n"
+"\t\tPuissance requise : 4\n"
+"\t\tTemps de charge : 20 secondes\n"
+"\n"
+"\t\tLongueur du rayon : 160\n"
+"\t\tVitesse du rayon : 3\n"
+"\t\t\n"
+"\t\tDommages de base à la coque : 1\n"
+"\t\tDommages totaux au système : 1\n"
+"\t\tDommages totaux à l'équipage : 15\n"
+"\t\tPerforation du bouclier : 10\n"
+"\t\t\n"
+"\t\tRisque de feu : 60\n"
+"\t\tRisque de brèche : 60 % (ajusté à 24 %)\n"
+"\t\t\n"
+"\t\tPrix par défaut : 100~ - Prix de vente : 50~"
 
 #: src-en/data/blueprints.xml.append:376
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_GATLING\"]/title"

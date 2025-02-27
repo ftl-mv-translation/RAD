@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-23 21:33+0000\n"
+"PO-Revision-Date: 2025-02-28 14:13+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/fr/>\n"
@@ -243,25 +243,28 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:376
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_GATLING\"]/title"
-msgstr ""
+msgstr "Canon à chaîne Surchauffeur"
 
 #: src-en/data/blueprints.xml.append:377
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_GATLING\"]/short"
-msgstr ""
+msgstr "Surchauffeur"
 
 #: src-en/data/blueprints.xml.append:378
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_GATLING\"]/desc"
 msgstr ""
+"Cette arme charge des billes surchauffées dans les canons, les transformant "
+"ainsi en plasma. Malheureusement, le système de refroidissement est plutôt "
+"déficient et ne permet pas de faire face à des périodes de tir prolongées."
 
 #: src-en/data/blueprints.xml.append:425
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY\"]/title"
-msgstr ""
+msgstr "Laser Adaptatif Scientifique"
 
 #: src-en/data/blueprints.xml.append:426
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY\"]/short"
-msgstr ""
+msgstr "Laser A-S."
 
 #: src-en/data/blueprints.xml.append:428
 msgid ""
@@ -271,12 +274,12 @@ msgstr "Arme Laser adaptatrice, gagnant en dégâts toutes les 2 salves."
 #: src-en/data/blueprints.xml.append:470
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY_OFFSET\"]/title"
-msgstr ""
+msgstr "Laser Adaptatif Scientifique"
 
 #: src-en/data/blueprints.xml.append:471
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY_OFFSET\"]/short"
-msgstr ""
+msgstr "Laser A-S."
 
 #: src-en/data/blueprints.xml.append:473
 msgid ""
@@ -286,12 +289,12 @@ msgstr "Arme Laser adaptatrice, gagnant en dégâts toutes les 2 salves."
 #: src-en/data/blueprints.xml.append:514
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE\"]/title"
-msgstr ""
+msgstr "Laser Adaptatif Scientifique"
 
 #: src-en/data/blueprints.xml.append:515
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE\"]/short"
-msgstr ""
+msgstr "Laser A-S."
 
 #: src-en/data/blueprints.xml.append:517
 msgid ""
@@ -301,12 +304,12 @@ msgstr "Arme Laser adaptatrice, gagnant en dégâts toutes les 2 salves."
 #: src-en/data/blueprints.xml.append:559
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_0\"]/title"
-msgstr ""
+msgstr "Projectile de Rayon en Rafale"
 
 #: src-en/data/blueprints.xml.append:560
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_0\"]/short"
-msgstr ""
+msgstr "Projectile de Rayon en Rafale"
 
 #: src-en/data/blueprints.xml.append:561
 msgid ""
@@ -316,12 +319,12 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:593
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_1\"]/title"
-msgstr ""
+msgstr "Projectile de Rayon en Rafale"
 
 #: src-en/data/blueprints.xml.append:594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_1\"]/short"
-msgstr ""
+msgstr "Projectile de Rayon en Rafale"
 
 #: src-en/data/blueprints.xml.append:595
 msgid ""
@@ -331,22 +334,24 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:628
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHT_BEAM\"]/title"
-msgstr ""
+msgstr "Aiguillon lumineux"
 
 #: src-en/data/blueprints.xml.append:629
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHT_BEAM\"]/short"
-msgstr ""
+msgstr "Aiguillon lumineux"
 
 #: src-en/data/blueprints.xml.append:630
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHT_BEAM\"]/desc"
 msgstr ""
+"Ce rayon utilise plus efficacement l'énergie en tirant un court rayon de "
+"faible puissance qui fait sauter les boucliers."
 
 #: src-en/data/blueprints.xml.append:660
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_1\"]/title"
-msgstr ""
+msgstr "Aiguillon en Rafale MK I"
 
 #: src-en/data/blueprints.xml.append:661
 msgid ""
@@ -357,11 +362,13 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_1\"]/desc"
 msgstr ""
+"Ce rayon utilise plus efficacement l'énergie en tirant plusieurs faisceaux "
+"courts et de faible puissance qui font sauter les boucliers."
 
 #: src-en/data/blueprints.xml.append:692
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_2\"]/title"
-msgstr ""
+msgstr "Aiguillon en Rafale MK II"
 
 #: src-en/data/blueprints.xml.append:693
 msgid ""
@@ -372,11 +379,13 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_2\"]/desc"
 msgstr ""
+"Ce rayon utilise plus efficacement l'énergie en tirant plusieurs faisceaux "
+"courts et de faible puissance qui font sauter les boucliers."
 
 #: src-en/data/blueprints.xml.append:724
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_3\"]/title"
-msgstr ""
+msgstr "Aiguillon en Rafale MK III"
 
 #: src-en/data/blueprints.xml.append:725
 msgid ""
@@ -387,51 +396,60 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_3\"]/desc"
 msgstr ""
+"Ce rayon utilise plus efficacement l'énergie en tirant plusieurs faisceaux "
+"courts et de faible puissance qui font sauter les boucliers."
 
 #: src-en/data/blueprints.xml.append:756
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_COMBINER\"]/title"
-msgstr ""
+msgstr "Multi-Laser"
 
 #: src-en/data/blueprints.xml.append:757
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_COMBINER\"]/short"
-msgstr ""
+msgstr "Multi-Laser"
 
 #: src-en/data/blueprints.xml.append:758
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_COMBINER\"]/desc"
 msgstr ""
+"Ce laser est en fait constitué de plusieurs lasers réunis dans un seul canon."
 
 #: src-en/data/blueprints.xml.append:801
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART\"]/title"
-msgstr ""
+msgstr "Laser intelligent"
 
 #: src-en/data/blueprints.xml.append:802
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART\"]/short"
-msgstr ""
+msgstr "Laser intelligent"
 
 #: src-en/data/blueprints.xml.append:803
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART\"]/desc"
 msgstr ""
+"Cette arme est dotée d'une IA intégrée qui vous enlève le contrôle du "
+"ciblage. Elle donnera la priorité à la destruction des boucliers, puis des "
+"armes, du pilotage et des moteurs, et enfin de la pièce désignée."
 
 #: src-en/data/blueprints.xml.append:842
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART_ENEMY\"]/title"
-msgstr ""
+msgstr "Laser intelligent"
 
 #: src-en/data/blueprints.xml.append:843
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART_ENEMY\"]/short"
-msgstr ""
+msgstr "Laser intelligent"
 
 #: src-en/data/blueprints.xml.append:844
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART_ENEMY\"]/desc"
 msgstr ""
+"Cette arme est dotée d'une IA intégrée qui vous enlève le contrôle du "
+"ciblage. Elle donnera la priorité à la destruction des boucliers, puis des "
+"armes, du pilotage et des moteurs, et enfin de la pièce désignée."
 
 #: src-en/data/blueprints.xml.append:879
 msgid ""
@@ -754,12 +772,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1546
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_NODAMAGE_1\"]/title"
-msgstr ""
+msgstr "Projectile de Rayon en Rafale"
 
 #: src-en/data/blueprints.xml.append:1547
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_NODAMAGE_1\"]/short"
-msgstr ""
+msgstr "Projectile de Rayon en Rafale"
 
 #: src-en/data/blueprints.xml.append:1548
 msgid ""

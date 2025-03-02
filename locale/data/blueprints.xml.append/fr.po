@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-28 14:13+0000\n"
+"PO-Revision-Date: 2025-03-02 15:16+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/fr/>\n"
@@ -356,7 +356,7 @@ msgstr "Aiguillon en Rafale MK I"
 #: src-en/data/blueprints.xml.append:661
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_1\"]/short"
-msgstr ""
+msgstr "Aiguille en rafale I"
 
 #: src-en/data/blueprints.xml.append:662
 msgid ""
@@ -373,7 +373,7 @@ msgstr "Aiguillon en Rafale MK II"
 #: src-en/data/blueprints.xml.append:693
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_2\"]/short"
-msgstr ""
+msgstr "Aiguille en rafale II"
 
 #: src-en/data/blueprints.xml.append:694
 msgid ""
@@ -390,7 +390,7 @@ msgstr "Aiguillon en Rafale MK III"
 #: src-en/data/blueprints.xml.append:725
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_3\"]/short"
-msgstr ""
+msgstr "Aiguille en rafale III"
 
 #: src-en/data/blueprints.xml.append:726
 msgid ""
@@ -459,22 +459,29 @@ msgstr "Laboratoire R&D"
 #: src-en/data/blueprints.xml.append:880
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RADLAB_1\"]/name"
-msgstr ""
+msgstr "Station 37-A"
 
 #: src-en/data/blueprints.xml.append:881
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RADLAB_1\"]/desc"
 msgstr ""
+"Une station civile lourdement modifiée. Les scientifiques y ont installé une "
+"paire de moteurs. Cependant, ils sont à peine suffisants pour permettre à la "
+"station de faire un saut. Il est peu probable que vous puissiez esquiver "
+"grand-chose avec elle."
 
 #: src-en/data/blueprints.xml.append:953
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_COATING\"]/title"
-msgstr ""
+msgstr "Couche de Shrapnel"
 
 #: src-en/data/blueprints.xml.append:954
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_COATING\"]/desc"
 msgstr ""
+"Permet d'appliquer une couche de shrapnel aux munitions d'une arme ou d'une "
+"classe d'armes, ce qui confère à cette arme 1 dégât de système aux pièces "
+"adjacentes."
 
 #: src-en/data/blueprints.xml.append:961
 msgid ""
@@ -484,84 +491,106 @@ msgstr "Traceur de Saut"
 #: src-en/data/blueprints.xml.append:962
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_JUMP_TRACKER\"]/desc"
 msgstr ""
+"Grâce à l'utilisation de la sciences et de capteurs avancées, cet appareil "
+"permet à votre vaisseau de tracer les sauts de certains vaisseaux."
 
 #: src-en/data/blueprints.xml.append:969
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FLESH_HULL\"]/title"
-msgstr ""
+msgstr "Revêtement de coque organique"
 
 #: src-en/data/blueprints.xml.append:970
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FLESH_HULL\"]/desc"
 msgstr ""
+"Grâce à une bio-ingénierie avancée, votre coque est capable de se réparer "
+"avec le temps. Cependant, elle est assez instable.\n"
+"\tChaque fois que vous tirez avec une arme, votre coque subit 1 dégât ou un "
+"dégât égal au dégât de coque de l'arme, le plus élevé des deux étant retenu."
+"\n"
+"  Au début du combat, vous récupérez automatiquement 10 points de dégâts de "
+"coque"
 
 #: src-en/data/blueprints.xml.append:980
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_RAD_SHRAPNEL_COATING\"]/title"
-msgstr ""
+msgstr "Couche de Shrapnel"
 
 #: src-en/data/blueprints.xml.append:981
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_RAD_SHRAPNEL_COATING\"]/desc"
 msgstr ""
+"Permet d'appliquer une couche de shrapnel aux munitions d'une arme ou d'une "
+"classe d'armes, ce qui confère à cette arme 1 dégât de système aux pièces "
+"adjacentes."
 
 #: src-en/data/blueprints.xml.append:988
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/desc"
 msgstr ""
+"Équipage Expérimental Alpha. Autrefois un puissant fantôme en fin de vie, il "
+"a été modifié par des expériences pour enflammer tout ce qu'il touche..\n"
+"\t\n"
+"\tCaractéristiques héritées du fantôme : ne subit aucun dégât des dangers "
+"environnementaux, vitesse réduite à 0.8x, capacité de traverser les portes.."
+"\n"
+"\tLaisse une traînée de feu partout où il passe."
 
 #: src-en/data/blueprints.xml.append:994
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/title"
-msgstr ""
+msgstr "Expérience 26"
 
 #: src-en/data/blueprints.xml.append:995
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/short"
-msgstr ""
+msgstr "Ex. 26"
 
 #: src-en/data/blueprints.xml.append:998
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/powerList/power"
-msgstr ""
+msgstr "Santé max de 110, sabote 2x plus vite"
 
 #: src-en/data/blueprints.xml.append:1008
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/title"
-msgstr ""
+msgstr "Drone répulseur"
 
 #: src-en/data/blueprints.xml.append:1009
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/short"
-msgstr ""
+msgstr "Drone répulseur"
 
 #: src-en/data/blueprints.xml.append:1010
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 
 #: src-en/data/blueprints.xml.append:1014
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/powerList/power"
 msgstr "DRONE"
 
 #: src-en/data/blueprints.xml.append:1021
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR\"]/title"
-msgstr ""
+msgstr "Drone répulseur"
 
 #: src-en/data/blueprints.xml.append:1022
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR\"]/short"
-msgstr ""
+msgstr "Répulseur"
 
 #: src-en/data/blueprints.xml.append:1023
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR\"]/desc"
 msgstr ""
+"Drone utilitaire contrôlable qui protège la pièce dans laquelle il se trouve "
+"en repoussant les projectiles qui la visent.\n"
+"    \n"
+"-75 HP, vitesse de déplacement 2x"
 
 #: src-en/data/blueprints.xml.append:1033
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor_enemy\"]/title"
-msgstr ""
+msgstr "Drone répulseur"
 
 #: src-en/data/blueprints.xml.append:1034
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor_enemy\"]/short"
-msgstr ""
+msgstr "Drone répulseur"
 
 #: src-en/data/blueprints.xml.append:1035
 msgid ""
@@ -569,7 +598,6 @@ msgid ""
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 
 #: src-en/data/blueprints.xml.append:1039
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor_enemy\"]/powerList/power"
 msgstr "DRONE"
@@ -577,47 +605,57 @@ msgstr "DRONE"
 #: src-en/data/blueprints.xml.append:1046
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR_ENEMY\"]/title"
-msgstr ""
+msgstr "Drone répulseur"
 
 #: src-en/data/blueprints.xml.append:1047
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR_ENEMY\"]/short"
-msgstr ""
+msgstr "Drone répulseur"
 
 #: src-en/data/blueprints.xml.append:1048
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR_ENEMY\"]/desc"
 msgstr ""
+"Drone utilitaire contrôlable qui protège la pièce dans laquelle il se trouve "
+"en repoussant les projectiles qui la visent.\n"
+"    \n"
+"-75 HP, vitesse de déplacement 2x"
 
 #: src-en/data/blueprints.xml.append:1058
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION\"]/class"
-msgstr ""
+msgstr "Station avancée"
 
 #: src-en/data/blueprints.xml.append:1059
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION\"]/name"
-msgstr ""
+msgstr "Station 27A"
 
 #: src-en/data/blueprints.xml.append:1061
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION\"]/desc"
 msgstr ""
+"Il s'agit de l'une des stations prototypes les plus avancées du laboratoire "
+"R&D. Elle est équipée de moteurs, mais ceux-ci ne servent qu'à se déplacer "
+"d'un point A à un point B. La station doit compter sur d'autres méthodes "
+"pour éviter d'être touchée."
 
 #: src-en/data/blueprints.xml.append:1135
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_2\"]/class"
-msgstr ""
+msgstr "Station avancée"
 
 #: src-en/data/blueprints.xml.append:1136
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_2\"]/name"
-msgstr ""
+msgstr "Station 33B"
 
 #: src-en/data/blueprints.xml.append:1138
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_2\"]/desc"
 msgstr ""
+"Cette station utilise des drones avancés pour se protéger des projectiles "
+"afin de compenser le manque de puissance des moteurs."
 
 #: src-en/data/blueprints.xml.append:1212
 msgid ""
@@ -627,82 +665,93 @@ msgstr "Croiseur Organique"
 #: src-en/data/blueprints.xml.append:1213
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH\"]/name"
-msgstr ""
+msgstr "Ne pas manger"
 
 #: src-en/data/blueprints.xml.append:1215
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH\"]/desc"
 msgstr ""
+"Quelqu'un aurait vraiment dû empêcher cela d'exister.\n"
+"L'extérieur charnu n'est pas très résistant, mais il se répare rapidement. "
+"Vous devrez faire attention à ne pas trop solliciter la partie organique et "
+"à ne pas détruire la coque."
 
 #: src-en/data/blueprints.xml.append:1290
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/title"
-msgstr ""
+msgstr "Cœur charnu"
 
 #: src-en/data/blueprints.xml.append:1291
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/short"
-msgstr ""
+msgstr "Cœur charnu"
 
 #: src-en/data/blueprints.xml.append:1292
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/desc"
 msgstr ""
+"[RECHARGEMENT DE BASE : 4] Ce Cœur est littéralement le cœur de votre "
+"vaisseau. \n"
+"\tÀ chaque recharge, il répare 1 point de dégâts de coque."
 
 #: src-en/data/blueprints.xml.append:1294
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/tooltip"
-msgstr ""
+msgstr "Guérit le vaisseau"
 
 #: src-en/data/blueprints.xml.append:1311
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_ZS\"]/title"
-msgstr ""
+msgstr "Générateur de bouclier Zoltan"
 
 #: src-en/data/blueprints.xml.append:1312
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_ZS\"]/short"
-msgstr ""
+msgstr "Générateur de bouclier Zoltan"
 
 #: src-en/data/blueprints.xml.append:1313
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_ZS\"]/desc"
 msgstr ""
+"[RECHARGEMENT DE BASE : 12] Génère une couche de super bouclier à chaque tir "
+"de l’artillerie."
 
 #: src-en/data/blueprints.xml.append:1316
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_ZS\"]/tooltip"
-msgstr ""
+msgstr "Crée un super bouclier."
 
 #: src-en/data/blueprints.xml.append:1333
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/title"
-msgstr ""
+msgstr "Permuter de moteur"
 
 #: src-en/data/blueprints.xml.append:1334
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/short"
-msgstr ""
+msgstr "Permuter de moteur"
 
 #: src-en/data/blueprints.xml.append:1335
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/desc"
 msgstr ""
+"[RECHARGEMENT DE BASE : 25] À chaque tir, tout l'équipage de chaque vaisseau "
+"est téléporté sur l'autre vaisseau, quelle que soit son origine."
 
 #: src-en/data/blueprints.xml.append:1338
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/tooltip"
-msgstr ""
+msgstr "Crée un super bouclier."
 
 #: src-en/data/blueprints.xml.append:1355
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/title"
-msgstr ""
+msgstr "Cœur charnu"
 
 #: src-en/data/blueprints.xml.append:1356
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/short"
-msgstr ""
+msgstr "Cœur charnu"
 
 #: src-en/data/blueprints.xml.append:1357
 msgid ""
@@ -712,42 +761,55 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:1358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Guérit le vaisseau"
 
 #: src-en/data/blueprints.xml.append:1374
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/class"
-msgstr ""
+msgstr "Croiseur fantôme expérimental"
 
 #: src-en/data/blueprints.xml.append:1375
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/name"
-msgstr ""
+msgstr "26ème Croiseur"
 
 #: src-en/data/blueprints.xml.append:1377
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/desc"
 msgstr ""
+"Ce vaisseau est capable d'incendier les vaisseaux ennemis grâce à son "
+"équipage fantôme expérimental et à un rayon de torche perforant.\n"
+"Heureusement, le téléporteur de ce vaisseau est équipé d'une fonction "
+"spéciale de sécurité qui permet de récupérer l'équipage s'il se trouve sur "
+"un vaisseau ennemi au moment de l'explosion."
 
 #: src-en/data/blueprints.xml.append:1449
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TELE_EVAC\"]/title"
-msgstr ""
+msgstr "Baie combinée Medi-Clone"
 
 #: src-en/data/blueprints.xml.append:1450
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TELE_EVAC\"]/desc"
 msgstr ""
+"Combine les effets de l'infirmerie avec ceux de la baie de clonage, "
+"permettant à votre équipement à la fois de soigner et de cloner. "
+"Malheureusement, la vitesse de soin est inférieure à celle d'une infirmerie "
+"classique."
 
 #: src-en/data/blueprints.xml.append:1461
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"DEFENSE_FOCUS\"]/title"
-msgstr ""
+msgstr "Drone de défense aiguillon"
 
 #: src-en/data/blueprints.xml.append:1462
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"DEFENSE_FOCUS\"]/short"
-msgstr ""
+msgstr "Rayon de défense"
 
 #: src-en/data/blueprints.xml.append:1463
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"DEFENSE_FOCUS\"]/desc"
 msgstr ""
+"Drone de défense capable de cibler des lasers ou des projectiles solides. Il "
+"tire un rayon aiguillon plutôt qu'un laser.\n"
+"    Recharge : 250 MS"
 
 #: src-en/data/blueprints.xml.append:1479
 msgid ""
@@ -757,17 +819,19 @@ msgstr "Drone Laser"
 #: src-en/data/blueprints.xml.append:1509
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_RAD_ZAPPER\"]/title"
-msgstr ""
+msgstr "Drone Zapper MK III"
 
 #: src-en/data/blueprints.xml.append:1510
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_RAD_ZAPPER\"]/short"
-msgstr ""
+msgstr "Zapper III"
 
 #: src-en/data/blueprints.xml.append:1511
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_RAD_ZAPPER\"]/desc"
 msgstr ""
+"Cette arme ne fera pas grand-chose à un vaisseau ennemi, mais elle ciblera "
+"et tirera automatiquement sur les drones de combat et de défense ennemis."
 
 #: src-en/data/blueprints.xml.append:1546
 msgid ""
@@ -787,41 +851,57 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:1579
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SINGULARITY_MINE\"]/title"
-msgstr ""
+msgstr "Lanceur de Singularité"
 
 #: src-en/data/blueprints.xml.append:1580
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SINGULARITY_MINE\"]/short"
-msgstr ""
+msgstr "Singularité"
 
 #: src-en/data/blueprints.xml.append:1581
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SINGULARITY_MINE\"]/desc"
 msgstr ""
+"Tirant une grosse bombe capable de faire un trou dans l'espace-temps, elle "
+"ne fait pas de dégâts par elle-même, mais attire tous les projectiles "
+"flottants vers elle."
 
 #: src-en/data/blueprints.xml.append:1611
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT\"]/title"
-msgstr ""
+msgstr "Carte de crédit Master"
 
 #: src-en/data/blueprints.xml.append:1612
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT\"]/desc"
 msgstr ""
+"Avec l'accès à une quantité infinie d'argent, pourquoi auriez-vous besoin de "
+"stocker de la ferraille ?\n"
+"\t\n"
+"\tMalheureusement, les dépenses mensuelles sont limitées à 200 pièces de "
+"ferraille"
 
 #: src-en/data/blueprints.xml.append:1621
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT_2\"]/title"
-msgstr ""
+msgstr "Chambre forte de la banque"
 
 #: src-en/data/blueprints.xml.append:1622
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT_2\"]/desc"
-msgstr ""
+msgstr "Vous commencez avec 2000 ferrailles, vous ne pouvez pas en gagner plus."
 
 #: src-en/data/blueprints.xml.append:1629
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SYSTEM_DUMB\"]/title"
-msgstr ""
+msgstr "Systèmes à faible niveau de compétences"
 
 #: src-en/data/blueprints.xml.append:1630
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SYSTEM_DUMB\"]/desc"
 msgstr ""
+"Rend la prime d'équipage inversement proportionnel au niveau de compétence "
+"des membres d’équipage. Cela signifie qu’un pilote de niveau 0 fournira une "
+"prime de niveau 2, tandis qu’un pilote de niveau 2 fournira une prime de "
+"niveau 0.\n"
+"\n"
+"Cela est dû au fait que les systèmes sont conçus pour des équipages peu "
+"qualifiés. Ainsi, les membres hautement qualifiés réfléchissent trop et "
+"deviennent moins efficaces."
 
 #: src-en/data/blueprints.xml.append:1639
 msgid ""
@@ -845,17 +925,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1716
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_3\"]/class"
-msgstr ""
+msgstr "Station avancée"
 
 #: src-en/data/blueprints.xml.append:1717
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_3\"]/name"
-msgstr ""
+msgstr "Station 99C"
 
 #: src-en/data/blueprints.xml.append:1719
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_3\"]/desc"
 msgstr ""
+"Cette station utilise des rayons d'enlèvement pour tuer l'équipage de tout "
+"vaisseau se trouvant sur son chemin. Elle dispose également de moteurs "
+"améliorés, ce qui lui permet d'être beaucoup plus mobile que les stations "
+"précédentes."
 
 #: src-en/data/blueprints.xml.append:1790
 msgid ""
@@ -865,12 +949,16 @@ msgstr "Croiseur de classe Yacht"
 #: src-en/data/blueprints.xml.append:1791
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_2\"]/name"
-msgstr ""
+msgstr "Formateur Un"
 
 #: src-en/data/blueprints.xml.append:1792
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_2\"]/desc"
 msgstr ""
+"À une certaine époque, ce vaisseau aurait été considéré comme très élégant, "
+"mais au fil des ans, il a été modifié et réparé afin d'être plus utile. Le "
+"vaisseau est conçu comme une plate-forme d'entraînement et, en tant que tel, "
+"ne nécessite pas de membres d'équipage très qualifiés pour fonctionner."
 
 #: src-en/data/blueprints.xml.append:1863
 msgid ""
@@ -886,37 +974,48 @@ msgstr "Luxueux"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_3\"]/desc"
 msgstr ""
+"Après un braquage réussi, vous avez mis la main sur une grande quantité d’"
+"or. Cependant, vous n’avez toujours nulle part où stocker votre ferraille."
 
 #: src-en/data/blueprints.xml.append:1939
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SMALL\"]/title"
-msgstr ""
+msgstr "Technologie de navette d'élite"
 
 #: src-en/data/blueprints.xml.append:1940
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SMALL\"]/desc"
 msgstr ""
+"Répare automatiquement tous les systèmes (sauf en cas de brèche ou "
+"d'incendie).\n"
+"Fournit une résistance ionique aux armes et aux boucliers.\n"
+"Donne 50% de résistance aux systèmes.\n"
+"Donne 50% de résistance à la coque.\n"
+"Les armes se chargent 50% plus vite."
 
 #: src-en/data/blueprints.xml.append:1951
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_HUGE\"]/class"
-msgstr ""
+msgstr "Navette de combat"
 
 #: src-en/data/blueprints.xml.append:1952
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_HUGE\"]/name"
-msgstr ""
+msgstr "H.U.G.E"
 
 #: src-en/data/blueprints.xml.append:1954
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_HUGE\"]/desc"
 msgstr ""
+"Ce vaisseau peut tout simplement casser le jeu, alors préparez-vous à voir "
+"votre run partir en vrille."
 
 #: src-en/data/blueprints.xml.append:2027
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/title"
-msgstr ""
+msgstr "Rayon de Drainage de Bouclier"
 
 #: src-en/data/blueprints.xml.append:2028
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/short"
-msgstr ""
+msgstr "Rayon Drain-B"
 
 #: src-en/data/blueprints.xml.append:2029
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/desc"
@@ -926,136 +1025,180 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/descriptionOverride"
 msgstr ""
+"Cette arme draine complètement le bouclier de la cible, ce qui permet à vos "
+"armes de faire des ravages dans ses systèmes.\n"
+"Elle peut également détruire complètement un super-bouclier, mais il faut "
+"alors tirer une deuxième fois pour drainer le bouclier.\n"
+"      \n"
+"Caractéristiques :\n"
+"Puissance requise : 2\n"
+"Temps de charge : 15 secondes\n"
+"\n"
+"Tirs par charge : 1\n"
+"\n"
+"Dommages de base à la coque : 0\n"
+"Dommages totaux au système : 0\n"
+"\n"
+"Prix par défaut : 80~ - Prix de vente:40~"
 
 #: src-en/data/blueprints.xml.append:2072
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_CHARGE\"]/title"
-msgstr ""
+msgstr "Chargeur de bouclier Zoltan"
 
 #: src-en/data/blueprints.xml.append:2073
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_CHARGE\"]/desc"
 msgstr ""
+"Le générateur de bouclier produit désormais des couches de super-bouclier au "
+"lieu de couches de bouclier normales."
 
 #: src-en/data/blueprints.xml.append:2082
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/class"
-msgstr ""
+msgstr "Croiseur Zolgi"
 
 #: src-en/data/blueprints.xml.append:2083
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/name"
-msgstr ""
+msgstr "Endurance"
 
 #: src-en/data/blueprints.xml.append:2085
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/desc"
 msgstr ""
+"Combinaison des technologies Zoltan et Engi, ce vaisseau associe la "
+"technologie de production d'énergie Engi à celle des boucliers Zoltan, ce "
+"qui lui permet de générer une super couche de bouclier toutes les quelques "
+"secondes."
 
 #: src-en/data/blueprints.xml.append:2160
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/class"
-msgstr ""
+msgstr "Croiseur de retour en arrière"
 
 #: src-en/data/blueprints.xml.append:2161
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/name"
-msgstr ""
+msgstr "Échange de vaisseaux"
 
 #: src-en/data/blueprints.xml.append:2163
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/desc"
 msgstr ""
+"Un système de téléportation avancé vous permet de téléporter tout votre "
+"équipage à bord du vaisseau ennemi, mais un effet secondaire malheureux est "
+"qu'il téléporte également tout l'équipage ennemi sur votre vaisseau."
 
 #: src-en/data/blueprints.xml.append:2239
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/class"
-msgstr ""
+msgstr "Croiseur-bouclier"
 
 #: src-en/data/blueprints.xml.append:2240
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/name"
-msgstr ""
+msgstr "Sous-Armure"
 
 #: src-en/data/blueprints.xml.append:2242
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/desc"
 msgstr ""
+"Ce vaisseau est capable de déployer un sous-bouclier révolutionnaire Zoltan."
+"\n"
+"\n"
+"Les 4 armes d'artillerie traditionnellement déployées sur un vaisseau de ce "
+"type ont été remplacées par des dispositifs spéciaux qui permettent de "
+"déployer le bouclier à l'extérieur du bouclier zoltan."
 
 #: src-en/data/blueprints.xml.append:2319
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/class"
-msgstr ""
+msgstr "Croiseur brouillé"
 
 #: src-en/data/blueprints.xml.append:2320
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/name"
-msgstr ""
+msgstr "La folie"
 
 #: src-en/data/blueprints.xml.append:2322
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/desc"
-msgstr ""
+msgstr "Quelque chose a très mal tourné dans ce vaisseau."
 
 #: src-en/data/blueprints.xml.append:2389
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_UNDER\"]/title"
-msgstr ""
+msgstr "Sous-bouclier Zoltan"
 
 #: src-en/data/blueprints.xml.append:2390
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_UNDER\"]/desc"
 msgstr ""
+"Comme un surbouclier Zoltan, mais il se place sous la bulle de bouclier "
+"normale."
 
 #: src-en/data/blueprints.xml.append:2398
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAM\"]/title"
-msgstr ""
+msgstr "Générateur Embrouilleur"
 
 #: src-en/data/blueprints.xml.append:2399
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAM\"]/desc"
 msgstr ""
+"Toutes les 15 secondes, tous les passagers de votre vaisseau sont "
+"mystérieusement déplacés dans une nouvelle pièce, heureusement, il semble "
+"que la salle de pilotage ait échappé à cet effet."
 
 #: src-en/data/blueprints.xml.append:2408
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/title"
-msgstr ""
+msgstr "Super Bouclier MK III"
 
 #: src-en/data/blueprints.xml.append:2409
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/short"
-msgstr ""
+msgstr "Bouclier III"
 
 #: src-en/data/blueprints.xml.append:2410
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/desc"
 msgstr ""
+"Cette arme n'infligera pas beaucoup de dégâts à un vaisseau ennemi, mais "
+"elle rechargera 3 couches de bouclier énergétique à chaque charge et tir."
 
 #: src-en/data/blueprints.xml.append:2446
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/title"
-msgstr ""
+msgstr "Super Bouclier MK II"
 
 #: src-en/data/blueprints.xml.append:2447
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/short"
-msgstr ""
+msgstr "Bouclier II"
 
 #: src-en/data/blueprints.xml.append:2448
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/desc"
 msgstr ""
+"Cette arme n'infligera pas beaucoup de dégâts à un vaisseau ennemi, mais "
+"elle rechargera 2 couches de bouclier énergétique à chaque charge et tir."
 
 #: src-en/data/blueprints.xml.append:2485
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/title"
-msgstr ""
+msgstr "Super Bouclier MK I"
 
 #: src-en/data/blueprints.xml.append:2486
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/short"
-msgstr ""
+msgstr "Bouclier I"
 
 #: src-en/data/blueprints.xml.append:2487
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/desc"
 msgstr ""
+"Cette arme n'infligera pas beaucoup de dégâts à un vaisseau ennemi, mais "
+"elle rechargera une couche de bouclier énergétique à chaque charge et tir."
 
 #: src-en/data/blueprints.xml.append:2525
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/title"
-msgstr ""
+msgstr "Projectile de Rayon Foudroyant"
 
 #: src-en/data/blueprints.xml.append:2526
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/short"
-msgstr ""
+msgstr "Projectile de Rayon Foudroyant"
 
 #: src-en/data/blueprints.xml.append:2527
 msgid ""
@@ -1065,94 +1208,114 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:2558
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/title"
-msgstr ""
+msgstr "Canon Tesla MK I"
 
 #: src-en/data/blueprints.xml.append:2559
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/short"
-msgstr ""
+msgstr "Tesla I"
 
 #: src-en/data/blueprints.xml.append:2561
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/desc"
 msgstr ""
+"Cette arme foudroyante se propage jusqu'à 5 fois vers une pièce adjacente."
 
 #: src-en/data/blueprints.xml.append:2598
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/title"
-msgstr ""
+msgstr "Canon Tesla MK II"
 
 #: src-en/data/blueprints.xml.append:2599
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/short"
-msgstr ""
+msgstr "Tesla II"
 
 #: src-en/data/blueprints.xml.append:2601
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/desc"
 msgstr ""
+"Cette arme foudroyante se propage jusqu'à 4 fois vers une pièce adjacente."
 
 #: src-en/data/blueprints.xml.append:2638
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/title"
-msgstr ""
+msgstr "Canon Tesla MK III"
 
 #: src-en/data/blueprints.xml.append:2639
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/short"
-msgstr ""
+msgstr "Tesla III"
 
 #: src-en/data/blueprints.xml.append:2641
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/desc"
 msgstr ""
+"Cette arme foudroyante se propage jusqu'à 2 fois vers une pièce adjacente."
 
 #: src-en/data/blueprints.xml.append:2679
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/title"
-msgstr ""
+msgstr "Canon à cascade d'ions"
 
 #: src-en/data/blueprints.xml.append:2680
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/short"
-msgstr ""
+msgstr "Cascade d'ions"
 
 #: src-en/data/blueprints.xml.append:2682
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/desc"
 msgstr ""
+"Cette arme foudroyante se propage jusqu'à 3 fois vers une pièce adjacente."
 
 #: src-en/data/blueprints.xml.append:2722
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/title"
-msgstr ""
+msgstr "Canon à ré-action"
 
 #: src-en/data/blueprints.xml.append:2723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/short"
-msgstr ""
+msgstr "Ré-action"
 
 #: src-en/data/blueprints.xml.append:2725
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/desc"
 msgstr ""
+"Cette arme foudroyante se propage jusqu'à 3 fois vers une pièce adjacente. "
+"Cette arme fait également sauter les couches de bouclier"
 
 #: src-en/data/blueprints.xml.append:2762
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_MULTISHOT\"]/title"
-msgstr ""
+msgstr "Armes à tirs multiples"
 
 #: src-en/data/blueprints.xml.append:2763
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_MULTISHOT\"]/desc"
 msgstr ""
+"Divise chaque projectile ou rayon tiré en deux, cependant les dégâts de "
+"coque, de système et d'ion sont réduits de moitié. Si la valeur de base est "
+"impaire, un projectile infligera plus de dégâts que l'autre. Lorsqu'il est "
+"utilisé avec des armes à haute énergie, tous les projectiles sont doublés "
+"mais conservent leurs dégâts d'origine.\n"
+"\n"
+"Peut être installé en interne pour 20 ferrailles dans le menu de stockage."
 
 #: src-en/data/blueprints.xml.append:2772
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/title"
-msgstr ""
+msgstr "Armes à haute énergie"
 
 #: src-en/data/blueprints.xml.append:2773
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/desc"
 msgstr ""
+"Double les dégâts à la coque, les dégâts au système et les dégâts ioniques "
+"de tous les projectiles ou rayons que vous tirez, mais réduit le taux de "
+"recharge des armes de 60 %. Lorsqu'il est utilisé avec le tir multiple, tous "
+"les projectiles sont doublés mais conservent leurs dégâts d'origine.\n"
+"\n"
+"Peut être installé en interne pour 20 ferrailles dans le menu de stockage, "
+"ne se cumule pas."
 
 #: src-en/data/blueprints.xml.append:2782
 #, fuzzy
@@ -1165,35 +1328,51 @@ msgstr ""
 "Multiplie la vitesse de tous vos projectiles et faisceaux par 4. Les canons "
 "électromagnétique, ça envoi !\n"
 "Peut être installé en interne pour 10 ferrailles dans le menu de stockage, "
-"ne s'additionne pas."
+"ne se cumule pas."
 
 #: src-en/data/blueprints.xml.append:2791
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MOD_SUS\"]/title"
-msgstr ""
+msgstr "Soutiens de Réparation"
 
 #: src-en/data/blueprints.xml.append:2792
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MOD_SUS\"]/desc"
 msgstr ""
+"Lorsque l'équipage quitte une pièce qui n'est que partiellement réparée, le "
+"niveau de réparation est maintenu et n'est pas perdu en raison du départ "
+"membre d'équipage.\n"
+"Peut être installé en interne pour 10 ferrailles dans le menu de stockage, "
+"ne se cumule pas."
 
 #: src-en/data/blueprints.xml.append:2801
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_MULTISHOT\"]/title"
-msgstr ""
+msgstr "Armes à tirs multiples"
 
 #: src-en/data/blueprints.xml.append:2802
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_MULTISHOT\"]/desc"
 msgstr ""
+"Divise chaque projectile ou rayon tiré en deux, cependant les dégâts de "
+"coque, de système et d'ion sont réduits de moitié. Si la valeur de base est "
+"impaire, un projectile infligera plus de dégâts que l'autre.\n"
+"      Peut être installé en interne pour 20 ferrailles dans le menu de "
+"stockage."
 
 #: src-en/data/blueprints.xml.append:2812
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_BIGSHOT\"]/title"
-msgstr ""
+msgstr "Armes à haute énergie"
 
 #: src-en/data/blueprints.xml.append:2813
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_BIGSHOT\"]/desc"
 msgstr ""
+"Double les dégâts à la coque, les dégâts au système et les dégâts ioniques "
+"de tous les projectiles ou rayons que vous tirez, mais réduit le taux de "
+"recharge des armes de 60 %, incompatible avec le tir mutliple.\n"
+"      Peut être installé en interne pour 20 ferrailles dans le menu de "
+"stockage."
 
 #: src-en/data/blueprints.xml.append:2823
 #, fuzzy
@@ -1211,154 +1390,220 @@ msgstr ""
 "stockage."
 
 #: src-en/data/blueprints.xml.append:2834
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_MOD_SUS\"]/title"
-msgstr ""
+msgstr "Soutiens de Réparation"
 
 #: src-en/data/blueprints.xml.append:2835
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_MOD_SUS\"]/desc"
 msgstr ""
+"Lorsque l'équipage quitte une pièce qui n'est que partiellement réparée, le "
+"niveau de réparation est maintenu et n'est pas perdu en raison du départ "
+"membre d'équipage.\n"
+"Peut être installé en interne pour 10 ferrailles dans le menu de stockage."
 
 #: src-en/data/blueprints.xml.append:2844
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_REFLECT_HULL\"]/title"
-msgstr ""
+msgstr "Revêtement de coque réfléchissant"
 
 #: src-en/data/blueprints.xml.append:2845
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_REFLECT_HULL\"]/desc"
 msgstr ""
+"Ce revêtement de coque est spécialement conçu pour réfléchir les rayons qui "
+"touchent le vaisseau.\n"
+"Les rayons sont renvoyés vers le vaisseau ennemi et n'infligent que la "
+"moitié de leurs dégâts à votre vaisseau (arrondi à l'inférieur).\n"
+"\n"
+"Ce revêtement fournit également 5 points de Super Coque, empêchant 5 coups "
+"par bataille d'infliger des dégâts à la coque."
 
 #: src-en/data/blueprints.xml.append:2856
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_TIME_HULL\"]/title"
-msgstr ""
+msgstr "Revêtement de coque distordu"
 
 #: src-en/data/blueprints.xml.append:2857
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_TIME_HULL\"]/desc"
 msgstr ""
+"Chaque fois que ce vaisseau subit des dégâts de coque, le temps de recharge "
+"du système temporel est réinitialisé et une arme aléatoire voit son temps de "
+"recharge terminé. Cependant, la vitesse de rechargement des armes est "
+"réduite de 25 %. \n"
+"\n"
+"Ce revêtement fournit également 1 point de Super Coque, empêchant 1 dégât de "
+"coque par bataille."
 
 #: src-en/data/blueprints.xml.append:2867
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_HULL\"]/title"
-msgstr ""
+msgstr "Revêtement de Coque Supérieur"
 
 #: src-en/data/blueprints.xml.append:2868
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_HULL\"]/desc"
 msgstr ""
+"Ce revêtement fournit 5 points de Super Coque, empêchant 5 coups par "
+"bataille d'infliger des dégâts à la coque."
 
 #: src-en/data/blueprints.xml.append:2876
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_BULLET_HELL\"]/title"
-msgstr ""
+msgstr "Revêtement de coque en matière noire"
 
 #: src-en/data/blueprints.xml.append:2877
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_BULLET_HELL\"]/desc"
 msgstr ""
+"Cette coque est complètement invincible, cependant, en raison des "
+"distorsions du continuum espace-temps, tous les projectiles sont ralentis à "
+"1/4 de leur vitesse, infligent 45 dégâts supplémentaires à l'équipage ("
+"jusqu'à un maximum de 75) et affichent leur point d'impact sur votre "
+"vaisseau. \n"
+"Il semble également que la distorsion spatio-temporelle ait rendu la baie de "
+"clonage presque inutile : elle est incapable de cloner qui que ce soit, mais "
+"elle peut toujours soigner l'équipage lors des sauts.  \n"
+"Votre équipage ne peut se soigner d'aucune autre manière, cependant, tous "
+"vos membres d'équipage infligent 1,5 fois plus de dégâts."
 
 #: src-en/data/blueprints.xml.append:2888
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/title"
-msgstr ""
+msgstr "Rayon tracteur"
 
 #: src-en/data/blueprints.xml.append:2889
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/short"
-msgstr ""
+msgstr "Tracteur"
 
 #: src-en/data/blueprints.xml.append:2890
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/desc"
 msgstr ""
+"Le rayon lui-même n'inflige aucun dégât, mais il crée une forte attraction "
+"gravitationnelle à l'impact.\n"
+"Pour chaque tuile que le rayon touche, il attire un astéroïde vers la tuile."
 
 #: src-en/data/blueprints.xml.append:2918
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/class"
-msgstr ""
+msgstr "Croiseur à miroir"
 
 #: src-en/data/blueprints.xml.append:2919
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/name"
-msgstr ""
+msgstr "Inflexion"
 
 #: src-en/data/blueprints.xml.append:2921
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/desc"
 msgstr ""
+"Ce vaisseau utilise une mystérieuse structure cristalline capable de "
+"renvoyer des rayons directement sur l'ennemi.\n"
+"Il fournit également 5 points de super coque."
 
 #: src-en/data/blueprints.xml.append:2998
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/class"
-msgstr ""
+msgstr "\"Croiseur Briseur de Temps\""
 
 #: src-en/data/blueprints.xml.append:2999
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/name"
-msgstr ""
+msgstr "Wilczek"
 
 #: src-en/data/blueprints.xml.append:3001
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/desc"
 msgstr ""
+"La coque du vaisseau possède d'étranges propriétés : à chaque impact, une "
+"salle est affectée par un effet temporel aléatoire et une arme voit son "
+"temps de recharge terminé."
 
 #: src-en/data/blueprints.xml.append:3076
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/class"
-msgstr ""
+msgstr "Croiseur sombre"
 
 #: src-en/data/blueprints.xml.append:3077
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/name"
-msgstr ""
+msgstr "Le trou noir"
 
 #: src-en/data/blueprints.xml.append:3079
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/desc"
 msgstr ""
+"Grâce aux propriétés de l'armure du vaisseau, vous n'aurez pas à vous "
+"soucier de l'explosion du vaisseau, mais vous devrez faire attention à votre "
+"équipage, qui est assez vulnérable.\n"
+"Vous devrez éviter autant que possible d'endommager votre équipage, car les "
+"maigres soins prodigués par la baie de clonage risquent de ne pas suffire."
 
 #: src-en/data/blueprints.xml.append:3138
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREVERSAL\"]/title"
-msgstr ""
+msgstr "Exp. Système d'occultation"
 
 #: src-en/data/blueprints.xml.append:3139
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREVERSAL\"]/desc"
 msgstr ""
+"Ce système d'occultation expérimental échange la perte de la moitié de la "
+"durée de l'occultation contre la capacité de repousser tous les projectiles "
+"ennemis, en les reciblant sur le vaisseau adverse."
 
 #: src-en/data/blueprints.xml.append:3146
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CBEAM\"]/title"
-msgstr ""
+msgstr "Système d'artillerie occultant"
 
 #: src-en/data/blueprints.xml.append:3147
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CBEAM\"]/desc"
 msgstr ""
+"Ce système d'occultation expérimental échange la perte de la moitié de la "
+"durée de l'occultation contre la possibilité de tirer un rayon dévastateur "
+"traçant une ligne entre le système de bouclier ennemi et le système "
+"d'armement.\n"
+"\n"
+"Le rayon fait 1 dégât, et gagne un demi-dégât supplémentaire pour chaque "
+"point d'énergie dans le système d'armement."
 
 #: src-en/data/blueprints.xml.append:3156
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CHACK\"]/title"
-msgstr ""
+msgstr "Système d'occultation amélioré"
 
 #: src-en/data/blueprints.xml.append:3157
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CHACK\"]/desc"
 msgstr ""
+"Ce système d'occultation expérimental pirate le système de bouclier de "
+"l'ennemi lorsqu'il est occulté, mais il désactive également vos propres "
+"armes."
 
 #: src-en/data/blueprints.xml.append:3164
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/class"
-msgstr ""
+msgstr "Corvette scientifique"
 
 #: src-en/data/blueprints.xml.append:3165
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/name"
-msgstr ""
+msgstr "Le dynamique"
 
 #: src-en/data/blueprints.xml.append:3167
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/desc"
 msgstr ""
+"Ce vaisseau utilise son système d'occultation pour non seulement esquiver "
+"les projectiles ennemis, mais les renvoie sur le vaisseau adverse en réponse."
 
 #: src-en/data/blueprints.xml.append:3240
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/title"
-msgstr ""
+msgstr "Rayon d'occultation"
 
 #: src-en/data/blueprints.xml.append:3241
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/short"
-msgstr ""
+msgstr "Rayon d'occultation"
 
 #: src-en/data/blueprints.xml.append:3242
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/desc"
@@ -1367,119 +1612,143 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:3269
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/class"
-msgstr ""
+msgstr "Corvette scientifique"
 
 #: src-en/data/blueprints.xml.append:3270
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/name"
-msgstr ""
+msgstr "L'illusion"
 
 #: src-en/data/blueprints.xml.append:3272
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/desc"
 msgstr ""
+"Le système d'occultation de ce vaisseau est spécialement équipé pour générer "
+"un large rayon d'énergie capable d'endommager le vaisseau ennemi."
 
 #: src-en/data/blueprints.xml.append:3344
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/class"
-msgstr ""
+msgstr "Corvette scientifique"
 
 #: src-en/data/blueprints.xml.append:3345
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/name"
-msgstr ""
+msgstr "L'illusion"
 
 #: src-en/data/blueprints.xml.append:3347
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/desc"
 msgstr ""
+"Le système d'occultation de ce vaisseau est doté d'un système de piratage "
+"supplémentaire. Il pirate le système de bouclier de l'ennemi lorsque vous "
+"vous occultez, mais cela entraîne le piratage de votre propre système "
+"d'armement."
 
 #: src-en/data/blueprints.xml.append:3421
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/title"
-msgstr ""
+msgstr "PIRATAGE"
 
 #: src-en/data/blueprints.xml.append:3422
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/short"
-msgstr ""
+msgstr "PIRATAGE"
 
 #: src-en/data/blueprints.xml.append:3424
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/desc"
-msgstr ""
+msgstr "NON"
 
 #: src-en/data/blueprints.xml.append:3467
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/title"
-msgstr ""
+msgstr "PIRATAGE"
 
 #: src-en/data/blueprints.xml.append:3468
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/short"
-msgstr ""
+msgstr "PIRATAGE"
 
 #: src-en/data/blueprints.xml.append:3470
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/desc"
-msgstr ""
+msgstr "NON"
 
 #: src-en/data/blueprints.xml.append:3513
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/title"
-msgstr ""
+msgstr "PIRATAGE"
 
 #: src-en/data/blueprints.xml.append:3514
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/short"
-msgstr ""
+msgstr "PIRATAGE"
 
 #: src-en/data/blueprints.xml.append:3516
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/desc"
-msgstr ""
+msgstr "NON"
 
 #: src-en/data/blueprints.xml.append:3558
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/class"
-msgstr ""
+msgstr "Coupeur de science"
 
 #: src-en/data/blueprints.xml.append:3559
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/name"
-msgstr ""
+msgstr "Sputnik"
 
 #: src-en/data/blueprints.xml.append:3561
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/desc"
 msgstr ""
+"Sur le plus petit des vaisseaux spatiaux, cette machine reste une arme "
+"redoutable avec 6 emplacements d’armes.\n"
+"Cependant, en raison de sa taille réduite, le réacteur ne peut alimenter que "
+"des armes nécessitant 1 point d'énergie, limitant grandement vos options."
 
 #: src-en/data/blueprints.xml.append:3631
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_WEAPON\"]/title"
-msgstr ""
+msgstr "Armes de faible puissance"
 
 #: src-en/data/blueprints.xml.append:3632
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_WEAPON\"]/desc"
 msgstr ""
+"En raison du réacteur défaillant du vaisseau, seules les armes nécessitant "
+"un point d'énergie ou moins peuvent être utilisées. Cependant, ces armes "
+"tireront deux fois plus de projectiles/rayons."
 
 #: src-en/data/blueprints.xml.append:3639
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/class"
-msgstr ""
+msgstr "Coupeur de science"
 
 #: src-en/data/blueprints.xml.append:3640
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/name"
-msgstr ""
+msgstr "Canon Renforcé"
 
 #: src-en/data/blueprints.xml.append:3642
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/desc"
 msgstr ""
+"En raison de supports d'armes spécialisés, ce vaisseau peut efficacement "
+"monter des armes nécessitant 4 points de puissance ou plus avec une "
+"réduction de coût en énergie. Cependant, il est incapable d'équiper des "
+"armes nécessitant 2 points de puissance ou moins."
 
 #: src-en/data/blueprints.xml.append:3712
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CUTTER_OXY\"]/title"
-msgstr ""
+msgstr "Oxygène à faible puissance"
 
 #: src-en/data/blueprints.xml.append:3713
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CUTTER_OXY\"]/desc"
 msgstr ""
+"En raison du réacteur défaillant du vaisseau, le système d’oxygène est "
+"incapable de produire de l’oxygène. La situation est si critique que tous "
+"les êtres anaérobies perdent leur immunité à l’asphyxie, et les dégâts de "
+"suffocation sont doublés."
 
 #: src-en/data/blueprints.xml.append:3720
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/class"
-msgstr ""
+msgstr "Coupeur de science"
 
 #: src-en/data/blueprints.xml.append:3721
 msgid ""
@@ -1490,22 +1759,34 @@ msgstr "Boîte de Pandore"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/desc"
 msgstr ""
+"Chaque fois que vous participez à un combat, vos armes sont remplacées. Vous "
+"devrez utiliser stratégiquement les sauts hors combat pour réorganiser votre "
+"arsenal."
 
 #: src-en/data/blueprints.xml.append:3797
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SHIELD\"]/title"
-msgstr ""
+msgstr "Embrouilleur d'Armes"
 
 #: src-en/data/blueprints.xml.append:3798
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SHIELD\"]/desc"
 msgstr ""
+"À chaque combat, toutes vos armes sont remplacées aléatoirement. Si vous "
+"avez 3 armes, seules ces 3 seront remplacées. Ne s'applique pas au combat "
+"contre le vaisseau amiral : les armes que vous avez avant le combat seront "
+"celles que vous conserverez."
 
 #: src-en/data/blueprints.xml.append:3805
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/desc"
 msgstr ""
+"Une unité formée scientifiquement, plus efficace contre les drones.\n"
+"    \n"
+"Caractéristiques héritées des humains : résistance mineure à la suffocation, "
+"apprentissage plus rapide des compétences."
 
 #: src-en/data/blueprints.xml.append:3810
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/title"
-msgstr ""
+msgstr "Scientifique humain"
 
 #: src-en/data/blueprints.xml.append:3811
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/short"
@@ -1515,6 +1796,8 @@ msgstr "Scientifique"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[1]"
 msgstr ""
+"Les drones hostiles se trouvant dans la même pièce subissent 1,25 fois les "
+"dégâts de toutes les sources."
 
 #: src-en/data/blueprints.xml.append:3815
 msgid ""
@@ -1524,7 +1807,7 @@ msgstr "1.20x de vitesse de réparation"
 #: src-en/data/blueprints.xml.append:3816
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[3]"
-msgstr ""
+msgstr "Dégâts de feu réduits à x0,6"
 
 #: src-en/data/blueprints.xml.append:3817
 msgid ""
@@ -1534,55 +1817,60 @@ msgstr "Apprend les réparations encore plus vite"
 #: src-en/data/blueprints.xml.append:3822
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_SHIELD\"]/title"
-msgstr ""
+msgstr "Boucliers Shrapnel"
 
 #: src-en/data/blueprints.xml.append:3823
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_SHIELD\"]/desc"
-msgstr ""
+msgstr "AAAAA."
 
 #: src-en/data/blueprints.xml.append:3830
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/class"
-msgstr ""
+msgstr "Corvette scientifique d'élite"
 
 #: src-en/data/blueprints.xml.append:3831
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/name"
-msgstr ""
+msgstr "Le négociateur"
 
 #: src-en/data/blueprints.xml.append:3833
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/desc"
 msgstr ""
+"Ce vaisseau crée un bouclier de shrapnel autour de lui pour se protéger des "
+"projectiles entrants et des drones errants qui s'approchent trop près."
 
 #: src-en/data/blueprints.xml.append:3909
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/title"
-msgstr ""
+msgstr "Canon Leurre"
 
 #: src-en/data/blueprints.xml.append:3910
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/short"
-msgstr ""
+msgstr "Canon Leurre"
 
 #: src-en/data/blueprints.xml.append:3911
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/desc"
 msgstr ""
+"[RECHARGEMENT DE BASE : 8] Ce canon déploie un bouclier de shrapnels autour "
+"du vaisseau, chacun étant capable de bloquer un projectile."
 
 #: src-en/data/blueprints.xml.append:3912
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/tooltip"
-msgstr ""
+msgstr "Canon Leurre"
 
 #: src-en/data/blueprints.xml.append:3939
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_civilian\"]/title"
-msgstr ""
+msgstr "Civils"
 
 #: src-en/data/blueprints.xml.append:3940
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_civilian\"]/short"
-msgstr ""
+msgstr "Civils"
 
 #: src-en/data/blueprints.xml.append:3964
 msgid ""
@@ -1606,11 +1894,16 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/desc"
 msgstr ""
+"L'un des plus grands scientifiques de l'univers, à l'origine de nombreuses "
+"technologies importantes.\n"
+"\n"
+"Caractéristiques héritées des humains : résistance mineure à la suffocation, "
+"apprentissage plus rapide des compétences."
 
 #: src-en/data/blueprints.xml.append:4007
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/title"
-msgstr ""
+msgstr "Scientifique humain"
 
 #: src-en/data/blueprints.xml.append:4008
 msgid ""
@@ -1620,7 +1913,7 @@ msgstr "Scientifique"
 #: src-en/data/blueprints.xml.append:4011
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[1]"
-msgstr ""
+msgstr "Inflige 1.2x les dégâts en combat d'équipage"
 
 #: src-en/data/blueprints.xml.append:4012
 msgid ""
@@ -1631,6 +1924,8 @@ msgstr "Reçoit 0.7x de dégat en combat et 0.6x du feu"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[3]"
 msgstr ""
+"Les drones hostiles qui se trouvent dans la même pièce subissent deux fois "
+"plus de dégâts, toutes sources confondues."
 
 #: src-en/data/blueprints.xml.append:4014
 msgid ""
@@ -1646,11 +1941,16 @@ msgstr "Apprend les réparations encore plus vite"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/desc"
 msgstr ""
+"L'un des plus grands scientifiques de l'univers, à l'origine de nombreuses "
+"technologies importantes.\n"
+"\t\n"
+"Caractéristiques héritées des humains : résistance mineure à la suffocation, "
+"apprentissage plus rapide des compétences."
 
 #: src-en/data/blueprints.xml.append:4024
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/title"
-msgstr ""
+msgstr "Scientifique humain"
 
 #: src-en/data/blueprints.xml.append:4025
 msgid ""
@@ -1660,7 +1960,7 @@ msgstr "Scientifique"
 #: src-en/data/blueprints.xml.append:4028
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[1]"
-msgstr ""
+msgstr "Inflige 1.2x les dégâts en combat d'équipage"
 
 #: src-en/data/blueprints.xml.append:4029
 msgid ""
@@ -1671,6 +1971,8 @@ msgstr "Reçoit 0.7x de dégat en combat et 0.6x du feu"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[3]"
 msgstr ""
+"Les drones hostiles qui se trouvent dans la même pièce subissent deux fois "
+"plus de dégâts, toutes sources confondues."
 
 #: src-en/data/blueprints.xml.append:4031
 msgid ""
@@ -1685,140 +1987,177 @@ msgstr "Apprend les réparations encore plus vite"
 #: src-en/data/blueprints.xml.append:4037
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/class"
-msgstr ""
+msgstr "Croiseur d'armes d'élite"
 
 #: src-en/data/blueprints.xml.append:4038
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/name"
-msgstr ""
+msgstr "Plus de Puissance"
 
 #: src-en/data/blueprints.xml.append:4040
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/desc"
 msgstr ""
+"Le système d'armement de ce vaisseau a été renforcé pour atteindre une "
+"puissance maximale de 12, mais ce surplus d'énergie signifie qu'il est "
+"impossible d'installer un système médical."
 
 #: src-en/data/blueprints.xml.append:4113
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOOR_LOCKS\"]/title"
-msgstr ""
+msgstr "Un système d'armes puissant"
 
 #: src-en/data/blueprints.xml.append:4114
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOOR_LOCKS\"]/desc"
 msgstr ""
+"Le système d'armement a été renforcé pour atteindre une puissance maximale "
+"de 12, mais cette consommation d'énergie supplémentaire signifie que vos "
+"portes sont verrouillées lorsque le système d'armement est en marche."
 
 #: src-en/data/blueprints.xml.append:4121
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SCRAP\"]/title"
-msgstr ""
+msgstr "Petite Soute à Cargo"
 
 #: src-en/data/blueprints.xml.append:4122
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SCRAP\"]/desc"
 msgstr ""
+"Une fois que vous avez atteint les 75 ferrailles dans votre soute, vous ne "
+"pouvez plus en gagner en combat ou lors d'événements.\n"
+"+20 % de gain de ferraille."
 
 #: src-en/data/blueprints.xml.append:4131
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/title"
-msgstr ""
+msgstr "Canon à diffusion MK I"
 
 #: src-en/data/blueprints.xml.append:4132
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/short"
-msgstr ""
+msgstr "Diffuse I"
 
 #: src-en/data/blueprints.xml.append:4133
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/desc"
 msgstr ""
+"Chaque projectile tiré par cette arme percute les boucliers, faisant tomber "
+"une couche de boucliers, avant de se diviser en deux autres projectiles qui "
+"frappent chacun quelque part sur le vaisseau ennemi.\n"
+"Lorsque le projectile se divise, chaque nouveau projectile s'écarte du point "
+"d'impact de 10 pixels maximum. Ne fonctionne pas avec les super boucliers."
 
 #: src-en/data/blueprints.xml.append:4175
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/title"
-msgstr ""
+msgstr "Canon à diffusion MK II"
 
 #: src-en/data/blueprints.xml.append:4176
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/short"
-msgstr ""
+msgstr "Diffuse II"
 
 #: src-en/data/blueprints.xml.append:4177
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/desc"
 msgstr ""
+"Chaque projectile tiré par cette arme percute les boucliers, faisant tomber "
+"une couche de boucliers, avant de se diviser en deux autres projectiles qui "
+"frappent chacun quelque part sur le vaisseau ennemi.\n"
+"Lorsque le projectile se divise, chaque nouveau projectile s'écarte du point "
+"d'impact de 10 pixels maximum. Ne fonctionne pas avec les super boucliers."
 
 #: src-en/data/blueprints.xml.append:4219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/title"
-msgstr ""
+msgstr "Canon à diffusion MK III"
 
 #: src-en/data/blueprints.xml.append:4220
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/short"
-msgstr ""
+msgstr "Diffuse III"
 
 #: src-en/data/blueprints.xml.append:4221
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/desc"
 msgstr ""
+"Chaque projectile tiré par cette arme percute les boucliers, faisant tomber "
+"une couche de boucliers, avant de se diviser en deux autres projectiles qui "
+"frappent chacun quelque part sur le vaisseau ennemi.\n"
+"Lorsque le projectile se divise, chaque nouveau projectile s'écarte du point "
+"d'impact de 10 pixels maximum. Ne fonctionne pas avec les super boucliers."
 
 #: src-en/data/blueprints.xml.append:4263
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/title"
-msgstr ""
+msgstr "Diffusion Ion"
 
 #: src-en/data/blueprints.xml.append:4264
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/short"
-msgstr ""
+msgstr "Diffus Ion"
 
 #: src-en/data/blueprints.xml.append:4265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/desc"
 msgstr ""
+"Chaque projectile tiré par cette arme percute les boucliers, les ionise, "
+"avant de se diviser en deux autres projectiles qui frappent chacun un "
+"endroit du vaisseau ennemi.\n"
+"Lorsque le projectile se divise, chaque nouveau projectile s'écarte du point "
+"d'impact de 10 pixels maximum. Ne fonctionne pas avec les super boucliers."
 
 #: src-en/data/blueprints.xml.append:4309
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/class"
-msgstr ""
+msgstr "Croiseur Réacteur d'Élite"
 
 #: src-en/data/blueprints.xml.append:4310
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/name"
-msgstr ""
+msgstr "Collecteur compact"
 
 #: src-en/data/blueprints.xml.append:4312
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/desc"
 msgstr ""
+"Un vaisseau doté d'un énorme réacteur, mais celui-ci empiète sur la soute, "
+"ce qui limite la quantité de ferraille qu'il peut contenir."
 
 #: src-en/data/blueprints.xml.append:4385
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/class"
-msgstr ""
+msgstr "Croiseur d'artillerie d'élite"
 
 #: src-en/data/blueprints.xml.append:4386
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/name"
-msgstr ""
+msgstr "L'accélérateur"
 
 #: src-en/data/blueprints.xml.append:4388
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/desc"
 msgstr ""
+"Ce vaisseau dispose d'une artillerie spécialement conçue qui peut gagner en "
+"puissance lorsqu'elle porte le coup de grâce à un vaisseau ennemi. Cette "
+"puissance peut ensuite être utilisée pour améliorer les statistiques de "
+"l'artillerie."
 
 #: src-en/data/blueprints.xml.append:4463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/title"
-msgstr ""
+msgstr "Artillerie laser modulaire Hektar"
 
 #: src-en/data/blueprints.xml.append:4464
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/short"
-msgstr ""
+msgstr "Artillerie laser modulaire Hektar"
 
 #: src-en/data/blueprints.xml.append:4465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/desc"
 msgstr ""
+"[RECHARGEMENT DE BASE : 15] Tire 3 lasers par défaut, peut installer un "
+"nombre infini de composants modulaires."
 
 #: src-en/data/blueprints.xml.append:4468
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/tooltip"
-msgstr ""
+msgstr "Laser modulaire."
 
 #: src-en/data/blueprints.xml.append:4482
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_NO_DOOR\"]/title"
@@ -1827,6 +2166,8 @@ msgstr "Téléporteurs Personnels"
 #: src-en/data/blueprints.xml.append:4483
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_NO_DOOR\"]/desc"
 msgstr ""
+"Permet à votre équipage de se téléporter dans le vaisseau, mais uniquement "
+"lorsque votre système d’armement est désactivé."
 
 #: src-en/data/blueprints.xml.append:4490
 msgid ""
@@ -1837,10 +2178,18 @@ msgstr "Forage d'amarrage"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOCKING_DRILL\"]/desc"
 msgstr ""
+"Vous permet de vous attacher au côté du vaisseau ennemi.\n"
+"Lorsque vous le faites, le temps de recharge de votre téléporteur devient "
+"instantané, mais cela s'applique également à l'ennemi.\n"
+"Cela désactivera également l'effet de guérison de la téléportation si vous "
+"choisissez de vous amarrer à l'ennemi.\n"
+"De plus, les projectiles ne pourront plus être esquivés, ni par vous ni par "
+"l'ennemi (sauf en cas d'occultation).\n"
+"L'ennemi ne pourra pas s'enfuir pendant 2 minutes si vous vous arrimez à lui."
 
 #: src-en/data/blueprints.xml.append:4502
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_UP_ARTI\"]/title"
-msgstr ""
+msgstr "Artillerie améliorée"
 
 #: src-en/data/blueprints.xml.append:4503
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_UP_ARTI\"]/desc"
@@ -1848,78 +2197,101 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 
 #: src-en/data/blueprints.xml.append:4510
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAP_HULL\"]/title"
-msgstr ""
+msgstr "Ferraille de coque"
 
 #: src-en/data/blueprints.xml.append:4511
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAP_HULL\"]/desc"
 msgstr ""
+"Au lieu d'avoir la santé de la coque, votre vaisseau meurt si vous atteignez "
+"0 ferraille.\n"
+"Chaque fois que vous êtes touché, vous perdez 10 % de votre ferraille. Si "
+"vous deviez perdre moins de 10 ferrailles, vous en perdez 10 de toute façon."
+"\n"
+"\n"
+"Augmente le gain de ferraille de 25 %"
 
 #: src-en/data/blueprints.xml.append:4522
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/title"
-msgstr ""
+msgstr "Canon à pièces MK I"
 
 #: src-en/data/blueprints.xml.append:4523
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/short"
-msgstr ""
+msgstr "Canon à pièces I"
 
 #: src-en/data/blueprints.xml.append:4524
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/desc"
 msgstr ""
+"Cette arme tire des pièces, chaque projectile consomme 2 ferrailles du "
+"vaisseau, mais si le tir touche sa cible avec succès, la ferraille est "
+"récupérée avec un bonus supplémentaire. Cependant, la ferraille n'est pas "
+"rendue si le projectile frappe un bouclier ou un drone."
 
 #: src-en/data/blueprints.xml.append:4558
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/title"
-msgstr ""
+msgstr "Canon à pièces MK I"
 
 #: src-en/data/blueprints.xml.append:4559
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/short"
-msgstr ""
+msgstr "Canon à pièces I"
 
 #: src-en/data/blueprints.xml.append:4560
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/desc"
 msgstr ""
+"Cette arme tire des pièces, chaque projectile consomme 2 ferrailles du "
+"vaisseau, mais si le tir touche sa cible avec succès, la ferraille est "
+"récupérée. Cependant, la ferraille n'est pas rendue si le projectile frappe "
+"un bouclier ou un drone."
 
 #: src-en/data/blueprints.xml.append:4593
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/class"
-msgstr ""
+msgstr "Croiseur de Confinement"
 
 #: src-en/data/blueprints.xml.append:4594
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/name"
-msgstr ""
+msgstr "L'Adorable"
 
 #: src-en/data/blueprints.xml.append:4596
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/desc"
 msgstr ""
+"Ce vaisseau utilise de petits téléporteurs personnels pour déplacer "
+"l'équipage dans le vaisseau, mais ils ne fonctionnent pas lorsque les armes "
+"sont activées."
 
 #: src-en/data/blueprints.xml.append:4669
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/class"
-msgstr ""
+msgstr "Croiseur de Ferraille"
 
 #: src-en/data/blueprints.xml.append:4670
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/name"
-msgstr ""
+msgstr "La casse"
 
 #: src-en/data/blueprints.xml.append:4672
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/desc"
 msgstr ""
+"La coque de ce vaisseau est presque entièrement constituée de ferraille, ce "
+"qui la rend très facile à réparer, mais elle se démonte assez facilement et, "
+"de ce fait, vous pouvez perdre votre ferraille rapidement."
 
 #: src-en/data/blueprints.xml.append:4745
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/class"
-msgstr ""
+msgstr "Croiseur Invasion"
 
 #: src-en/data/blueprints.xml.append:4746
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/name"
-msgstr ""
+msgstr "Vitesse d'amarrage !"
 
 #: src-en/data/blueprints.xml.append:4748
 msgid ""
@@ -1931,17 +2303,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4825
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/title"
-msgstr ""
+msgstr "Le MerveilloDrone+ (tm)"
 
 #: src-en/data/blueprints.xml.append:4826
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/short"
-msgstr ""
+msgstr "MerveilloDrone+"
 
 #: src-en/data/blueprints.xml.append:4827
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/desc"
 msgstr ""
+"Variante améliorée du MerveilloDrone, capable d'alimenter les 4 armes à la "
+"fois, à savoir un missile, un ion, un rayon et un laser."
 
 #: src-en/data/blueprints.xml.append:4842
 msgid ""
@@ -1951,16 +2325,18 @@ msgstr "Drone Rayon"
 #: src-en/data/blueprints.xml.append:4861
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/title"
-msgstr ""
+msgstr "Drone Rafale MK I"
 
 #: src-en/data/blueprints.xml.append:4862
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/short"
-msgstr ""
+msgstr "Drone Rafale I"
 
 #: src-en/data/blueprints.xml.append:4863
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/desc"
 msgstr ""
+"Variante améliorée du MerveilloDrone, capable d'alimenter les 4 armes à la "
+"fois, à savoir un missile, un ion, un rayon et un laser."
 
 #: src-en/data/blueprints.xml.append:4878
 msgid ""
@@ -1969,7 +2345,7 @@ msgstr "Drone Rayon"
 
 #: src-en/data/blueprints.xml.append:4897
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/title"
-msgstr ""
+msgstr "Artillerie dynamique"
 
 #: src-en/data/blueprints.xml.append:4898
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/short"
@@ -1978,304 +2354,358 @@ msgstr "Artillerie"
 #: src-en/data/blueprints.xml.append:4899
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/desc"
 msgstr ""
+"[Temps de recharge de base : 20] Par défaut, tire 2 lasers qui infligent 1 "
+"dégât chacun."
 
 #: src-en/data/blueprints.xml.append:4930
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/class"
-msgstr ""
+msgstr "Coupeur Scientifique d'Élite"
 
 #: src-en/data/blueprints.xml.append:4931
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/name"
-msgstr ""
+msgstr "L'ISS"
 
 #: src-en/data/blueprints.xml.append:4933
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/desc"
-msgstr ""
+msgstr "Bonne chance, Capitaine."
 
 #: src-en/data/blueprints.xml.append:5006
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_HIGH_WEAPON\"]/title"
-msgstr ""
+msgstr "Armes de grande puissance"
 
 #: src-en/data/blueprints.xml.append:5007
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_HIGH_WEAPON\"]/desc"
 msgstr ""
+"Les supports d'armes de ce vaisseau sont spécialement conçus pour les armes "
+"nécessitant 4 points de puissance ou plus, réduisant leur coût énergétique à "
+"seulement 2. \n"
+"Les armes nécessitant 2 points de puissance ou moins ne fonctionneront pas "
+"avec ces emplacements. Les armes de 3 points de puissance fonctionnent "
+"normalement."
 
 #: src-en/data/blueprints.xml.append:5015
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_RANDOM\"]/title"
-msgstr ""
+msgstr "Super Embrouilleur"
 
 #: src-en/data/blueprints.xml.append:5016
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_RANDOM\"]/desc"
 msgstr ""
+"Remplace toutes vos armes, votre équipage et vos drones à chaque combat."
 
 #: src-en/data/blueprints.xml.append:5024
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/title"
-msgstr ""
+msgstr "Déployeur de bombes à retardement"
 
 #: src-en/data/blueprints.xml.append:5025
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/short"
-msgstr ""
+msgstr "Déployeur de bombes"
 
 #: src-en/data/blueprints.xml.append:5026
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/desc"
 msgstr ""
+"Chaque fois qu'il se recharge, il construit une nouvelle bombe à retardement."
 
 #: src-en/data/blueprints.xml.append:5045
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[57]/title"
-msgstr ""
+msgstr "Déployeur de bombes à retardement"
 
 #: src-en/data/blueprints.xml.append:5046
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[57]/short"
-msgstr ""
+msgstr "Déployeur de bombes"
 
 #: src-en/data/blueprints.xml.append:5047
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[57]/desc"
 msgstr ""
+"Chaque fois qu'il se recharge, il construit une nouvelle bombe à retardement."
 
 #: src-en/data/blueprints.xml.append:5078
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/title"
-msgstr ""
+msgstr "Usine de bombes à retardement"
 
 #: src-en/data/blueprints.xml.append:5079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/short"
-msgstr ""
+msgstr "Usine de bombes à retardement"
 
 #: src-en/data/blueprints.xml.append:5080
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/desc"
 msgstr ""
+"[TEMPS DE RECHARGE DE BASE : 20] \n"
+"Chaque fois qu'elle se recharge, elle construit une nouvelle bombe à "
+"retardement."
 
 #: src-en/data/blueprints.xml.append:5083
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/tooltip"
 msgstr ""
+"Crée une nouvelle bombe à retardement à chaque fois qu'elle se recharge."
 
 #: src-en/data/blueprints.xml.append:5100
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/title"
-msgstr ""
+msgstr "Usine de fabrication de bombes secondaires"
 
 #: src-en/data/blueprints.xml.append:5101
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/short"
-msgstr ""
+msgstr "Usine de fabrication de bombes secondaires"
 
 #: src-en/data/blueprints.xml.append:5102
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/desc"
 msgstr ""
+"[TEMPS DE RECHARGE DE BASE : 20] \n"
+"Chaque fois qu'elle se recharge, elle construit une nouvelle bombe à "
+"retardement."
 
 #: src-en/data/blueprints.xml.append:5105
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/tooltip"
 msgstr ""
+"Crée une nouvelle bombe à retardement à chaque fois qu'elle se recharge."
 
 #: src-en/data/blueprints.xml.append:5121
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/title"
-msgstr ""
+msgstr "Bombe à Retardement Ambulante"
 
 #: src-en/data/blueprints.xml.append:5122
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/short"
-msgstr ""
+msgstr "Bombe à Retardement Ambulante"
 
 #: src-en/data/blueprints.xml.append:5123
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/desc"
 msgstr ""
+"Lorsque cette bombe explose, elle inflige 1 dégât à la coque, 1 dégât au "
+"système et 30 dégât à l'équipage avec 50 % de chances de brèche."
 
 #: src-en/data/blueprints.xml.append:5126
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[1]"
-msgstr ""
+msgstr "0,5 fois les dégâts de combat"
 
 #: src-en/data/blueprints.xml.append:5127
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[2]"
-msgstr ""
+msgstr "0,5 fois la vitesse de déplacement."
 
 #: src-en/data/blueprints.xml.append:5128
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[3]"
-msgstr ""
+msgstr "Immunisé contre l'asphyxie, subit 0,2 fois les dégâts des incendies."
 
 #: src-en/data/blueprints.xml.append:5129
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[4]"
-msgstr ""
+msgstr "Explose au bout de 10 secondes."
 
 #: src-en/data/blueprints.xml.append:5130
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[5]"
 msgstr ""
+"L'explosion inflige 1 dégât à la coque, 1 dégât au système et 30 dégât à "
+"l'équipage avec 50 % de chances de brèche."
 
 #: src-en/data/blueprints.xml.append:5136
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/title"
-msgstr ""
+msgstr "Bombe à Retardement Ambulante"
 
 #: src-en/data/blueprints.xml.append:5137
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/short"
-msgstr ""
+msgstr "Bombe à Retardement Ambulante"
 
 #: src-en/data/blueprints.xml.append:5138
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/desc"
 msgstr ""
+"Lorsque cette bombe explose, elle inflige 2 dégâts à la coque, 2 dégâts au "
+"système et 60 dégâts à l'équipage avec 100 % de chances de brèche."
 
 #: src-en/data/blueprints.xml.append:5141
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[1]"
-msgstr ""
+msgstr "0,5 fois les dégâts de combat"
 
 #: src-en/data/blueprints.xml.append:5142
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[2]"
-msgstr ""
+msgstr "0,5 fois la vitesse de déplacement."
 
 #: src-en/data/blueprints.xml.append:5143
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[3]"
-msgstr ""
+msgstr "Immunisé contre l'asphyxie, subit 0,2 fois les dégâts des incendies."
 
 #: src-en/data/blueprints.xml.append:5144
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[4]"
 msgstr ""
+"Subit 1 dégât par seconde lorsqu'il se trouve à l'extérieur de la salle "
+"d'usine."
 
 #: src-en/data/blueprints.xml.append:5145
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[5]"
 msgstr ""
+"Soigne 1 point de dégâts par seconde lorsqu'il se trouve dans la salle de "
+"l'usine."
 
 #: src-en/data/blueprints.xml.append:5146
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[6]"
 msgstr ""
+"Explose 10 secondes après avoir quitté la salle d'usine, l'explosion étant "
+"annulée par la mort."
 
 #: src-en/data/blueprints.xml.append:5147
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[7]"
 msgstr ""
+"L'explosion inflige 2 dégâts à la coque, 2 dégâts au système et 60 dégâts à "
+"l'équipage avec 100 % de chances de brèche."
 
 #: src-en/data/blueprints.xml.append:5153
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/title"
-msgstr ""
+msgstr "Bombe à Retardement Ambulante"
 
 #: src-en/data/blueprints.xml.append:5154
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/short"
-msgstr ""
+msgstr "Bombe à Retardement Ambulante"
 
 #: src-en/data/blueprints.xml.append:5155
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/desc"
 msgstr ""
+"Lorsque cette bombe explose, elle inflige 2 dégât à la coque, 1 dégât au "
+"système et 30 dégât à l'équipage avec 50 % de chances de brèche."
 
 #: src-en/data/blueprints.xml.append:5158
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[1]"
-msgstr ""
+msgstr "0,5 fois les dégâts de combat"
 
 #: src-en/data/blueprints.xml.append:5159
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[2]"
-msgstr ""
+msgstr "0,5 fois la vitesse de déplacement."
 
 #: src-en/data/blueprints.xml.append:5160
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[3]"
-msgstr ""
+msgstr "Immunisé contre l'asphyxie, subit 0,2 fois les dégâts des incendies."
 
 #: src-en/data/blueprints.xml.append:5161
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[4]"
 msgstr ""
+"Subit 1 dégât par seconde lorsqu'il se trouve à l'extérieur de la salle "
+"d'usine."
 
 #: src-en/data/blueprints.xml.append:5162
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[5]"
 msgstr ""
+"Soigne 1 point de dégâts par seconde lorsqu'il se trouve dans la salle de "
+"l'usine."
 
 #: src-en/data/blueprints.xml.append:5163
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[6]"
-msgstr ""
+msgstr "Explose sur commande et à la mort."
 
 #: src-en/data/blueprints.xml.append:5164
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[7]"
 msgstr ""
+"L'explosion inflige 2 dommages à la coque, 1 dommage au système et 30 "
+"dommages à l'équipage avec 50% de chances de brèche."
 
 #: src-en/data/blueprints.xml.append:5170
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/title"
-msgstr ""
+msgstr "Bombe à Retardement Ambulante"
 
 #: src-en/data/blueprints.xml.append:5171
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/short"
-msgstr ""
+msgstr "Bombe à Retardement Ambulante"
 
 #: src-en/data/blueprints.xml.append:5172
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/desc"
 msgstr ""
+"Lorsque cette bombe explose, elle inflige 1 dégât au système et 15 dégâts à "
+"l'équipage, avec 100 % de chances d'incendie."
 
 #: src-en/data/blueprints.xml.append:5175
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[1]"
-msgstr ""
+msgstr "0,5 fois les dégâts de combat"
 
 #: src-en/data/blueprints.xml.append:5176
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[2]"
-msgstr ""
+msgstr "Immunisé contre la suffocation et le feu."
 
 #: src-en/data/blueprints.xml.append:5177
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[3]"
 msgstr ""
+"Subit 1 dégât par seconde lorsqu'il se trouve à l'extérieur de la salle "
+"d'usine."
 
 #: src-en/data/blueprints.xml.append:5178
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[4]"
 msgstr ""
+"Soigne 1 point de dégâts par seconde lorsqu'il se trouve dans la salle de "
+"l'usine."
 
 #: src-en/data/blueprints.xml.append:5179
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[5]"
 msgstr ""
+"Explose 10 secondes après avoir quitté la salle d'usine, l'explosion étant "
+"annulée par la mort."
 
 #: src-en/data/blueprints.xml.append:5180
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[6]"
 msgstr ""
+"L'explosion inflige 1 dégât au système et 15 dégâts à l'équipage avec 100 % "
+"de chances d'incendie."
 
 #: src-en/data/blueprints.xml.append:5186
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/class"
-msgstr ""
+msgstr "Croiseur minéralier"
 
 #: src-en/data/blueprints.xml.append:5187
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/name"
-msgstr ""
+msgstr "Le champ de mines"
 
 #: src-en/data/blueprints.xml.append:5188
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/desc"
 msgstr ""
+"On dit que ce vaisseau a été réquisitionné par un pirate qui en avait assez "
+"d'attendre que les gens s'aventurent dans le champ de mines..."
 
 #: src-en/data/blueprints.xml.append:5259
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY\"]/title"
-msgstr ""
+msgstr "USINE DE DRONES CACHÉE"
 
 #: src-en/data/blueprints.xml.append:5260
 msgid ""
@@ -2285,7 +2715,7 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:5267
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY_2\"]/title"
-msgstr ""
+msgstr "USINE DE DRONES CACHÉE"
 
 #: src-en/data/blueprints.xml.append:5268
 msgid ""
@@ -2295,53 +2725,69 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:5275
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MISSILE_BOMBS\"]/title"
-msgstr ""
+msgstr "Charges secondaires"
 
 #: src-en/data/blueprints.xml.append:5276
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MISSILE_BOMBS\"]/desc"
 msgstr ""
+"Désormais, tous vos missiles et bombes génèrent une bombe à retardement qui "
+"inflige 1 dégât à la coque, 1 dégât au système et 30 dégât à l'équipage au "
+"bout de 10 secondes."
 
 #: src-en/data/blueprints.xml.append:5283
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/class"
-msgstr ""
+msgstr "Croiseur de Chargement"
 
 #: src-en/data/blueprints.xml.append:5284
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/name"
-msgstr ""
+msgstr "L'obusier"
 
 #: src-en/data/blueprints.xml.append:5285
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/desc"
 msgstr ""
+"Un croiseur lourd à missiles conçu pour semer la pagaille au sein de "
+"l'équipage ennemi, chaque missile étant doté d'une charge secondaire "
+"composée de bombes ambulantes."
 
 #: src-en/data/blueprints.xml.append:5358
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/class"
-msgstr ""
+msgstr "Croiseur minéralier"
 
 #: src-en/data/blueprints.xml.append:5359
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/name"
-msgstr ""
+msgstr "L'écorcheur de mines"
 
 #: src-en/data/blueprints.xml.append:5360
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/desc"
 msgstr ""
+"Capable de soutenir des niveaux de destruction presque inégalés. Ce vaisseau "
+"ne peut pas installer d'armement, mais il n'en a pas vraiment besoin puisque "
+"les deux usines de drones peuvent fournir autant de mines."
 
 #: src-en/data/blueprints.xml.append:5426
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/title"
-msgstr ""
+msgstr "Le poseur de mines expérimental"
 
 #: src-en/data/blueprints.xml.append:5427
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/short"
-msgstr ""
+msgstr "Exp. Mine"
 
 #: src-en/data/blueprints.xml.append:5428
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/desc"
 msgstr ""
+"Les lance-mines se chargent rapidement et tirent une salve de projectiles "
+"lents, mais ces projectiles sont spécialement conçus pour déployer des mines "
+"ambulantes capables de traverser le vaisseau ennemi pour le détruire. C'est "
+"également un moyen efficace de tendre des pièges à la flotte.\n"
+"\t\n"
+"\tAux balises vides, permet de retarder la flotte de 2 sauts contre 13 "
+"missiles."

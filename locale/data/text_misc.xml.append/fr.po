@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-28 14:13+0000\n"
+"PO-Revision-Date: 2025-03-02 15:16+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datatext_miscxmlappend/fr/>\n"
@@ -121,7 +121,6 @@ msgstr ""
 "-10 secondes de recharge"
 
 #: src-en/data/text_misc.xml.append:40
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lightning\"]"
 msgstr ""
 "Les armes électriques sautent dans une pièce adjacente et infligent à "

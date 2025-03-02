@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-22 13:13+0000\n"
+"PO-Revision-Date: 2025-03-02 15:16+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "dataautoblueprintsxmlappend/fr/>\n"
@@ -62,7 +62,6 @@ msgid ""
 msgstr "Le Maître des rayons"
 
 #: src-en/data/autoBlueprints.xml.append:507
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_RICHSON\"]/class"
 msgstr "Croiseur de classe Yacht"
@@ -188,10 +187,9 @@ msgid ""
 msgstr "Intercepteur hanté"
 
 #: src-en/data/autoBlueprints.xml.append:1257
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_INTERCEPTOR_LANIUS\"]/class"
-msgstr "Intercepteur à la ferraille"
+msgstr "Intercepteur de ferraille"
 
 #: src-en/data/autoBlueprints.xml.append:1280
 msgid ""

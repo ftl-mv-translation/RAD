@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-01-30 23:22+0000\n"
+"PO-Revision-Date: 2025-03-02 15:16+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datatext_blueprintsxmlappend/fr/>\n"
@@ -78,10 +78,9 @@ msgid ""
 msgstr "Se ranger du côté des scientifiques et trahir une certaine expérience."
 
 #: src-en/data/text_blueprints.xml.append:15
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MANTIS_2_unlock\"]"
-msgstr "Traiter avec des aliens de l'autoroute."
+msgstr "Traiter avec des aliens routiers."
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""

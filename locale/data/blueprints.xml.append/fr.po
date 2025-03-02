@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-02 15:16+0000\n"
+"PO-Revision-Date: 2025-03-03 19:16+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/fr/>\n"
@@ -769,7 +769,6 @@ msgid ""
 msgstr "Croiseur fantôme expérimental"
 
 #: src-en/data/blueprints.xml.append:1375
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/name"
 msgstr "26ème Croiseur"
@@ -997,7 +996,6 @@ msgid ""
 msgstr "Navette de combat"
 
 #: src-en/data/blueprints.xml.append:1952
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_HUGE\"]/name"
 msgstr "H.U.G.E"
@@ -1071,7 +1069,6 @@ msgstr ""
 "secondes."
 
 #: src-en/data/blueprints.xml.append:2160
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/class"
 msgstr "Croiseur de retour en arrière"
@@ -1111,7 +1108,6 @@ msgstr ""
 "déployer le bouclier à l'extérieur du bouclier zoltan."
 
 #: src-en/data/blueprints.xml.append:2319
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/class"
 msgstr "Croiseur brouillé"
@@ -1137,7 +1133,6 @@ msgstr ""
 "normale."
 
 #: src-en/data/blueprints.xml.append:2398
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAM\"]/title"
 msgstr "Générateur Embrouilleur"
 
@@ -1318,7 +1313,6 @@ msgstr ""
 "ne se cumule pas."
 
 #: src-en/data/blueprints.xml.append:2782
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_RAILGUN\"]/title"
 msgstr "Armes à accélération électromagnétique"
 
@@ -1331,7 +1325,6 @@ msgstr ""
 "ne se cumule pas."
 
 #: src-en/data/blueprints.xml.append:2791
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MOD_SUS\"]/title"
 msgstr "Soutiens de Réparation"
 
@@ -1375,7 +1368,6 @@ msgstr ""
 "stockage."
 
 #: src-en/data/blueprints.xml.append:2823
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_RAILGUN\"]/title"
 msgstr "Armes à accélération électromagnétique"
@@ -1390,7 +1382,6 @@ msgstr ""
 "stockage."
 
 #: src-en/data/blueprints.xml.append:2834
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_MOD_SUS\"]/title"
 msgstr "Soutiens de Réparation"
 
@@ -1462,13 +1453,11 @@ msgstr ""
 "vos membres d'équipage infligent 1,5 fois plus de dégâts."
 
 #: src-en/data/blueprints.xml.append:2888
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/title"
 msgstr "Rayon tracteur"
 
 #: src-en/data/blueprints.xml.append:2889
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/short"
 msgstr "Tracteur"
@@ -1482,13 +1471,11 @@ msgstr ""
 "Pour chaque tuile que le rayon touche, il attire un astéroïde vers la tuile."
 
 #: src-en/data/blueprints.xml.append:2918
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/class"
 msgstr "Croiseur à miroir"
 
 #: src-en/data/blueprints.xml.append:2919
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/name"
 msgstr "Inflexion"
@@ -1502,10 +1489,9 @@ msgstr ""
 "Il fournit également 5 points de super coque."
 
 #: src-en/data/blueprints.xml.append:2998
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/class"
-msgstr "\"Croiseur Briseur de Temps\""
+msgstr "Croiseur Briseur de Temps"
 
 #: src-en/data/blueprints.xml.append:2999
 msgid ""
@@ -1541,7 +1527,6 @@ msgstr ""
 "maigres soins prodigués par la baie de clonage risquent de ne pas suffire."
 
 #: src-en/data/blueprints.xml.append:3138
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREVERSAL\"]/title"
 msgstr "Exp. Système d'occultation"
 
@@ -1682,7 +1667,6 @@ msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/desc"
 msgstr "NON"
 
 #: src-en/data/blueprints.xml.append:3558
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/class"
 msgstr "Coupeur de science"
@@ -1718,7 +1702,6 @@ msgid ""
 msgstr "Coupeur de science"
 
 #: src-en/data/blueprints.xml.append:3640
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/name"
 msgstr "Canon Renforcé"
@@ -1733,7 +1716,6 @@ msgstr ""
 "armes nécessitant 2 points de puissance ou moins."
 
 #: src-en/data/blueprints.xml.append:3712
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CUTTER_OXY\"]/title"
 msgstr "Oxygène à faible puissance"
 
@@ -1764,7 +1746,6 @@ msgstr ""
 "arsenal."
 
 #: src-en/data/blueprints.xml.append:3797
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SHIELD\"]/title"
 msgstr "Embrouilleur d'Armes"
 
@@ -1842,7 +1823,6 @@ msgstr ""
 "projectiles entrants et des drones errants qui s'approchent trop près."
 
 #: src-en/data/blueprints.xml.append:3909
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/title"
 msgstr "Canon Leurre"
@@ -2246,13 +2226,11 @@ msgstr ""
 "un bouclier ou un drone."
 
 #: src-en/data/blueprints.xml.append:4593
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/class"
 msgstr "Croiseur de Confinement"
 
 #: src-en/data/blueprints.xml.append:4594
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/name"
 msgstr "L'Adorable"
@@ -2358,10 +2336,9 @@ msgstr ""
 "dégât chacun."
 
 #: src-en/data/blueprints.xml.append:4930
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/class"
-msgstr "Coupeur Scientifique d'Élite"
+msgstr "Coupeur de science d'Élite"
 
 #: src-en/data/blueprints.xml.append:4931
 msgid ""

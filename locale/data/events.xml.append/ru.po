@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-28 19:08+0000\n"
+"PO-Revision-Date: 2025-03-30 19:14+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataeventsxmlappend/ru/>\n"
@@ -770,8 +770,8 @@ msgstr ""
 "\t\t\t\t\t\"Кажется, я знаю, что вы ищете. Недавно здесь было что-то "
 "подобное, но Династия забрала это. Если вы хотите найти это, вам придется "
 "поговорить с ними\".\n"
-"\t\t\t\t\t\"Я передам вам координаты их ближайшего форпоста. Скорее всего, "
-"то что вы ищите находится там\"."
+"\t\t\t\t\t\"Я передам вам координаты их ближайшего форпоста. Скорее всего "
+"то, что вы ищите, находится там\"."
 
 #: src-en/data/events.xml.append:667
 msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_3\"]/text"

@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-03 19:16+0000\n"
+"PO-Revision-Date: 2025-04-02 15:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
@@ -610,7 +610,7 @@ msgstr "Drone répulseur"
 #: src-en/data/blueprints.xml.append:1047
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR_ENEMY\"]/short"
-msgstr "Drone répulseur"
+msgstr "Répulseur"
 
 #: src-en/data/blueprints.xml.append:1048
 msgid ""
@@ -1448,7 +1448,7 @@ msgstr ""
 "vaisseau. \n"
 "Il semble également que la distorsion spatio-temporelle ait rendu la baie de "
 "clonage presque inutile : elle est incapable de cloner qui que ce soit, mais "
-"elle peut toujours soigner l'équipage lors des sauts.  \n"
+"elle peut toujours soigner l'équipage lors des sauts. \n"
 "Votre équipage ne peut se soigner d'aucune autre manière, cependant, tous "
 "vos membres d'équipage infligent 1,5 fois plus de dégâts."
 

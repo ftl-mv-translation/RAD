@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-02 15:16+0000\n"
+"PO-Revision-Date: 2025-04-02 15:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "dataautoblueprintsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/autoBlueprints.xml.append:204
 msgid ""
@@ -74,7 +74,7 @@ msgstr "Colonie planétaire"
 #: src-en/data/autoBlueprints.xml.append:570
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_ENGIZOL\"]/class"
-msgstr "Exécuteur Engi?"
+msgstr "Exécuteur Engi ?"
 
 #: src-en/data/autoBlueprints.xml.append:594
 msgid ""
@@ -164,17 +164,17 @@ msgstr "Intercepteur scientifique d'élite"
 #: src-en/data/autoBlueprints.xml.append:1106
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_ENEMY_CORVETTE_1\"]/class"
-msgstr "Corvette scientifique"
+msgstr "Corvette de scientifique"
 
 #: src-en/data/autoBlueprints.xml.append:1132
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_ENEMY_CORVETTE_2\"]/class"
-msgstr "Corvette scientifique"
+msgstr "Corvette de scientifique"
 
 #: src-en/data/autoBlueprints.xml.append:1159
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_ENEMY_CORVETTE_3\"]/class"
-msgstr "Corvette scientifique"
+msgstr "Corvette de scientifique"
 
 #: src-en/data/autoBlueprints.xml.append:1209
 msgid ""

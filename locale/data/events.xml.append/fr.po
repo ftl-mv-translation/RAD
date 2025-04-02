@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-02 15:16+0000\n"
+"PO-Revision-Date: 2025-04-03 22:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "dataeventsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events.xml.append:6
 msgid "data/events.xml.append$//event[@name=\"ADDON_RAD_INFO\"]/text"
@@ -87,7 +87,7 @@ msgid "data/events.xml.append$//event[@name=\"NEMESIS_RAD\"]/text"
 msgstr ""
 "\"J'ai rencontré des scientifiques sympas et ils m'ont vendu des rayons "
 "cool. Ils sont censés téléporter votre équipage dans cette cellule de "
-"prison, juste ici, beyatch !\"\n"
+"prison, juste ici, pouffiasse !\"\n"
 "\tOn dirait que Leah a mis la main sur des rayons de téléportation. "
 "Attention !"
 

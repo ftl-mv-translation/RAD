@@ -1,0 +1,210 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/autoBlueprints.xml.append:204
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CIVILIAN_LAB\"]/class"
+msgstr "ユニオンラボ"
+
+#: src-en/data/autoBlueprints.xml.append:229
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_PIRATE_REBEL_RAD_2\"]/class"
+msgstr "海賊執行者"
+
+#: src-en/data/autoBlueprints.xml.append:252
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_PIRATE_REBEL_RAD_1\"]/class"
+msgstr "海賊"
+
+#: src-en/data/autoBlueprints.xml.append:279
+msgid "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_JAILER\"]/class"
+msgstr "海賊看守"
+
+#: src-en/data/autoBlueprints.xml.append:319
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RADLAB_FIGHTER\"]/class"
+msgstr "科学戦闘機"
+
+#: src-en/data/autoBlueprints.xml.append:353
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RADLAB_STATION\"]/class"
+msgstr "R＆D研究所"
+
+#: src-en/data/autoBlueprints.xml.append:382
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_SCIENCE_OPERATOR\"]/class"
+msgstr "科学オペレーター"
+
+#: src-en/data/autoBlueprints.xml.append:416
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_ZOLTAN_STATION\"]/class"
+msgstr "省庁"
+
+#: src-en/data/autoBlueprints.xml.append:446
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"ENEMY_SHIP_RAD_FLESH\"]/class"
+msgstr "肉の巡洋艦"
+
+#: src-en/data/autoBlueprints.xml.append:480
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_BEAM_MASTER_RAD\"]/class"
+msgstr "ビームマスター"
+
+#: src-en/data/autoBlueprints.xml.append:507
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_RICHSON\"]/class"
+msgstr "ヨットクラスの巡洋艦"
+
+#: src-en/data/autoBlueprints.xml.append:539
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_COLONY\"]/class"
+msgstr "惑星植民地"
+
+#: src-en/data/autoBlueprints.xml.append:570
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_ENGIZOL\"]/class"
+msgstr "Engi Enforcer？"
+
+#: src-en/data/autoBlueprints.xml.append:594
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_ENGIZOLTON\"]/class"
+msgstr "エンギ船？"
+
+#: src-en/data/autoBlueprints.xml.append:618
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_UNDERAIDER\"]/class"
+msgstr "テストクルーザー"
+
+#: src-en/data/autoBlueprints.xml.append:644
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_REBELOUT\"]/class"
+msgstr "反乱軍の前post"
+
+#: src-en/data/autoBlueprints.xml.append:668
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_CRYSTALENEMY\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:696
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RAD_CRYSTALENEMY2\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:756
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_GUARD\"]/class"
+msgstr "科学者警備員"
+
+#: src-en/data/autoBlueprints.xml.append:791
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_TRANSPORT\"]/class"
+msgstr "科学者輸送"
+
+#: src-en/data/autoBlueprints.xml.append:818
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_ASSUALT\"]/class"
+msgstr "科学者攻撃巡洋艦"
+
+#: src-en/data/autoBlueprints.xml.append:848
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_ASSUALT_ELITE\"]/class"
+msgstr "エリート科学者の暴行巡洋艦"
+
+#: src-en/data/autoBlueprints.xml.append:879
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_SCOUT\"]/class"
+msgstr "科学者スカウト"
+
+#: src-en/data/autoBlueprints.xml.append:900
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_SCOUT_ELITE\"]/class"
+msgstr "エリート科学者スカウト"
+
+#: src-en/data/autoBlueprints.xml.append:922
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_BOMBER\"]/class"
+msgstr "科学者爆撃機"
+
+#: src-en/data/autoBlueprints.xml.append:951
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_BOMBER_PIRATE\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:984
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_BOMBER_ELITE\"]/class"
+msgstr "エリート科学者爆撃機"
+
+#: src-en/data/autoBlueprints.xml.append:1014
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_INTERCEPTOR\"]/class"
+msgstr "科学者インターセプター"
+
+#: src-en/data/autoBlueprints.xml.append:1043
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_INTERCEPTOR_PIRATE\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:1076
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_INTERCEPTOR_ELITE\"]/class"
+msgstr "エリート科学者インターセプター"
+
+#: src-en/data/autoBlueprints.xml.append:1106
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_ENEMY_CORVETTE_1\"]/class"
+msgstr "科学者のコルベット"
+
+#: src-en/data/autoBlueprints.xml.append:1132
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_ENEMY_CORVETTE_2\"]/class"
+msgstr "科学者のコルベット"
+
+#: src-en/data/autoBlueprints.xml.append:1159
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_ENEMY_CORVETTE_3\"]/class"
+msgstr "科学者のコルベット"
+
+#: src-en/data/autoBlueprints.xml.append:1209
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"SHIP_RAD_SCIENCE_PIRATEBOARD\"]/class"
+msgstr "組合輸送"
+
+#: src-en/data/autoBlueprints.xml.append:1234
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_INTERCEPTOR_GHOST\"]/class"
+msgstr "幽霊のインターセプター"
+
+#: src-en/data/autoBlueprints.xml.append:1257
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_INTERCEPTOR_LANIUS\"]/class"
+msgstr "廃棄インターセプター"
+
+#: src-en/data/autoBlueprints.xml.append:1280
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCIENCE_CUTTER_ENEMY\"]/class"
+msgstr "科学者の自動車"
+
+#: src-en/data/autoBlueprints.xml.append:1308
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_EXPERIMENT_ENEMY\"]/class"
+msgstr "ゴーストフラッグシップ"
+
+#: src-en/data/autoBlueprints.xml.append:1332
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_SCRAPER_ENEMY\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:1359
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_PIRATE_B_RIGGER\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:1382
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RAD_B_MSHIP_PIRATE\"]/class"
+msgstr "海賊マザーシップ"

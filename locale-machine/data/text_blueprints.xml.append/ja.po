@@ -1,0 +1,131 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_blueprints.xml.append:2
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_STATION_unlock\"]"
+msgstr "いくつかの海賊からこの駅を回収します。"
+
+#: src-en/data/text_blueprints.xml.append:3
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_STATION_2_unlock\"]"
+msgstr "不正な従業員を追い詰めます。"
+
+#: src-en/data/text_blueprints.xml.append:4
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_STATION_3_unlock\"]"
+msgstr "この船のAまたはBバリアントのいずれかでセクター5に行きます。"
+
+#: src-en/data/text_blueprints.xml.append:5
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLESH_unlock\"]"
+msgstr "プロトタイプクルーザーを回収します。"
+
+#: src-en/data/text_blueprints.xml.append:6
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLESH_2_unlock\"]"
+msgstr "ENGIとの共同プロジェクトを回復します。"
+
+#: src-en/data/text_blueprints.xml.append:7
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_GHOST_unlock\"]"
+msgstr "拷問されたファントムで取得して側面を取得します。"
+
+#: src-en/data/text_blueprints.xml.append:8
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_GHOST_2_unlock\"]"
+msgstr "貧しい顧客に対処します。"
+
+#: src-en/data/text_blueprints.xml.append:9
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_RICH_unlock\"]"
+msgstr "豊かな大物の息子との側。"
+
+#: src-en/data/text_blueprints.xml.append:10
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_POOR_unlock\"]"
+msgstr "豊かな大物の息子に対する側面。"
+
+#: src-en/data/text_blueprints.xml.append:11
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_HUGE_unlock\"]"
+msgstr "このページの他のすべての船のロックを解除します。"
+
+#: src-en/data/text_blueprints.xml.append:12
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CRYSTAL_unlock\"]"
+msgstr "結晶性の反逆者に対処します。"
+
+#: src-en/data/text_blueprints.xml.append:13
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CRYSTAL_2_unlock\"]"
+msgstr "行方不明のステーションに何が起こったのかを見つけてください。"
+
+#: src-en/data/text_blueprints.xml.append:14
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MANTIS_unlock\"]"
+msgstr "科学者と側面と特定の実験を裏切る。"
+
+#: src-en/data/text_blueprints.xml.append:15
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MANTIS_2_unlock\"]"
+msgstr "いくつかの高速道路のエイリアンと対処します。"
+
+#: src-en/data/text_blueprints.xml.append:16
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MINE_unlock\"]"
+msgstr "海賊との新しい武器と賃金戦争をテストします。"
+
+#: src-en/data/text_blueprints.xml.append:17
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MINE_2_unlock\"]"
+msgstr "新しい武器をテストし、海賊と和解してください。"
+
+#: src-en/data/text_blueprints.xml.append:19
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_unlock\"]"
+msgstr "R＆Dラボからすべてのクエストを完了します。"
+
+#: src-en/data/text_blueprints.xml.append:20
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_2_unlock\"]"
+msgstr "R＆Dラボのすべてのクエストを完了し、各クエストクルーザーのタイプCのロックを解除します。"
+
+#: src-en/data/text_blueprints.xml.append:21
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_3_unlock\"]"
+msgstr "すべてのクエストクルーザー（スロットAとB）で勝ちます。近日公開"
+
+#: src-en/data/text_blueprints.xml.append:22
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_2_HIDDEN_unlock\"]"
+msgstr "近日公開"
+
+#: src-en/data/text_blueprints.xml.append:23
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_ELITE_unlock\"]"
+msgstr "両方の科学巡洋艦のすべてのスロットのロックを解除します。"
+
+#: src-en/data/text_blueprints.xml.append:24
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_ELITE_2_unlock\"]"
+msgstr "両方の科学巡洋艦のスロットAで勝ちます。"
+
+#: src-en/data/text_blueprints.xml.append:26
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_unlock\"]"
+msgstr "でロックされていますか？セクタ。"
+
+#: src-en/data/text_blueprints.xml.append:27
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_2_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_blueprints.xml.append:28
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_3_unlock\"]"
+msgstr ""

@@ -1,0 +1,191 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_storage.xml.append:9
+msgid ""
+"data/events_special_storage.xml.append$/FTL/mod:findName[1]/mod-"
+"append:choice/text"
+msgstr "（ドッキングドリル）船へのドリル。"
+
+#: src-en/data/events_special_storage.xml.append:19
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_DOCKING_RAM\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "敵のエンジンは、この時点で稼働します。"
+
+#: src-en/data/events_special_storage.xml.append:33
+msgid ""
+"data/events_special_storage.xml.append$/FTL/mod:findName[2]/mod-"
+"append:choice/text"
+msgstr "（ドッキングドリル）船へのドリル。"
+
+#: src-en/data/events_special_storage.xml.append:89
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_MISSILE\"]/crewMember"
+msgstr "爆弾"
+
+#: src-en/data/events_special_storage.xml.append:95
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_1\"]/crewMember"
+msgstr "ジェネリック爆弾"
+
+#: src-en/data/events_special_storage.xml.append:98
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_2\"]/crewMember"
+msgstr "コントロール爆弾"
+
+#: src-en/data/events_special_storage.xml.append:101
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_3\"]/crewMember"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:124
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
+"append:choice/text"
+msgstr "Science Tech。"
+
+#: src-en/data/events_special_storage.xml.append:131
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/text"
+msgstr "ドローン工場を構成します。"
+
+#: src-en/data/events_special_storage.xml.append:133
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/text"
+msgstr "どのドローンが工場を構築する必要があります。"
+
+#: src-en/data/events_special_storage.xml.append:135
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/choice[1]/text"
+msgstr "ジェネリックドローンを構築します-2ハル、2つのシステム、60乗組員、100％違反、爆発制御なし。"
+
+#: src-en/data/events_special_storage.xml.append:142
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/choice[2]/text"
+msgstr "コントロールドローンを構築する-2ハル、1つのシステム、30人の乗組員、50％の違反、完全爆発制御。"
+
+#: src-en/data/events_special_storage.xml.append:149
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/choice[3]/text"
+msgstr "コンストラクトドローン-0ハル、1つのシステム、15乗組員、100％の火、爆発制御なし。"
+
+#: src-en/data/events_special_storage.xml.append:156
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:162
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[2]/text"
+msgstr "セカンダリドローン工場を構成します。"
+
+#: src-en/data/events_special_storage.xml.append:164
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[2]/event/text"
+msgstr "どのドローンが工場を構築する必要があります。"
+
+#: src-en/data/events_special_storage.xml.append:166
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[2]/event/choice[1]/text"
+msgstr "ジェネリックドローンを構築します-2ハル、2つのシステム、60乗組員、100％違反、爆発制御なし。"
+
+#: src-en/data/events_special_storage.xml.append:173
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[2]/event/choice[2]/text"
+msgstr "コントロールドローンを構築する-2ハル、1つのシステム、30人の乗組員、50％の違反、完全爆発制御。"
+
+#: src-en/data/events_special_storage.xml.append:180
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[2]/event/choice[3]/text"
+msgstr "コンストラクトドローン-0ハル、1つのシステム、15乗組員、100％の火、爆発制御なし。"
+
+#: src-en/data/events_special_storage.xml.append:187
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[2]/event/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:195
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/text"
+msgstr "内部にインストールするために拡張を選択してください。"
+
+#: src-en/data/events_special_storage.xml.append:197
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_BIGSHOT\"]/text"
+msgstr "内部的に高エネルギー兵器を設置します。"
+
+#: src-en/data/events_special_storage.xml.append:199
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_BIGSHOT\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:205
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_BIGSHOT\"]/event/choice/text"
+msgstr "続行... 1"
+
+#: src-en/data/events_special_storage.xml.append:211
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_MULTISHOT\"]/text"
+msgstr "マルチショット武器を内部に取り付けます。"
+
+#: src-en/data/events_special_storage.xml.append:213
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_MULTISHOT\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:219
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_MULTISHOT\"]/event/choice/text"
+msgstr "続行... 1"
+
+#: src-en/data/events_special_storage.xml.append:225
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_RAILGUN\"]/text"
+msgstr "レール加速武器を内部的に取り付けます。"
+
+#: src-en/data/events_special_storage.xml.append:227
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_RAILGUN\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:233
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_RAILGUN\"]/event/choice/text"
+msgstr "続行... 1"
+
+#: src-en/data/events_special_storage.xml.append:239
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_MOD_SUS\"]/text"
+msgstr "内部的に修理サステイナーをインストールします。"
+
+#: src-en/data/events_special_storage.xml.append:244
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_MOD_SUS\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:247
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_MOD_SUS\"]/event/choice/text"
+msgstr "続行... 1"
+
+#: src-en/data/events_special_storage.xml.append:253
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[5]/text"
+msgstr ""

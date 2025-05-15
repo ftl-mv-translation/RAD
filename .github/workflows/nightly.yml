@@ -36,6 +36,7 @@ jobs:
       run: |
         bash snippets/ci-nightly.sh ru
         bash snippets/ci-nightly.sh fr
+        bash snippets/ci-nightly-machine.sh ja
 
     - name: Tag the commit
       run: |

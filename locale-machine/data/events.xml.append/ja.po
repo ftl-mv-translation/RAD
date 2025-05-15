@@ -1,0 +1,2327 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events.xml.append:6
+msgid "data/events.xml.append$//event[@name=\"ADDON_RAD_INFO\"]/text"
+msgstr ""
+"R＆D\n"
+"開発者：arc\n"
+"現在有効になっています。\n"
+"\n"
+"楽しくユニークなギミックを作成するためにLUAの使用を中心に設計されたアドオン。これには、さまざまな船、武器、乗組員、ドローン、クエストが含まれますが、完全にバランスが取れているわけではありません。"
+
+#: src-en/data/events.xml.append:15
+msgid "data/events.xml.append$//event[@name=\"ADDON_RAD_INFO_2\"]/text"
+msgstr ""
+"R＆D\n"
+"開発者：arc\n"
+"現在無効になっています。\n"
+"\n"
+"楽しくユニークなギミックを作成するためにLUAの使用を中心に設計されたアドオン。これには、さまざまな船、武器、乗組員、ドローン、クエストが含まれますが、完全にバランスが取れているわけではありません。\n"
+"\n"
+"R＆Dを有効にするには、マルチバースフォーラムにアクセスして、アドオンセクションにアクセスしてください！"
+
+#: src-en/data/events.xml.append:25
+msgid "data/events.xml.append$//event[@name=\"ADDON_AEA_2\"]/text"
+msgstr ""
+"FTL：外側の拡張\n"
+"開発者：arc\n"
+"現在無効になっています。\n"
+"\n"
+"現在実装されている新しいレース、セクター、船舶、武器を追加します：酸性成長。\n"
+"\n"
+"外側の拡張を有効にするには、マルチバースフォーラムにアクセスして、アドオンセクションにアクセスしてください！"
+
+#: src-en/data/events.xml.append:35
+msgid "data/events.xml.append$//event[@name=\"ADDON_FISH_2\"]/text"
+msgstr ""
+"FTL：光よりも魚\n"
+"開発者：arc\n"
+"現在無効になっています。\n"
+"\n"
+"ftl釣り、これ以上何を言う必要がありますか。60を超える魚、すべてユニークな用途と効果があります。\n"
+"\n"
+"光よりも魚を有効にするには、マルチバースフォーラムにアクセスして、アドオンセクションにアクセスしてください！"
+
+#: src-en/data/events.xml.append:44
+msgid "data/events.xml.append$//event[@name=\"ADDON_GOF_2\"]/text"
+msgstr ""
+"FTL：Galaxy on Fire\n"
+"開発者：arc\n"
+"現在無効になっています。\n"
+"\n"
+"Fire FranchiseのGalaxyに基づいて、3隻の船、40隻の新しい武器、2つの新しい乗組員、1つの新しいイベントを追加します。すべての武器は、まったく新しいLUA関数を使用する前に見られなかったまったく新しい方法で機能します。\n"
+"\n"
+"Galaxyを燃やすことを有効にするには、マルチバースフォーラムにアクセスして、アドオンセクションにアクセスしてください！"
+
+#: src-en/data/events.xml.append:58
+msgid "data/events.xml.append$//event[@name=\"NEMESIS_RAD\"]/text"
+msgstr ""
+"「私はこれらのクールな科学者に会い、彼らは私にこれらのクールな梁を売ってくれました。彼らはあなたのクルーをこのクールな刑務所にテレポートすることになっています、ベイッチ！」\n"
+"リアはいくつかのテレポーテーションフォーカスビームを手に入れているようです。気をつけて！"
+
+#: src-en/data/events.xml.append:62
+msgid "data/events.xml.append$//event[@name=\"NEMESIS_RAD\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:85
+msgid "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/text"
+msgstr "あなたは奇妙な研究室に出くわします。あなたが到着するとすぐに、それはあなたの船を狙った武器のように見えるものを強化します..."
+
+#: src-en/data/events.xml.append:88
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:90
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/text"
+msgstr ""
+"駅はすぐにあなたに発砲します。あなたは衝撃のためにブレースします。\n"
+"それが船にぶつかるのと同じように、光の光の閃光があなたを襲います。あなたのビジョンが戻ったら、あなたは自分が駅の真ん中にいる多くの科学者の中に立っていることに気づきます。\n"
+"\n"
+"科学者があなたを待っています。「ええと、このようにあなたに連絡してすみません。この情報が漏れている危険を冒すことはできませんでした。ところで、船は大丈夫です。」\n"
+"科学者はあなたのそばの武器コンソールにジェスチャーをします。あなたの船は、無傷の画面に表示されます。\n"
+"「ああ、私はグースです。私はこの研究室の長です。あなたは私たちが聞いてきた反逆者ですよね？」"
+
+#: src-en/data/events.xml.append:97
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/text"
+msgstr "右。"
+
+#: src-en/data/events.xml.append:99
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"「素晴らしい。いくつかの不正なテクノロジーに関する特定の問題についてあなたの助けが必要です。しかし、あなたが助けについて絶対に確信していない限り、私たちはあなたに詳細を与えることはできません。」\n"
+"「いずれにせよ、私たちの商業技術を自由に閲覧してください。あなたのような人がそれを利用できると確信しています。」"
+
+#: src-en/data/events.xml.append:102
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[1]/text"
+msgstr "あなたは助けます。[ランダムクエスト]"
+
+#: src-en/data/events.xml.append:110
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_total\"]/text"
+msgstr "あなたは助けます。[???クエスト]"
+
+#: src-en/data/events.xml.append:114
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_13\"]/text"
+msgstr "あなたは助けます。[未完成のクエスト13]"
+
+#: src-en/data/events.xml.append:118
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_12\"]/text"
+msgstr "あなたは助けます。[未完成のクエスト12]"
+
+#: src-en/data/events.xml.append:122
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_11\"]/text"
+msgstr "あなたは助けます。[未完成のクエスト11]"
+
+#: src-en/data/events.xml.append:126
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_9\"]/text"
+msgstr "あなたは助けます。[未完成のクエスト10]"
+
+#: src-en/data/events.xml.append:130
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_8\"]/text"
+msgstr "あなたは助けます。[未完成のクエスト9]"
+
+#: src-en/data/events.xml.append:134
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_7\"]/text"
+msgstr "あなたは助けます。[未完成のクエスト8]"
+
+#: src-en/data/events.xml.append:138
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_6\"]/text"
+msgstr "あなたは助けます。[未完成のクエスト7]"
+
+#: src-en/data/events.xml.append:142
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_5\"]/text"
+msgstr "あなたは助けます。[未完成のクエスト6]"
+
+#: src-en/data/events.xml.append:146
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_4\"]/text"
+msgstr "あなたは助けます。[未完成のクエスト5]"
+
+#: src-en/data/events.xml.append:150
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_23\"]/text"
+msgstr "あなたは助けます。[未完成のクエスト4]"
+
+#: src-en/data/events.xml.append:154
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_3\"]/text"
+msgstr "あなたは助けます。[未完成のクエスト3]"
+
+#: src-en/data/events.xml.append:158
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_2\"]/text"
+msgstr "あなたは助けます。[未完成のクエスト2]"
+
+#: src-en/data/events.xml.append:162
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[@req=\"rad_q1\"]/text"
+msgstr "あなたは助けます。[未完成のクエスト1]"
+
+#: src-en/data/events.xml.append:166
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[16]/text"
+msgstr "危険に聞こえます。買い物をしてください。"
+
+#: src-en/data/events.xml.append:168
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[1]/event/choice/event/choice[16]/event/text"
+msgstr "「恥ずべきことですが、ここに来た方法を考えると理解できます。あそこのアヒルをたどって、私たちのある種の店を見てください。」"
+
+#: src-en/data/events.xml.append:177
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[2]/text"
+msgstr "あなたは彼らが何を望んでいるのか分かりませんが、あなたは何が起こるかを見るのを待つつもりはありません。攻撃！"
+
+#: src-en/data/events.xml.append:179
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[2]/event/text"
+msgstr "あなたはあなたの武器を強化します！ラボはあなたを歓迎します：「あなたは間違いを犯しています。」"
+
+#: src-en/data/events.xml.append:182
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_START\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:226
+msgid "data/events.xml.append$//event[@name=\"SURRENDER_RAD_JAILER_1\"]/text"
+msgstr "Commsユニットはオンラインになります。「大丈夫、元気、元気！私たちはあなたの乗組員を返して、駅をあなたに任せます。"
+
+#: src-en/data/events.xml.append:228
+msgid ""
+"data/events.xml.append$//event[@name=\"SURRENDER_RAD_JAILER_1\"]/choice[1]/text"
+msgstr "あなたは海賊を手放し、あなたの成功を科学者に報告します。"
+
+#: src-en/data/events.xml.append:233
+msgid ""
+"data/events.xml.append$//event[@name=\"SURRENDER_RAD_JAILER_1\"]/choice[2]/text"
+msgstr "それをねじ込み、あなたは彼らが死んだら彼らのスクラップと駅を取ります！"
+
+#: src-en/data/events.xml.append:239
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_JAILER_1\"]/text"
+msgstr "海賊船が爆発します。その船に乗っていた人は、確かにもう生きていません。あなたはあなたの成功を科学者に報告します。"
+
+#: src-en/data/events.xml.append:242
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_JAILER_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:248
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_JAILER_1\"]/text"
+msgstr "あなたはすべての海賊を殺しました。今、あなたはあなたの乗組員を救助し、あなたの成功を科学者に報告することができます。"
+
+#: src-en/data/events.xml.append:251
+msgid ""
+"data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_JAILER_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:257
+msgid "data/events.xml.append$//event[@name=\"RAD_JAILER_RETURN_CREW\"]/text"
+msgstr "あなたは海賊の船から乗組員を取り戻します。"
+
+#: src-en/data/events.xml.append:260
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_JAILER_RETURN_CREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:266
+msgid "data/events.xml.append$//event[@name=\"SURRENDER_RAD_PIRATE_1\"]/text"
+msgstr "海賊船はFTLドライブを強化します。彼らは逃げようとしているようです！"
+
+#: src-en/data/events.xml.append:271
+msgid "data/events.xml.append$//event[@name=\"GOTAWAY_RAD_PIRATE_1\"]/text"
+msgstr "海賊は飛び降ります。"
+
+#: src-en/data/events.xml.append:273
+msgid ""
+"data/events.xml.append$//event[@name=\"GOTAWAY_RAD_PIRATE_1\"]/choice[@req=\"RAD_JUMP_TRACER\"]/text"
+msgstr "ジャンプトレーサーを使用して、海賊船のFTLジャンプを追跡します。"
+
+#: src-en/data/events.xml.append:275
+msgid ""
+"data/events.xml.append$//event[@name=\"GOTAWAY_RAD_PIRATE_1\"]/choice[@req=\"RAD_JUMP_TRACER\"]/event/text"
+msgstr "海賊船を追跡します。うまくいけば、彼らはあなたを駅に直接導くでしょう。"
+
+#: src-en/data/events.xml.append:280
+msgid ""
+"data/events.xml.append$//event[@name=\"GOTAWAY_RAD_PIRATE_1\"]/choice[2]/text"
+msgstr "何もしません..."
+
+#: src-en/data/events.xml.append:282
+msgid ""
+"data/events.xml.append$//event[@name=\"GOTAWAY_RAD_PIRATE_1\"]/choice[2]/event/text"
+msgstr "ジャンプトレーサーを維持する必要があるように見えます。今は駅を見つける可能性がありません。"
+
+#: src-en/data/events.xml.append:288
+msgid "data/events.xml.append$//event[@name=\"ESCAPE_RAD_PIRATE_1\"]/text"
+msgstr "海賊はジャンプドライブを強化します。今、あなたは彼らが生き生きと逃げることを確認する必要があります。"
+
+#: src-en/data/events.xml.append:292
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_PIRATE_1\"]/text"
+msgstr "あなたは海賊船を破壊しました。今、あなたがその駅を見つける方法はありません。"
+
+#: src-en/data/events.xml.append:297
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_PIRATE_1\"]/text"
+msgstr ""
+"あなたは海賊を殺しました、そして、彼らのシステムを探しているにもかかわらず、あなたは駅を見つけることができません。科学者のアドバイスを受けるべきでした。"
+
+#: src-en/data/events.xml.append:302
+msgid "data/events.xml.append$//event[@name=\"GOTAWAY_RAD_PIRATE_2\"]/text"
+msgstr "海賊の執行者は飛び降ります。"
+
+#: src-en/data/events.xml.append:304
+msgid ""
+"data/events.xml.append$//event[@name=\"GOTAWAY_RAD_PIRATE_2\"]/choice[@req=\"RAD_JUMP_TRACER\"]/text"
+msgstr "ジャンプトレーサーを使用して、海賊船のFTLジャンプを追跡します。"
+
+#: src-en/data/events.xml.append:306
+msgid ""
+"data/events.xml.append$//event[@name=\"GOTAWAY_RAD_PIRATE_2\"]/choice[@req=\"RAD_JUMP_TRACER\"]/event/text"
+msgstr "海賊船を追跡します。うまくいけば、彼らはあなたを駅に直接導くでしょう。"
+
+#: src-en/data/events.xml.append:311
+msgid ""
+"data/events.xml.append$//event[@name=\"GOTAWAY_RAD_PIRATE_2\"]/choice[2]/text"
+msgstr "何もしません..."
+
+#: src-en/data/events.xml.append:313
+msgid ""
+"data/events.xml.append$//event[@name=\"GOTAWAY_RAD_PIRATE_2\"]/choice[2]/event/text"
+msgstr "あなたは今、駅を見つけることができるようにリードを持っていません。あなたがまだそのジャンプトレーサーを持っていたら..."
+
+#: src-en/data/events.xml.append:319
+msgid "data/events.xml.append$//event[@name=\"ESCAPE_RAD_PIRATE_2\"]/text"
+msgstr "海賊はジャンプドライブを強化します。今、あなたは彼らが生き生きと逃げることを確認する必要があります。"
+
+#: src-en/data/events.xml.append:323
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_PIRATE_2\"]/text"
+msgstr "あなたは海賊船を破壊しました。これで、損傷した海賊船に頼らなければなりません。"
+
+#: src-en/data/events.xml.append:328
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_PIRATE_2\"]/text"
+msgstr "あなたは海賊を殺しました。これで、損傷した海賊船に頼らなければなりません。"
+
+#: src-en/data/events.xml.append:333
+msgid "data/events.xml.append$//event[@name=\"SURRENDER_RAD_LAB\"]/text"
+msgstr ""
+"「これを止めてください！あなたは私たちの仮説を反証しました。私たちのすべての仕事を破壊し、私たちを数週間後退させる必要はありません。このスクラップを取り、去ります。"
+
+#: src-en/data/events.xml.append:335
+msgid "data/events.xml.append$//event[@name=\"SURRENDER_RAD_LAB\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:348
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_LAB\"]/text"
+msgstr "ラボが分裂するのを見て、ケーブルの塊によってのみ一緒に保持されています。ラボのセクションは、停止する前に飛び降ります。"
+
+#: src-en/data/events.xml.append:353
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_LAB\"]/text"
+msgstr ""
+"科学者は死んでいます。ここにはもっと遊んでいると感じずにはいられません。\n"
+"ラボには高度なミサイルプロトタイプがあります。"
+
+#: src-en/data/events.xml.append:360
+msgid "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_1\"]/text"
+msgstr ""
+"「最も優れています。そもそも、これの多くが非常に高度であることを理解してください。\n"
+"グースはあなたを壁のターミナルに歩いて行きます。\n"
+"「私たちの現在の問題は、このステーションの設計をここで展開しています。」科学者は、ターミナルスクリーンの奇妙な見た目のステーションのデザインに身振りで示すと言います。\n"
+"「ご覧のとおり、このステーションにプロトタイプジャンプドライブを装備し、システム間で移動できます。アジャイルではありませんが、最近のテストドライブでは、パイレーツによって捕らえられました。"
+
+#: src-en/data/events.xml.append:366
+msgid "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_1\"]/choice/text"
+msgstr "暗いようです。何をしてほしいですか？"
+
+#: src-en/data/events.xml.append:368
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_1\"]/choice/event/text"
+msgstr ""
+"「ああ！まあ、幸運なことに、私たちは実際に私たちの駅を盗んだ海賊を追跡することができました。しかし、パイレーツだけです。残念ながら、彼らが駅をどこに置いたのかわかりません。」\n"
+"科学者は、タブレット上のいくつかの座標を見せます。\n"
+"「私たちが必要とするのは、あなたがそれらを見つけて攻撃することです。しかし、彼らを殺さないでください。彼らが飛び去ろうとするのに十分なダメージを与え、彼らがそうするとき、彼らに従ってください。\n"
+"「ああ、そしてあなたが駅を見つけたら、私たちは来て、支払いに会います。良い狩り。」"
+
+#: src-en/data/events.xml.append:385
+msgid "data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_1\"]/text"
+msgstr ""
+"ビーコンに到着し、スキャナーで海賊船を拾います。\n"
+"「覚えておいてください、あなたはそれらを破壊したくない、ただそれらを逃げさせてください！」Gooseは、これらの座標に到達したときに再生する録音を設定したようです。"
+
+#: src-en/data/events.xml.append:389
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:401
+msgid "data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_2\"]/text"
+msgstr ""
+"ビーコンに到着し、スキャナーの損傷した海賊船を拾います。しかし、近くには2番目の大きな海賊執行者もあります。\n"
+"あなたが見るように、損傷した船は飛び去ります。"
+
+#: src-en/data/events.xml.append:404
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_2\"]/choice[@req=\"RAD_JUMP_TRACER\"]/text"
+msgstr "ジャンプトレーサーを使用して、海賊船のFTLジャンプを追跡します。"
+
+#: src-en/data/events.xml.append:407
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_2\"]/choice[@req=\"RAD_JUMP_TRACER\"]/event/text"
+msgstr "損傷した海賊船を追跡します。これで、海賊執行者を追跡しようとするか、損傷した船だけがあなたを適切な場所に導くことを願っています。"
+
+#: src-en/data/events.xml.append:410
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_2\"]/choice[@req=\"RAD_JUMP_TRACER\"]/event/choice[1]/text"
+msgstr "執行者と戦う。"
+
+#: src-en/data/events.xml.append:412
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_2\"]/choice[@req=\"RAD_JUMP_TRACER\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:415
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_2\"]/choice[@req=\"RAD_JUMP_TRACER\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:421
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_2\"]/choice[@req=\"RAD_JUMP_TRACER\"]/event/choice[2]/text"
+msgstr "ただ出発してください。"
+
+#: src-en/data/events.xml.append:423
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_2\"]/choice[@req=\"RAD_JUMP_TRACER\"]/event/choice[2]/event/text"
+msgstr "損傷した船があなたを適切な場所に導くことを期待しなければならないと思います..."
+
+#: src-en/data/events.xml.append:429
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_2\"]/choice[2]/text"
+msgstr "何もしません..."
+
+#: src-en/data/events.xml.append:431
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_2\"]/choice[2]/event/text"
+msgstr ""
+"船は飛び降り、彼らと一緒にその駅を追跡することを望みます。\n"
+"あなたがまだそのジャンプトレーサーを持っていたら..."
+
+#: src-en/data/events.xml.append:443
+msgid "data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_3_D\"]/text"
+msgstr "あなたはビーコンに到着しました。今、損傷した船があなたをどこに導いたかを見るために..."
+
+#: src-en/data/events.xml.append:445
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_3_D\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:456
+msgid "data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_3_E\"]/text"
+msgstr "あなたはビーコンに到着しました。今、執行者があなたをどこに導いたかを見るために..."
+
+#: src-en/data/events.xml.append:458
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_3_E\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:464
+msgid "data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_4_REAL\"]/text"
+msgstr ""
+"センサーがビーコンの近くに浮かぶステーションをピックアップします。座標を科学者に送り返し、それを確保するために移動します。\n"
+"センサーは、ステーションが武装していないことを示しています。"
+
+#: src-en/data/events.xml.append:467
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_4_REAL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:470
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_4_REAL\"]/choice/event/text"
+msgstr ""
+"あなたが駅に近づくと、海賊刑務所がその後ろから出てきて、武器が準備されます。これらは駅を捕まえた海賊でなければなりません。\n"
+"看守はいくつかのプロトタイプ武器を装備しているようです。どのように関与するかに注意してください、またはあなたはあなたの乗組員を失うかもしれません！"
+
+#: src-en/data/events.xml.append:473
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_4_REAL\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:481
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_4_REAL_2\"]/text"
+msgstr ""
+"センサーがビーコンの近くに浮かぶステーションをピックアップします。座標を科学者に送り返し、それを確保するために移動します。\n"
+"センサーは、ステーションが武装していないことを示しています。"
+
+#: src-en/data/events.xml.append:484
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_4_REAL_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:487
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_4_REAL_2\"]/choice/event/text"
+msgstr ""
+"あなたが駅に近づくと、海賊刑務所がその後ろから出てきて、武器が準備されます。これらは駅を捕まえた海賊でなければなりません。\n"
+"看守はいくつかのプロトタイプ武器を装備しているようです。どのように関与するかに注意してください、またはあなたはあなたの乗組員を失うかもしれません！"
+
+#: src-en/data/events.xml.append:490
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_4_REAL_2\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:498
+msgid "data/events.xml.append$//event[@name=\"RAD_PIRATE_FIGHT_TRIGGER\"]/text"
+msgstr "あなたはあなたの武器を強化します。"
+
+#: src-en/data/events.xml.append:500
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_FIGHT_TRIGGER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:506
+msgid "data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_4_FAKE\"]/text"
+msgstr "あなたはその地域を調査するために少し時間がかかります。"
+
+#: src-en/data/events.xml.append:508
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_4_FAKE\"]/choice[@req=\"rad_tracking_fake\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:511
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_4_FAKE\"]/choice[@req=\"rad_tracking_fake\""
+" and @lvl=\"0\"]/event/text"
+msgstr "駅の兆候はありません。あなたは間違った場所につながっているようです。"
+
+#: src-en/data/events.xml.append:513
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_4_FAKE\"]/choice[@req=\"rad_tracking_fake\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:519
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_4_FAKE\"]/choice[@req=\"rad_tracking_fake\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:530
+msgid "data/events.xml.append$//event[@name=\"RAD_PIRATE_QUEST_FINISH\"]/text"
+msgstr ""
+"その後まもなく、新しい船が到着します。それは科学者です。ガチョウはあなたを歓迎します。\n"
+"「ああ、反逆者、素晴らしい仕事！あなたはこれに対して見事に支払われるでしょう。私たちはそこにある駅の青写真を投げます。おそらくあなたはそれを利用することができます。」"
+
+#: src-en/data/events.xml.append:533
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_QUEST_FINISH\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:535
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_PIRATE_QUEST_FINISH\"]/choice/event/text"
+msgstr "科学者はまた、大量のスクラップと、最も先進的な武器の1つを輸送します！"
+
+#: src-en/data/events.xml.append:560
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_DYNASTY_1\"]/text"
+msgstr "あなたは王朝の船を破壊しました。残念ながら、それはあなたの情報の要求を満たす人が他にいないことを意味します。"
+
+#: src-en/data/events.xml.append:565
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_DYNASTY_1\"]/text"
+msgstr "あなたはすべての王朝の船の乗組員を殺しました。残念ながら、それはあなたの情報の要求を満たす人が他にいないことを意味します。"
+
+#: src-en/data/events.xml.append:570
+msgid "data/events.xml.append$//event[@name=\"SURRENDER_RAD_DYNASTY_1\"]/text"
+msgstr "幽霊はあなたを歓迎します。"
+
+#: src-en/data/events.xml.append:573
+msgid ""
+"data/events.xml.append$//event[@name=\"SURRENDER_RAD_DYNASTY_1\"]/choice/text"
+msgstr "「ある種の宇宙船の火災に関する情報が必要です。どうやら最近ここに来たようです。」"
+
+#: src-en/data/events.xml.append:575
+msgid ""
+"data/events.xml.append$//event[@name=\"SURRENDER_RAD_DYNASTY_1\"]/choice/event/text"
+msgstr ""
+"ゴーストはしばらく熟考します。「まあ、私がこれを漏らすと辞められたかどうかはわかりませんが、そのような大きくて焦げているものを持って船がここに来ました。彼らは近くの軍事局に向かうと言いました。今すぐ座標を送信します。」"
+
+#: src-en/data/events.xml.append:582
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_DYNASTY_2\"]/text"
+msgstr "あなたは王朝駅を破壊しました。科学者に報告する時間。"
+
+#: src-en/data/events.xml.append:585
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_DYNASTY_2\"]/choice/text"
+msgstr "科学者に連絡してください。"
+
+#: src-en/data/events.xml.append:587
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_DYNASTY_2\"]/choice/event/text"
+msgstr "科学者は、近くにランデブーの場所を提供します。"
+
+#: src-en/data/events.xml.append:594
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_DYNASTY_2\"]/text"
+msgstr "あなたはすべての乗組員を殺しました。科学者に報告する時間。"
+
+#: src-en/data/events.xml.append:597
+msgid ""
+"data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_DYNASTY_2\"]/choice/text"
+msgstr "科学者に連絡してください。"
+
+#: src-en/data/events.xml.append:599
+msgid ""
+"data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_DYNASTY_2\"]/choice/event/text"
+msgstr "科学者は、近くにランデブーの場所を提供します。"
+
+#: src-en/data/events.xml.append:606
+msgid "data/events.xml.append$//event[@name=\"RAD_LAB_GHOST_1\"]/text"
+msgstr ""
+"「そもそも最も優れているので、これの多くが非常に高度であることを理解しているので、ラップの下に保つようにしてください。」\n"
+"グースはあなたを壁のターミナルに歩いて行きます。\n"
+"「問題はかなり単純です。私たちの1つ、ええと、資産は逃げ出しました。そして、私たちはそれを取り戻したいと思います。"
+
+#: src-en/data/events.xml.append:610
+msgid "data/events.xml.append$//event[@name=\"RAD_LAB_GHOST_1\"]/choice/text"
+msgstr "簡単に思えます、キャッチは何ですか？"
+
+#: src-en/data/events.xml.append:612
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_GHOST_1\"]/choice/event/text"
+msgstr ""
+"「まあ、私たちはそれがどこに行ったのか正確にはわかりませんが、どこを見るべきかについていくつかのアイデアがあります。それを見つけるのはあなたの上にあります。」\n"
+"科学者は、最初に見るための座標を送信します。\n"
+"「そこに着いたら、周りに大きな火災が走っているかどうかを確認するために尋ね始めてください...あなたがそれを見つけたら理解するでしょう。」\n"
+"\n"
+"「ああ、あなたはそれを見つけたら、これを火を封じ込めることを望んでいます。」"
+
+#: src-en/data/events.xml.append:633
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_2\"]/text"
+msgstr "ビーコンに到着します。近くの駅があります。これは、科学者があなたに見たいと思っていた場所でなければなりません。"
+
+#: src-en/data/events.xml.append:635
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_2\"]/choice/text"
+msgstr "ステーションに入ります。"
+
+#: src-en/data/events.xml.append:638
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_2\"]/choice/event/text"
+msgstr ""
+"あなたがエアロックから出てすぐに、あなたはここに幽霊しかないことにすぐに気づきます。\n"
+"周りを尋ねて、誰かが何かを知っているかどうかを確認する時間です。"
+
+#: src-en/data/events.xml.append:641
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_2\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:643
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_2\"]/choice/event/choice/event/text"
+msgstr ""
+"数回の解雇の後、あなたは話したいと思っている一人の幽霊を見つけます。\n"
+"「私はあなたが探しているものを知っていると思います。最近ここに来たようなものですが、王朝はそれを取り去りました。もしあなたがそれを見つけたいなら、あなたは彼らと話さなければなりません。」\n"
+"「座標を最寄りの前post基地に送信します。それはおそらくそこに通った可能性が高いです。」"
+
+#: src-en/data/events.xml.append:667
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_3\"]/text"
+msgstr ""
+"あなたは到着し、すぐに王朝の巡洋艦に歓迎されます。その背後には、大きな損傷を受けているように見える前post基地があります。\n"
+"「すぐに分散します。私たちはあなたのパーティーを支援することはできません。もしあなたが何かを望んでいるなら、別の明日に戻ってきてください。」\n"
+"\n"
+"情報が必要な場合は、それらを聞かせる必要があるようです。"
+
+#: src-en/data/events.xml.append:672
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_3\"]/choice[1]/text"
+msgstr "主張する"
+
+#: src-en/data/events.xml.append:675
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_3\"]/choice[1]/event/text"
+msgstr "彼らは今あなたの質問を楽しませるよりもむしろあなたを殺したいと思っているようです。うまくいけば、彼らの船体を荒らすと彼らの心が変わります。"
+
+#: src-en/data/events.xml.append:677
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_3\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:683
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_3\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:685
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_3\"]/choice[2]/event/text"
+msgstr "あなたは今その火を見つけることができないと思います..."
+
+#: src-en/data/events.xml.append:687
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_3\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:707
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_4\"]/text"
+msgstr ""
+"ビーコンに到着します。センサーは王朝の駅を拾い上げ、あられを送ります。\n"
+"\n"
+"しばらく待った後、誰も拾いません。"
+
+#: src-en/data/events.xml.append:711
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_4\"]/choice[1]/text"
+msgstr "駅にドッキングします。"
+
+#: src-en/data/events.xml.append:713
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_4\"]/choice[1]/event/text"
+msgstr ""
+"エアロックを開き、すぐに熱を感じます。どういうわけか、酸素が不足しているにもかかわらず、駅には火があります！\n"
+"船に戻り始めると、声があなたの後ろに声をかけ、振り返り、炎の壁に出会う！よく見ると、内部に幻を描きます。これは科学者が話していた人でなければなりません！\n"
+"「お願いします、あなたは私を助けなければなりません、彼らは私を殺そうとしています！」"
+
+#: src-en/data/events.xml.append:717
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_4\"]/choice[1]/event/choice/text"
+msgstr "誰が？"
+
+#: src-en/data/events.xml.append:719
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_4\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"「王朝。彼らは誤って休憩室を燃やしたので私を追いかけています。私はそれをコントロールできないと誓います！あなたの船に連れて行ってください！」"
+
+#: src-en/data/events.xml.append:721
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_4\"]/choice[1]/event/choice/event/choice/text"
+msgstr "さて、私たちは助けます。"
+
+#: src-en/data/events.xml.append:729
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_4\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:731
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_4\"]/choice[2]/event/text"
+msgstr "あなたは今その火を見つけることができないと思います..."
+
+#: src-en/data/events.xml.append:733
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_4\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:741
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_BEFORE_FIGHT\"]/crewMember"
+msgstr "実験26"
+
+#: src-en/data/events.xml.append:743
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_BEFORE_FIGHT\"]/text"
+msgstr "駅から引き離すと、武器をオンにします。誰かがあなたを連れて行くために間に合ってコマンドに戻ったようです。"
+
+#: src-en/data/events.xml.append:745
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_BEFORE_FIGHT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:756
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_SCIENCE_FIGHTER\"]/text"
+msgstr "あなたは科学者の世話をしました、あなたとあなたの新しい乗組員は今のところ安全であるように見えます。"
+
+#: src-en/data/events.xml.append:770
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_EXPERIMENT\"]/text"
+msgstr "ゴースト船が対処すると、科学者は、実験を確保できなかったとしても、廃棄物と武器の1つを支払いとして転送します。"
+
+#: src-en/data/events.xml.append:783
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_5\"]/text"
+msgstr "最後に、あなたはランデブーポイントに到着し、近くに奇妙な船があります。それは科学者でなければなりません。"
+
+#: src-en/data/events.xml.append:785
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_5\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:787
+msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_5\"]/choice/event/text"
+msgstr ""
+"いくつかの武装した科学者が拾い上げます。\n"
+"\n"
+"問題のエンティティが部屋に入ります。「彼らに私をあげないでください！彼らは私にこれをしました！彼らは私をこの熱い、燃えるような混乱に変えました！それは拷問です！」エンティティは宣言します。"
+
+#: src-en/data/events.xml.append:791
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_5\"]/choice/event/choice[1]/text"
+msgstr "実験をしてください。科学者との側"
+
+#: src-en/data/events.xml.append:795
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_5\"]/choice/event/choice[1]/event/removeCrew/text"
+msgstr "彼らはまだ生きているので、あなたの乗組員はクローン化することはできません。"
+
+#: src-en/data/events.xml.append:798
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_5\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"科学者と一緒にドックに移動すると、別の大きな船が飛び込んでくると、科学者の船でいくつかの大きな純武器を発射し、彼らを飛び去り、あなたを婚約させます。"
+
+#: src-en/data/events.xml.append:801
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_5\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:807
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_5\"]/choice/event/choice[2]/text"
+msgstr "引き渡すことを拒否します。実験の側"
+
+#: src-en/data/events.xml.append:810
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_5\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"科学者はどうやってそのようなscり、残酷な実験をしたのでしょうか？あなたは彼らがこれ以上この幽霊に何もしないように熱を奪うことをいとわない。あなたはあなたの武器を強化し、科学戦闘機も同じことをします。"
+
+#: src-en/data/events.xml.append:812
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_GHOST_5\"]/choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:839
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_OPERATOR_1\"]/text"
+msgstr ""
+"あなたは船とその不正な従業員を破壊しました。船を回収していないかもしれませんが、少なくとも今は売り切れる方法はありません。\n"
+"残骸からドローンの1つを回復することができます。"
+
+#: src-en/data/events.xml.append:849
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_OPERATOR_1\"]/text"
+msgstr ""
+"あなたは不正な従業員と彼らの友人を連れ出しました。科学者たちは、あなたが船を回収したことを喜んで知っています。\n"
+"船で有用なものを検索し、損傷のないドローンと一緒にかなりの量のスクラップを見つけます。"
+
+#: src-en/data/events.xml.append:856
+msgid ""
+"data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_OPERATOR_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:858
+msgid ""
+"data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_OPERATOR_1\"]/choice/event/text"
+msgstr ""
+"しばらくして、科学船があなたが回収した船を集めるためにやって来ます。\n"
+"船は支払いとしてあなたのために武器を降ろします。"
+
+#: src-en/data/events.xml.append:869
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_ZOLTAN_1\"]/text"
+msgstr "あなたは駅を破壊しました。"
+
+#: src-en/data/events.xml.append:874
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_ZOLTAN_1\"]/text"
+msgstr "あなたは駅で残りの乗組員を殺しました。"
+
+#: src-en/data/events.xml.append:879
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_ZOLTAN_2\"]/text"
+msgstr "あなたはエリートを破壊し、あなたの乗組員はなんとか信号を復号化することができました。科学船は近くの別のビーコンに旅行したようです。"
+
+#: src-en/data/events.xml.append:885
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_ZOLTAN_2\"]/text"
+msgstr "あなたはエリートに対処し、あなたの乗組員はなんとか信号を復号化することができました。科学船は近くの別のビーコンに旅行したようです。"
+
+#: src-en/data/events.xml.append:891
+msgid "data/events.xml.append$//event[@name=\"RAD_LAB_ROGUE_1\"]/text"
+msgstr ""
+"そもそも最も優れているので、これの多くが非常に高度であることを理解してください。\n"
+"グースはあなたを壁のターミナルに歩いて行きます。\n"
+"「私たちが直面している問題は裏切りの1つです。私たち自身の1つは、私たちの高度な船で出発しました。私たちが集めたところから、彼らは技術をゾルタンに売りたいと思っています。彼を迎撃して船を回収するか、少なくとも売却するのを止める必要があります。」"
+
+#: src-en/data/events.xml.append:895
+msgid "data/events.xml.append$//event[@name=\"RAD_LAB_ROGUE_1\"]/choice/text"
+msgstr "「どこから始めますか？」"
+
+#: src-en/data/events.xml.append:897
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_ROGUE_1\"]/choice/event/text"
+msgstr "「まあ、私たちは近くのミニストリーステーションまで船を追跡しました。そこに向かい、彼らが持っている情報を抽出します。」"
+
+#: src-en/data/events.xml.append:908
+msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/text"
+msgstr ""
+"あなたは駅に到着します。迅速な交換の後、ドッキング権が付与されています。\n"
+"\n"
+"駅で、何をすべきかを決める必要があります。"
+
+#: src-en/data/events.xml.append:912
+msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/choice[1]/text"
+msgstr "こっそりと情報をダウンロードしてみてください。"
+
+#: src-en/data/events.xml.append:914
+msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/choice[1]/event/text"
+msgstr ""
+"データをダウンロードすることにしました。\n"
+"公共エリアから速いスコープの後、セキュリティステーションを特定します。\n"
+"あなたは乗組員と一緒に整理し、すぐにドアを壊します。内部にはいくつかの警備員とコンピューターターミナルがあります。\n"
+"ガードをすばやく派遣し、端末をチェックします。幸いなことに、警備員はそれをログインしたままにしました。\n"
+"簡単な検索の後、あなたが探しているものを見つけます。ローグの従業員はここに来て、マイナーな技術を売り切れ、エリート省の巡洋艦と会うために送られたようです。\n"
+"去る時間。"
+
+#: src-en/data/events.xml.append:922
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/choice[1]/event/choice/text"
+msgstr "あなたの船に戻ります。"
+
+#: src-en/data/events.xml.append:924
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"あなたがあなたの船に戻ってきたように、あなたはあなたの後ろに叫んでいるのを聞きます。予想よりも早く発見されたようです。戦いの準備をしなさい！"
+
+#: src-en/data/events.xml.append:927
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/choice[1]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:935
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/choice[@req=\"zoltan\"]/text"
+msgstr "取引所法47-2（Zoltan Crew）に基づく情報をリクエストしてください"
+
+#: src-en/data/events.xml.append:937
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/choice[@req=\"zoltan\"]/event/text"
+msgstr "駅からクイックスコープの後、ゾルタンエージェントを識別します。スクラップをすばやく交換した後、必要な情報を受け取り、船に戻ります。"
+
+#: src-en/data/events.xml.append:950
+msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_3\"]/text"
+msgstr ""
+"あなたはちょうどあなたが追いかけている科学船とエリート省の船との間の交換を見るためにちょうど間に合うようにビーコンに到着します。\n"
+"\n"
+"あなたは2隻の船に向かってショットを送り、それらはバラバラになります。それらが分割されると、2つの船の間に送られた暗号化された信号を傍受します。\n"
+"\n"
+"科学船が新しい出会い場所に移動している間、省の船はあなたを破壊しようとするようです！"
+
+#: src-en/data/events.xml.append:956
+msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_3\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:965
+msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_4\"]/text"
+msgstr ""
+"ビーコンに到着し、科学船を待っています。\n"
+"明らかに省の船を期待して、彼らの驚きは長続きし、彼らはすぐに武器に力を与えます。"
+
+#: src-en/data/events.xml.append:968
+msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_4\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:981
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_SEC_GUARD\"]/text"
+msgstr "あなたはセキュリティ船を破壊しました。建物に移動する前に遺体を略奪します。"
+
+#: src-en/data/events.xml.append:984
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_SEC_GUARD\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:990
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_SEC_GUARD\"]/text"
+msgstr "あなたはセキュリティ船の乗組員を殺しました。建物に移動する前に遺体を略奪します。"
+
+#: src-en/data/events.xml.append:993
+msgid ""
+"data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_SEC_GUARD\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1004
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_FLESH\"]/text"
+msgstr "あなたは肉の巡洋艦を破壊しましたが、それはちょうどばらばらで死んでいるようには見えません。科学者に連絡する前に、あなたは遺体を略奪します。"
+
+#: src-en/data/events.xml.append:1007
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_FLESH\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1013
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_FLESH\"]/text"
+msgstr "あなたはエイリアンの権利グループを殺しました。科学者に連絡する前に船を略奪します。"
+
+#: src-en/data/events.xml.append:1016
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_FLESH\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1022
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH\"]/text"
+msgstr "ロック解除された船"
+
+#: src-en/data/events.xml.append:1027
+msgid "data/events.xml.append$//event[@name=\"RAD_LAB_FLESH_1\"]/text"
+msgstr ""
+"「これは少し難しいです。私たちのプロジェクトの1つは盗まれました。外国人の権利グループによって盗まれました。」\n"
+"「彼らは私たちがしたことは残酷で非倫理的だと思っています。もちろんそうではありませんでしたが、とにかくそれを盗みました。とにかく、それはプロトタイプの巡洋艦です。"
+
+#: src-en/data/events.xml.append:1030
+msgid "data/events.xml.append$//event[@name=\"RAD_LAB_FLESH_1\"]/choice/text"
+msgstr "さて、彼らはどこにいますか？"
+
+#: src-en/data/events.xml.append:1032
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_LAB_FLESH_1\"]/choice/event/text"
+msgstr ""
+"「グループのオフィスが近くの世界にあることを知っているので、そこで私は見始めます。しかし、彼らはかなり人口の多い惑星に注意してください。安全を期待してください。」"
+
+#: src-en/data/events.xml.append:1043
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_2\"]/text"
+msgstr ""
+"あなたはその場所に到着します。広大な都市の真ん中にある大きな企業の塔です。\n"
+"タワーでドックに行くと、セキュリティ船があなたを歓迎し、去るように言います。"
+
+#: src-en/data/events.xml.append:1046
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_2\"]/choice[1]/text"
+msgstr "セキュリティ船に従事します。"
+
+#: src-en/data/events.xml.append:1048
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_2\"]/choice[1]/event/text"
+msgstr "セキュリティ船は、それに応じて武器を強化します。あなたは戦いに参加しているようです。"
+
+#: src-en/data/events.xml.append:1051
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_2\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1057
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_2\"]/choice[2]/text"
+msgstr "離れる"
+
+#: src-en/data/events.xml.append:1059
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_2\"]/choice[2]/event/text"
+msgstr "あなたはその地域から離陸します。結局のところ、あなたは違法なことをしないでしょう。"
+
+#: src-en/data/events.xml.append:1065
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/text"
+msgstr ""
+"建物に入って、それが空であることがわかります。セキュリティ船との戦いは避難を引き起こしたようです。\n"
+"あなたはエイリアン・ライツ・グループの事務所を見つけ、巡洋艦に関連するものを探し始めます。"
+
+#: src-en/data/events.xml.append:1068
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[1]/text"
+msgstr "上司のオフィスを見てください。"
+
+#: src-en/data/events.xml.append:1070
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[1]/event/text"
+msgstr ""
+"オフィスを検索して、役に立つものは何も見つかりません。\n"
+"コンピューターはしっかりと固定されており、机の上にある便利な手がかりはありません。\n"
+"しかし、素敵な帽子が掛けています。残念ながら、それはあなたのサイズではありません。"
+
+#: src-en/data/events.xml.append:1074
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1080
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[2]/text"
+msgstr "従業員ラウンジを見てください。"
+
+#: src-en/data/events.xml.append:1082
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[2]/event/text"
+msgstr ""
+"ラウンジは、あなたが来て中断する前に明らかに使用されていました。テーブルの上に座っている半分の食べられた昼食があり、誰かが宇宙電子レンジを台無しにしました。しかし、ここにはあなたに役立つものがあるようには見えません。\n"
+"バスルームもあります。"
+
+#: src-en/data/events.xml.append:1085
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[2]/event/choice[@req=\"rad_flesh_quest\"]/text"
+msgstr "バスルームを確認してください。"
+
+#: src-en/data/events.xml.append:1088
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[2]/event/choice[@req=\"rad_flesh_quest\"]/event/text"
+msgstr ""
+"バスルームのドアを開けて、完全に普通のバスルームを見つけます。しかし、誰かが床に宇宙電話を落としたようです。\n"
+"あなたも幸運です。この電話を所有している人は誰でも、ロック解除されたままで、さらに良いことに、大きな保管施設の座標が含まれています。これは彼らが巡洋艦を奪った場所でなければなりません！"
+
+#: src-en/data/events.xml.append:1092
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[2]/event/choice[@req=\"rad_flesh_quest\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1098
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1104
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[3]/text"
+msgstr "保管室を見てください。"
+
+#: src-en/data/events.xml.append:1106
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[3]/event/text"
+msgstr ""
+"保管室はかなり普通で、ファイル、標識、その他のランダムなジャンクでいっぱいのボックスがたくさんあります。角で、あなたはケージのように見えるものを見つけますか？"
+
+#: src-en/data/events.xml.append:1108
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[3]/event/choice[@req=\"rad_flesh_rescue\"]/text"
+msgstr "ケージをチェックしてください。"
+
+#: src-en/data/events.xml.append:1111
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[3]/event/choice[@req=\"rad_flesh_rescue\"]/event/text"
+msgstr ""
+"あなたはケージを開けて、混乱している医学科学者を見つけます。彼は彼らが取った巡洋艦にいたように見えますが、何が起こったのか思い出せません。彼はあなたの乗組員に加わることに同意します。"
+
+#: src-en/data/events.xml.append:1114
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[3]/event/choice[@req=\"rad_flesh_rescue\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1120
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1126
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1128
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_3\"]/choice[4]/event/text"
+msgstr "あなたは建物を離れます。必要なものがすべて揃っていることを願っています。"
+
+#: src-en/data/events.xml.append:1138
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/text"
+msgstr "あなたは建物の入り口に戻ってきました。"
+
+#: src-en/data/events.xml.append:1140
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[1]/text"
+msgstr "上司のオフィスを見てください。"
+
+#: src-en/data/events.xml.append:1142
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[1]/event/text"
+msgstr ""
+"オフィスを検索して、役に立つものは何も見つかりません。\n"
+"コンピューターはしっかりと固定されており、彼の机の上にある便利な手がかりはありません。\n"
+"しかし、素敵な帽子が掛けています。残念ながら、それはあなたのサイズではありません。"
+
+#: src-en/data/events.xml.append:1146
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1152
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[2]/text"
+msgstr "従業員ラウンジを見てください。"
+
+#: src-en/data/events.xml.append:1154
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[2]/event/text"
+msgstr ""
+"ラウンジは、あなたが来て中断する前に明らかに使用されていました。テーブルの上に座っている半分の食べられた昼食があり、誰かが宇宙電子レンジを台無しにしました。しかし、ここにはあなたに役立つものがあるようには見えません。\n"
+"バスルームもあります。"
+
+#: src-en/data/events.xml.append:1157
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[2]/event/choice[@req=\"rad_flesh_quest\"]/text"
+msgstr "バスルームを確認してください。"
+
+#: src-en/data/events.xml.append:1160
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[2]/event/choice[@req=\"rad_flesh_quest\"]/event/text"
+msgstr ""
+"バスルームのドアを開けて、完全に普通のバスルームを見つけます。しかし、誰かが床に宇宙電話を落としたようです。\n"
+"あなたも幸運です！この電話を所有している人は、ロック解除されたままにしていたため、大規模な保管施設の座標が含まれています。これは彼らが巡洋艦を奪った場所でなければなりません！"
+
+#: src-en/data/events.xml.append:1164
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[2]/event/choice[@req=\"rad_flesh_quest\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1170
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1176
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[3]/text"
+msgstr "保管室を見てください。"
+
+#: src-en/data/events.xml.append:1178
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[3]/event/text"
+msgstr ""
+"保管室はかなり普通で、ファイル、標識、その他のランダムなジャンクでいっぱいのボックスがたくさんあります。角で、あなたはケージのように見えるものを見つけますか？"
+
+#: src-en/data/events.xml.append:1180
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[3]/event/choice[@req=\"rad_flesh_rescue\"]/text"
+msgstr "ケージをチェックしてください。"
+
+#: src-en/data/events.xml.append:1183
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[3]/event/choice[@req=\"rad_flesh_rescue\"]/event/text"
+msgstr ""
+"あなたはケージを開けて、混乱している医学科学者を見つけます。彼は彼らが取った巡洋艦にいたように見えますが、何が起こったのか思い出せません。彼はあなたの乗組員に加わることに同意します。"
+
+#: src-en/data/events.xml.append:1186
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[3]/event/choice[@req=\"rad_flesh_rescue\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1192
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1198
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1200
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_4\"]/choice[4]/event/text"
+msgstr "あなたは建物を離れます。必要なものがすべて揃っていることを願っています。"
+
+#: src-en/data/events.xml.append:1208
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_5\"]/text"
+msgstr ""
+"保管施設に到着し、巡洋艦の検索を開始します。\n"
+"やがて、あなたはそれを見つけます。しかし、それはエイリアンの権利グループによって使用されています！"
+
+#: src-en/data/events.xml.append:1212
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_5\"]/choice/text"
+msgstr "巡洋艦に近づきます。"
+
+#: src-en/data/events.xml.append:1214
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_5\"]/choice/event/text"
+msgstr ""
+"近づくと、船の船体が奇妙に思えます...\n"
+"\n"
+"あなたは船をスキャンし、船が生きていることを発見します！より正確には、船体はです。\n"
+"ちょうどその時、船は彼らの武器を動かします。彼らはあなたを見つけたようです！\n"
+"\n"
+"スキャンは、船の船体がそれ自体を癒すことができることを示しています。あなたがそれを殺したいなら、あなたはそれ自体を癒すのを止める必要があります！"
+
+#: src-en/data/events.xml.append:1222
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_FLESH_5\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1230
+msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_6\"]/text"
+msgstr ""
+"科学船が現れたのを少し待った後。\n"
+"彼らは船の上で何かをし、肉の巡洋艦はそれ自体を修復し始めます。\n"
+"\n"
+"「ああ、そのエイリアンの権利グループに対処する優れた仕事。明らかに、この船はそれが価値があるよりも多くのトラブルを引き起こしている...私たちはもうそれを望んでいないので、私たちはそれを連邦に送ります。\n"
+"\n"
+"「ああ、そして私が忘れる前に、ここにあなたの支払いがあります。」"
+
+#: src-en/data/events.xml.append:1247
+msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_1\"]/text"
+msgstr ""
+"「さて、これは最もエキサイティングなタスクの1つではありませんが、やらなければなりません。私たちの恩人の1人は、特定のタイプの惑星を追跡するために私たちを雇ってきました。"
+
+#: src-en/data/events.xml.append:1249
+msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_1\"]/choice/text"
+msgstr "難しく聞こえません。"
+
+#: src-en/data/events.xml.append:1251
+msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_1\"]/choice/event/text"
+msgstr "「そうではありません、あなたの船に検索するために場所のリストをアップロードしてください、幸運を祈ります。」"
+
+#: src-en/data/events.xml.append:1254
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_1\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1256
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_1\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1259
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_1\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1261
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_1\"]/choice/event/choice/event/choice/event/text"
+msgstr "... ..."
+
+#: src-en/data/events.xml.append:1264
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_1\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1266
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_1\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "... ... ...完了します"
+
+#: src-en/data/events.xml.append:1286
+msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_2\"]/text"
+msgstr "当然のことながら、それはパルサーです。"
+
+#: src-en/data/events.xml.append:1289
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_2\"]/choice[@req=\"rad_money_searched\""
+" and @lvl=\"0\"]/text"
+msgstr "続く"
+
+#: src-en/data/events.xml.append:1291
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_2\"]/choice[@req=\"rad_money_searched\""
+" and @lvl=\"0\"]/event/text"
+msgstr "さて、船はここにいませんが、何か他のものがあります..."
+
+#: src-en/data/events.xml.append:1294
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_2\"]/choice[@req=\"rad_money_searched\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1300
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_2\"]/choice[@req=\"rad_money_searched\""
+" and @lvl=\"3\"]/text"
+msgstr "続く"
+
+#: src-en/data/events.xml.append:1309
+msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_3\"]/text"
+msgstr ""
+"小さなコロニーのある惑星を見つけるためにビーコンに到着します。コロニーに目に見える損傷と軌道に大量のスクラップがあるため、最近攻撃されたように見えます。\n"
+"植民地に平和的に着陸する前に、スクラップを集めます。"
+
+#: src-en/data/events.xml.append:1315
+msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_3\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1318
+msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_3\"]/choice/event/text"
+msgstr ""
+"あなたは植民地のメンバーに迎えられます。「あなたは最後の船がやろうとしたことを終えるためにここにいないことを願っています。私たちはあなたが知っている無防備ではありません。」"
+
+#: src-en/data/events.xml.append:1320
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_3\"]/choice/event/choice/text"
+msgstr "なぜここにいるのかを説明してください。"
+
+#: src-en/data/events.xml.append:1322
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_3\"]/choice/event/choice/event/text"
+msgstr ""
+"「あなたが話している船はわかりませんが、彼らがここに来た場合、おそらく彼らが軌道にセットアップしている追跡ビーコンでどこに行ったのかを見ることができます。」"
+
+#: src-en/data/events.xml.append:1324
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_3\"]/choice/event/choice/event/choice/text"
+msgstr "追跡ビーコンに向かいます。"
+
+#: src-en/data/events.xml.append:1327
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_3\"]/choice/event/choice/event/choice/event/text"
+msgstr "あなたはビーコンに移動し、それにしっかりと接続した後、追跡している船の仕様に対応するスキャンされた目的地をダウンロードできます。"
+
+#: src-en/data/events.xml.append:1329
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_3\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1348
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_RICHSON\"]/text"
+msgstr "あなたは高価な船を破壊しました。植民地で報告する前に、あなたは遺体を略奪します。"
+
+#: src-en/data/events.xml.append:1351
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_RICHSON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1357
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_RICHSON\"]/text"
+msgstr "あなたはその高価な船の乗組員を殺しました。植民地で報告する前に、あなたは遺体を略奪します。"
+
+#: src-en/data/events.xml.append:1360
+msgid ""
+"data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_RICHSON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1369
+msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_4\"]/text"
+msgstr ""
+"損傷した、しかし高価な船を見つけるためにその場所に到着します。彼らはあなたを歓迎します。\n"
+"「あなたは科学者と一緒にいますか？私は彼らに到達しようとしていて、父は何年もの間、その愚かな植民地は平和的に提出して船を傷つけませんでした！」"
+
+#: src-en/data/events.xml.append:1372
+msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_4\"]/choice/text"
+msgstr "彼に状況を説明してください。"
+
+#: src-en/data/events.xml.append:1374
+msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_4\"]/choice/event/text"
+msgstr ""
+"「まあ、それは私には明らかなようです。あなたは私をあなたと一緒に連れて行き、私たちがこのことを終えることができるようにする必要があります。」"
+
+#: src-en/data/events.xml.append:1376
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_4\"]/choice/event/choice[1]/text"
+msgstr "「さて、私たちはあなたを集めて植民地に戻ります。」（会社の側）"
+
+#: src-en/data/events.xml.append:1382
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MONEY_4\"]/choice/event/choice[2]/text"
+msgstr "このようなコロニーを攻撃することはわかりません。何かを作り、コロニーに報告してください。（コロニーの側）"
+
+#: src-en/data/events.xml.append:1397
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_COLONY\"]/text"
+msgstr "あなたは植民地を破壊しました。植民地で報告する前に、あなたは遺体を略奪します。"
+
+#: src-en/data/events.xml.append:1400
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_COLONY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1406
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_COLONY\"]/text"
+msgstr "あなたは植民地の乗組員を殺しました。植民地で報告する前に、あなたは遺体を略奪します。"
+
+#: src-en/data/events.xml.append:1409
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_COLONY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1416
+msgid "data/events.xml.append$//event[@name=\"RAD_POOR_1\"]/text"
+msgstr ""
+"あなたは言い訳をして、飛び戻します。\n"
+"\n"
+"植民地のリーダーに状況を説明します。\n"
+"「うーん、私たちはあきらめて去ろうとはしていません。あなたは彼をどうにかして追い払う必要があります。"
+
+#: src-en/data/events.xml.append:1423
+msgid "data/events.xml.append$//event[@name=\"RAD_POOR_1\"]/choice/text"
+msgstr "損傷した船に立ち向かうために戻ってください。"
+
+#: src-en/data/events.xml.append:1432
+msgid "data/events.xml.append$//event[@name=\"RAD_POOR_1\"]/choice/event/text"
+msgstr ""
+"あなたは破損した船に戻って飛びますが、そこに着くと、2つ目は非常に損傷を受けていないが、同様に高価な船に気付きます。\n"
+"「あなたはちょうど間に合うように到着しました、私の交換船はここに時間内に来ました。今、私たちはその愚かなコロニーを一緒に終えることができます。」"
+
+#: src-en/data/events.xml.append:1435
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_POOR_1\"]/choice/event/choice[1]/text"
+msgstr "「私はあなたにそれをさせることはできません。」あなたの武器を強化します"
+
+#: src-en/data/events.xml.append:1437
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_POOR_1\"]/choice/event/choice[1]/event/text"
+msgstr "船はそれに応じて武器を強化します。あなたは戦いに参加しているようです。"
+
+#: src-en/data/events.xml.append:1440
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_POOR_1\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1446
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_POOR_1\"]/choice/event/choice[2]/text"
+msgstr "「修理のために支払い、物事を滑らかにするためのいくつかのクレジットはどうですか？」"
+
+#: src-en/data/events.xml.append:1448
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_POOR_1\"]/choice/event/choice[2]/event/text"
+msgstr "「私はそれがしなければならないと思います、父はそれを好まないでしょうが、これは1か月の手当のようです、CYAS」"
+
+#: src-en/data/events.xml.append:1460
+msgid "data/events.xml.append$//event[@name=\"RAD_RICH_1\"]/crewMember"
+msgstr "レジナルド"
+
+#: src-en/data/events.xml.append:1463
+msgid "data/events.xml.append$//event[@name=\"RAD_RICH_1\"]/text"
+msgstr ""
+"あなたは船の船長を拾います。彼の名前はレジナルドであり、彼は金持ちの大物の息子です。\n"
+"\n"
+"コロニーに戻って武器を動かして、コロニーから短いコミュニケーションを受けます。\n"
+"「私はあなたが彼らの一人であることを知っていたはずです、私たちを善のために終わらせるために来てください。\n"
+"コロニーの武器が電力を供給します。"
+
+#: src-en/data/events.xml.append:1469
+msgid "data/events.xml.append$//event[@name=\"RAD_RICH_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1476
+msgid "data/events.xml.append$//event[@name=\"RAD_POOR_2\"]/text"
+msgstr ""
+"あなたはあなたの成功のニュースを報告するために植民地に戻ります。\n"
+"\n"
+"「素晴らしい仕事のレネゲイド、私たちはあなたがなぜ来たのか疑問に思うことはありません。あなたが助けてくれてうれしいです。\n"
+"私たちはいくつかのスクラップをあなたに移しました、さらに、私たちは古いトレーニングクルーザーを連邦に送りました。"
+
+#: src-en/data/events.xml.append:1489
+msgid "data/events.xml.append$//event[@name=\"RAD_RICH_2\"]/text"
+msgstr ""
+"「さて、私たちはそれをしました、そしてそれは今回私に1隻の船だけを連れて行っただけです、父は喜んでいます！」レジナルドを叫ぶ。\n"
+"「私はあなたに報酬を与える方法がわかりませんが、あなたは私の古い巡洋艦を持つことができます、私は毎週それらを通過します、私はただ新しいものを手に入れます、それはかなりのスクラップの価値があるはずです。」"
+
+#: src-en/data/events.xml.append:1492
+msgid "data/events.xml.append$//event[@name=\"RAD_RICH_2\"]/choice[1]/text"
+msgstr "レジナルドに感謝し、彼の新しい巡洋艦が到着するまで彼をここに残してください。"
+
+#: src-en/data/events.xml.append:1497
+msgid "data/events.xml.append$//event[@name=\"RAD_RICH_2\"]/choice[1]/event/text"
+msgstr "あなたはそれを削る前に彼の古い巡洋艦に青写真をダウンロードします。"
+
+#: src-en/data/events.xml.append:1504
+msgid "data/events.xml.append$//event[@name=\"RAD_RICH_2\"]/choice[2]/text"
+msgstr "レジナルドをあなたと一緒に連れて行くことを申し出てください。"
+
+#: src-en/data/events.xml.append:1509
+msgid "data/events.xml.append$//event[@name=\"RAD_RICH_2\"]/choice[2]/event/text"
+msgstr "Reginaldは同意します。あなたはそれを削る前に彼の古い巡洋艦に青写真をダウンロードします。"
+
+#: src-en/data/events.xml.append:1520
+msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_1\"]/text"
+msgstr ""
+"「OK、このタスクはそれほど複雑ではないはずです。最近のプロジェクトの1つはENGIとのコラボレーションであり、ジャンプせずにZoltanシールドに電力を供給するのに十分な力を生み出すことができる船の作成に取り組んでいました。\n"
+"しかし、問題の船は行方不明になっていますが、それは分離主義者の仕事だと思いますが、確かではありません。プロジェクトを担当しているENGIと連絡を取ります。"
+
+#: src-en/data/events.xml.append:1523
+msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_1\"]/choice/text"
+msgstr "私は途中に行きます。"
+
+#: src-en/data/events.xml.append:1525
+msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_1\"]/choice/event/text"
+msgstr "\"幸運を。\""
+
+#: src-en/data/events.xml.append:1538
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_ENGIZOL\"]/text"
+msgstr "あなたはエンギ船を破壊しました。あなたは遺体を略奪します。"
+
+#: src-en/data/events.xml.append:1541
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_ENGIZOL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1547
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_ENGIZOL\"]/text"
+msgstr "あなたはそのエンギ船の乗組員を殺しました。ゾルタンが船を乗せているのを見るのは驚くべきことでしたが、どちらにしても遺跡を略奪します。"
+
+#: src-en/data/events.xml.append:1550
+msgid ""
+"data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_ENGIZOL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1560
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/beaconType/unvisitedTooltip"
+msgstr "これは、ハーモニーリンクの場所であり、現在のクエストの目的です。"
+
+#: src-en/data/events.xml.append:1561
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/beaconType/visitedTooltip"
+msgstr "これはハーモニーリンクの場所です。"
+
+#: src-en/data/events.xml.append:1564
+msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/text"
+msgstr ""
+"ハーモニーリンクに到達したようです。これらの巨大な惑星サイズの構造は、数兆個のナノボットで構成されており、セクターのすべてのENGIに強い信号を送信します。"
+
+#: src-en/data/events.xml.append:1566
+msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1568
+msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/choice/event/text"
+msgstr ""
+"あなたが到着した後、あなたはエンギに歓迎されています。\n"
+"「ご挨拶。」\n"
+"「私たちはあなたの到着について言われました、それは十分にタイミングがあります、私たちはちょうど分離主義者が船で逃げた場所を発見しました。」"
+
+#: src-en/data/events.xml.append:1573
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/choice/event/choice/text"
+msgstr "あなたはそれが分離主義者だと確信していますか？"
+
+#: src-en/data/events.xml.append:1575
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/choice/event/choice/event/text"
+msgstr "「私たちの船の1つを除いて、他の誰が船を盗んだことができたでしょう。」"
+
+#: src-en/data/events.xml.append:1577
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/choice/event/choice/event/choice/text"
+msgstr "さて、彼らはどこに船を取りましたか？"
+
+#: src-en/data/events.xml.append:1579
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+"「近くのビーコン。」\n"
+"「座標を船にアップロードします。」"
+
+#: src-en/data/events.xml.append:1584
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "私たちは途中です..."
+
+#: src-en/data/events.xml.append:1586
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"あなたが船を残しているとき、船がビーコンに飛び込み、すぐにその地域のエンギー船に発砲します。\n"
+"\n"
+"それはエンギ船のように見えますが、奇妙な色が描かれています。"
+
+#: src-en/data/events.xml.append:1592
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1606
+msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_6\"]/text"
+msgstr ""
+"エンギはあなたを再び歓迎します。\n"
+"「優秀な戦いのキャプテン。」\n"
+"「あなたの戦いの間に、私たちは船が分離主義者ではなくゾルタンによって乗組されたことを発見しました。」\n"
+"「分離主義者はゾルタンと契約を結んだに違いない。」\n"
+"「私たちはまた、船が飛び降りた場所を追跡することができました。私たちはあなたの船にその場所をアップロードしました。」\n"
+"\"幸運を。\""
+
+#: src-en/data/events.xml.append:1622
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_SEPSTAT\"]/text"
+msgstr "あなたは分離主義者の船を破壊しました。彼らは行方不明の船とは何の関係もなかったようですが、あなたはどちらの方法でも遺跡を略奪します。"
+
+#: src-en/data/events.xml.append:1627
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_SEPSTAT\"]/text"
+msgstr "あなたは分離主義者の船の乗組員を殺しました。彼らは行方不明の船とは何の関係もなかったようですが、あなたはどちらの方法でも遺跡を略奪します。"
+
+#: src-en/data/events.xml.append:1634
+msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_3\"]/text"
+msgstr ""
+"あなたはビーコンに到着し、奇妙なものを発見します。それは分離主義者の教育船のようです。\n"
+"あなたは船を攻撃することができます、彼らは行方不明の船と何か関係があるかもしれませんが、それはエンギがちょうどここにあなたをセラタティストを破壊するためにあなたを送ったようです。"
+
+#: src-en/data/events.xml.append:1639
+msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_3\"]/choice[1]/text"
+msgstr "船を攻撃してください、彼らは何かを知っているかもしれません。"
+
+#: src-en/data/events.xml.append:1641
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SUPERGUN_3\"]/choice[1]/event/text"
+msgstr "あなたはあなたの武器に電力を供給し、船を攻撃します。"
+
+#: src-en/data/events.xml.append:1644
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SUPERGUN_3\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1650
+msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_3\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1652
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SUPERGUN_3\"]/choice[2]/event/text"
+msgstr "あなたは理由もなくハーモニーの入札をしません、あなたは去ります。"
+
+#: src-en/data/events.xml.append:1663
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_ENGIFINAL\"]/text"
+msgstr "あなたはゾルタン・エンギの船を破壊しました。科学者にメッセージを送信して、船を回収したことを知らせます。"
+
+#: src-en/data/events.xml.append:1666
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_ENGIFINAL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1672
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_ENGIFINAL\"]/text"
+msgstr "あなたはゾルタン・エンギ船の乗組員を殺しました。科学者にメッセージを送信して、船を回収したことを知らせます。"
+
+#: src-en/data/events.xml.append:1675
+msgid ""
+"data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_ENGIFINAL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1683
+msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_7\"]/text"
+msgstr ""
+"ビーコンに到着し、すぐに奇妙に見えるエンギ船に気付きます。あなたはそれをスキャンして、それが盗まれた船であることを発見し、船はオフラインであるように見えます、あなたはそれに取り組んでいるドローンを見ることができます。\n"
+"しかし、船の隣には、ゾルタンの有人エンギ船のもう1つがあります。船を回収するためにそれを取り出さなければならないようです。"
+
+#: src-en/data/events.xml.append:1688
+msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_7\"]/choice/text"
+msgstr "攻撃するためにあなたの武器を強化します。"
+
+#: src-en/data/events.xml.append:1694
+msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_8\"]/text"
+msgstr ""
+"短い待ち時間の後、船が到着し、それは科学者です。\n"
+"「優れた仕事のキャプテン、私たちはあなたが破壊した船の設計を取り戻すことができました。そして、そのテクノロジーのいくつかは、ここであなたの仕事の支払いとしてあなたと連邦にそれをすべて届けます。」"
+
+#: src-en/data/events.xml.append:1710
+msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/text"
+msgstr ""
+"「これは迅速かつシンプルです。私たちは裕福なmerc兵グループに雇われ、特別な種類のスーパーシールドを設計および構築しました。これらは、通常のシールドの下に展開できるものではなく、通常のシールドの下に展開できます。」\n"
+"「私たちはテクノロジーを成功裏に作成し、merc兵グループのテスト船に装備しました。彼らが自分の船に設置するために支払う前にシールドをテストすることを目的としています。」"
+
+#: src-en/data/events.xml.append:1713
+msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/text"
+msgstr "彼らは試験船を盗んだのではなかった。"
+
+#: src-en/data/events.xml.append:1715
+msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/event/text"
+msgstr ""
+"「残念ながらあなたは正しいですが、私たちは仕事を保護することを好み、船にトラッカーを設置しました。あなたがする必要があるのは、ビーコンに飛んで船を破壊することだけです。」"
+
+#: src-en/data/events.xml.append:1717
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/event/choice/text"
+msgstr "簡単に聞こえます。"
+
+#: src-en/data/events.xml.append:1719
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/event/choice/event/text"
+msgstr "「それは、私は今あなたに船の場所をアップロードします。」"
+
+#: src-en/data/events.xml.append:1734
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_UNDERAIDER\"]/text"
+msgstr "あなたは試験船を破壊しました。科学者にメッセージを送信して、船を破壊したことを知らせます。"
+
+#: src-en/data/events.xml.append:1737
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_UNDERAIDER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1743
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_UNDERAIDER\"]/text"
+msgstr "あなたは試験船の乗組員を殺しました。科学者にメッセージを送信して、船を回収したことを知らせます。"
+
+#: src-en/data/events.xml.append:1746
+msgid ""
+"data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_UNDERAIDER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1754
+msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_2\"]/text"
+msgstr ""
+"ビーコンに到着します。科学者のトラッカーは信頼できるように見えます。あなたの前ではテストクルーザーであり、開いた周波数で発生する議論ができます。\n"
+"「船が爆発するとはどういう意味ですか！」\n"
+"「私たちがスーパーシールドを取り出すと、船は爆発することを意味します。」\n"
+"「科学者が私たちを止めるために船を設計したということを意味します。\n"
+"\n"
+"メルクはあなたに気づいたようです。彼らは彼らのコミュニケーションを締め出し、武器をオンにしています、あなたが戦いのためにいるように見えます。"
+
+#: src-en/data/events.xml.append:1763
+msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_2\"]/choice/text"
+msgstr "あなた自身の武器を強化します。"
+
+#: src-en/data/events.xml.append:1769
+msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_3\"]/text"
+msgstr ""
+"科学者自身の代わりに、小さなドローンが現れ、すぐに試験船の難破船に向かって動きます。\n"
+"船は爆発します。\n"
+"しばらくして、ドローンが破片から現れ、あなたに増強を届けると、船からスーパーシールドを抽出したようです。\n"
+"トランスミッションを受け取ります。「私たちは、テスト船からスーパーシールドであなたに支払う自由を取りました。また、私たちはmerc兵のために作ったデザインに沿って連邦に沿って送りました。今はそれを利用していません。」"
+
+#: src-en/data/events.xml.append:1782
+msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/text"
+msgstr ""
+"「クリスタルのことを聞いたことがありますか？」\n"
+"「とにかく、私たちは彼らと一緒にプロジェクトに取り組んでおり、ビームを反射できる特別な種類の結晶構造を開発していました。」\n"
+"「私たちは式を結晶に販売しましたが、彼らは問題を抱えて私たちに戻ってきました。どういうわけか、輸送中に反乱軍のグループも技術を手に入れることができました。"
+
+#: src-en/data/events.xml.append:1786
+msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1788
+msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/event/text"
+msgstr ""
+"「私たちは彼らの前post基地の1つを見つけましたが、彼らの主な基盤がどこにあるかはわかりません。」\n"
+"「今、注意深く聞いて、シーンにいくつかの機器をセットアップしたので、そこに着いたら準備をしなければなりません。」"
+
+#: src-en/data/events.xml.append:1791
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/event/choice/text"
+msgstr "さて、私たちはあなたの指示を聞く準備ができています。"
+
+#: src-en/data/events.xml.append:1793
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/event/choice/event/text"
+msgstr ""
+"「さて、あなたがそこに着いたら、私たちはあなたが彼らの船に乗ってあなたを輝かせるつもりです、私たちはあなたにメディックを提供しますが、あなたはあなた自身に搭乗するためにあなたの残りの乗組員を整理したいと思うでしょう。」\n"
+"船内に乗ったら、駅を配置する乗組員を殺す必要があります。そうすれば、メインの基地、幸運を見つけることができます。」"
+
+#: src-en/data/events.xml.append:1796
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1798
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/event/choice/event/choice/event/text"
+msgstr "「さて、私たちは今、前post基地の位置をアップロードしています。覚えておいてください、乗組員を搭乗用に準備してください。」"
+
+#: src-en/data/events.xml.append:1834
+msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_2\"]/text"
+msgstr ""
+"あなたはビーコンに到着し、科学船がすぐにあなたを彼らのFOBに導きます。\n"
+"「さて、あそこのボタンを押す準備ができたら、それがすべての乗組員を前post基にゆがめます。」"
+
+#: src-en/data/events.xml.append:1842
+msgid "data/events.xml.append$//eventButton[@name=\"UI_RAD_BOARD\"]/tooltip"
+msgstr "前post基地にボードします。"
+
+#: src-en/data/events.xml.append:1843
+msgid ""
+"data/events.xml.append$//eventButton[@name=\"UI_RAD_BOARD\"]/inactiveTooltip"
+msgstr "前post基地に乗ることはできません。"
+
+#: src-en/data/events.xml.append:1852
+msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_3\"]/text"
+msgstr "あなたの乗組員は反乱軍の前post基地に歪んでいます。"
+
+#: src-en/data/events.xml.append:1869
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_REBELOUT\"]/text"
+msgstr "乗組員を殺したので、メインベースに関する情報をダウンロードし、前post基地を廃棄します。"
+
+#: src-en/data/events.xml.append:1880
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_CRYSTALENEMY\"]/text"
+msgstr "あなたはクリスタル船を破壊しました。科学者にメッセージを送信して、船を破壊したことを知らせます。"
+
+#: src-en/data/events.xml.append:1883
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_CRYSTALENEMY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1889
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_CRYSTALENEMY\"]/text"
+msgstr "あなたはクリスタル船の乗組員を殺しました。科学者にメッセージを送信して、船を回収したことを知らせます。"
+
+#: src-en/data/events.xml.append:1892
+msgid ""
+"data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_CRYSTALENEMY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1903
+msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_4\"]/text"
+msgstr ""
+"あなたはクリスタルの反乱軍の主な基地に到着しました。\n"
+"\n"
+"あなたはすぐに気づきました、彼らは基地を守る準備ができている巡洋艦を持っているように見えます、そして、彼らは結晶から盗まれた技術を使用しています。\n"
+"戦う準備をします。"
+
+#: src-en/data/events.xml.append:1909
+msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_4\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1915
+msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_5\"]/text"
+msgstr ""
+"あなたの戦いの間、反政府勢力は何とかすべての人を避難させたようです。\n"
+"科学者が到着します。\n"
+"あなたは彼らに何が起こったのかを伝え、彼らは基地で発砲し始めます。\n"
+"「まあ、私たちはすべての反政府勢力を持っていなかったかもしれませんが、私たちは彼らの基地を破壊しました。それは結晶に十分なはずです。」\n"
+"「私たちはあなたがちょうど連邦に戦ったばかりの船の青写真を送りました。そして、私たちは技術のいくつかを回収しました。私たちはそれを支払いとしてあなたに届けます。」"
+
+#: src-en/data/events.xml.append:1929
+msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_1\"]/text"
+msgstr ""
+"「わかりました、まあこれは少し恥ずかしいですが、私たちは駅を失いました。」\n"
+"「私たちがこの1つのビーコンに駅を出たように、それから私たちは戻って行きました。」\n"
+"「とにかく、私たちはあなたが何が起こったのかを解決する必要があります。私たちはこの機会に少し無知です。」"
+
+#: src-en/data/events.xml.append:1933
+msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1935
+msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_1\"]/choice/event/text"
+msgstr "「ステーション上のトラッカーの座標を紹介します。駅を回復できるかどうかを確認してください。"
+
+#: src-en/data/events.xml.append:1937
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_WARPED_1\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1939
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_WARPED_1\"]/choice/event/choice/event/text"
+msgstr "「さて、私たちは今トラッカーの位置をアップロードしています」"
+
+#: src-en/data/events.xml.append:1954
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_CRYSTALENEMY2\"]/text"
+msgstr ""
+"あなたはクリスタル船を破壊しました、それはいくつかの奇妙なルーンで覆われているように見えますが、あなたはシンボルを翻訳することができません。"
+
+#: src-en/data/events.xml.append:1957
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_CRYSTALENEMY2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1959
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_CRYSTALENEMY2\"]/choice/event/text"
+msgstr "船のいくつかのデータを回復し、それを使用して船がどこから飛び込んだのかを判断することができます。"
+
+#: src-en/data/events.xml.append:1967
+msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_CRYSTALENEMY2\"]/text"
+msgstr ""
+"あなたはクリスタル船の乗組員を殺しました、それはいくつかの奇妙なルーンで覆われているように見えますが、あなたはシンボルを翻訳することができません。"
+
+#: src-en/data/events.xml.append:1970
+msgid ""
+"data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_CRYSTALENEMY2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1972
+msgid ""
+"data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_CRYSTALENEMY2\"]/choice/event/text"
+msgstr "船のいくつかのデータを回復し、それを使用して船がどこから飛び込んだのかを判断することができます。"
+
+#: src-en/data/events.xml.append:1985
+msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_2\"]/text"
+msgstr "あなたはビーコンに到着します、何も見えません。"
+
+#: src-en/data/events.xml.append:1987
+msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1991
+msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_2\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:1993
+msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_2_2\"]/text"
+msgstr ""
+"あなたがあきらめようとしているように、奇妙に見える船がビーコンに飛び込みます。\n"
+"船はすぐに武器を駆動します。\n"
+"\n"
+"幸いなことに、あなたの乗組員の1人は、念のために武器を充電するのに十分賢かったので、あなたは盾を突破して船体に衝撃を与えるボレーを発射します。\n"
+"\n"
+"残念ながら、これは船にあまり損害を与えないようであり、代わりに船はその影響を活用することができ、すぐに武器の1つを充電し、幸運にも見逃している独自のボレーで応答します。"
+
+#: src-en/data/events.xml.append:2001
+msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_2_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2014
+msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/text"
+msgstr "あなたは到着し、すぐに駅に気づきます。あなたが破壊した船が何らかの形で駅をここに移動したようです。"
+
+#: src-en/data/events.xml.append:2017
+msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2019
+msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/event/text"
+msgstr ""
+"あなたは駅に乗って、それを空にします。\n"
+"船を検索して、有用なものは何でもありませんが、奇妙なセクターの座標を見つけるコンピューターの1つでは、解読できない奇妙なキャラクターで書かれているように見えます。解読するには何らかの翻訳者が必要です。"
+
+#: src-en/data/events.xml.append:2022
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/event/choice[@req=\"UPG_AETHER_TRANSLATOR\"]/text"
+msgstr "（Runic Translator）座標を翻訳します。"
+
+#: src-en/data/events.xml.append:2024
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/event/choice[@req=\"UPG_AETHER_TRANSLATOR\"]/event/text"
+msgstr "座標を解読できます。次の出口ビーコンでそこにルーティングできるように見えます。"
+
+#: src-en/data/events.xml.append:2027
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/event/choice[@req=\"UPG_AETHER_TRANSLATOR\"]/event/choice/text"
+msgstr "科学者に連絡してください"
+
+#: src-en/data/events.xml.append:2033
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/event/choice[2]/text"
+msgstr "科学者に連絡してください。"
+
+#: src-en/data/events.xml.append:2035
+msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_4\"]/text"
+msgstr ""
+"科学者が到着します。\n"
+"\n"
+"「優れた仕事のキャプテン、私たちがあなたのために仕事があれば、将来あなたに再びあなたに連絡するでしょう。」"
+
+#: src-en/data/events.xml.append:2048
+msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_1\"]/text"
+msgstr ""
+"「まあ、私たちは交通機関が奪われていることに問題がありましたが、彼らがスクラップを運んでいるときにのみ不思議なことに、私たちは誰が私たちを奪っているのかを考え出す必要があります。"
+
+#: src-en/data/events.xml.append:2050
+msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_1\"]/choice/text"
+msgstr "「十分に単純です。」"
+
+#: src-en/data/events.xml.append:2052
+msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_1\"]/choice/event/text"
+msgstr "「とにかく、ここに彼らが奪った交通機関の1つの座標があります。商業用品も閲覧してください。」"
+
+#: src-en/data/events.xml.append:2065
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_SCRAP_LANIUS1\"]/text"
+msgstr "あなたはラニウスを片付けました、あなたはラニウス船の手がかりを探す前に自分のためにスクラップを取ります..."
+
+#: src-en/data/events.xml.append:2068
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_SCRAP_LANIUS1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2070
+msgid ""
+"data/events.xml.append$//event[@name=\"DESTROYED_RAD_SCRAP_LANIUS1\"]/choice/event/text"
+msgstr "あまり見つかりませんが、船内の別のビーコンの座標を見つけることができます。おそらく、これにより犯罪リングの中心につながるでしょう。"
+
+#: src-en/data/events.xml.append:2083
+msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_2\"]/text"
+msgstr ""
+"あなたはビーコンに到着しました、科学者の船の1つの難破船が近くにあります。あなたは近くの小さなが奇妙なラニウス船に気づきますが、それは放棄されているようです。"
+
+#: src-en/data/events.xml.append:2085
+msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_2\"]/choice/text"
+msgstr "調査する..."
+
+#: src-en/data/events.xml.append:2087
+msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_2\"]/choice/event/text"
+msgstr "あなたが2つの船に近づき始めると、科学巡洋艦の力の難破船はあなたが彼らの略奪の真ん中でラニウスを中断したように見えます。"
+
+#: src-en/data/events.xml.append:2090
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SCRAP_2\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2103
+msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_SCRAP_LANIUS2\"]/text"
+msgstr "大規模な巡洋艦が地域の他のラニウスを扱っているので、少なくとも今のところは..."
+
+#: src-en/data/events.xml.append:2117
+msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_3\"]/text"
+msgstr "あなたはビーコンに到着して巨大なスクラピードを発見し、いくつかの小さなラニウス容器を発見し、断片を叩き、断片を動かします。"
+
+#: src-en/data/events.xml.append:2119
+msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_3\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2121
+msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_3\"]/choice/event/text"
+msgstr ""
+"しばらくして、スクラップの中から巨大な船が現れます。これは、この地域を恐怖に陥れている船でなければならないようです。\n"
+"\n"
+"船は武器の上で動きます、彼らは彼らのスペースの侵入者が好きではないように見えます..."
+
+#: src-en/data/events.xml.append:2126
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_SCRAP_3\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2135
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_1\"]/text"
+msgstr "「一度、実際に誰かを追い詰める必要はありません。今回は、プロトタイプの武器、特に鉱山ランチャーをテストする必要があります。」"
+
+#: src-en/data/events.xml.append:2141
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2145
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_1\"]/choice/event/text"
+msgstr "「私たちがする必要があるのは、理想的にはライブターゲットに対して10回武器を発射することだけです。それが終わったら、幸運を祈ります。」"
+
+#: src-en/data/events.xml.append:2152
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_2\"]/text"
+msgstr "科学者のテストを完了し、ランデブーの場所を送信しました。"
+
+#: src-en/data/events.xml.append:2162
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_3\"]/text"
+msgstr "到着すると、科学者から別のトランスミッションを受け取ると、ランデブーの場所に向かう途中で道を進んでいるように見えます。"
+
+#: src-en/data/events.xml.append:2176
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/text"
+msgstr ""
+"海賊船を離れるように動いているのと同じように、ビーコンに到着します。\n"
+"「ああ、そこにその銃をどこで手に入れたのか。」"
+
+#: src-en/data/events.xml.append:2179
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[1]/text"
+msgstr "機密だと伝えてください。"
+
+#: src-en/data/events.xml.append:2181
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[1]/event/text"
+msgstr "「そこに武器が上司に属しているので、どこで手に入れたか、またはいくつかの問題があることを教えてください。」"
+
+#: src-en/data/events.xml.append:2183
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[1]/event/choice[1]/text"
+msgstr "武器をどこから手に入れたかを説明してください。"
+
+#: src-en/data/events.xml.append:2187
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[1]/event/choice[2]/text"
+msgstr "これらの人をねじ込みます。"
+
+#: src-en/data/events.xml.append:2191
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4_HOSTILE\"]/text"
+msgstr "敵の船は彼らの武器を動かし、あなたは戦いのためにいるように見えます。"
+
+#: src-en/data/events.xml.append:2194
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4_HOSTILE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2202
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[2]/text"
+msgstr "一部の科学者が武器のテストを任せたことを説明してください。"
+
+#: src-en/data/events.xml.append:2204
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4_FRIENDLY\"]/text"
+msgstr ""
+"「私はそれが難しいと思う。私はあなたが私たち自身のためにその武器を建設するためにそれらの科学者を雇ったことを考慮して泥棒だと思う。」\n"
+"\n"
+"海賊はコミュニケーションを遮断し、彼の武器を強化しますが、顧客を殺している場合、科学者にとっては良くないかもしれません。"
+
+#: src-en/data/events.xml.append:2209
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4_FRIENDLY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2215
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[3]/text"
+msgstr "それらを無視して、飛び去ろうとします。"
+
+#: src-en/data/events.xml.append:2221
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_B_PIRATE_RIGGER_DESTROYED\"]/text"
+msgstr "あなたは海賊と彼らの上司との平和の希望を破壊しました、少なくともあなたは彼らの戦利品を得ました。"
+
+#: src-en/data/events.xml.append:2224
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_B_PIRATE_RIGGER_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2230
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_B_PIRATE_RIGGER_DEADCREW\"]/text"
+msgstr "あなたは彼らの船から残りの海賊をこすり落とし、物資をきれいに選ぶことができました。"
+
+#: src-en/data/events.xml.append:2233
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_B_PIRATE_RIGGER_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2241
+msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_RIGGER_DEAD\"]/text"
+msgstr "あなたはこれらの人を殺すことが戻ってきて、お尻であなたを噛まないことを願っています..."
+
+#: src-en/data/events.xml.append:2255
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/text"
+msgstr "ビーコンに到着して、今回科学者船が実際に登場したことを見つけます。"
+
+#: src-en/data/events.xml.append:2257
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2260
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"「ハローレネゲイド、残念ながら私たちはあなたを生きることができません。顧客を殺して死ぬ準備をしてもらうなら、それはビジネスにとって良くありません。」"
+
+#: src-en/data/events.xml.append:2263
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2269
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2272
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"「私たちはあなたがそれらの海賊と一緒に走っていることを聞いた、少年はあなたが彼らを殺すことを決めなかったことをうれしく思います、私たちをトラブルの世界に置いたでしょう。」\n"
+"\n"
+"「私たちはまだ森から出ていません。あなたが出会った海賊のボスは今ここにいます。彼はただ話したいと言いますが、それは何でも意味するかもしれません。」"
+
+#: src-en/data/events.xml.append:2276
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2278
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
+" and @lvl=\"0\"]/event/choice/event/text"
+msgstr ""
+"しばらくして、大きな海賊船がビーコンに到着しましたが、すぐに武器に動力を供給します。\n"
+"科学者はあなたに連絡します。"
+
+#: src-en/data/events.xml.append:2283
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
+" and @lvl=\"0\"]/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "科学者が海賊と取引をするための時間を購入します。"
+
+#: src-en/data/events.xml.append:2288
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
+" and @lvl=\"0\"]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2298
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_B_PIRATE_MSHIP_DESTROYED\"]/text"
+msgstr "船を破壊した後、あなたは彼らの遺体を使いやすいもののために略奪します。"
+
+#: src-en/data/events.xml.append:2301
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_B_PIRATE_MSHIP_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2307
+msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_MSHIP_DEADCREW\"]/text"
+msgstr "あなたはすべての海賊を船から片付け、縛られていないものをすべて集めることを可能にしました。"
+
+#: src-en/data/events.xml.append:2310
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_B_PIRATE_MSHIP_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2318
+msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_MSHIP_DEAD\"]/text"
+msgstr ""
+"あなたはこれらの人を殺すことが戻ってきて、お尻であなたを噛まないことを願っています...\n"
+"\n"
+"あなたが海賊と戦っている間、科学者は助けようとして去ろうとするのをあきらめたようです。\n"
+"しかし、去る前に、彼らはあなたが生き残った場合に彼らが行く場所を送信しました。"
+
+#: src-en/data/events.xml.append:2327
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_SUCCEED\"]/text"
+msgstr ""
+"突然、海賊船は武器を無効にし、科学者たちはあなたの火を保持するように言って、彼らは海賊に止まるよう説得することに成功したようです。\n"
+"\n"
+"「まあ、私たちはあなたが以前に私たちの部下を殺さなかったことに感謝していますが、あなたはまだ私たちの船に深刻なダメージを与え、あなたが支払うようになった毛皮をしました。」\n"
+"「科学者たちは、私たちの問題についてあなたの助けを親切に志願しました。具体的には、私たちにとって問題を引き起こした連邦巡洋艦に対処する必要があります。"
+
+#: src-en/data/events.xml.append:2332
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_SUCCEED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2334
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_SUCCEED\"]/choice/event/text"
+msgstr ""
+"科学者はあなたが去るときにあなたに連絡してください。「このタスクを実行してください。私たちがすべてです。タスクを完了したら、いくつかの追加の報酬を投げかけます。」"
+
+#: src-en/data/events.xml.append:2346
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_FAIL\"]/text"
+msgstr ""
+"ビーコンに到着し、すぐにエンジンがリモートで無効になっていることに気付きます。\n"
+"\n"
+"「ハローレネゲイド、残念ながら私たちはあなたを生きることができません。顧客を殺して死ぬ準備をしてもらうなら、それはビジネスにとって良くありません。」"
+
+#: src-en/data/events.xml.append:2352
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_FAIL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2367
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_B_PIRATE_SCIENCE_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2376
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_B_PIRATE_SCIENCE_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2383
+msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_SCIENCE_DEAD\"]/text"
+msgstr "遺跡を検索すると、高度な船の青写真を見つけると、海賊が科学者を雇ったもののようです。"
+
+#: src-en/data/events.xml.append:2396
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_QUEST\"]/text"
+msgstr "あなたはビーコンに到着します。そして、あなたは彼らの次のミッションのために小さな前post基地で待っている連邦巡洋艦を見ることができます。"
+
+#: src-en/data/events.xml.append:2399
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_QUEST\"]/choice[1]/text"
+msgstr "フェデレーションクルーザーに従事します。"
+
+#: src-en/data/events.xml.append:2401
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_QUEST\"]/choice[1]/event/text"
+msgstr "あなたはあなたの武器と攻撃を強化します。"
+
+#: src-en/data/events.xml.append:2404
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_QUEST\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2410
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_QUEST\"]/choice[2]/text"
+msgstr "あなたは海賊の気まぐれで仲間の連邦将校を殺すつもりはありません、去ります。"
+
+#: src-en/data/events.xml.append:2425
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_B_PIRATE_FED_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2434
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_B_PIRATE_FED_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2440
+msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_FED_DEAD\"]/text"
+msgstr "あなたは科学者に成功を報告し、彼らは大量のスクラップを提供し、青写真は彼らが設計した新しい船に向けて提供します。"
+
+#: src-en/data/events.xml.append:2459
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_H_PIRATE_SCIENCE_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2468
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_H_PIRATE_SCIENCE_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2474
+msgid "data/events.xml.append$//event[@name=\"RAD_H_PIRATE_SCIENCE_DEAD\"]/text"
+msgstr "遺体を検索すると、科学者を雇った海賊の場所を見つけます..."
+
+#: src-en/data/events.xml.append:2484
+msgid "data/events.xml.append$//event[@name=\"RAD_MINES_HOSTILE_QUEST\"]/text"
+msgstr "あなたは大きな海賊船で顔を合わせてビーコンに到着します。これらは科学者を雇った海賊でなければならないようです。"
+
+#: src-en/data/events.xml.append:2487
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_MINES_HOSTILE_QUEST\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2498
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_H_PIRATE_MSHIP_DESTROYED\"]/text"
+msgstr "船を破壊した後、あなたは彼らの遺体を使いやすいもののために略奪します。"
+
+#: src-en/data/events.xml.append:2501
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_H_PIRATE_MSHIP_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:2507
+msgid "data/events.xml.append$//event[@name=\"RAD_H_PIRATE_MSHIP_DEADCREW\"]/text"
+msgstr "あなたはすべての海賊を船から片付け、縛られていないものをすべて集めることを可能にしました。"
+
+#: src-en/data/events.xml.append:2510
+msgid ""
+"data/events.xml.append$//event[@name=\"RAD_H_PIRATE_MSHIP_DEADCREW\"]/choice/text"
+msgstr ""

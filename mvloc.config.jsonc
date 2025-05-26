@@ -5,6 +5,7 @@
         "data/autoBlueprints.xml.append",
         "data/blueprints.xml.append",
         "data/events.xml.append",
+		"data/events_addon_icon.xml.append",
 
         "data/events_sector_rad_science.xml",
         "data/events_special_lightspeed.xml.append",
@@ -46,6 +47,7 @@
         "//augBlueprint/desc",
 
         "//text",
+		"//hover-text",
         "//mod:findName/text",
 
         "//crewMember",
@@ -91,9 +93,9 @@
 
     "packaging": {
         "fullOriginal": [
-            "https://github.com/ftl-mv-translation/RAD/raw/RAD-english/Multiverse_-_RAD_1.5.5.zip",
+            "https://github.com/ftl-mv-translation/RAD/raw/RAD-english/Multiverse_-_RAD_1.5.7.zip",
         ],
         "prefix": "RAD",
-        "version": "1.5.5"
+        "version": "1.5.7"
     }
 }

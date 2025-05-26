@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-27 14:49+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataevents_addon_iconxmlappend/ru/>\n"
 "Language: ru\n"
@@ -65,7 +65,6 @@ msgstr ""
 "\tНажмите, чтобы увидеть больше информации."
 
 #: src-en/data/events_addon_icon.xml.append:27
-#, fuzzy
 msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_FISH_DISABLED\"]/text"
 msgstr ""
@@ -110,7 +109,6 @@ msgstr ""
 "\tНажмите, чтобы увидеть больше информации."
 
 #: src-en/data/events_addon_icon.xml.append:49
-#, fuzzy
 msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_GOF_DISABLED\"]/text"
 msgstr ""

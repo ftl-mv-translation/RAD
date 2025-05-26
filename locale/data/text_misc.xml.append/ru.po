@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 12:33+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-27 14:49+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -122,11 +122,10 @@ msgstr ""
 "-10 секунд перезарядки"
 
 #: src-en/data/text_misc.xml.append:40
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lightning\"]"
 msgstr ""
-"Совет: молниеносное оружие перескакивает в соседний отсек и снова наносит "
-"тот же урон. После перескакивания оно повторяет это снова."
+"Молниеносное оружие перескакивает в соседний отсек и снова наносит тот же "
+"урон. После перескакивания оно повторяет это снова."
 
 #: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_combiner\"]"

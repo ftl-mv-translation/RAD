@@ -1,0 +1,1564 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_rad_science.xml:28
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"FINISH_BEACON_RAD_SCIENCE\"]/choice[1]/text"
+msgstr "Explore."
+
+#: src-en/data/events_sector_rad_science.xml:32
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"FINISH_BEACON_RAD_SCIENCE\"]/choice[2]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:36
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"FINISH_BEACON_RAD_SCIENCE\"]/choice[3]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:47
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"START_RAD_SCIENCE\"]/text"
+msgstr ""
+"You have arrived in the sector belonging to the Scientists. The scientists "
+"keep to themselves, although there is a large civilian population who feel "
+"safe in their sector. The scientists in turn have started guarding their "
+"beacons against all who try to start trouble. We be fine if we keep out of "
+"the way."
+
+#: src-en/data/events_sector_rad_science.xml:51
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"START_RAD_SCIENCE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:57
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/text"
+msgstr ""
+"The guard hails you. \"Renegade, We understand your cause, but we cannot "
+"risk the disruption of the research or the lives of the people by letting "
+"you drag the rebellion through here, we want no part in it!\""
+
+#: src-en/data/events_sector_rad_science.xml:60
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[1]/text"
+msgstr "Prepare to fight!"
+
+#: src-en/data/events_sector_rad_science.xml:62
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[1]/event/text"
+msgstr "You rush to defensive positions as the guard approaches menacingly."
+
+#: src-en/data/events_sector_rad_science.xml:65
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:71
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[2]/text"
+msgstr "Try to bribe them."
+
+#: src-en/data/events_sector_rad_science.xml:73
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[2]/event/text"
+msgstr "You hope this is enough to satisfy them..."
+
+#: src-en/data/events_sector_rad_science.xml:78
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:80
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[2]/event/choice/event/text"
+msgstr ""
+"\"Funny, I just can't seem to remember who gave me this scrap... Now hurry "
+"along before I change my mind.\""
+
+#: src-en/data/events_sector_rad_science.xml:86
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
+msgstr "(Human Crew) Try to persuade them to let you go."
+
+#: src-en/data/events_sector_rad_science.xml:90
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[@req=\"rad_scientist\"]/text"
+msgstr ""
+"(Human Scientist) Have the scientist convince them to let you through."
+
+#: src-en/data/events_sector_rad_science.xml:94
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[@req=\"mind\"]/text"
+msgstr "(Mind Control) Convince the guard to leave you alone."
+
+#: src-en/data/events_sector_rad_science.xml:98
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[@req=\"cloaking\"]/text"
+msgstr "(Cloaking) Cloak and try to escape."
+
+#: src-en/data/events_sector_rad_science.xml:102
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[@req=\"engines\"]/text"
+msgstr "(Adv. Engines) Try to escape the guard."
+
+#: src-en/data/events_sector_rad_science.xml:106
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[@req=\"pilot\"]/text"
+msgstr "(Adv. Piloting) Activate the auto-pilot to try and escape."
+
+#: src-en/data/events_sector_rad_science.xml:113
+msgid ""
+"data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[1]/text"
+msgstr ""
+"\"I understand your cause, but if you do not leave I will be forced to make "
+"you leave!\""
+
+#: src-en/data/events_sector_rad_science.xml:116
+msgid ""
+"data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[1]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:121
+msgid ""
+"data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[2]/text"
+msgstr ""
+"\"I understand your cause, but if you do not leave I will be forced to make "
+"you leave!\""
+
+#: src-en/data/events_sector_rad_science.xml:124
+msgid ""
+"data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[2]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:129
+msgid ""
+"data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[3]/text"
+msgstr ""
+"\"Perhaps your cause is worth the risk, very well you may pass, we'll do our"
+" best to hold off the rebels.\""
+
+#: src-en/data/events_sector_rad_science.xml:135
+msgid ""
+"data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[1]/text"
+msgstr ""
+"\"Ah, a fellow scientist, you may pass through if you'd like, but the rest "
+"of your crew cannot.\""
+
+#: src-en/data/events_sector_rad_science.xml:138
+msgid ""
+"data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[1]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:143
+msgid ""
+"data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[2]/text"
+msgstr ""
+"\"Oh, my mistake, I didn't realise there was a fellow scientist on your "
+"ship, you may pass through.\""
+
+#: src-en/data/events_sector_rad_science.xml:147
+msgid ""
+"data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[3]/text"
+msgstr ""
+"\"Oh, my mistake, I didn't realise there was a fellow scientist on your "
+"ship, you may pass through.\""
+
+#: src-en/data/events_sector_rad_science.xml:168
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_FREE_DRONES\"]/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:172
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_FREE_DRONES\"]/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:177
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"RAD_SCIENCE_FREE_DRONES\"]/text[1]"
+msgstr ""
+"Nearby drifts the several discarded drones, they may not be functional "
+"however you're able to salvage a few drone parts from them."
+
+#: src-en/data/events_sector_rad_science.xml:178
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"RAD_SCIENCE_FREE_DRONES\"]/text[2]"
+msgstr ""
+"You notice a mine drifting nearby, followed by several more. Most, if not "
+"all, are inactive, probably left over from some sort of training exercise. "
+"Fortunately, this means you can salvage them with relative ease."
+
+#: src-en/data/events_sector_rad_science.xml:179
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"RAD_SCIENCE_FREE_DRONES\"]/text[3]"
+msgstr ""
+"A small craft appears on your scanners, it looks like it's coming straight "
+"towards you. Your crew quickly moves into action and blasts it to pieces, "
+"you attempt to salvage it but the only thing that survived was a box of "
+"drone parts."
+
+#: src-en/data/events_sector_rad_science.xml:183
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/text"
+msgstr ""
+"You receive a hail from a small craft floating nearby, it appears to be one "
+"of the scientists."
+
+#: src-en/data/events_sector_rad_science.xml:185
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:187
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/text"
+msgstr ""
+"\"Ahh a fine ship you have there Captain, Would you consider taking me "
+"aboard?\""
+
+#: src-en/data/events_sector_rad_science.xml:189
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[1]/text"
+msgstr "Welcome him aboard."
+
+#: src-en/data/events_sector_rad_science.xml:193
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"\"Now I probably should have mentioned this, but some pirates want to kill "
+"me, I'm sure a strong capable Captain like you can deal with them though.\""
+
+#: src-en/data/events_sector_rad_science.xml:195
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:201
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[2]/text"
+msgstr "Refuse."
+
+#: src-en/data/events_sector_rad_science.xml:203
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"The scientist's small craft flies away, just as you think it's over you see "
+"a pirate ship fly right by you in pursuit."
+
+#: src-en/data/events_sector_rad_science.xml:205
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:209
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:233
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_DESTROY\"]/text"
+msgstr ""
+"You have defeated the Scientist guard. Whatever might have been in their "
+"cargo has for certain been destroyed, but you can at least salvage some "
+"supplies from the ship."
+
+#: src-en/data/events_sector_rad_science.xml:236
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_DESTROY\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:241
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_DEADCREW\"]/text"
+msgstr ""
+"You have defeated the Scientist guard. Without crew on-board to stop you, "
+"you can investigate their cargo. You find a weapon to bring back to the "
+"ship, and move on to scrap their hull."
+
+#: src-en/data/events_sector_rad_science.xml:245
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_DEADCREW\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:253
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_FOLLOWUP\"]/text"
+msgstr ""
+"By killing the Scientist Guard you've definitely pissed someone off; let's "
+"just hope word doesn't travel fast."
+
+#: src-en/data/events_sector_rad_science.xml:255
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_FOLLOWUP\"]/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:259
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_FOLLOWUP\"]/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:284
+msgid ""
+"data/events_sector_rad_science.xml$//ship[@name=\"SHIP_RAD_SCIENCE_TRANSPORT\"]/escape/text"
+msgstr "They look like they don't want to fight. They are trying to escape."
+
+#: src-en/data/events_sector_rad_science.xml:302
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE\"]/choice[@req=\"rad_civilian\""
+" and @lvl=\"1\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:306
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_CIVILIAN_TRANSFORM\"]/text"
+msgstr "A civilian on your ship offer to join you crew."
+
+#: src-en/data/events_sector_rad_science.xml:308
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_CIVILIAN_TRANSFORM\"]/choice[@req=\"rad_civilian\""
+" and @lvl=\"2\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:314
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_CIVILIAN_TRANSFORM\"]/choice[@req=\"rad_civilian\""
+" and @lvl=\"0\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:320
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE\"]/choice[@req=\"rad_civilian\""
+" and @lvl=\"0\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:325
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[1]"
+msgstr ""
+"As you harvest the remains of the Scientist's ship, it's clear their "
+"advanced technology isn't enough to save them from you."
+
+#: src-en/data/events_sector_rad_science.xml:326
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[2]"
+msgstr ""
+"The Scientist captain lets out one final expletive as the ship is "
+"obliterated."
+
+#: src-en/data/events_sector_rad_science.xml:327
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[3]"
+msgstr ""
+"The gleaming hull of the scientist ship fragments out into space. You swoop "
+"in to salvage the remains."
+
+#: src-en/data/events_sector_rad_science.xml:328
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[4]"
+msgstr ""
+"The ship explodes, extinguishing all lives within. Your crew avoids their "
+"remains as they salvage the ship pieces."
+
+#: src-en/data/events_sector_rad_science.xml:329
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[5]"
+msgstr ""
+"In a fury of sparks and explosions, the hull of the ship collapses. You "
+"quickly scrap the remains, which still seem to be in good quality."
+
+#: src-en/data/events_sector_rad_science.xml:336
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE\"]/choice[@req=\"rad_civilian\""
+" and @lvl=\"1\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:340
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE\"]/choice[@req=\"rad_civilian\""
+" and @lvl=\"0\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:345
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[1]"
+msgstr ""
+"\"Your bloodlust... will be your downfall someday, Renegade. You are only "
+"proof... the Federation... is no better than the Rebellion...\""
+
+#: src-en/data/events_sector_rad_science.xml:346
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[2]"
+msgstr ""
+"\"Man down, man down! Agh!\" The crewmate's shouts go unheard as he is put "
+"down with the rest of his crew."
+
+#: src-en/data/events_sector_rad_science.xml:347
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[3]"
+msgstr ""
+"You've slaughtered the entirety of the crew. All that's left is to scrap "
+"their ship."
+
+#: src-en/data/events_sector_rad_science.xml:348
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[4]"
+msgstr ""
+"\"To be fair... this was way above my... pay-grade...\" The enemy captain "
+"clutches their heart and collapses."
+
+#: src-en/data/events_sector_rad_science.xml:349
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[5]"
+msgstr ""
+"\"You will regret this! Karma always comes back to people like you. Damn "
+"you... Us scientists would have been better off without you renegades "
+"around...\""
+
+#: src-en/data/events_sector_rad_science.xml:355
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"SURRENDER_RAD_SCIENCE\"]/choice[1]/text"
+msgstr "Accept their surrender."
+
+#: src-en/data/events_sector_rad_science.xml:357
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"SURRENDER_ACCEPT\"]/text"
+msgstr ""
+"The scientists are smart enough to know they're better off alive, even if a "
+"bit poorer"
+
+#: src-en/data/events_sector_rad_science.xml:361
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"SURRENDER_ACCEPT\"]/choice[@req=\"rad_civilian\""
+" and @lvl=\"1\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:365
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"SURRENDER_ACCEPT\"]/choice[@req=\"rad_civilian\""
+" and @lvl=\"0\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:377
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[1]"
+msgstr ""
+"\"Please! Us Scientists are the only reason half the multiverse's technology"
+" exists, We invented the space waffle iron! You can't kill us!\""
+
+#: src-en/data/events_sector_rad_science.xml:378
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[2]"
+msgstr ""
+"\"Look, just let us live and we'll give you our stuff, that's what you "
+"renegades want right?\""
+
+#: src-en/data/events_sector_rad_science.xml:379
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[3]"
+msgstr ""
+"The Scientist captain pleads with you to let them live. \"Please, my family!"
+" They need me, I am their only source of income! I'll give you everything I "
+"can if you let me live!\""
+
+#: src-en/data/events_sector_rad_science.xml:380
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[4]"
+msgstr ""
+"You receive a hail from another part of the ship, where another crew besides"
+" the captain speaks softly. \"Please, if you stop firing I'll give you "
+"whatever is left in the cargo. Our captain is adamant, but the rest of the "
+"crew doesn't want to die!\""
+
+#: src-en/data/events_sector_rad_science.xml:381
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[5]"
+msgstr ""
+"The Scientist ship is in tatters. You could probably negotiate their "
+"surrender at this point."
+
+#: src-en/data/events_sector_rad_science.xml:385
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_CAPTURE_RAD_SCIENCE\"]/text"
+msgstr ""
+"The crew is dead, leaving you with the ship. Its cargo is yours for the "
+"taking. Aboard is the special tech you expected, which you bring back to "
+"your ship."
+
+#: src-en/data/events_sector_rad_science.xml:398
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/text"
+msgstr ""
+"You clear out the defense cruiser and tow it back to the station, You're thanked and receive a large amount of scrap as a reward.\n"
+"\n"
+"One of the crew on the station offer to join your crew."
+
+#: src-en/data/events_sector_rad_science.xml:402
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/choice[1]/text"
+msgstr "Accept them onto your ship."
+
+#: src-en/data/events_sector_rad_science.xml:405
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/choice[1]/event/text"
+msgstr ""
+"It turns out it's one of the soldiers who was previously stationed aboard "
+"the defense cruiser."
+
+#: src-en/data/events_sector_rad_science.xml:410
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/choice[2]/text"
+msgstr "Reject their offer."
+
+#: src-en/data/events_sector_rad_science.xml:413
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/choice[2]/event/text"
+msgstr "You turn down the offer, you don't need any new crew right now."
+
+#: src-en/data/events_sector_rad_science.xml:429
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_rad_science.xml:430
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_rad_science.xml:431
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_rad_science.xml:433
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/text"
+msgstr ""
+"This beacon hosts a scientist transport. It's safe to bet the ship is most "
+"likely carrying some special tech. If you can kill its crew, their cargo "
+"will be yours."
+
+#: src-en/data/events_sector_rad_science.xml:436
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/choice[1]/text"
+msgstr "Demand the surrender of their goods."
+
+#: src-en/data/events_sector_rad_science.xml:438
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/choice[1]/event/text"
+msgstr "You prepare to secure their cargo by force."
+
+#: src-en/data/events_sector_rad_science.xml:441
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:447
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/choice[2]/text"
+msgstr "Avoid the ship."
+
+#: src-en/data/events_sector_rad_science.xml:449
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/choice[2]/event/text"
+msgstr "They stay outside your weapons range, and eventually jump away."
+
+#: src-en/data/events_sector_rad_science.xml:451
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:455
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:473
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[1]/text"
+msgstr "Fight them!"
+
+#: src-en/data/events_sector_rad_science.xml:475
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[1]/event/text"
+msgstr "You power up the weapons and attack the Scientists."
+
+#: src-en/data/events_sector_rad_science.xml:478
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:484
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[2]/text"
+msgstr "Ignore the Scientist ship."
+
+#: src-en/data/events_sector_rad_science.xml:486
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[2]/event/text"
+msgstr "You fly past the Scientist vessel."
+
+#: src-en/data/events_sector_rad_science.xml:488
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:492
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:499
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[1]"
+msgstr ""
+"A Scientist ship is surveying a planet in the area. No other ships are "
+"nearby."
+
+#: src-en/data/events_sector_rad_science.xml:500
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[2]"
+msgstr ""
+"You notice another ship, belonging to the Scientists, drifting some distance"
+" away. The ship is fully functional but politely declines any hails."
+
+#: src-en/data/events_sector_rad_science.xml:501
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[3]"
+msgstr ""
+"A decently armed Scientist vessel is patrolling the beacon, if you don't "
+"make any trouble they're unlikely to care about you."
+
+#: src-en/data/events_sector_rad_science.xml:505
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/text"
+msgstr ""
+"A nearby scientist vessel is acting as a supply depot, they offer you a "
+"resupply."
+
+#: src-en/data/events_sector_rad_science.xml:508
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[1]/text"
+msgstr "Submit your ID and get some supplies."
+
+#: src-en/data/events_sector_rad_science.xml:514
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[@req=\"rad_scientist\"]/text"
+msgstr "(Human Scientist) Request more supplies."
+
+#: src-en/data/events_sector_rad_science.xml:520
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[@req=\"LIST_CREW_MEDIC\"]/text"
+msgstr "(Medic Crew) Request medical supplies."
+
+#: src-en/data/events_sector_rad_science.xml:527
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[4]/text"
+msgstr "Attack, surely we can get more from them!"
+
+#: src-en/data/events_sector_rad_science.xml:529
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[4]/event/text"
+msgstr "You power up the weapons and attack the Scientists."
+
+#: src-en/data/events_sector_rad_science.xml:532
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[4]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:538
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[5]/text"
+msgstr "Ignore the depot."
+
+#: src-en/data/events_sector_rad_science.xml:540
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[5]/event/text"
+msgstr "You ignore the Scientists."
+
+#: src-en/data/events_sector_rad_science.xml:542
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[5]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:546
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[5]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:554
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/text"
+msgstr ""
+"A nearby station is putting out a distress beacon, it appears that their "
+"defense cruiser has been stolen by pirates."
+
+#: src-en/data/events_sector_rad_science.xml:557
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[1]/text"
+msgstr "Destroy or re-capture the defense cruiser."
+
+#: src-en/data/events_sector_rad_science.xml:559
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[1]/event/text"
+msgstr "You power up the weapons and attack the Pirates."
+
+#: src-en/data/events_sector_rad_science.xml:562
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:568
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[@req=\"cloaking\"]/text"
+msgstr ""
+"(Upg. Cloaking) Cloak and scrap some of the station while they're "
+"defenseless."
+
+#: src-en/data/events_sector_rad_science.xml:570
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[@req=\"cloaking\"]/event/text"
+msgstr ""
+"With the defense cruiser stolen, there's no one around to guard the station."
+" Under the veil of your cloak you tear off some of the plating and leave "
+"quickly."
+
+#: src-en/data/events_sector_rad_science.xml:575
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[3]/text"
+msgstr "Stay away from this."
+
+#: src-en/data/events_sector_rad_science.xml:577
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[3]/event/text"
+msgstr ""
+"You fly past the station. Hopefully, the situation will be resolved... no "
+"thanks to you."
+
+#: src-en/data/events_sector_rad_science.xml:579
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[3]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:583
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[3]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:591
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/text"
+msgstr ""
+"You arrive at the beacon and find a travelling salesman, and even better "
+"it's a scientist."
+
+#: src-en/data/events_sector_rad_science.xml:594
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/text"
+msgstr "Buy a Mystery Weapon."
+
+#: src-en/data/events_sector_rad_science.xml:596
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/text"
+msgstr "The salesman delivers you a large box before jumping away."
+
+#: src-en/data/events_sector_rad_science.xml:601
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/choice/text"
+msgstr "Open the box"
+
+#: src-en/data/events_sector_rad_science.xml:603
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/choice/event/text"
+msgstr "It appears he wasn't lying."
+
+#: src-en/data/events_sector_rad_science.xml:606
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/choice/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:610
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/choice/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:618
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[2]/text"
+msgstr "View his wares."
+
+#: src-en/data/events_sector_rad_science.xml:620
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[2]/event/text"
+msgstr "He welcomes you into his little shop."
+
+#: src-en/data/events_sector_rad_science.xml:623
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:627
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:633
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[3]/text"
+msgstr "Attack Him!"
+
+#: src-en/data/events_sector_rad_science.xml:635
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[3]/event/text"
+msgstr "You power up the weapons and attack the salesman."
+
+#: src-en/data/events_sector_rad_science.xml:638
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:664
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/text"
+msgstr ""
+"The source of the distress beacon appears to be an civilian vessel under "
+"attack by a rebel boarding ship! Should we assist?"
+
+#: src-en/data/events_sector_rad_science.xml:667
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[1]/text"
+msgstr "Save the civilians."
+
+#: src-en/data/events_sector_rad_science.xml:669
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[1]/event/text"
+msgstr ""
+"You power up the weapons and engage the pirate vessel, it looks like there's"
+" still 2 civilians alive on the ship, you might be able to rescue them if "
+"you clear out the rebels."
+
+#: src-en/data/events_sector_rad_science.xml:673
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:679
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[2]/text"
+msgstr "Ignore the ship."
+
+#: src-en/data/events_sector_rad_science.xml:681
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[2]/event/text"
+msgstr "You hope they'll be able to save themselves."
+
+#: src-en/data/events_sector_rad_science.xml:683
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:687
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:696
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/text"
+msgstr ""
+"The distress beacon's source is a small civilian shuttle, it's in the "
+"process of being scooped up by a scientist ship."
+
+#: src-en/data/events_sector_rad_science.xml:698
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:700
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/text"
+msgstr ""
+"\"Renegade, keep your distance, we have just apprehended two civilians we "
+"believe to members of a pirate organization. We're just hoping we don't get "
+"any pirates showing up for revenge.\""
+
+#: src-en/data/events_sector_rad_science.xml:702
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[1]/text"
+msgstr "Rescue the civilians."
+
+#: src-en/data/events_sector_rad_science.xml:704
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"You power up the weapons and engage the scientist. The two civilians are "
+"still alive, and it looks like they aren't going down without a fight. You "
+"might be able to rescue them if you clear out the rebels."
+
+#: src-en/data/events_sector_rad_science.xml:708
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:714
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[2]/text"
+msgstr "Stick around and defend the scientist ship for a short time."
+
+#: src-en/data/events_sector_rad_science.xml:716
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"Not more than a few minutes later a pirate ship jumps in, loops like you're "
+"in for a fight!"
+
+#: src-en/data/events_sector_rad_science.xml:719
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:725
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[3]/text"
+msgstr "Ignore the ship."
+
+#: src-en/data/events_sector_rad_science.xml:727
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[3]/event/text"
+msgstr ""
+"You turn your attention to your own ship while your jump drive charges."
+
+#: src-en/data/events_sector_rad_science.xml:729
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[3]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:733
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[3]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:760
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_GHOST\"]/text"
+msgstr "You've destroyed what was left of that interceptor."
+
+#: src-en/data/events_sector_rad_science.xml:763
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_GHOST\"]/choice[@req=\"unique_rad_scientist_tele\""
+" and not(@lvl)]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:767
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_GHOST\"]/choice[@req=\"unique_rad_scientist_tele\""
+" and @lvl=\"0\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:773
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE_GHOST\"]/text"
+msgstr "You've cleared out the wreck of ghosts."
+
+#: src-en/data/events_sector_rad_science.xml:776
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE_GHOST\"]/choice[@req=\"unique_rad_scientist_tele\""
+" and not(@lvl)]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:780
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE_GHOST\"]/choice[@req=\"unique_rad_scientist_tele\""
+" and @lvl=\"0\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:786
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_GHOST_SUR\"]/text"
+msgstr "You last hit appears to have overloaded the enemy reactor."
+
+#: src-en/data/events_sector_rad_science.xml:792
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/text"
+msgstr ""
+"You arrive at the beacon to find a destroyed Scientist interceptor. It "
+"appears that certain parts of the ship are still partially intact as there "
+"is still a distress beacon being put out."
+
+#: src-en/data/events_sector_rad_science.xml:797
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[1]/text"
+msgstr "Investigate."
+
+#: src-en/data/events_sector_rad_science.xml:799
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[1]/event/text"
+msgstr ""
+"As you move closer to the wreck it powers on. You receive a transmission.\n"
+"\n"
+"\"Please help, We've been attacked by ghosts and my crew is dead. Either teleport me off this ship, or damage it enough that I can overload the reactor and teleport across via a personal teleporter.\""
+
+#: src-en/data/events_sector_rad_science.xml:802
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[1]/event/crewMember"
+msgstr "Dr. C. Swartwout"
+
+#: src-en/data/events_sector_rad_science.xml:805
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:811
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[2]/text"
+msgstr "Ignore the wreck."
+
+#: src-en/data/events_sector_rad_science.xml:813
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[2]/event/text"
+msgstr "It's not worth investigating."
+
+#: src-en/data/events_sector_rad_science.xml:815
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:819
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:827
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FAILED\"]/text"
+msgstr ""
+"Unfortunately you were unable to save that scientist, perhaps in an "
+"alternate universe you didn't fail."
+
+#: src-en/data/events_sector_rad_science.xml:831
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_SAVED\"]/text"
+msgstr ""
+"\"Good work out there captain, you arrived just in time, my name is Cornelius Swartwout. \n"
+"I don't suppose you can help me any further, my crew and I were in transit to one of our project facilities for the testing of a new cruiser, it would be a great help to me if you could deliver me there.\""
+
+#: src-en/data/events_sector_rad_science.xml:851
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FACILITY\"]/text"
+msgstr ""
+"You've arrived at the testing facility, it appears the cruiser is just being rolled out for testing now.\n"
+"    \n"
+"Dr Swartwout joins you to watch the test, \"All we're testing today is the capability for the cruiser to use it's weapons, we've brought over a rebel auto ship for the test.\""
+
+#: src-en/data/events_sector_rad_science.xml:855
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FACILITY\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:857
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FACILITY\"]/choice/event/text"
+msgstr ""
+"Just as the test fire is about to begin, the rebel autoship comes online and launches a hacking drone at the cruiser. You hear muffled surprise over the comms as the other scientists in the area realise what's happening.\n"
+"        \n"
+"You move in to take out the drone before it does too much damage."
+
+#: src-en/data/events_sector_rad_science.xml:862
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FACILITY\"]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:883
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_REBEL_AUTO\"]/text"
+msgstr ""
+"You managed to destroy the rebel autoship, however it appears you were too slow, the hacking drone the rebel ship deployed succeeded in taking control of the science vessel and it's jumped away.\n"
+"The scientists were able to trace where it jumped off too though, hopefully you'll be able to recover the vessel, or at least stop it falling into rebel hands."
+
+#: src-en/data/events_sector_rad_science.xml:894
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_FIGHT_2\"]/text"
+msgstr ""
+"You've destroyed the rebel autoship, however it appears you were too slow, "
+"the science cruiser is back online, however this time it's under control of "
+"the rebels..."
+
+#: src-en/data/events_sector_rad_science.xml:899
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_FIGHT_2_2\"]/text"
+msgstr "You've run out of time, the science cruiser is almost on top of you."
+
+#: src-en/data/events_sector_rad_science.xml:902
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_FIGHT_2_2\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:908
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_SECOND\"]/text"
+msgstr ""
+"You arrive at the beacon and find the scientist's autocruiser sitting in standby mode, looks like you beat the rebels to it.\n"
+"Just as you start moving towards the ship, it powers on it's weapons, looks like the rebels aren't going to just hand it over without a fight."
+
+#: src-en/data/events_sector_rad_science.xml:912
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_SECOND\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:918
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_CUTTERENEMY\"]/text"
+msgstr ""
+"\"Wow, we're lucky you were here, it could have gone pretty badly otherwise,"
+" as a token of our appreciation we'll send the plans for the cruiser along "
+"to the federation, once we deal with these vulnerabilities you've "
+"highlighted.\""
+
+#: src-en/data/events_sector_rad_science.xml:944
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:949
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[1]"
+msgstr ""
+"The wreckage of a civilian ship drift nearby, but before you can even think "
+"to salvage some of it, a Scientist ship mistakes you as the attacker and "
+"prepares to avenge the civilians."
+
+#: src-en/data/events_sector_rad_science.xml:950
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[2]"
+msgstr ""
+"You get into some trouble over your identification with the Scientist ship "
+"at this beacon, and not long after things get heated to the point of "
+"conflict!"
+
+#: src-en/data/events_sector_rad_science.xml:951
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[3]"
+msgstr ""
+"The Scientists at this beacon seem to mistake one of your crew as an "
+"infamous pirate with a heavy bounty. Not about to hand over your crew, you "
+"prepare to fight."
+
+#: src-en/data/events_sector_rad_science.xml:955
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/text"
+msgstr ""
+"You run into a Scientist outpost near this beacon, who refuses to let you "
+"past. Apparently this beacon requires a toll to pass through."
+
+#: src-en/data/events_sector_rad_science.xml:958
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[1]/text"
+msgstr "Refuse to pay."
+
+#: src-en/data/events_sector_rad_science.xml:960
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[1]/event/text"
+msgstr ""
+"The Scientists wastes no time with conversation - the second you refuse "
+"their weapons come online!"
+
+#: src-en/data/events_sector_rad_science.xml:963
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:969
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[2]/text"
+msgstr "Pay the toll."
+
+#: src-en/data/events_sector_rad_science.xml:971
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[2]/event/text"
+msgstr "The Scientists collect the payment and allow you to continue."
+
+#: src-en/data/events_sector_rad_science.xml:983
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_PIRATE_RAD_SCIENCE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:988
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[1]"
+msgstr ""
+"It takes a bold pirate captain - or a stupid one - to try and take on the "
+"scientists space. When you notice the hostile ship approaching, you hope "
+"they're the latter as you prepare for combat."
+
+#: src-en/data/events_sector_rad_science.xml:989
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[2]"
+msgstr ""
+"A pirate vessel approaches, weapons already charging. They must be on quite "
+"the killing spree in this territory, and they're ready to take a break from "
+"Scientist and Civilian ships and fight yours!"
+
+#: src-en/data/events_sector_rad_science.xml:990
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[3]"
+msgstr ""
+"Despite their advanced technology, it seems the scientists have been unable "
+"to completely wipe out the pirates. There's one heading straight towards "
+"your ship!"
+
+#: src-en/data/events_sector_rad_science.xml:991
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[4]"
+msgstr ""
+"You catch the glimpse of purple fly past. Not long after, a pirate ship "
+"comes into view. \"Haha! I have claimed the lives of many Civilians, and now"
+" I shall claim yours! Prepare to fight!\""
+
+#: src-en/data/events_sector_rad_science.xml:998
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:1003
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[1]"
+msgstr ""
+"The science fleet boasts a large amount of ships, but this also makes them a"
+" prime target for pirates in need of a new ride. A pirate controlled science"
+" ship approaches, weapons blazing."
+
+#: src-en/data/events_sector_rad_science.xml:1004
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[2]"
+msgstr ""
+"A pirate ship, looking to test out the new gear they just stole from the "
+"Scientists, locks onto your ship and attacks!"
+
+#: src-en/data/events_sector_rad_science.xml:1005
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[3]"
+msgstr ""
+"At first you assume the ship here is just another ordinary scientist ship, "
+"until you see the pirate paint decorating its hull. Pirates inbound!"
+
+#: src-en/data/events_sector_rad_science.xml:1012
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_REBEL_RAD_SCIENCE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:1017
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[1]"
+msgstr ""
+"\"The Rebellion shall never cease! All who ally with the Federation will be "
+"killed!\" You doubt the moral superiority of murdering civilians only trying"
+" to protect their sectors, but if the Rebels want a fight, a fight they will"
+" get."
+
+#: src-en/data/events_sector_rad_science.xml:1018
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[2]"
+msgstr ""
+"The Rebellion seem to hold a grudge against the Scientists, probably because"
+" they've lost their money at one too many Scientist Casinos. The Rebel ship "
+"here seems hell-bent on a fight, and since you're the only ship here they "
+"decide you will be a satisfactory opponent."
+
+#: src-en/data/events_sector_rad_science.xml:1019
+msgid ""
+"data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[3]"
+msgstr ""
+"A Rebel ship has picked clean the remains of a Civilian station. Nearly "
+"seconds after you jump in they spot you and decide to make you their next "
+"target."
+
+#: src-en/data/events_sector_rad_science.xml:1035
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_ELITE\"]/text"
+msgstr ""
+"You've managed to destroy one of the most dangerous ships in the sector, you"
+" scrap their ship and come out richer for it."
+
+#: src-en/data/events_sector_rad_science.xml:1040
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE_ELITE\"]/text"
+msgstr ""
+"As the last soldier falls, your crew begin scraping their ship. you leave "
+"their ship with bucket loads of scrap."
+
+#: src-en/data/events_sector_rad_science.xml:1045
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_ELITE\"]/text"
+msgstr ""
+"The vessels of the Elite R&D Defense Force are some of the deadliest in the "
+"Scientist fleet, and for good reason. Boasting highly trained crew, these "
+"ships don't mess around in combat. Unfortunately for you, the ship here "
+"deems you a threat and attacks!"
+
+#: src-en/data/events_sector_rad_science.xml:1048
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_ELITE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:1105
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/beaconType/unvisitedTooltip"
+msgstr "The Main Base of the Scientists."
+
+#: src-en/data/events_sector_rad_science.xml:1106
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/beaconType/visitedTooltip"
+msgstr "The Main Base of the Scientists."
+
+#: src-en/data/events_sector_rad_science.xml:1108
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/text"
+msgstr ""
+"You've arrived the main base of the scientists. it appears the station is "
+"understaffed, with most of the fleet moving off to deal with the advancing "
+"rebel threat."
+
+#: src-en/data/events_sector_rad_science.xml:1112
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:1114
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/choice/event/text"
+msgstr ""
+"With most of the staff off the station, you could sneak aboard and gain "
+"access to the tech onboard the station, there even appears to be a large "
+"cruiser underconstruction off to one side of the station."
+
+#: src-en/data/events_sector_rad_science.xml:1116
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/choice/event/choice[1]/text"
+msgstr "Board the station."
+
+#: src-en/data/events_sector_rad_science.xml:1120
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/choice/event/choice[2]/text"
+msgstr "Leave."
+
+#: src-en/data/events_sector_rad_science.xml:1128
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LEAVE\"]/text"
+msgstr "You leave the area."
+
+#: src-en/data/events_sector_rad_science.xml:1130
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LEAVE\"]/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_rad_science.xml:1134
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LEAVE\"]/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_rad_science.xml:1148
+msgid ""
+"data/events_sector_rad_science.xml$//eventButton[@name=\"UI_RAD_BOARD\"]/tooltip"
+msgstr "Leave the station (You cannot come back)."
+
+#: src-en/data/events_sector_rad_science.xml:1149
+msgid ""
+"data/events_sector_rad_science.xml$//eventButton[@name=\"UI_RAD_BOARD\"]/inactiveTooltip"
+msgstr "Your crew need to be in the teleporter room to leave."
+
+#: src-en/data/events_sector_rad_science.xml:1156
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_BOARD\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "The enemy's door system will be disabled after this time."
+
+#: src-en/data/events_sector_rad_science.xml:1175
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_RETURN2\"]/text"
+msgstr ""
+"Well you certainly won't be able to blow up the station, but your covert "
+"infiltration mission went well."
+
+#: src-en/data/events_sector_rad_science.xml:1200
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_1\"]/text"
+msgstr ""
+"You arrive at the beacon and meet face to face with a massive scientist "
+"corvette. It appears to be a finished version of the ship in the dockyard, "
+"and it looks like you're in for a fight."
+
+#: src-en/data/events_sector_rad_science.xml:1203
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_1\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:1209
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2\"]/text"
+msgstr ""
+"The corvette appears to explode, however it only sustains minor damage. The "
+"ship still needs repairs though and it jumps away."
+
+#: src-en/data/events_sector_rad_science.xml:1215
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3\"]/text"
+msgstr ""
+"The corvette appears to explode, however it only sustains minor damage. The "
+"ship still needs repairs though and it jumps away."
+
+#: src-en/data/events_sector_rad_science.xml:1229
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP\"]/text"
+msgstr ""
+"Even with a piece of the ship missing, they're still fighting and even "
+"powering on some more systems. You have a few moments to catch your breath "
+"before the ship is within combat range."
+
+#: src-en/data/events_sector_rad_science.xml:1234
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "The corvette will be up and running after this cooldown ends."
+
+#: src-en/data/events_sector_rad_science.xml:1240
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP_2\"]/text"
+msgstr "The corvette is within firing distance..."
+
+#: src-en/data/events_sector_rad_science.xml:1243
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP_2\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:1256
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP\"]/text"
+msgstr ""
+"You've followed the science corvette, However the ship still isn't dead. You"
+" have a few moments before the enemy ship is able to attack you."
+
+#: src-en/data/events_sector_rad_science.xml:1262
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "The corvette will be up and running after this cooldown ends."
+
+#: src-en/data/events_sector_rad_science.xml:1268
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP_2\"]/text"
+msgstr "The corvette is within firing distance..."
+
+#: src-en/data/events_sector_rad_science.xml:1271
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP_2\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:1277
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_WEAPON\"]/text"
+msgstr ""
+"You've entered the armoury, it appears mostly cleaned out, however there is "
+"a weapon still on the racks."
+
+#: src-en/data/events_sector_rad_science.xml:1281
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/text"
+msgstr ""
+"You've entered the storage room. Theres a few pieces of machinery, however "
+"you're only going to be able to fit one on the teleporter."
+
+#: src-en/data/events_sector_rad_science.xml:1283
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[1]/text"
+msgstr "Take the augment:"
+
+#: src-en/data/events_sector_rad_science.xml:1289
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[2]/text"
+msgstr "Take the augment:"
+
+#: src-en/data/events_sector_rad_science.xml:1295
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[3]/text"
+msgstr "Take the augment:"
+
+#: src-en/data/events_sector_rad_science.xml:1301
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[4]/text"
+msgstr "Take the augment:"
+
+#: src-en/data/events_sector_rad_science.xml:1307
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[5]/text"
+msgstr "Leave without taking anything."
+
+#: src-en/data/events_sector_rad_science.xml:1313
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/text"
+msgstr "You've entered the reactor control room."
+
+#: src-en/data/events_sector_rad_science.xml:1315
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/choice/text"
+msgstr "Turn off the security system."
+
+#: src-en/data/events_sector_rad_science.xml:1318
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/choice/event/text"
+msgstr "The door system turns off."
+
+#: src-en/data/events_sector_rad_science.xml:1323
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/text"
+msgstr ""
+"You've entered the cryogenics room. There appears to be a human frozen in "
+"one of the pods."
+
+#: src-en/data/events_sector_rad_science.xml:1325
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/choice[1]/text"
+msgstr "Open the pod."
+
+#: src-en/data/events_sector_rad_science.xml:1327
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/choice[1]/event/text"
+msgstr ""
+"You open the pod and release the human, they're confused but offer to join "
+"your crew."
+
+#: src-en/data/events_sector_rad_science.xml:1332
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/choice[2]/text"
+msgstr "Leave him be."
+
+#: src-en/data/events_sector_rad_science.xml:1337
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/text"
+msgstr ""
+"You've entered the shipyard control room. The console connected to it is "
+"locked down."
+
+#: src-en/data/events_sector_rad_science.xml:1340
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/choice/text"
+msgstr "Unlock the console."
+
+#: src-en/data/events_sector_rad_science.xml:1342
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/choice/event/text"
+msgstr ""
+"You use the password downloaded from the data storage center to unlock the console.\n"
+"        \n"
+"You're able to download the scientist data for a new type of cruiser they're building, it appears one is being tested in the field right now, you download the tracking data for the ship."
+
+#: src-en/data/events_sector_rad_science.xml:1350
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_HACK\"]/text"
+msgstr ""
+"You've entered the datastorage room. You're able to download an access code "
+"for the shipyard control center (piloting room)."
+
+#: src-en/data/events_sector_rad_science.xml:1354
+msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_4\"]/text"
+msgstr ""
+"The ship finally explodes into a field of debris, you begin patching up your"
+" hull before looting the kill."
+
+#: src-en/data/events_sector_rad_science.xml:1360
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_4\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_rad_science.xml:1362
+msgid ""
+"data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_4\"]/choice/event/text"
+msgstr ""
+"You find a small storage crate filled with loot floating among the wreckage."

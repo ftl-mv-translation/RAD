@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 11:35+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
-"datablueprintsxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
@@ -32,10 +24,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLUSTER_MISSILE\"]/descriptionOverride"
 msgstr ""
-"В попытке вызвать более масштабные разрушения, эта ракетница содержит "
-"несколько боеголовок меньшего размера, которые поражают соседние от места "
-"попадания отсеки. К сожалению, в основной боеголовке не осталось места для "
-"каких-либо взрывчатых веществ.\n"
+"В попытке вызвать более масштабные разрушения, эта ракетница содержит несколько боеголовок меньшего размера, которые поражают соседние от места попадания отсеки. К сожалению, в основной боеголовке не осталось места для каких-либо взрывчатых веществ.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 2\n"
@@ -71,10 +60,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLUSTER_MISSILE_2\"]/descriptionOverride"
 msgstr ""
-"В попытке вызвать более масштабные разрушения, эта ракетница содержит "
-"несколько боеголовок меньшего размера, которые поражают соседние от места "
-"попадания отсеки. К сожалению, в основной боеголовке не осталось места для "
-"каких-либо взрывчатых веществ.\n"
+"В попытке вызвать более масштабные разрушения, эта ракетница содержит несколько боеголовок меньшего размера, которые поражают соседние от места попадания отсеки. К сожалению, в основной боеголовке не осталось места для каких-либо взрывчатых веществ.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 3\n"
@@ -112,9 +98,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLUSTER_MISSILE_3\"]/descriptionOverride"
 msgstr ""
-"Эта ракетница является попыткой ученых миниатюризировать технологию "
-"кристаллической изоляции на множество небольших боеголовок, которые они "
-"затем поместили в большую кассетную боеголовку.\n"
+"Эта ракетница является попыткой ученых миниатюризировать технологию кристаллической изоляции на множество небольших боеголовок, которые они затем поместили в большую кассетную боеголовку.\n"
 "\n"
 "\t\tХарактеристики:\t\t\n"
 "\t\tНеобходимая мощность: 4\n"
@@ -150,12 +134,8 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR\"]/descriptionOverride"
 msgstr ""
-"(Примечание от переводчиков: На данный момент пушка сломана, и не выполняет "
-"функцию телепортации)\n"
-"Кому-то пришла в голову блестящая идея взять технологию телепортации и "
-"установить ее внутри кучи линз и научных приборов, чтобы она могла быть "
-"направлена на конкретного индивида на другом корабле. В космосе это мало чем "
-"поможет, так что будьте готовы к встрече с ним в оружейном отсеке.\n"
+"(Примечание от переводчиков: На данный момент пушка сломана, и не выполняет функцию телепортации)\n"
+"Кому-то пришла в голову блестящая идея взять технологию телепортации и установить ее внутри кучи линз и научных приборов, чтобы она могла быть направлена на конкретного индивида на другом корабле. В космосе это мало чем поможет, так что будьте готовы к встрече с ним в оружейном отсеке.\n"
 "\t\n"
 "\tХарактеристики:\n"
 "\tНеобходимая мощность: 1\n"
@@ -221,9 +201,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_JAILERBEAM_PLAYER\"]/descriptionOverride"
 msgstr ""
-"Это еще более мощный похищающий луч, способный рассекать корабль и наносить "
-"1 урон системам, при этом похищая всех членов экипажа, а иногда и часть пола."
-"\n"
+"Это еще более мощный похищающий луч, способный рассекать корабль и наносить 1 урон системам, при этом похищая всех членов экипажа, а иногда и часть пола.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 4\n"
@@ -257,112 +235,112 @@ msgstr ""
 "в плазму. К сожалению, система охлаждения довольно слабая и не может "
 "справиться с длительными периодами стрельбы."
 
-#: src-en/data/blueprints.xml.append:425
+#: src-en/data/blueprints.xml.append:429
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY\"]/title"
 msgstr "Адаптивный лазер ученых"
 
-#: src-en/data/blueprints.xml.append:426
+#: src-en/data/blueprints.xml.append:430
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY\"]/short"
 msgstr "А. Л. ученых"
 
-#: src-en/data/blueprints.xml.append:428
+#: src-en/data/blueprints.xml.append:432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY\"]/desc"
 msgstr ""
 "Лазер, который адаптируется к ситуации, увеличивая свой урон каждые 2 залпа."
 
-#: src-en/data/blueprints.xml.append:470
+#: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY_OFFSET\"]/title"
 msgstr "Адаптивный лазер ученых"
 
-#: src-en/data/blueprints.xml.append:471
+#: src-en/data/blueprints.xml.append:474
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY_OFFSET\"]/short"
 msgstr "А. Л. ученых"
 
-#: src-en/data/blueprints.xml.append:473
+#: src-en/data/blueprints.xml.append:476
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY_OFFSET\"]/desc"
 msgstr ""
 "Лазер, который адаптируется к ситуации, увеличивая свой урон каждые 2 залпа."
 
-#: src-en/data/blueprints.xml.append:514
+#: src-en/data/blueprints.xml.append:517
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE\"]/title"
 msgstr "Адаптивный лазер ученых"
 
-#: src-en/data/blueprints.xml.append:515
+#: src-en/data/blueprints.xml.append:518
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE\"]/short"
 msgstr "А. Л. ученых"
 
-#: src-en/data/blueprints.xml.append:517
+#: src-en/data/blueprints.xml.append:520
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE\"]/desc"
 msgstr ""
 "Лазер, который адаптируется к ситуации, увеличивая свой урон каждые 2 залпа."
 
-#: src-en/data/blueprints.xml.append:559
+#: src-en/data/blueprints.xml.append:562
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_0\"]/title"
 msgstr "Импульсный разрывной луч"
 
-#: src-en/data/blueprints.xml.append:560
+#: src-en/data/blueprints.xml.append:563
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_0\"]/short"
 msgstr "Импульсный разрывной луч"
 
-#: src-en/data/blueprints.xml.append:561
+#: src-en/data/blueprints.xml.append:564
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_0\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:593
+#: src-en/data/blueprints.xml.append:596
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_1\"]/title"
 msgstr "Импульсный разрывной луч"
 
-#: src-en/data/blueprints.xml.append:594
+#: src-en/data/blueprints.xml.append:597
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_1\"]/short"
 msgstr "Импульсный разрывной луч"
 
-#: src-en/data/blueprints.xml.append:595
+#: src-en/data/blueprints.xml.append:598
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_1\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:628
+#: src-en/data/blueprints.xml.append:631
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHT_BEAM\"]/title"
 msgstr "Легкий точечный луч"
 
-#: src-en/data/blueprints.xml.append:629
+#: src-en/data/blueprints.xml.append:632
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHT_BEAM\"]/short"
 msgstr "Легкий точ. луч"
 
-#: src-en/data/blueprints.xml.append:630
+#: src-en/data/blueprints.xml.append:633
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHT_BEAM\"]/desc"
 msgstr ""
 "Этот точечный луч позволяет более эффективно использовать энергию, стреляя "
 "коротким лучом малой мощности, который разрушает щиты."
 
-#: src-en/data/blueprints.xml.append:660
+#: src-en/data/blueprints.xml.append:661
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_1\"]/title"
 msgstr "Импульсный точечный луч мод. I"
 
-#: src-en/data/blueprints.xml.append:661
+#: src-en/data/blueprints.xml.append:662
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_1\"]/short"
 msgstr "Импульс точ. луч I"
 
-#: src-en/data/blueprints.xml.append:662
+#: src-en/data/blueprints.xml.append:663
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_1\"]/desc"
 msgstr ""
@@ -386,51 +364,51 @@ msgstr ""
 "Этот точечный луч позволяет более эффективно использовать энергию, выпуская "
 "несколько коротких лучей малой мощности, которые разрушают щиты."
 
-#: src-en/data/blueprints.xml.append:724
+#: src-en/data/blueprints.xml.append:723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_3\"]/title"
 msgstr "Импульсный точечный луч мод. III"
 
-#: src-en/data/blueprints.xml.append:725
+#: src-en/data/blueprints.xml.append:724
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_3\"]/short"
 msgstr "Импульс точ. луч III"
 
-#: src-en/data/blueprints.xml.append:726
+#: src-en/data/blueprints.xml.append:725
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_3\"]/desc"
 msgstr ""
 "Этот точечный луч позволяет более эффективно использовать энергию, выпуская "
 "несколько коротких лучей малой мощности, которые разрушают щиты."
 
-#: src-en/data/blueprints.xml.append:756
+#: src-en/data/blueprints.xml.append:753
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_COMBINER\"]/title"
 msgstr "Мультилазер"
 
-#: src-en/data/blueprints.xml.append:757
+#: src-en/data/blueprints.xml.append:754
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_COMBINER\"]/short"
 msgstr "Мультилазер"
 
-#: src-en/data/blueprints.xml.append:758
+#: src-en/data/blueprints.xml.append:755
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_COMBINER\"]/desc"
 msgstr ""
 "Этот лазер на самом деле представляет собой несколько лазеров, помещенных в "
 "один ствол."
 
-#: src-en/data/blueprints.xml.append:801
+#: src-en/data/blueprints.xml.append:798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART\"]/title"
 msgstr "Умный лазер"
 
-#: src-en/data/blueprints.xml.append:802
+#: src-en/data/blueprints.xml.append:799
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART\"]/short"
 msgstr "Умный лазер"
 
-#: src-en/data/blueprints.xml.append:803
+#: src-en/data/blueprints.xml.append:800
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART\"]/desc"
 msgstr ""
@@ -439,17 +417,17 @@ msgstr ""
 "затем оружие, затем рулевую рубку/двигатели и, наконец, после этого он "
 "нацелится на выбранный отсек."
 
-#: src-en/data/blueprints.xml.append:842
+#: src-en/data/blueprints.xml.append:839
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART_ENEMY\"]/title"
 msgstr "Умный лазер"
 
-#: src-en/data/blueprints.xml.append:843
+#: src-en/data/blueprints.xml.append:840
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART_ENEMY\"]/short"
 msgstr "Умный лазер"
 
-#: src-en/data/blueprints.xml.append:844
+#: src-en/data/blueprints.xml.append:841
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART_ENEMY\"]/desc"
 msgstr ""
@@ -458,184 +436,133 @@ msgstr ""
 "затем оружие, затем рулевую рубку/двигатели и, наконец, после этого он "
 "нацелится на выбранный отсек."
 
-#: src-en/data/blueprints.xml.append:879
-msgid ""
-"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RADLAB_1\"]/class"
-msgstr "Лаборатория R&D"
-
-#: src-en/data/blueprints.xml.append:880
-msgid ""
-"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RADLAB_1\"]/name"
-msgstr "Станция 37-A"
-
-#: src-en/data/blueprints.xml.append:881
-msgid ""
-"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RADLAB_1\"]/desc"
-msgstr ""
-"Сильно модифицированная гражданская станция. Ученые установили на ней пару "
-"двигателей. Однако их едва хватает, чтобы станция могла прыгать. Вряд ли вам "
-"удастся много уклоняться с ее помощью."
-
-#: src-en/data/blueprints.xml.append:953
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_COATING\"]/title"
-msgstr "Осколочное покрытие"
-
-#: src-en/data/blueprints.xml.append:954
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_COATING\"]/desc"
-msgstr ""
-"Позволяет нанести осколочное покрытие на боеприпасы одного из орудий или "
-"класса орудий, что дает этому орудию дополнительный 1 системный урон по "
-"соседним отсекам."
-
-#: src-en/data/blueprints.xml.append:961
+#: src-en/data/blueprints.xml.append:876
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_JUMP_TRACKER\"]/title"
 msgstr "Прыжковый трекер"
 
-#: src-en/data/blueprints.xml.append:962
+#: src-en/data/blueprints.xml.append:877
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_JUMP_TRACKER\"]/desc"
 msgstr ""
 "Благодаря использованию передовых сенсоров и научных разработок, это "
 "устройство позволяет вашему кораблю отслеживать прыжки некоторых кораблей."
 
-#: src-en/data/blueprints.xml.append:969
+#: src-en/data/blueprints.xml.append:884
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FLESH_HULL\"]/title"
 msgstr "Обшивка корпуса из плоти"
 
-#: src-en/data/blueprints.xml.append:970
+#: src-en/data/blueprints.xml.append:885
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FLESH_HULL\"]/desc"
 msgstr ""
-"Благодаря использованию передовой биоинженерии ваш корпус способен со "
-"временем самовосстанавливаться. Однако он весьма нестабилен.\n"
-"\tКогда вы стреляете из оружия, ваш корпус получает 1 урон или урон, равный "
-"урону по корпусу оружия, в зависимости от того, что выше.\n"
+"Благодаря использованию передовой биоинженерии ваш корпус способен со временем самовосстанавливаться. Однако он весьма нестабилен.\n"
+"\tКогда вы стреляете из оружия, ваш корпус получает 1 урон или урон, равный урону по корпусу оружия, в зависимости от того, что выше.\n"
 "  В начале боя вы автоматически восстановите 10 корпуса."
 
-#: src-en/data/blueprints.xml.append:980
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_RAD_SHRAPNEL_COATING\"]/title"
-msgstr "Осколочное покрытие"
-
-#: src-en/data/blueprints.xml.append:981
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_RAD_SHRAPNEL_COATING\"]/desc"
-msgstr ""
-"Позволяет нанести осколочное покрытие на боеприпасы одного из орудий или "
-"класса орудий, что дает этому орудию дополнительный 1 системный урон по "
-"соседним отсекам."
-
-#: src-en/data/blueprints.xml.append:988
+#: src-en/data/blueprints.xml.append:894
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/desc"
 msgstr ""
-"Экспериментальный экипаж Альф. Некогда могущественный фантом на исходе "
-"своего жизненного цикла был подвергнут экспериментам и модифицирован так, "
-"чтобы поджигать все, к чему прикасается.\n"
+"Экспериментальный экипаж Альф. Некогда могущественный фантом на исходе своего жизненного цикла был подвергнут экспериментам и модифицирован так, чтобы поджигать все, к чему прикасается.\n"
 "\t\n"
-"\tУнаследованные характеристики фантома: не получает урона от опасностей, "
-"скорость 0.8x, обладает свойствами проходить сквозь двери.\n"
+"\tУнаследованные характеристики фантома: не получает урона от опасностей, скорость 0.8x, обладает свойствами проходить сквозь двери.\n"
 "\tОставляет за собой огненный след."
 
-#: src-en/data/blueprints.xml.append:994
+#: src-en/data/blueprints.xml.append:900
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/title"
 msgstr "Эксперимент 26"
 
-#: src-en/data/blueprints.xml.append:995
+#: src-en/data/blueprints.xml.append:901
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/short"
 msgstr "Эксп. 26"
 
-#: src-en/data/blueprints.xml.append:998
+#: src-en/data/blueprints.xml.append:904
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/powerList/power"
 msgstr "Максимальное здоровье 110, 2x скорость саботажа"
 
-#: src-en/data/blueprints.xml.append:1008
+#: src-en/data/blueprints.xml.append:914
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/title"
 msgstr "Репульсорный дрон"
 
-#: src-en/data/blueprints.xml.append:1009
+#: src-en/data/blueprints.xml.append:915
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/short"
 msgstr "Репульсорный дрон"
 
-#: src-en/data/blueprints.xml.append:1010
+#: src-en/data/blueprints.xml.append:916
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
-#: src-en/data/blueprints.xml.append:1014
+#: src-en/data/blueprints.xml.append:920
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/powerList/power"
 msgstr "ДРОН"
 
-#: src-en/data/blueprints.xml.append:1021
+#: src-en/data/blueprints.xml.append:927
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR\"]/title"
 msgstr "Репульсорный дрон"
 
-#: src-en/data/blueprints.xml.append:1022
+#: src-en/data/blueprints.xml.append:928
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR\"]/short"
 msgstr "Репульсор"
 
-#: src-en/data/blueprints.xml.append:1023
+#: src-en/data/blueprints.xml.append:929
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR\"]/desc"
 msgstr ""
-"Управляемый полезный дрон, который обеспечивает защиту отсека, в котором "
-"находится, отражая любые снаряды, направленные на этот отсек.\n"
+"Управляемый полезный дрон, который обеспечивает защиту отсека, в котором находится, отражая любые снаряды, направленные на этот отсек.\n"
 "    \n"
 "-75 ОЗ, 2x скорость передвижения"
 
-#: src-en/data/blueprints.xml.append:1033
+#: src-en/data/blueprints.xml.append:939
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor_enemy\"]/title"
 msgstr "Репульсорный дрон"
 
-#: src-en/data/blueprints.xml.append:1034
+#: src-en/data/blueprints.xml.append:940
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor_enemy\"]/short"
 msgstr "Репульсорный дрон"
 
-#: src-en/data/blueprints.xml.append:1035
+#: src-en/data/blueprints.xml.append:941
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor_enemy\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
-#: src-en/data/blueprints.xml.append:1039
+#: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor_enemy\"]/powerList/power"
 msgstr "ДРОН"
 
-#: src-en/data/blueprints.xml.append:1046
+#: src-en/data/blueprints.xml.append:952
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR_ENEMY\"]/title"
 msgstr "Репульсорный дрон"
 
-#: src-en/data/blueprints.xml.append:1047
+#: src-en/data/blueprints.xml.append:953
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR_ENEMY\"]/short"
 msgstr "Репульсор"
 
-#: src-en/data/blueprints.xml.append:1048
+#: src-en/data/blueprints.xml.append:954
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR_ENEMY\"]/desc"
 msgstr ""
-"Управляемый полезный дрон, который обеспечивает защиту отсека, в котором "
-"находится, отражая любые снаряды, направленные на этот отсек.\n"
+"Управляемый полезный дрон, который обеспечивает защиту отсека, в котором находится, отражая любые снаряды, направленные на этот отсек.\n"
 "    \n"
 "-75 ОЗ, 2x скорость передвижения"
 
-#: src-en/data/blueprints.xml.append:1058
+#: src-en/data/blueprints.xml.append:964
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION\"]/class"
 msgstr "Продвинутая станция"
 
-#: src-en/data/blueprints.xml.append:1059
+#: src-en/data/blueprints.xml.append:965
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION\"]/name"
 msgstr "Станция 27А"
 
-#: src-en/data/blueprints.xml.append:1061
+#: src-en/data/blueprints.xml.append:967
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION\"]/desc"
 msgstr ""
@@ -644,97 +571,73 @@ msgstr ""
 "добираться из пункта А в пункт Б. Чтобы не попасть под раздачу, приходится "
 "полагаться на что-то другое."
 
-#: src-en/data/blueprints.xml.append:1135
+#: src-en/data/blueprints.xml.append:1041
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_2\"]/class"
 msgstr "Продвинутая станция"
 
-#: src-en/data/blueprints.xml.append:1136
+#: src-en/data/blueprints.xml.append:1042
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_2\"]/name"
 msgstr "Станция 33Б"
 
-#: src-en/data/blueprints.xml.append:1138
+#: src-en/data/blueprints.xml.append:1044
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_2\"]/desc"
 msgstr ""
 "Чтобы компенсировать недостаток мощности двигателей, станция использует "
 "усовершенствованные дроны для защиты от снарядов."
 
-#: src-en/data/blueprints.xml.append:1212
+#: src-en/data/blueprints.xml.append:1118
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH\"]/class"
 msgstr "Крейсер плоти"
 
-#: src-en/data/blueprints.xml.append:1213
+#: src-en/data/blueprints.xml.append:1119
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH\"]/name"
 msgstr "НЕ ешьте"
 
-#: src-en/data/blueprints.xml.append:1215
+#: src-en/data/blueprints.xml.append:1121
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH\"]/desc"
 msgstr ""
 "Кто-то должен был предотвратить его появление.\n"
-"Внешняя обшивка из плоти не очень прочная, но быстро восстанавливается. "
-"Придется быть внимательным, чтобы не перегрузить плоть и не разрушить корпус."
+"Внешняя обшивка из плоти не очень прочная, но быстро восстанавливается. Придется быть внимательным, чтобы не перегрузить плоть и не разрушить корпус."
 
-#: src-en/data/blueprints.xml.append:1290
+#: src-en/data/blueprints.xml.append:1196
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/title"
 msgstr "Сердце плоти"
 
-#: src-en/data/blueprints.xml.append:1291
+#: src-en/data/blueprints.xml.append:1197
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/short"
 msgstr "Сердце плоти"
 
-#: src-en/data/blueprints.xml.append:1292
+#: src-en/data/blueprints.xml.append:1198
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/desc"
 msgstr ""
 "[Базовая перезарядка: 4] Это сердце - буквально сердце вашего корабля.\n"
-"\tКаждый раз, когда оно заряжается, оно восстанавливает 1 повреждение "
-"корпуса."
+"\tКаждый раз, когда оно заряжается, оно восстанавливает 1 повреждение корпуса."
 
-#: src-en/data/blueprints.xml.append:1294
+#: src-en/data/blueprints.xml.append:1200
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/tooltip"
 msgstr "Исцеляет корабль"
 
-#: src-en/data/blueprints.xml.append:1311
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_ZS\"]/title"
-msgstr "Генератор щита золтан"
-
-#: src-en/data/blueprints.xml.append:1312
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_ZS\"]/short"
-msgstr "Генератор щита золтан"
-
-#: src-en/data/blueprints.xml.append:1313
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_ZS\"]/desc"
-msgstr ""
-"[Базовая перезарядка: 12] Генерирует слой суперщита каждый раз, когда "
-"артиллерия стреляет."
-
-#: src-en/data/blueprints.xml.append:1316
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_ZS\"]/tooltip"
-msgstr "Создает суперщит."
-
-#: src-en/data/blueprints.xml.append:1333
+#: src-en/data/blueprints.xml.append:1217
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/title"
 msgstr "Переключатель привода"
 
-#: src-en/data/blueprints.xml.append:1334
+#: src-en/data/blueprints.xml.append:1218
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/short"
 msgstr "Переключатель привода"
 
-#: src-en/data/blueprints.xml.append:1335
+#: src-en/data/blueprints.xml.append:1219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/desc"
 msgstr ""
@@ -742,92 +645,89 @@ msgstr ""
 "корабля телепортируются на другой корабль, независимо от того, с какого "
 "корабля они прибыли."
 
-#: src-en/data/blueprints.xml.append:1338
+#: src-en/data/blueprints.xml.append:1222
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/tooltip"
 msgstr "Создает суперщит."
 
-#: src-en/data/blueprints.xml.append:1355
+#: src-en/data/blueprints.xml.append:1239
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/title"
 msgstr "Сердце плоти"
 
-#: src-en/data/blueprints.xml.append:1356
+#: src-en/data/blueprints.xml.append:1240
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/short"
 msgstr "Сердце плоти"
 
-#: src-en/data/blueprints.xml.append:1357
+#: src-en/data/blueprints.xml.append:1241
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:1358
+#: src-en/data/blueprints.xml.append:1242
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/tooltip"
 msgstr "Исцеляет корабль"
 
-#: src-en/data/blueprints.xml.append:1374
+#: src-en/data/blueprints.xml.append:1258
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/class"
 msgstr "Эксперимент. крейсер призраков"
 
-#: src-en/data/blueprints.xml.append:1375
+#: src-en/data/blueprints.xml.append:1259
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/name"
 msgstr "26-й крейсер"
 
-#: src-en/data/blueprints.xml.append:1377
+#: src-en/data/blueprints.xml.append:1261
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/desc"
 msgstr ""
-"Этот корабль способен поджигать вражеские корабли, используя как "
-"экспериментальный экипаж призраков, так и проникающий луч \"Факел\".\n"
-"К счастью, телепорт этого корабля оснащен специальной функцией, которая "
-"воскрешает экипаж, если он находился на вражеском корабле в момент взрыва."
+"Этот корабль способен поджигать вражеские корабли, используя как экспериментальный экипаж призраков, так и проникающий луч \"Факел\".\n"
+"К счастью, телепорт этого корабля оснащен специальной функцией, которая воскрешает экипаж, если он находился на вражеском корабле в момент взрыва."
 
-#: src-en/data/blueprints.xml.append:1449
+#: src-en/data/blueprints.xml.append:1333
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TELE_EVAC\"]/title"
 msgstr "Комбиниров. Медотсек"
 
-#: src-en/data/blueprints.xml.append:1450
+#: src-en/data/blueprints.xml.append:1334
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TELE_EVAC\"]/desc"
 msgstr ""
 "Сочетает эффекты Медотсека с эффектами Клон-отсека, позволяя вашему Клон-"
 "отсеку и лечить, и клонировать, но, к сожалению, лечит он с меньшей "
 "скоростью, чем Медотсек."
 
-#: src-en/data/blueprints.xml.append:1461
+#: src-en/data/blueprints.xml.append:1345
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"DEFENSE_FOCUS\"]/title"
 msgstr "Точечный защитный дрон"
 
-#: src-en/data/blueprints.xml.append:1462
+#: src-en/data/blueprints.xml.append:1346
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"DEFENSE_FOCUS\"]/short"
 msgstr "Защитный луч"
 
-#: src-en/data/blueprints.xml.append:1463
+#: src-en/data/blueprints.xml.append:1347
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"DEFENSE_FOCUS\"]/desc"
 msgstr ""
-"Защитный дрон, способный поражать лазеры или твердые снаряды. Стреляет не "
-"лазером, а точечным лучом.\n"
+"Защитный дрон, способный поражать лазеры или твердые снаряды. Стреляет не лазером, а точечным лучом.\n"
 "    Перезарядка: 250 МС"
 
-#: src-en/data/blueprints.xml.append:1479
+#: src-en/data/blueprints.xml.append:1363
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_LASER_DEFENSE_INVIS\"]/title"
 msgstr "Лазер дрона"
 
-#: src-en/data/blueprints.xml.append:1509
+#: src-en/data/blueprints.xml.append:1393
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_RAD_ZAPPER\"]/title"
 msgstr "Дрон Заппер мод. III"
 
-#: src-en/data/blueprints.xml.append:1510
+#: src-en/data/blueprints.xml.append:1394
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_RAD_ZAPPER\"]/short"
 msgstr "Заппер III"
 
-#: src-en/data/blueprints.xml.append:1511
+#: src-en/data/blueprints.xml.append:1395
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_RAD_ZAPPER\"]/desc"
 msgstr ""
@@ -835,32 +735,32 @@ msgstr ""
 "автоматически нацеливается и открывает огонь по боевым и защитным дронам "
 "противника."
 
-#: src-en/data/blueprints.xml.append:1546
+#: src-en/data/blueprints.xml.append:1430
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_NODAMAGE_1\"]/title"
 msgstr "Импульсный разрывной луч"
 
-#: src-en/data/blueprints.xml.append:1547
+#: src-en/data/blueprints.xml.append:1431
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_NODAMAGE_1\"]/short"
 msgstr "Импульсный разрывной луч"
 
-#: src-en/data/blueprints.xml.append:1548
+#: src-en/data/blueprints.xml.append:1432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_NODAMAGE_1\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:1579
+#: src-en/data/blueprints.xml.append:1463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SINGULARITY_MINE\"]/title"
 msgstr "Пусковая установка сингулярности"
 
-#: src-en/data/blueprints.xml.append:1580
+#: src-en/data/blueprints.xml.append:1464
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SINGULARITY_MINE\"]/short"
 msgstr "Сингулярность"
 
-#: src-en/data/blueprints.xml.append:1581
+#: src-en/data/blueprints.xml.append:1465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SINGULARITY_MINE\"]/desc"
 msgstr ""
@@ -868,72 +768,66 @@ msgstr ""
 "времени. Сама по себе она не наносит никакого урона, но притягивает к себе "
 "все случайно попавшие в нее снаряды."
 
-#: src-en/data/blueprints.xml.append:1611
+#: src-en/data/blueprints.xml.append:1495
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT\"]/title"
 msgstr "Кредитная мастер-карта"
 
-#: src-en/data/blueprints.xml.append:1612
+#: src-en/data/blueprints.xml.append:1496
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT\"]/desc"
 msgstr ""
-"Если у вас есть доступ к бесконечной сумме денег, зачем вам где-то хранить "
-"лом?\n"
+"Если у вас есть доступ к бесконечной сумме денег, зачем вам где-то хранить лом?\n"
 "\t\n"
-"\tК сожалению, существует ограничение на ежемесячные расходы - 200 единиц "
-"лома."
+"\tК сожалению, существует ограничение на ежемесячные расходы - 200 единиц лома."
 
-#: src-en/data/blueprints.xml.append:1621
+#: src-en/data/blueprints.xml.append:1505
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT_2\"]/title"
 msgstr "Банковское хранилище"
 
-#: src-en/data/blueprints.xml.append:1622
+#: src-en/data/blueprints.xml.append:1506
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT_2\"]/desc"
 msgstr "Вы начинаете с 2000 единиц лома, но больше получить нельзя."
 
-#: src-en/data/blueprints.xml.append:1629
+#: src-en/data/blueprints.xml.append:1513
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SYSTEM_DUMB\"]/title"
 msgstr "Системы низк. ур. навыков"
 
-#: src-en/data/blueprints.xml.append:1630
+#: src-en/data/blueprints.xml.append:1514
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SYSTEM_DUMB\"]/desc"
 msgstr ""
-"Сделайте бонус к управлению обратно пропорциональным уровню мастерства члена "
-"экипажа, то есть пилот 0-го уровня будет обеспечивать управление 2-го "
-"уровня, а пилот 2-го уровня - 0-го уровня.\n"
+"Сделайте бонус к управлению обратно пропорциональным уровню мастерства члена экипажа, то есть пилот 0-го уровня будет обеспечивать управление 2-го уровня, а пилот 2-го уровня - 0-го уровня.\n"
 "      \n"
-"Это происходит потому, что системы рассчитаны на низкоквалифицированных "
-"членов экипажа, а высококвалифицированные члены экипажа в итоге перемудрят и "
-"станут менее эффективными."
+"Это происходит потому, что системы рассчитаны на низкоквалифицированных членов экипажа, а высококвалифицированные члены экипажа в итоге перемудрят и станут менее эффективными."
 
-#: src-en/data/blueprints.xml.append:1639
+#: src-en/data/blueprints.xml.append:1523
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH\"]/class"
 msgstr "Крейсер класса \"Яхта\""
 
-#: src-en/data/blueprints.xml.append:1640
+#: src-en/data/blueprints.xml.append:1524
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH\"]/name"
 msgstr "Солярис"
 
-#: src-en/data/blueprints.xml.append:1641
+#: src-en/data/blueprints.xml.append:1525
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH\"]/desc"
 msgstr ""
-"Довольно дорогой корабль с дорогим капитаном. Как сын богатого магната, этот "
-"капитан имеет доступ к неограниченным средствам, и поэтому решил не "
+"Довольно дорогой корабль с дорогим капитаном. Как сын богатого магната, этот"
+" капитан имеет доступ к неограниченным средствам, и поэтому решил не "
 "устанавливать ничего, чтобы собирать металлолом во время своих путешествий, "
 "однако его карта имеет месячный лимит снятия..."
 
-#: src-en/data/blueprints.xml.append:1716
+#: src-en/data/blueprints.xml.append:1600
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_3\"]/class"
 msgstr "Продвинутая станция"
 
-#: src-en/data/blueprints.xml.append:1717
+#: src-en/data/blueprints.xml.append:1601
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_3\"]/name"
 msgstr "Станция 99Ц"
 
-#: src-en/data/blueprints.xml.append:1719
+#: src-en/data/blueprints.xml.append:1603
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_3\"]/desc"
 msgstr ""
@@ -941,17 +835,17 @@ msgstr ""
 "оказавшегося на ее пути. Она также оснащена модернизированными двигателями, "
 "что позволяет ей быть гораздо более мобильной, чем предыдущие станции."
 
-#: src-en/data/blueprints.xml.append:1790
+#: src-en/data/blueprints.xml.append:1674
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_2\"]/class"
 msgstr "Крейсер класса \"Яхта\""
 
-#: src-en/data/blueprints.xml.append:1791
+#: src-en/data/blueprints.xml.append:1675
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_2\"]/name"
 msgstr "Тренажер один"
 
-#: src-en/data/blueprints.xml.append:1792
+#: src-en/data/blueprints.xml.append:1676
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_2\"]/desc"
 msgstr ""
@@ -960,74 +854,71 @@ msgstr ""
 "спроектирован как учебная платформа, поэтому для его функционирования не "
 "требуются высококвалифицированные члены экипажа."
 
-#: src-en/data/blueprints.xml.append:1863
+#: src-en/data/blueprints.xml.append:1747
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_3\"]/class"
 msgstr "Крейсер класса \"Яхта\""
 
-#: src-en/data/blueprints.xml.append:1864
+#: src-en/data/blueprints.xml.append:1748
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_3\"]/name"
 msgstr "Дорогой"
 
-#: src-en/data/blueprints.xml.append:1866
+#: src-en/data/blueprints.xml.append:1750
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_3\"]/desc"
 msgstr ""
 "После серьезного ограбления вам удалось заполучить много золота, однако вам "
 "все еще некуда складывать свой металлолом."
 
-#: src-en/data/blueprints.xml.append:1939
+#: src-en/data/blueprints.xml.append:1823
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SMALL\"]/title"
 msgstr "Элитная шатловая технология"
 
-#: src-en/data/blueprints.xml.append:1940
+#: src-en/data/blueprints.xml.append:1824
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SMALL\"]/desc"
 msgstr ""
-"Автоматически ремонтирует все системы (если они не повреждены или не горят)."
-"\n"
+"Автоматически ремонтирует все системы (если они не повреждены или не горят).\n"
 "Обеспечивает ионное сопротивление оружию и щитам.\n"
 "Дает 50% сопротивления системы.\n"
 "Дает 50% сопротивления корпуса.\n"
 "Оружие заряжается на 50% быстрее."
 
-#: src-en/data/blueprints.xml.append:1951
+#: src-en/data/blueprints.xml.append:1835
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_HUGE\"]/class"
 msgstr "Боевой шаттл"
 
-#: src-en/data/blueprints.xml.append:1952
+#: src-en/data/blueprints.xml.append:1836
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_HUGE\"]/name"
 msgstr "О.Г.Р.О.М.Н.Ы.Й"
 
-#: src-en/data/blueprints.xml.append:1954
+#: src-en/data/blueprints.xml.append:1838
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_HUGE\"]/desc"
 msgstr ""
-"Этот корабль может просто сломать игру, так что будьте готовы к тому, что он "
-"просто сломается."
+"Этот корабль может просто сломать игру, так что будьте готовы к тому, что он"
+" просто сломается."
 
-#: src-en/data/blueprints.xml.append:2027
+#: src-en/data/blueprints.xml.append:1911
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/title"
 msgstr "Истощающий щиты луч"
 
-#: src-en/data/blueprints.xml.append:2028
+#: src-en/data/blueprints.xml.append:1912
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/short"
 msgstr "Ист. щиты луч"
 
-#: src-en/data/blueprints.xml.append:2029
+#: src-en/data/blueprints.xml.append:1913
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2030
+#: src-en/data/blueprints.xml.append:1914
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/descriptionOverride"
 msgstr ""
-"Это орудие полностью уничтожает щит цели, позволяя вашим орудиям разрушать "
-"ее системы.\n"
-"Оно также полностью уничтожит суперщит, однако для этого потребуется второй "
-"выстрел.\n"
+"Это орудие полностью уничтожает щит цели, позволяя вашим орудиям разрушать ее системы.\n"
+"Оно также полностью уничтожит суперщит, однако для этого потребуется второй выстрел.\n"
 "      \n"
 "Характеристики:\n"
 "Необходимая мощность: 2\n"
@@ -1040,26 +931,26 @@ msgstr ""
 "\n"
 "Покупка: 80~ - Продажа: 40~"
 
-#: src-en/data/blueprints.xml.append:2072
+#: src-en/data/blueprints.xml.append:1959
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_CHARGE\"]/title"
 msgstr "Зарядник золтан. щита"
 
-#: src-en/data/blueprints.xml.append:2073
+#: src-en/data/blueprints.xml.append:1960
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_CHARGE\"]/desc"
 msgstr ""
 "Генератор щитов теперь генерирует слои суперщита вместо обычных слоев щитов."
 
-#: src-en/data/blueprints.xml.append:2082
+#: src-en/data/blueprints.xml.append:1969
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/class"
 msgstr "Крейсер Золджи"
 
-#: src-en/data/blueprints.xml.append:2083
+#: src-en/data/blueprints.xml.append:1970
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/name"
 msgstr "Выносливость"
 
-#: src-en/data/blueprints.xml.append:2085
+#: src-en/data/blueprints.xml.append:1972
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/desc"
 msgstr ""
@@ -1067,425 +958,389 @@ msgstr ""
 "генерации энергии энджи с технологией золтанских щитов, позволяя кораблю "
 "генерировать суперщит каждые несколько секунд."
 
-#: src-en/data/blueprints.xml.append:2160
+#: src-en/data/blueprints.xml.append:2046
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/class"
 msgstr "Крейсер Свитчбек"
 
-#: src-en/data/blueprints.xml.append:2161
+#: src-en/data/blueprints.xml.append:2047
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/name"
 msgstr "Подмена кораблей"
 
-#: src-en/data/blueprints.xml.append:2163
+#: src-en/data/blueprints.xml.append:2049
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/desc"
 msgstr ""
-"Продвинутая система телепортации позволяет вам перенести весь экипаж на борт "
-"вражеского корабля, однако неприятным побочным эффектом является то, что она "
-"также телепортирует весь вражеский экипаж на ваш корабль."
+"Продвинутая система телепортации позволяет вам перенести весь экипаж на борт"
+" вражеского корабля, однако неприятным побочным эффектом является то, что "
+"она также телепортирует весь вражеский экипаж на ваш корабль."
 
-#: src-en/data/blueprints.xml.append:2239
+#: src-en/data/blueprints.xml.append:2125
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/class"
 msgstr "Крейсер Щит"
 
-#: src-en/data/blueprints.xml.append:2240
+#: src-en/data/blueprints.xml.append:2126
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/name"
 msgstr "Под защитой"
 
-#: src-en/data/blueprints.xml.append:2242
+#: src-en/data/blueprints.xml.append:2128
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/desc"
 msgstr ""
 "Этот корабль способен использовать революционный золтанский щит.\n"
-"4 артиллерийских орудия, традиционно размещаемые на подобных кораблях, были "
-"заменены на специальные устройства, позволяющие развернуть щит вне "
-"золтанского щита."
+"4 артиллерийских орудия, традиционно размещаемые на подобных кораблях, были заменены на специальные устройства, позволяющие развернуть щит вне золтанского щита."
 
-#: src-en/data/blueprints.xml.append:2319
+#: src-en/data/blueprints.xml.append:2205
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/class"
 msgstr "Крейсер Скрамбл"
 
-#: src-en/data/blueprints.xml.append:2320
+#: src-en/data/blueprints.xml.append:2206
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/name"
 msgstr "Безумие"
 
-#: src-en/data/blueprints.xml.append:2322
+#: src-en/data/blueprints.xml.append:2208
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/desc"
 msgstr "На этом корабле что-то пошло очень очень не так."
 
-#: src-en/data/blueprints.xml.append:2389
+#: src-en/data/blueprints.xml.append:2275
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_UNDER\"]/title"
 msgstr "Золтан под щитом"
 
-#: src-en/data/blueprints.xml.append:2390
+#: src-en/data/blueprints.xml.append:2276
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_UNDER\"]/desc"
 msgstr "Как золтанский суперщит, но он находится под обычными пузырями щитов."
 
-#: src-en/data/blueprints.xml.append:2398
+#: src-en/data/blueprints.xml.append:2284
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAM\"]/title"
 msgstr "Скрембл-драйв"
 
-#: src-en/data/blueprints.xml.append:2399
+#: src-en/data/blueprints.xml.append:2285
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAM\"]/desc"
 msgstr ""
 "Каждые 15 секунд все на вашем корабле таинственным образом перемещаются в "
 "другой отсек, к счастью, рулевая рубка избежала этого эффекта."
 
-#: src-en/data/blueprints.xml.append:2408
+#: src-en/data/blueprints.xml.append:2294
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/title"
 msgstr "Суперщит мод. III"
 
-#: src-en/data/blueprints.xml.append:2409
+#: src-en/data/blueprints.xml.append:2295
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/short"
 msgstr "Щит III"
 
-#: src-en/data/blueprints.xml.append:2410
+#: src-en/data/blueprints.xml.append:2296
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/desc"
 msgstr ""
 "Это оружие не способно причинить много вреда вражескому кораблю, но оно "
 "добавляет 3 слоя энергетического щита каждый раз, когда заряжается и "
 "стреляет."
 
-#: src-en/data/blueprints.xml.append:2446
+#: src-en/data/blueprints.xml.append:2332
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/title"
 msgstr "Суперщит мод. II"
 
-#: src-en/data/blueprints.xml.append:2447
+#: src-en/data/blueprints.xml.append:2333
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/short"
 msgstr "Щит II"
 
-#: src-en/data/blueprints.xml.append:2448
+#: src-en/data/blueprints.xml.append:2334
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/desc"
 msgstr ""
 "Это оружие не способно причинить много вреда вражескому кораблю, но оно "
 "добавляет 2 слоя энергетического щита каждый раз, когда заряжается и "
 "стреляет."
 
-#: src-en/data/blueprints.xml.append:2485
+#: src-en/data/blueprints.xml.append:2371
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/title"
 msgstr "Суперщит мод. I"
 
-#: src-en/data/blueprints.xml.append:2486
+#: src-en/data/blueprints.xml.append:2372
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/short"
 msgstr "Щит I"
 
-#: src-en/data/blueprints.xml.append:2487
+#: src-en/data/blueprints.xml.append:2373
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/desc"
 msgstr ""
 "Это оружие не способно причинить много вреда вражескому кораблю, но при "
 "каждой зарядке и выстреле оно добавляет слой энергетического щита."
 
-#: src-en/data/blueprints.xml.append:2525
+#: src-en/data/blueprints.xml.append:2411
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/title"
 msgstr "Молниеносный разрывной луч"
 
-#: src-en/data/blueprints.xml.append:2526
+#: src-en/data/blueprints.xml.append:2412
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/short"
 msgstr "Молниеносный разрывной луч"
 
-#: src-en/data/blueprints.xml.append:2527
+#: src-en/data/blueprints.xml.append:2413
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2558
+#: src-en/data/blueprints.xml.append:2444
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/title"
 msgstr "Тесла-пушка мод. I"
 
-#: src-en/data/blueprints.xml.append:2559
+#: src-en/data/blueprints.xml.append:2445
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/short"
 msgstr "Тесла I"
 
-#: src-en/data/blueprints.xml.append:2561
+#: src-en/data/blueprints.xml.append:2447
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/desc"
 msgstr "Это молниеносное оружие попадает в соседний отсек 5 раз."
 
-#: src-en/data/blueprints.xml.append:2598
+#: src-en/data/blueprints.xml.append:2484
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/title"
 msgstr "Тесла-пушка мод. II"
 
-#: src-en/data/blueprints.xml.append:2599
+#: src-en/data/blueprints.xml.append:2485
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/short"
 msgstr "Тесла II"
 
-#: src-en/data/blueprints.xml.append:2601
+#: src-en/data/blueprints.xml.append:2487
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/desc"
 msgstr "Это молниеносное оружие попадает в соседний отсек 4 раза."
 
-#: src-en/data/blueprints.xml.append:2638
+#: src-en/data/blueprints.xml.append:2524
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/title"
 msgstr "Тесла-пушка мод. III"
 
-#: src-en/data/blueprints.xml.append:2639
+#: src-en/data/blueprints.xml.append:2525
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/short"
 msgstr "Тесла III"
 
-#: src-en/data/blueprints.xml.append:2641
+#: src-en/data/blueprints.xml.append:2527
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/desc"
 msgstr "Это молниеносное оружие попадает в соседний отсек 2 раза."
 
-#: src-en/data/blueprints.xml.append:2679
+#: src-en/data/blueprints.xml.append:2565
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/title"
 msgstr "Ионная каскадная пушка"
 
-#: src-en/data/blueprints.xml.append:2680
+#: src-en/data/blueprints.xml.append:2566
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/short"
 msgstr "Ионный каскад"
 
-#: src-en/data/blueprints.xml.append:2682
+#: src-en/data/blueprints.xml.append:2568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/desc"
 msgstr "Это молниеносное оружие попадает в соседний отсек 3 раза."
 
-#: src-en/data/blueprints.xml.append:2722
+#: src-en/data/blueprints.xml.append:2608
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/title"
 msgstr "Повторная пушка"
 
-#: src-en/data/blueprints.xml.append:2723
+#: src-en/data/blueprints.xml.append:2609
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/short"
 msgstr "Повторная пушка"
 
-#: src-en/data/blueprints.xml.append:2725
+#: src-en/data/blueprints.xml.append:2611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/desc"
 msgstr ""
 "Это молниеносное оружие попадает в соседний отсек 3 раза. Это оружие также "
 "уничтожает слои щита."
 
-#: src-en/data/blueprints.xml.append:2762
+#: src-en/data/blueprints.xml.append:2648
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_MULTISHOT\"]/title"
 msgstr "Многозарядное оружие"
 
-#: src-en/data/blueprints.xml.append:2763
+#: src-en/data/blueprints.xml.append:2649
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_MULTISHOT\"]/desc"
 msgstr ""
-"Разделяет каждый выпущенный снаряд или луч на две части, однако урон по "
-"корпусу, системам и ионный урон уменьшаются вдвое. В случае, если базовое "
-"значение нечетное, один снаряд будет наносить больше урона, чем другой. При "
-"использовании Высокоэнергетического оружия все снаряды удваиваются, но "
-"сохраняют свой первоначальный урон.\n"
+"Разделяет каждый выпущенный снаряд или луч на две части, однако урон по корпусу, системам и ионный урон уменьшаются вдвое. В случае, если базовое значение нечетное, один снаряд будет наносить больше урона, чем другой. При использовании Высокоэнергетического оружия все снаряды удваиваются, но сохраняют свой первоначальный урон.\n"
 "    \n"
 "Можно установить внутрь корабля за 20 единиц лома в меню склада."
 
-#: src-en/data/blueprints.xml.append:2772
+#: src-en/data/blueprints.xml.append:2658
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/title"
 msgstr "Высокоэнергетич. оружие"
 
-#: src-en/data/blueprints.xml.append:2773
+#: src-en/data/blueprints.xml.append:2659
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/desc"
 msgstr ""
-"Удваивает урон по корпусу, системный урон и ионный урон всех выпущенных вами "
-"снарядов или лучей, но снижает скорость перезарядки оружия на 60%. При "
-"использовании с многозарядным оружием, количество всех снарядов удваивается, "
-"но сохраняется первоначальный урон.\n"
+"Удваивает урон по корпусу, системный урон и ионный урон всех выпущенных вами снарядов или лучей, но снижает скорость перезарядки оружия на 60%. При использовании с многозарядным оружием, количество всех снарядов удваивается, но сохраняется первоначальный урон.\n"
 "\n"
-"Можно установить внутрь корабля за 20 единиц лома в меню склада, не "
-"складывается."
+"Можно установить внутрь корабля за 20 единиц лома в меню склада, не складывается."
 
-#: src-en/data/blueprints.xml.append:2782
+#: src-en/data/blueprints.xml.append:2668
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_RAILGUN\"]/title"
 msgstr "Рельсотрон"
 
-#: src-en/data/blueprints.xml.append:2783
+#: src-en/data/blueprints.xml.append:2669
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_RAILGUN\"]/desc"
 msgstr ""
-"Увеличивает скорость всех ваших снарядов и лучей на 4. Рейлганы, да, черт "
-"возьми!\n"
-"Можно установить внутрь корабля за 10 единиц лома в меню склада, не "
-"складывается."
+"Увеличивает скорость всех ваших снарядов и лучей на 4. Рейлганы, да, черт возьми!\n"
+"Можно установить внутрь корабля за 10 единиц лома в меню склада, не складывается."
 
-#: src-en/data/blueprints.xml.append:2791
+#: src-en/data/blueprints.xml.append:2677
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MOD_SUS\"]/title"
 msgstr "Монтажные опоры"
 
-#: src-en/data/blueprints.xml.append:2792
+#: src-en/data/blueprints.xml.append:2678
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MOD_SUS\"]/desc"
 msgstr ""
-"Когда экипаж покидает отсек, который отремонтирован лишь частично, уровень "
-"ремонта сохраняется и не теряется из-за того, что член экипажа покинул отсек."
-"\n"
-"Можно установить внутрь корабля за 10 единиц лома в меню склада, не "
-"складывается."
+"Когда экипаж покидает отсек, который отремонтирован лишь частично, уровень ремонта сохраняется и не теряется из-за того, что член экипажа покинул отсек.\n"
+"Можно установить внутрь корабля за 10 единиц лома в меню склада, не складывается."
 
-#: src-en/data/blueprints.xml.append:2801
+#: src-en/data/blueprints.xml.append:2687
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_MULTISHOT\"]/title"
 msgstr "Многозарядное оружие"
 
-#: src-en/data/blueprints.xml.append:2802
+#: src-en/data/blueprints.xml.append:2688
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_MULTISHOT\"]/desc"
 msgstr ""
-"Разделяет каждый выпущенный снаряд или луч на две части, однако урон по "
-"корпусу, системам и ионами уменьшается вдвое. В случае, если базовое "
-"значение нечетное, один снаряд будет наносить больше урона, чем другой.\n"
+"Разделяет каждый выпущенный снаряд или луч на две части, однако урон по корпусу, системам и ионами уменьшается вдвое. В случае, если базовое значение нечетное, один снаряд будет наносить больше урона, чем другой.\n"
 "      Можно установить внутрь корабля за 20 единиц лома в меню склада."
 
-#: src-en/data/blueprints.xml.append:2812
+#: src-en/data/blueprints.xml.append:2698
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_BIGSHOT\"]/title"
 msgstr "Высокоэнергетич. оружие"
 
-#: src-en/data/blueprints.xml.append:2813
+#: src-en/data/blueprints.xml.append:2699
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_BIGSHOT\"]/desc"
 msgstr ""
-"Удваивает урон по корпусу, системный урон и ионный урон всех выпущенных вами "
-"снарядов или лучей, но снижает скорость перезарядки оружия на 60%, "
-"несовместим с Многозарядным оружием.\n"
+"Удваивает урон по корпусу, системный урон и ионный урон всех выпущенных вами снарядов или лучей, но снижает скорость перезарядки оружия на 60%, несовместим с Многозарядным оружием.\n"
 "      Можно установить внутрь корабля за 20 единиц лома в меню склада."
 
-#: src-en/data/blueprints.xml.append:2823
+#: src-en/data/blueprints.xml.append:2709
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_RAILGUN\"]/title"
 msgstr "Рельсотрон"
 
-#: src-en/data/blueprints.xml.append:2824
+#: src-en/data/blueprints.xml.append:2710
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_RAILGUN\"]/desc"
 msgstr ""
-"Увеличивает скорость всех ваших снарядов и лучей на 4. Рейлганы да, черт "
-"возьми!\n"
+"Увеличивает скорость всех ваших снарядов и лучей на 4. Рейлганы да, черт возьми!\n"
 "      Можно установить внутрь корабля за 10 единиц лома в меню склада."
 
-#: src-en/data/blueprints.xml.append:2834
+#: src-en/data/blueprints.xml.append:2720
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_MOD_SUS\"]/title"
 msgstr "Монтажные опоры"
 
-#: src-en/data/blueprints.xml.append:2835
+#: src-en/data/blueprints.xml.append:2721
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_MOD_SUS\"]/desc"
 msgstr ""
-"Когда экипаж покидает отсек, который отремонтирован лишь частично, уровень "
-"ремонта сохраняется и не теряется из-за того, что член экипажа покинул отсек."
-"\n"
+"Когда экипаж покидает отсек, который отремонтирован лишь частично, уровень ремонта сохраняется и не теряется из-за того, что член экипажа покинул отсек.\n"
 "Можно установить внутрь корабля за 10 единиц лома в меню склада."
 
-#: src-en/data/blueprints.xml.append:2844
+#: src-en/data/blueprints.xml.append:2730
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_REFLECT_HULL\"]/title"
 msgstr "Отражающая обшивка кор."
 
-#: src-en/data/blueprints.xml.append:2845
+#: src-en/data/blueprints.xml.append:2731
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_REFLECT_HULL\"]/desc"
 msgstr ""
-"Эта обшивка корпуса специально разработана для отражения лучей, попадающих в "
-"корабль.\n"
-"Лучи отражаются обратно от вражеского корабля и наносят вашему кораблю "
-"только половину урона (с округлением в меньшую сторону).\n"
+"Эта обшивка корпуса специально разработана для отражения лучей, попадающих в корабль.\n"
+"Лучи отражаются обратно от вражеского корабля и наносят вашему кораблю только половину урона (с округлением в меньшую сторону).\n"
 "\n"
-"Эта обшивка также дает 5 очков суперобшивки, которые не позволяют 5 "
-"попаданиям за бой нанести урон корпусу."
+"Эта обшивка также дает 5 очков суперобшивки, которые не позволяют 5 попаданиям за бой нанести урон корпусу."
 
-#: src-en/data/blueprints.xml.append:2856
+#: src-en/data/blueprints.xml.append:2742
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_TIME_HULL\"]/title"
 msgstr "Искривленная обшивка кор."
 
-#: src-en/data/blueprints.xml.append:2857
+#: src-en/data/blueprints.xml.append:2743
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_TIME_HULL\"]/desc"
 msgstr ""
-"Каждый раз, когда корабль получает урон по корпусу, заканчивается время "
-"действия темпоральной системы и заканчивается время перезарядки одного "
-"случайного оружия, а также снижается скорость перезарядки оружия на 25%.\n"
+"Каждый раз, когда корабль получает урон по корпусу, заканчивается время действия темпоральной системы и заканчивается время перезарядки одного случайного оружия, а также снижается скорость перезарядки оружия на 25%.\n"
 "\n"
-"Эта обшивка также дает 1 очко суперобшивки, которое предотвращает нанесение "
-"1 урона корпусу за бой."
+"Эта обшивка также дает 1 очко суперобшивки, которое предотвращает нанесение 1 урона корпусу за бой."
 
-#: src-en/data/blueprints.xml.append:2867
+#: src-en/data/blueprints.xml.append:2753
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_HULL\"]/title"
 msgstr "Суперобщивка корпуса"
 
-#: src-en/data/blueprints.xml.append:2868
+#: src-en/data/blueprints.xml.append:2754
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_HULL\"]/desc"
 msgstr ""
 "Эта обшивка дает 5 очков суперобщивки, которые не позволяют 5 попаданиям за "
 "бой нанести урон корпусу."
 
-#: src-en/data/blueprints.xml.append:2876
+#: src-en/data/blueprints.xml.append:2762
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_BULLET_HELL\"]/title"
 msgstr "Обшивка темной материи"
 
-#: src-en/data/blueprints.xml.append:2877
+#: src-en/data/blueprints.xml.append:2763
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_BULLET_HELL\"]/desc"
 msgstr ""
-"Корпус корабля полностью неуязвим, однако из-за искривления пространственно-"
-"временного континуума все снаряды замедляются до 1/4 скорости, урон по "
-"экипажу увеличивается на 45 до максимального 75 и показывает точку попадания "
-"на вашем корабле.\n"
-"Также выяснилось, что Клон-отсек на корабле стал практически бесполезным из-"
-"за искривления пространства и времени, и поэтому он не может никого "
-"клонировать, однако он все еще способен исцелять экипаж во время прыжка.\n"
-"Ваш экипаж не может лечиться из других источников, однако все члены экипажа "
-"получают на 1.5х больше урона."
+"Корпус корабля полностью неуязвим, однако из-за искривления пространственно-временного континуума все снаряды замедляются до 1/4 скорости, урон по экипажу увеличивается на 45 до максимального 75 и показывает точку попадания на вашем корабле.\n"
+"Также выяснилось, что Клон-отсек на корабле стал практически бесполезным из-за искривления пространства и времени, и поэтому он не может никого клонировать, однако он все еще способен исцелять экипаж во время прыжка.\n"
+"Ваш экипаж не может лечиться из других источников, однако все члены экипажа получают на 1.5х больше урона."
 
-#: src-en/data/blueprints.xml.append:2888
+#: src-en/data/blueprints.xml.append:2774
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/title"
 msgstr "Тяговой луч"
 
-#: src-en/data/blueprints.xml.append:2889
+#: src-en/data/blueprints.xml.append:2775
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/short"
 msgstr "Тяговой луч"
 
-#: src-en/data/blueprints.xml.append:2890
+#: src-en/data/blueprints.xml.append:2776
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/desc"
 msgstr ""
-"Сам луч не наносит урона, но при попадании создает сильное гравитационное "
-"притяжение.\n"
+"Сам луч не наносит урона, но при попадании создает сильное гравитационное притяжение.\n"
 "За каждую плитку, в которую попадает луч, он притягивает к ней астероид."
 
-#: src-en/data/blueprints.xml.append:2918
+#: src-en/data/blueprints.xml.append:2804
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/class"
 msgstr "Зеркальный крейсер"
 
-#: src-en/data/blueprints.xml.append:2919
+#: src-en/data/blueprints.xml.append:2805
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/name"
 msgstr "Отражение"
 
-#: src-en/data/blueprints.xml.append:2921
+#: src-en/data/blueprints.xml.append:2807
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/desc"
 msgstr ""
-"Этот корабль использует загадочную кристаллическую структуру, способную "
-"отражать лучи прямо во врага.\n"
+"Этот корабль использует загадочную кристаллическую структуру, способную отражать лучи прямо во врага.\n"
 "Он также дает 5 очков суперобшивки."
 
-#: src-en/data/blueprints.xml.append:2998
+#: src-en/data/blueprints.xml.append:2884
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/class"
 msgstr "Крейсер Разрушитель Времени"
 
-#: src-en/data/blueprints.xml.append:2999
+#: src-en/data/blueprints.xml.append:2885
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/name"
 msgstr "Вильчек"
 
-#: src-en/data/blueprints.xml.append:3001
+#: src-en/data/blueprints.xml.append:2887
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/desc"
 msgstr ""
@@ -1493,203 +1348,196 @@ msgstr ""
 "попадают, отсек получает случайный временной эффект, а у одного оружия "
 "заканчивается время перезарядки."
 
-#: src-en/data/blueprints.xml.append:3076
+#: src-en/data/blueprints.xml.append:2962
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/class"
 msgstr "Темный крейсер"
 
-#: src-en/data/blueprints.xml.append:3077
+#: src-en/data/blueprints.xml.append:2963
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/name"
 msgstr "Черная дыра"
 
-#: src-en/data/blueprints.xml.append:3079
+#: src-en/data/blueprints.xml.append:2965
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/desc"
 msgstr ""
-"Благодаря свойствам брони на корабле вам не придется беспокоиться о том, что "
-"корабль взорвется, но вам нужно быть осторожным с экипажем, он довольно "
-"уязвим.\n"
-"Вам нужно избегать как можно большего повреждения экипажа, скудного лечения "
-"из Клон-отсека может оказаться недостаточно."
+"Благодаря свойствам брони на корабле вам не придется беспокоиться о том, что корабль взорвется, но вам нужно быть осторожным с экипажем, он довольно уязвим.\n"
+"Вам нужно избегать как можно большего повреждения экипажа, скудного лечения из Клон-отсека может оказаться недостаточно."
 
-#: src-en/data/blueprints.xml.append:3138
+#: src-en/data/blueprints.xml.append:3024
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREVERSAL\"]/title"
 msgstr "Эксперимент. Маскировка"
 
-#: src-en/data/blueprints.xml.append:3139
+#: src-en/data/blueprints.xml.append:3025
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREVERSAL\"]/desc"
 msgstr ""
 "Эта экспериментальная система маскировки обменивает потерю половины времени "
 "действия маскировки на способность отражать любые вражеские снаряды, "
 "перенацеливая их на вражеский корабль."
 
-#: src-en/data/blueprints.xml.append:3146
+#: src-en/data/blueprints.xml.append:3032
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CBEAM\"]/title"
 msgstr "Артиллерия-Маскировка"
 
-#: src-en/data/blueprints.xml.append:3147
+#: src-en/data/blueprints.xml.append:3033
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CBEAM\"]/desc"
 msgstr ""
-"Эта экспериментальная система маскировки обменивает потерю половины времени "
-"действия маскировки на возможность выстрелить разрушительным лучом, "
-"прочерчивающим линию от системы щита противника до системы оружия.\n"
+"Эта экспериментальная система маскировки обменивает потерю половины времени действия маскировки на возможность выстрелить разрушительным лучом, прочерчивающим линию от системы щита противника до системы оружия.\n"
 "\n"
-"Луч наносит 1 урон и получает еще половину урона за каждую мощность "
-"оружейной системы."
+"Луч наносит 1 урон и получает еще половину урона за каждую мощность оружейной системы."
 
-#: src-en/data/blueprints.xml.append:3156
+#: src-en/data/blueprints.xml.append:3042
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CHACK\"]/title"
 msgstr "Усоверш. Маскировка"
 
-#: src-en/data/blueprints.xml.append:3157
+#: src-en/data/blueprints.xml.append:3043
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CHACK\"]/desc"
 msgstr ""
 "Эта экспериментальная система маскировки взламывает систему щитов "
 "противника, но при этом отключает ваше собственное оружие."
 
-#: src-en/data/blueprints.xml.append:3164
+#: src-en/data/blueprints.xml.append:3050
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/class"
 msgstr "Корвет ученых"
 
-#: src-en/data/blueprints.xml.append:3165
+#: src-en/data/blueprints.xml.append:3051
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/name"
 msgstr "Динамика"
 
-#: src-en/data/blueprints.xml.append:3167
+#: src-en/data/blueprints.xml.append:3053
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/desc"
 msgstr ""
 "Этот корабль использует свою систему маскировки, чтобы не только уклоняться "
-"от вражеских снарядов, но и посылать их обратно во вражеский корабль в ответ."
+"от вражеских снарядов, но и посылать их обратно во вражеский корабль в "
+"ответ."
 
-#: src-en/data/blueprints.xml.append:3240
+#: src-en/data/blueprints.xml.append:3126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/title"
 msgstr "Маскировочный луч"
 
-#: src-en/data/blueprints.xml.append:3241
+#: src-en/data/blueprints.xml.append:3127
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/short"
 msgstr "Маскировочный луч"
 
-#: src-en/data/blueprints.xml.append:3242
+#: src-en/data/blueprints.xml.append:3128
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:3269
+#: src-en/data/blueprints.xml.append:3155
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/class"
 msgstr "Корвет ученых"
 
-#: src-en/data/blueprints.xml.append:3270
+#: src-en/data/blueprints.xml.append:3156
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/name"
 msgstr "Иллюзия"
 
-#: src-en/data/blueprints.xml.append:3272
+#: src-en/data/blueprints.xml.append:3158
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/desc"
 msgstr ""
 "Маскировочная система этого корабля специально настроена на генерацию "
 "мощного энергетического луча, способного нанести урон вражескому кораблю."
 
-#: src-en/data/blueprints.xml.append:3344
+#: src-en/data/blueprints.xml.append:3230
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/class"
 msgstr "Корвет ученых"
 
-#: src-en/data/blueprints.xml.append:3345
+#: src-en/data/blueprints.xml.append:3231
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/name"
 msgstr "Иллюзия"
 
-#: src-en/data/blueprints.xml.append:3347
+#: src-en/data/blueprints.xml.append:3233
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/desc"
 msgstr ""
-"В систему маскировки на этом корабле встроена дополнительная система взлома, "
-"она взламывает систему щитов противника, когда вы маскируетесь, однако это "
+"В систему маскировки на этом корабле встроена дополнительная система взлома,"
+" она взламывает систему щитов противника, когда вы маскируетесь, однако это "
 "приводит к взлому вашей собственной системы оружия."
 
-#: src-en/data/blueprints.xml.append:3421
+#: src-en/data/blueprints.xml.append:3307
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/title"
 msgstr "ВЗЛОМ"
 
-#: src-en/data/blueprints.xml.append:3422
+#: src-en/data/blueprints.xml.append:3308
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/short"
 msgstr "ВЗЛОМ"
 
-#: src-en/data/blueprints.xml.append:3424
+#: src-en/data/blueprints.xml.append:3310
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/desc"
 msgstr "НЕТ"
 
-#: src-en/data/blueprints.xml.append:3467
+#: src-en/data/blueprints.xml.append:3353
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/title"
 msgstr "ВЗЛОМ"
 
-#: src-en/data/blueprints.xml.append:3468
+#: src-en/data/blueprints.xml.append:3354
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/short"
 msgstr "ВЗЛОМ"
 
-#: src-en/data/blueprints.xml.append:3470
+#: src-en/data/blueprints.xml.append:3356
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/desc"
 msgstr "НЕТ"
 
-#: src-en/data/blueprints.xml.append:3513
+#: src-en/data/blueprints.xml.append:3399
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/title"
 msgstr "ВЗЛОМ"
 
-#: src-en/data/blueprints.xml.append:3514
+#: src-en/data/blueprints.xml.append:3400
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/short"
 msgstr "ВЗЛОМ"
 
-#: src-en/data/blueprints.xml.append:3516
+#: src-en/data/blueprints.xml.append:3402
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/desc"
 msgstr "НЕТ"
 
-#: src-en/data/blueprints.xml.append:3558
+#: src-en/data/blueprints.xml.append:3444
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/class"
 msgstr "Резак ученых"
 
-#: src-en/data/blueprints.xml.append:3559
+#: src-en/data/blueprints.xml.append:3445
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/name"
 msgstr "Спутник"
 
-#: src-en/data/blueprints.xml.append:3561
+#: src-en/data/blueprints.xml.append:3447
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/desc"
 msgstr ""
-"Этот корабль не столь большой, как другие космические корабли, но все же "
-"способен постоять за себя, имея 6 слотов для орудий.\n"
-"Из-за небольшого размера, реактор обеспечивает только 1 мощность оружия, что "
-"значительно ограничивает ваши возможности."
+"Этот корабль не столь большой, как другие космические корабли, но все же способен постоять за себя, имея 6 слотов для орудий.\n"
+"Из-за небольшого размера, реактор обеспечивает только 1 мощность оружия, что значительно ограничивает ваши возможности."
 
-#: src-en/data/blueprints.xml.append:3631
+#: src-en/data/blueprints.xml.append:3517
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_WEAPON\"]/title"
 msgstr "Маломощное оружие"
 
-#: src-en/data/blueprints.xml.append:3632
+#: src-en/data/blueprints.xml.append:3518
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_WEAPON\"]/desc"
 msgstr ""
 "Из-за плохого реактора на корабле можно использовать только орудия мощности "
 "в 1 и меньше, однако эти орудия будут выпускать вдвое больше снарядов/лучей."
 
-#: src-en/data/blueprints.xml.append:3639
+#: src-en/data/blueprints.xml.append:3525
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/class"
 msgstr "Резак ученых"
 
-#: src-en/data/blueprints.xml.append:3640
+#: src-en/data/blueprints.xml.append:3526
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/name"
 msgstr "Арсенал Судьбы"
 
-#: src-en/data/blueprints.xml.append:3642
+#: src-en/data/blueprints.xml.append:3528
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/desc"
 msgstr ""
@@ -1698,149 +1546,148 @@ msgstr ""
 "он не может устанавливать орудия, которое использует 2 и менее единиц "
 "энергии."
 
-#: src-en/data/blueprints.xml.append:3712
+#: src-en/data/blueprints.xml.append:3598
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CUTTER_OXY\"]/title"
 msgstr "Низкий уровень кислорода"
 
-#: src-en/data/blueprints.xml.append:3713
+#: src-en/data/blueprints.xml.append:3599
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CUTTER_OXY\"]/desc"
 msgstr ""
 "Из-за плохого реактора на корабле кислородная система не способна "
-"вырабатывать кислород. Ситуация настолько плохая, что весь анаэробный экипаж "
-"теряет иммунитет к удушью, а урон от удушья увеличивается вдвое."
+"вырабатывать кислород. Ситуация настолько плохая, что весь анаэробный экипаж"
+" теряет иммунитет к удушью, а урон от удушья увеличивается вдвое."
 
-#: src-en/data/blueprints.xml.append:3720
+#: src-en/data/blueprints.xml.append:3606
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/class"
 msgstr "Резак ученых"
 
-#: src-en/data/blueprints.xml.append:3721
+#: src-en/data/blueprints.xml.append:3607
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/name"
 msgstr "Ящик Пандоры"
 
-#: src-en/data/blueprints.xml.append:3723
+#: src-en/data/blueprints.xml.append:3609
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/desc"
 msgstr ""
 "Каждый раз, когда вы вступаете в бой, ваши орудия меняются на другие, и вам "
 "придется внимательно совершать прыжки, чтобы получить новую сборку орудий."
 
-#: src-en/data/blueprints.xml.append:3797
+#: src-en/data/blueprints.xml.append:3683
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SHIELD\"]/title"
 msgstr "Оружейный генер. помех"
 
-#: src-en/data/blueprints.xml.append:3798
+#: src-en/data/blueprints.xml.append:3684
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SHIELD\"]/desc"
 msgstr ""
 "Каждый бой все ваши орудия случайным образом заменяются, если у вас есть 3 "
 "орудия, то заменяются только эти 3. Не относится к бою с Флагманом: какие "
 "орудия у вас были до боя, те у вас и останутся."
 
-#: src-en/data/blueprints.xml.append:3805
+#: src-en/data/blueprints.xml.append:3691
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/desc"
 msgstr ""
 "Научно подготовленный юнит, более эффективный против дронов.\n"
 "    \n"
-"Наследует характеристики людей: незначительное сопротивление удушью, быстрее "
-"осваивает навыки"
+"Наследует характеристики людей: незначительное сопротивление удушью, быстрее осваивает навыки"
 
-#: src-en/data/blueprints.xml.append:3810
+#: src-en/data/blueprints.xml.append:3696
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/title"
 msgstr "Человек-ученый"
 
-#: src-en/data/blueprints.xml.append:3811
+#: src-en/data/blueprints.xml.append:3697
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/short"
 msgstr "Ученый"
 
-#: src-en/data/blueprints.xml.append:3814
+#: src-en/data/blueprints.xml.append:3700
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[1]"
 msgstr "Вражеские дроны в одном отсеке получают 1.25х урон от всех источников"
 
-#: src-en/data/blueprints.xml.append:3815
+#: src-en/data/blueprints.xml.append:3701
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[2]"
 msgstr "1.2х скорость ремонта"
 
-#: src-en/data/blueprints.xml.append:3816
+#: src-en/data/blueprints.xml.append:3702
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[3]"
 msgstr "Получает 0.6х урона от пожаров"
 
-#: src-en/data/blueprints.xml.append:3817
+#: src-en/data/blueprints.xml.append:3703
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[4]"
 msgstr "Учится ремонту еще быстрее"
 
-#: src-en/data/blueprints.xml.append:3822
+#: src-en/data/blueprints.xml.append:3708
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_SHIELD\"]/title"
 msgstr "Шрапнельные щиты"
 
-#: src-en/data/blueprints.xml.append:3823
+#: src-en/data/blueprints.xml.append:3709
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_SHIELD\"]/desc"
 msgstr "AAAAA."
 
-#: src-en/data/blueprints.xml.append:3830
+#: src-en/data/blueprints.xml.append:3716
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/class"
 msgstr "Элитный корвет ученых"
 
-#: src-en/data/blueprints.xml.append:3831
+#: src-en/data/blueprints.xml.append:3717
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/name"
 msgstr "Переговорщик"
 
-#: src-en/data/blueprints.xml.append:3833
+#: src-en/data/blueprints.xml.append:3719
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/desc"
 msgstr ""
 "Этот корабль создает вокруг себя щит из шрапнели, чтобы защититься от "
 "входящих снарядов и шальных дронов, подобравшихся слишком близко."
 
-#: src-en/data/blueprints.xml.append:3909
+#: src-en/data/blueprints.xml.append:3795
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/title"
 msgstr "Шрапнельная пушка"
 
-#: src-en/data/blueprints.xml.append:3910
+#: src-en/data/blueprints.xml.append:3796
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/short"
 msgstr "Шрапнельная пушка"
 
-#: src-en/data/blueprints.xml.append:3911
+#: src-en/data/blueprints.xml.append:3797
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/desc"
 msgstr ""
 "[Базовая перезарядка: 8] Эта пушка разворачивает вокруг корабля щит из "
 "шрапнели, каждый из которых способен блокировать снаряд."
 
-#: src-en/data/blueprints.xml.append:3912
+#: src-en/data/blueprints.xml.append:3798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/tooltip"
 msgstr "Шрапнельная пушка"
 
-#: src-en/data/blueprints.xml.append:3939
+#: src-en/data/blueprints.xml.append:3825
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_civilian\"]/title"
 msgstr "Гражданский"
 
-#: src-en/data/blueprints.xml.append:3940
+#: src-en/data/blueprints.xml.append:3826
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_civilian\"]/short"
 msgstr "Гражданский"
 
-#: src-en/data/blueprints.xml.append:3964
+#: src-en/data/blueprints.xml.append:3850
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SCIENCE_LOOT\"]/title"
 msgstr "Импульсный лазер мод. IV"
 
-#: src-en/data/blueprints.xml.append:3965
+#: src-en/data/blueprints.xml.append:3851
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SCIENCE_LOOT\"]/short"
 msgstr "Импульс IV"
 
-#: src-en/data/blueprints.xml.append:3967
+#: src-en/data/blueprints.xml.append:3853
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SCIENCE_LOOT\"]/desc"
 msgstr ""
@@ -1848,111 +1695,107 @@ msgstr ""
 "обычным кораблям, оно способно произвести самый мощный залп среди лазерных "
 "орудий."
 
-#: src-en/data/blueprints.xml.append:4003
+#: src-en/data/blueprints.xml.append:3889
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/desc"
 msgstr ""
-"Один из главных ученых в этой вселенной, ответственный за создание многих "
-"важных технологий.\n"
+"Один из главных ученых в этой вселенной, ответственный за создание многих важных технологий.\n"
 "\n"
-"Наследует характеристики людей: незначительное сопротивление удушью, быстрее "
-"осваивает навыки"
+"Наследует характеристики людей: незначительное сопротивление удушью, быстрее осваивает навыки"
 
-#: src-en/data/blueprints.xml.append:4007
+#: src-en/data/blueprints.xml.append:3893
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/title"
 msgstr "Человек-ученый"
 
-#: src-en/data/blueprints.xml.append:4008
+#: src-en/data/blueprints.xml.append:3894
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/short"
 msgstr "Ученый"
 
-#: src-en/data/blueprints.xml.append:4011
+#: src-en/data/blueprints.xml.append:3897
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[1]"
 msgstr "Наносит 1.2х урона в бою с экипажем"
 
-#: src-en/data/blueprints.xml.append:4012
+#: src-en/data/blueprints.xml.append:3898
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[2]"
 msgstr "Получает 0.7x урона в бою с экипажем и 0.6x от пожаров"
 
-#: src-en/data/blueprints.xml.append:4013
+#: src-en/data/blueprints.xml.append:3899
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[3]"
 msgstr ""
 "Вражеские дроны, находящиеся в одном отсеке, получают 2х урон от всех "
 "источников"
 
-#: src-en/data/blueprints.xml.append:4014
+#: src-en/data/blueprints.xml.append:3900
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[4]"
 msgstr "1.2х скорость ремонта"
 
-#: src-en/data/blueprints.xml.append:4015
+#: src-en/data/blueprints.xml.append:3901
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[5]"
 msgstr "Учится ремонту еще быстрее"
 
-#: src-en/data/blueprints.xml.append:4020
+#: src-en/data/blueprints.xml.append:3906
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/desc"
 msgstr ""
-"Один из главных ученых в этой вселенной, ответственный за создание многих "
-"важных технологий.\n"
+"Один из главных ученых в этой вселенной, ответственный за создание многих важных технологий.\n"
 "\t\n"
-"Наследует характеристики людей: незначительное сопротивление удушью, быстрее "
-"осваивает навыки"
+"Наследует характеристики людей: незначительное сопротивление удушью, быстрее осваивает навыки"
 
-#: src-en/data/blueprints.xml.append:4024
+#: src-en/data/blueprints.xml.append:3910
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/title"
 msgstr "Человек-ученый"
 
-#: src-en/data/blueprints.xml.append:4025
+#: src-en/data/blueprints.xml.append:3911
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/short"
 msgstr "Ученый"
 
-#: src-en/data/blueprints.xml.append:4028
+#: src-en/data/blueprints.xml.append:3914
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[1]"
 msgstr "Наносит 1.2х урона в бою с экипажем"
 
-#: src-en/data/blueprints.xml.append:4029
+#: src-en/data/blueprints.xml.append:3915
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[2]"
 msgstr "Получает 0.7x урона в бою с экипажем и 0.6x от пожаров"
 
-#: src-en/data/blueprints.xml.append:4030
+#: src-en/data/blueprints.xml.append:3916
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[3]"
 msgstr ""
 "Вражеские дроны, находящиеся в одном отсеке, получают 2х урон от всех "
 "источников"
 
-#: src-en/data/blueprints.xml.append:4031
+#: src-en/data/blueprints.xml.append:3917
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[4]"
 msgstr "1.2х скорость ремонта"
 
-#: src-en/data/blueprints.xml.append:4032
+#: src-en/data/blueprints.xml.append:3918
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[5]"
 msgstr "Учится ремонту еще быстрее"
 
-#: src-en/data/blueprints.xml.append:4037
+#: src-en/data/blueprints.xml.append:3923
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/class"
 msgstr "Элитный орудийный крейсер"
 
-#: src-en/data/blueprints.xml.append:4038
+#: src-en/data/blueprints.xml.append:3924
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/name"
 msgstr "Больше Пова"
 
-#: src-en/data/blueprints.xml.append:4040
+#: src-en/data/blueprints.xml.append:3926
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/desc"
 msgstr ""
@@ -1960,133 +1803,120 @@ msgstr ""
 "12 единиц, однако это дополнительное энергопотребление означает, что вы не "
 "можете установить какую-либо медицинскую систему."
 
-#: src-en/data/blueprints.xml.append:4113
+#: src-en/data/blueprints.xml.append:3999
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOOR_LOCKS\"]/title"
 msgstr "Мощная оружейная сист."
 
-#: src-en/data/blueprints.xml.append:4114
+#: src-en/data/blueprints.xml.append:4000
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOOR_LOCKS\"]/desc"
 msgstr ""
 "Оружейная система была усилена и теперь ее максимальная мощность составляет "
 "12 единиц, однако это дополнительное потребление энергии означает, что ваши "
 "двери будут заперты, пока оружейная система включена."
 
-#: src-en/data/blueprints.xml.append:4121
+#: src-en/data/blueprints.xml.append:4007
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SCRAP\"]/title"
 msgstr "Малый грузовой отсек"
 
-#: src-en/data/blueprints.xml.append:4122
+#: src-en/data/blueprints.xml.append:4008
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SCRAP\"]/desc"
 msgstr ""
-"Как только в вашем грузовом отсеке накопится 75 единиц металлолома, вы не "
-"сможете получить больше ни в бою, ни в событиях.\n"
+"Как только в вашем грузовом отсеке накопится 75 единиц металлолома, вы не сможете получить больше ни в бою, ни в событиях.\n"
 "+20% к добыче лома."
 
-#: src-en/data/blueprints.xml.append:4131
+#: src-en/data/blueprints.xml.append:4017
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/title"
 msgstr "Диффузная пушка мод. I"
 
-#: src-en/data/blueprints.xml.append:4132
+#: src-en/data/blueprints.xml.append:4018
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/short"
 msgstr "Диффузия I"
 
-#: src-en/data/blueprints.xml.append:4133
+#: src-en/data/blueprints.xml.append:4019
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/desc"
 msgstr ""
-"Каждый снаряд, выпущенный из этого оружия, поражает щиты, снимая один слой "
-"щитов, а затем разделяется на два снаряда, каждый из которых попадает куда-"
-"то на вражеском корабле.\n"
-"При разделении снаряда каждый новый снаряд отклоняется от точки попадания на "
-"расстояние до 10 пикселей. Не работает через суперщиты."
+"Каждый снаряд, выпущенный из этого оружия, поражает щиты, снимая один слой щитов, а затем разделяется на два снаряда, каждый из которых попадает куда-то на вражеском корабле.\n"
+"При разделении снаряда каждый новый снаряд отклоняется от точки попадания на расстояние до 10 пикселей. Не работает через суперщиты."
 
-#: src-en/data/blueprints.xml.append:4175
+#: src-en/data/blueprints.xml.append:4061
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/title"
 msgstr "Диффузная пушка мод. II"
 
-#: src-en/data/blueprints.xml.append:4176
+#: src-en/data/blueprints.xml.append:4062
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/short"
 msgstr "Диффузия II"
 
-#: src-en/data/blueprints.xml.append:4177
+#: src-en/data/blueprints.xml.append:4063
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/desc"
 msgstr ""
-"Каждый снаряд, выпущенный из этого оружия, поражает щиты, снимая один слой "
-"щитов, а затем разделяется на два снаряда, каждый из которых попадает куда-"
-"то на вражеском корабле.\n"
-"При разделении снаряда каждый новый снаряд отклоняется от точки попадания на "
-"расстояние до 10 пикселей. Не работает через суперщиты."
+"Каждый снаряд, выпущенный из этого оружия, поражает щиты, снимая один слой щитов, а затем разделяется на два снаряда, каждый из которых попадает куда-то на вражеском корабле.\n"
+"При разделении снаряда каждый новый снаряд отклоняется от точки попадания на расстояние до 10 пикселей. Не работает через суперщиты."
 
-#: src-en/data/blueprints.xml.append:4219
+#: src-en/data/blueprints.xml.append:4105
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/title"
 msgstr "Диффузная пушка мод. III"
 
-#: src-en/data/blueprints.xml.append:4220
+#: src-en/data/blueprints.xml.append:4106
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/short"
 msgstr "Диффузия III"
 
-#: src-en/data/blueprints.xml.append:4221
+#: src-en/data/blueprints.xml.append:4107
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/desc"
 msgstr ""
-"Каждый снаряд, выпущенный из этого оружия, поражает щиты, снимая один слой "
-"щитов, а затем разделяется на два снаряда, каждый из которых попадает куда-"
-"то на вражеском корабле.\n"
-"При разделении снаряда каждый новый снаряд отклоняется от точки попадания на "
-"расстояние до 10 пикселей. Не работает через суперщиты."
+"Каждый снаряд, выпущенный из этого оружия, поражает щиты, снимая один слой щитов, а затем разделяется на два снаряда, каждый из которых попадает куда-то на вражеском корабле.\n"
+"При разделении снаряда каждый новый снаряд отклоняется от точки попадания на расстояние до 10 пикселей. Не работает через суперщиты."
 
-#: src-en/data/blueprints.xml.append:4263
+#: src-en/data/blueprints.xml.append:4149
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/title"
 msgstr "Диффузный ион"
 
-#: src-en/data/blueprints.xml.append:4264
+#: src-en/data/blueprints.xml.append:4150
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/short"
 msgstr "Диффуз. ион"
 
-#: src-en/data/blueprints.xml.append:4265
+#: src-en/data/blueprints.xml.append:4151
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/desc"
 msgstr ""
-"Каждый снаряд, выпущенный из этого оружия, попадает в щиты, ионизирует их, а "
-"затем разделяется на два других снаряда, каждый из которых попадает в какую-"
-"нибудь точку вражеского корабля.\n"
-"При разделении снаряда каждый новый снаряд отклоняется от точки попадания на "
-"расстояние до 10 пикселей. Не работает через суперщиты."
+"Каждый снаряд, выпущенный из этого оружия, попадает в щиты, ионизирует их, а затем разделяется на два других снаряда, каждый из которых попадает в какую-нибудь точку вражеского корабля.\n"
+"При разделении снаряда каждый новый снаряд отклоняется от точки попадания на расстояние до 10 пикселей. Не работает через суперщиты."
 
-#: src-en/data/blueprints.xml.append:4309
+#: src-en/data/blueprints.xml.append:4195
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/class"
 msgstr "Элитный реакторный крейсер"
 
-#: src-en/data/blueprints.xml.append:4310
+#: src-en/data/blueprints.xml.append:4196
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/name"
 msgstr "Компактный сборщик"
 
-#: src-en/data/blueprints.xml.append:4312
+#: src-en/data/blueprints.xml.append:4198
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/desc"
 msgstr ""
-"Корабль с огромным реактором, однако он занимает грузовой отсек, ограничивая "
-"количество вмещаемого лома."
+"Корабль с огромным реактором, однако он занимает грузовой отсек, ограничивая"
+" количество вмещаемого лома."
 
-#: src-en/data/blueprints.xml.append:4385
+#: src-en/data/blueprints.xml.append:4271
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/class"
 msgstr "Элитный артиллерийский крейсер"
 
-#: src-en/data/blueprints.xml.append:4386
+#: src-en/data/blueprints.xml.append:4272
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/name"
 msgstr "Ускоритель"
 
-#: src-en/data/blueprints.xml.append:4388
+#: src-en/data/blueprints.xml.append:4274
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/desc"
 msgstr ""
@@ -2094,104 +1924,99 @@ msgstr ""
 "накапливать энергию, когда наносит добивающий удар по вражескому кораблю; "
 "эта энергия может быть использована для улучшения характеристик артиллерии."
 
-#: src-en/data/blueprints.xml.append:4463
+#: src-en/data/blueprints.xml.append:4349
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/title"
 msgstr "Модульная лазерная артиллерия Гектар"
 
-#: src-en/data/blueprints.xml.append:4464
+#: src-en/data/blueprints.xml.append:4350
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/short"
 msgstr "Модульная лазерная артиллерия Гектар"
 
-#: src-en/data/blueprints.xml.append:4465
+#: src-en/data/blueprints.xml.append:4351
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/desc"
 msgstr ""
-"[Базовая перезарядка: 15] По умолчанию стреляет 3 лазерами, можно установить "
-"бесконечное количество модульных компонентов."
+"[Базовая перезарядка: 15] По умолчанию стреляет 3 лазерами, можно установить"
+" бесконечное количество модульных компонентов."
 
-#: src-en/data/blueprints.xml.append:4468
+#: src-en/data/blueprints.xml.append:4354
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/tooltip"
 msgstr "Модульный лазер."
 
-#: src-en/data/blueprints.xml.append:4482
+#: src-en/data/blueprints.xml.append:4368
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_NO_DOOR\"]/title"
 msgstr "Персональные телепорт."
 
-#: src-en/data/blueprints.xml.append:4483
+#: src-en/data/blueprints.xml.append:4369
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_NO_DOOR\"]/desc"
 msgstr ""
 "Позволяет экипажу телепортироваться по кораблю, но работает только тогда, "
 "когда оружейная система не включена."
 
-#: src-en/data/blueprints.xml.append:4490
+#: src-en/data/blueprints.xml.append:4376
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOCKING_DRILL\"]/title"
 msgstr "Стыковочный бур"
 
-#: src-en/data/blueprints.xml.append:4491
+#: src-en/data/blueprints.xml.append:4377
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOCKING_DRILL\"]/desc"
 msgstr ""
 "Позволяет прикрепиться к борту вражеского корабля.\n"
-"Когда вы это сделаете, время перезарядки вашего телепорта станет мгновенным, "
-"однако это будет действовать и на врага.\n"
-"Это также отключит эффект исцеления при телепортации, если вы решите "
-"пристыковаться к врагу.\n"
-"Кроме того, это сделает снаряды неуклоняемыми как для вас, так и для "
-"противника (за исключением случаев, когда он замаскирован).\n"
+"Когда вы это сделаете, время перезарядки вашего телепорта станет мгновенным, однако это будет действовать и на врага.\n"
+"Это также отключит эффект исцеления при телепортации, если вы решите пристыковаться к врагу.\n"
+"Кроме того, это сделает снаряды неуклоняемыми как для вас, так и для противника (за исключением случаев, когда он замаскирован).\n"
 "Враг не сможет убежать в течение 2 минут, если вы состыкуетесь с ним."
 
-#: src-en/data/blueprints.xml.append:4502
+#: src-en/data/blueprints.xml.append:4388
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_UP_ARTI\"]/title"
 msgstr "Улучшенная артиллерия"
 
-#: src-en/data/blueprints.xml.append:4503
+#: src-en/data/blueprints.xml.append:4389
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_UP_ARTI\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
-#: src-en/data/blueprints.xml.append:4510
+#: src-en/data/blueprints.xml.append:4396
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAP_HULL\"]/title"
 msgstr "Корпус из лома"
 
-#: src-en/data/blueprints.xml.append:4511
+#: src-en/data/blueprints.xml.append:4397
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAP_HULL\"]/desc"
 msgstr ""
-"Вместо того чтобы иметь здоровье корпуса, корабль погибает при достижении 0 "
-"лома.\n"
-"Каждый раз, когда вы получаете удар, вы теряете 10% своего лома, если вы "
-"должны были потерять меньше 10 лома, вместо этого вы потеряете 10 лома.\n"
+"Вместо того чтобы иметь здоровье корпуса, корабль погибает при достижении 0 лома.\n"
+"Каждый раз, когда вы получаете удар, вы теряете 10% своего лома, если вы должны были потерять меньше 10 лома, вместо этого вы потеряете 10 лома.\n"
 "\n"
 "Увеличивает добычу лома на 25%"
 
-#: src-en/data/blueprints.xml.append:4522
+#: src-en/data/blueprints.xml.append:4408
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/title"
 msgstr "Монетная пушка мод. I"
 
-#: src-en/data/blueprints.xml.append:4523
+#: src-en/data/blueprints.xml.append:4409
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/short"
 msgstr "Монет. пушка I"
 
-#: src-en/data/blueprints.xml.append:4524
+#: src-en/data/blueprints.xml.append:4410
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/desc"
 msgstr ""
 "Это оружие стреляет монетами, каждый снаряд похищает с корабля 2 единицы "
 "лома, но при удачном попадании вражеский корабль возвращает этот лом, плюс "
 "похищает еще 1, не возвращает лом при попадании в щиты или дроны."
 
-#: src-en/data/blueprints.xml.append:4558
+#: src-en/data/blueprints.xml.append:4444
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/title"
 msgstr "Монетная пушка мод. I"
 
-#: src-en/data/blueprints.xml.append:4559
+#: src-en/data/blueprints.xml.append:4445
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/short"
 msgstr "Монет. пушка I"
 
-#: src-en/data/blueprints.xml.append:4560
+#: src-en/data/blueprints.xml.append:4446
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/desc"
 msgstr ""
@@ -2199,34 +2024,34 @@ msgstr ""
 "лома, но при удачном попадании вражеский корабль возвращает этот лом, не "
 "возвращает лом при попадании в щиты или дроны."
 
-#: src-en/data/blueprints.xml.append:4593
+#: src-en/data/blueprints.xml.append:4479
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/class"
 msgstr "Запирающий крейсер"
 
-#: src-en/data/blueprints.xml.append:4594
+#: src-en/data/blueprints.xml.append:4480
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/name"
 msgstr "Очароваательный"
 
-#: src-en/data/blueprints.xml.append:4596
+#: src-en/data/blueprints.xml.append:4482
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/desc"
 msgstr ""
 "Для перемещения экипажа по кораблю используются небольшие персональные "
 "телепорты, однако они не работают, пока система оружия запитана."
 
-#: src-en/data/blueprints.xml.append:4669
+#: src-en/data/blueprints.xml.append:4555
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/class"
 msgstr "Мусорный крейсер"
 
-#: src-en/data/blueprints.xml.append:4670
+#: src-en/data/blueprints.xml.append:4556
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/name"
 msgstr "Свалка"
 
-#: src-en/data/blueprints.xml.append:4672
+#: src-en/data/blueprints.xml.append:4558
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/desc"
 msgstr ""
@@ -2234,489 +2059,487 @@ msgstr ""
 "простым в ремонте, однако он довольно легко разваливается на части, и "
 "поэтому вы можете быстро потерять свой лом."
 
-#: src-en/data/blueprints.xml.append:4745
+#: src-en/data/blueprints.xml.append:4631
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/class"
 msgstr "Крейсер вторжения"
 
-#: src-en/data/blueprints.xml.append:4746
+#: src-en/data/blueprints.xml.append:4632
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/name"
 msgstr "Скоростная стыковка!"
 
-#: src-en/data/blueprints.xml.append:4748
+#: src-en/data/blueprints.xml.append:4634
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/desc"
 msgstr ""
 "Этот корабль использует стыковочный бур, чтобы ваш экипаж мог мгновенно "
 "попасть на вражеский корабль и покинуть его."
 
-#: src-en/data/blueprints.xml.append:4825
+#: src-en/data/blueprints.xml.append:4711
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/title"
 msgstr "Чудо-дрон+ (ТМ)"
 
-#: src-en/data/blueprints.xml.append:4826
+#: src-en/data/blueprints.xml.append:4712
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/short"
 msgstr "Чудо-дрон+"
 
-#: src-en/data/blueprints.xml.append:4827
+#: src-en/data/blueprints.xml.append:4713
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/desc"
 msgstr ""
 "Модернизированный вариант Чудо-дрона, способный питать все 4 вида оружия "
 "одновременно: ракетницу, ионы, луч и лазер."
 
-#: src-en/data/blueprints.xml.append:4842
+#: src-en/data/blueprints.xml.append:4728
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DRONE_BEAM_COMBAT\"]/title"
 msgstr "Лучевой дрон"
 
-#: src-en/data/blueprints.xml.append:4861
+#: src-en/data/blueprints.xml.append:4747
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/title"
 msgstr "Импульсный дрон мод. I"
 
-#: src-en/data/blueprints.xml.append:4862
+#: src-en/data/blueprints.xml.append:4748
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/short"
 msgstr "Имп. дрон I"
 
-#: src-en/data/blueprints.xml.append:4863
+#: src-en/data/blueprints.xml.append:4749
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/desc"
 msgstr ""
 "Модернизированный вариант Чудо-дрона, способный питать все 4 вида оружия "
 "одновременно: ракетницу, ионы, луч и лазер."
 
-#: src-en/data/blueprints.xml.append:4878
+#: src-en/data/blueprints.xml.append:4764
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DRONE_BEAM_COMBAT2\"]/title"
 msgstr "Лучевой дрон"
 
-#: src-en/data/blueprints.xml.append:4897
+#: src-en/data/blueprints.xml.append:4783
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/title"
 msgstr "Динамическая артиллерия"
 
-#: src-en/data/blueprints.xml.append:4898
+#: src-en/data/blueprints.xml.append:4784
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/short"
 msgstr "Артиллерия"
 
-#: src-en/data/blueprints.xml.append:4899
+#: src-en/data/blueprints.xml.append:4785
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/desc"
 msgstr ""
 "[Базовая перезарядка: 20] По умолчанию выпускает 2 лазера, наносящих по 1 "
 "урону каждый."
 
-#: src-en/data/blueprints.xml.append:4930
+#: src-en/data/blueprints.xml.append:4816
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/class"
 msgstr "Элитный резак ученых"
 
-#: src-en/data/blueprints.xml.append:4931
+#: src-en/data/blueprints.xml.append:4817
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/name"
 msgstr "МКС"
 
-#: src-en/data/blueprints.xml.append:4933
+#: src-en/data/blueprints.xml.append:4819
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/desc"
 msgstr "Удачи, капитан."
 
-#: src-en/data/blueprints.xml.append:5006
+#: src-en/data/blueprints.xml.append:4892
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_HIGH_WEAPON\"]/title"
 msgstr "Высокомощное оружие"
 
-#: src-en/data/blueprints.xml.append:5007
+#: src-en/data/blueprints.xml.append:4893
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_HIGH_WEAPON\"]/desc"
 msgstr ""
-"Оружейные крепления на этом корабле специально разработаны для орудий, "
-"потребляющего 4 и более энергии, а для этого орудиям требуется всего 2 "
-"энергии.\n"
-"Орудия, потребляющее 2 энергии или меньше, не будут работать в слотах. "
-"Орудия мощностью 3 энергии работают как обычно."
+"Оружейные крепления на этом корабле специально разработаны для орудий, потребляющего 4 и более энергии, а для этого орудиям требуется всего 2 энергии.\n"
+"Орудия, потребляющее 2 энергии или меньше, не будут работать в слотах. Орудия мощностью 3 энергии работают как обычно."
 
-#: src-en/data/blueprints.xml.append:5015
+#: src-en/data/blueprints.xml.append:4901
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_RANDOM\"]/title"
 msgstr "Супер генератор помех"
 
-#: src-en/data/blueprints.xml.append:5016
+#: src-en/data/blueprints.xml.append:4902
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_RANDOM\"]/desc"
 msgstr "Заменяет все ваше оружие, экипаж и дронов каждый бой."
 
-#: src-en/data/blueprints.xml.append:5024
+#: src-en/data/blueprints.xml.append:4910
+msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[55]/title"
+msgstr "Установщик бомбы с таймером"
+
+#: src-en/data/blueprints.xml.append:4911
+msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[55]/short"
+msgstr "Установщик бомб"
+
+#: src-en/data/blueprints.xml.append:4912
+msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[55]/desc"
+msgstr "Каждый раз, когда он заряжается, он создает одну бомбу с таймером."
+
+#: src-en/data/blueprints.xml.append:4931
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/title"
 msgstr "Установщик бомбы с таймером"
 
-#: src-en/data/blueprints.xml.append:5025
+#: src-en/data/blueprints.xml.append:4932
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/short"
 msgstr "Установщик бомб"
 
-#: src-en/data/blueprints.xml.append:5026
+#: src-en/data/blueprints.xml.append:4933
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/desc"
 msgstr "Каждый раз, когда он заряжается, он создает одну бомбу с таймером."
 
-#: src-en/data/blueprints.xml.append:5045
-msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[57]/title"
-msgstr "Установщик бомбы с таймером"
-
-#: src-en/data/blueprints.xml.append:5046
-msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[57]/short"
-msgstr "Установщик бомб"
-
-#: src-en/data/blueprints.xml.append:5047
-msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[57]/desc"
-msgstr "Каждый раз, когда он заряжается, он создает одну бомбу с таймером."
-
-#: src-en/data/blueprints.xml.append:5078
+#: src-en/data/blueprints.xml.append:4964
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/title"
 msgstr "Фабрика бомб с таймером"
 
-#: src-en/data/blueprints.xml.append:5079
+#: src-en/data/blueprints.xml.append:4965
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/short"
 msgstr "Фабрика бомб с таймером"
 
-#: src-en/data/blueprints.xml.append:5080
+#: src-en/data/blueprints.xml.append:4966
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/desc"
 msgstr ""
 "[Базовая перезарядка: 20] \n"
 "Каждый раз, когда заряжается, создает еще одну бомбу с таймером."
 
-#: src-en/data/blueprints.xml.append:5083
+#: src-en/data/blueprints.xml.append:4969
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/tooltip"
 msgstr "При каждой зарядке создает новую бомбу с таймером."
 
-#: src-en/data/blueprints.xml.append:5100
+#: src-en/data/blueprints.xml.append:4986
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/title"
 msgstr "Вторая фабрика бомб"
 
-#: src-en/data/blueprints.xml.append:5101
+#: src-en/data/blueprints.xml.append:4987
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/short"
 msgstr "Вторая фабрика бомб"
 
-#: src-en/data/blueprints.xml.append:5102
+#: src-en/data/blueprints.xml.append:4988
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/desc"
 msgstr ""
 "[Базовая перезарядка: 20] \n"
 "Каждый раз, когда заряжается, создает еще одну бомбу с таймером."
 
-#: src-en/data/blueprints.xml.append:5105
+#: src-en/data/blueprints.xml.append:4991
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/tooltip"
 msgstr "При каждой зарядке создает новую бомбу с таймером."
 
-#: src-en/data/blueprints.xml.append:5121
+#: src-en/data/blueprints.xml.append:5007
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/title"
 msgstr "Ходячая бомба с таймером"
 
-#: src-en/data/blueprints.xml.append:5122
+#: src-en/data/blueprints.xml.append:5008
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/short"
 msgstr "Ходячая бомба с таймером"
 
-#: src-en/data/blueprints.xml.append:5123
+#: src-en/data/blueprints.xml.append:5009
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/desc"
 msgstr ""
 "Когда эта бомба взрывается, она наносит 1 урон корпусу, 1 урон системе и 30 "
 "урона экипажу с 50% вероятностью создать пробоину."
 
-#: src-en/data/blueprints.xml.append:5126
+#: src-en/data/blueprints.xml.append:5012
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[1]"
 msgstr "0.5x боевой урон"
 
-#: src-en/data/blueprints.xml.append:5127
+#: src-en/data/blueprints.xml.append:5013
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[2]"
 msgstr "0.5x скорость передвижения."
 
-#: src-en/data/blueprints.xml.append:5128
+#: src-en/data/blueprints.xml.append:5014
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[3]"
 msgstr "Невосприимчива к удушью, получает 0.2х урон от огня."
 
-#: src-en/data/blueprints.xml.append:5129
+#: src-en/data/blueprints.xml.append:5015
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[4]"
 msgstr "Взрывается через 10 секунд."
 
-#: src-en/data/blueprints.xml.append:5130
+#: src-en/data/blueprints.xml.append:5016
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[5]"
 msgstr ""
 "Взрыв наносит 1 урон корпусу, 1 урон системе и 30 урона экипажу с 50% "
 "вероятностью создать пробоину."
 
-#: src-en/data/blueprints.xml.append:5136
+#: src-en/data/blueprints.xml.append:5022
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/title"
 msgstr "Ходячая бомба с таймером"
 
-#: src-en/data/blueprints.xml.append:5137
+#: src-en/data/blueprints.xml.append:5023
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/short"
 msgstr "Ходячая бомба с таймером"
 
-#: src-en/data/blueprints.xml.append:5138
+#: src-en/data/blueprints.xml.append:5024
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/desc"
 msgstr ""
 "Когда эта бомба взрывается, она наносит 2 урон корпусу, 2 урон системе и 60 "
 "урона экипажу с 100% вероятностью создать пробоину."
 
-#: src-en/data/blueprints.xml.append:5141
+#: src-en/data/blueprints.xml.append:5027
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[1]"
 msgstr "0.5x боевой урон"
 
-#: src-en/data/blueprints.xml.append:5142
+#: src-en/data/blueprints.xml.append:5028
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[2]"
 msgstr "0.5x скорость передвижения."
 
-#: src-en/data/blueprints.xml.append:5143
+#: src-en/data/blueprints.xml.append:5029
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[3]"
 msgstr "Невосприимчива к удушью, получает 0.2х урон от огня."
 
-#: src-en/data/blueprints.xml.append:5144
+#: src-en/data/blueprints.xml.append:5030
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[4]"
 msgstr "Получает 1 ОЗ/с урона, находясь за пределами отсека фабрики."
 
-#: src-en/data/blueprints.xml.append:5145
+#: src-en/data/blueprints.xml.append:5031
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[5]"
 msgstr "Исцеляется на 1 ОЗ/с, пока находится в отсеке фабрики."
 
-#: src-en/data/blueprints.xml.append:5146
+#: src-en/data/blueprints.xml.append:5032
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[6]"
 msgstr ""
 "Взрывается через 10 секунд после выхода из отсека фабрики, взрыв отменяется "
 "смертью."
 
-#: src-en/data/blueprints.xml.append:5147
+#: src-en/data/blueprints.xml.append:5033
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[7]"
 msgstr ""
 "Взрыв наносит 2 урона корпусу, 2 урона системе и 60 урона экипажу с 100% "
 "вероятностью создать пробоину."
 
-#: src-en/data/blueprints.xml.append:5153
+#: src-en/data/blueprints.xml.append:5039
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/title"
 msgstr "Ходячая бомба с таймером"
 
-#: src-en/data/blueprints.xml.append:5154
+#: src-en/data/blueprints.xml.append:5040
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/short"
 msgstr "Ходячая бомба с таймером"
 
-#: src-en/data/blueprints.xml.append:5155
+#: src-en/data/blueprints.xml.append:5041
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/desc"
 msgstr ""
 "Когда эта бомба взрывается, она наносит 2 урона корпусу, 2 урона системе и "
 "30 урона экипажу с 50% вероятностью создать пробоину."
 
-#: src-en/data/blueprints.xml.append:5158
+#: src-en/data/blueprints.xml.append:5044
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[1]"
 msgstr "0.5x боевой урон"
 
-#: src-en/data/blueprints.xml.append:5159
+#: src-en/data/blueprints.xml.append:5045
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[2]"
 msgstr "0.5x скорость передвижения."
 
-#: src-en/data/blueprints.xml.append:5160
+#: src-en/data/blueprints.xml.append:5046
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[3]"
 msgstr "Невосприимчива к удушью, получает 0.2х урон от огня."
 
-#: src-en/data/blueprints.xml.append:5161
+#: src-en/data/blueprints.xml.append:5047
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[4]"
 msgstr "Получает 1 ОЗ/с урона, находясь за пределами отсека фабрики."
 
-#: src-en/data/blueprints.xml.append:5162
+#: src-en/data/blueprints.xml.append:5048
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[5]"
 msgstr "Исцеляется на 1 ОЗ/с, пока находится в отсеке фабрики."
 
-#: src-en/data/blueprints.xml.append:5163
+#: src-en/data/blueprints.xml.append:5049
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[6]"
 msgstr "Взрывается по команде, а также после смерти."
 
-#: src-en/data/blueprints.xml.append:5164
+#: src-en/data/blueprints.xml.append:5050
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[7]"
 msgstr ""
 "Взрыв наносит 2 урона корпусу, 1 урон системе и 30 урона экипажу с 50% "
 "вероятностью создать пробоину."
 
-#: src-en/data/blueprints.xml.append:5170
+#: src-en/data/blueprints.xml.append:5056
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/title"
 msgstr "Ходячая бомба с таймером"
 
-#: src-en/data/blueprints.xml.append:5171
+#: src-en/data/blueprints.xml.append:5057
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/short"
 msgstr "Ходячая бомба с таймером"
 
-#: src-en/data/blueprints.xml.append:5172
+#: src-en/data/blueprints.xml.append:5058
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/desc"
 msgstr ""
 "Когда эта бомба взрывается, она наносит 1 урон системе и 15 урона экипажу с "
 "100% вероятностью поджога."
 
-#: src-en/data/blueprints.xml.append:5175
+#: src-en/data/blueprints.xml.append:5061
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[1]"
 msgstr "0.5x боевой урон"
 
-#: src-en/data/blueprints.xml.append:5176
+#: src-en/data/blueprints.xml.append:5062
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[2]"
 msgstr "Невосприимчива к удушью и огню."
 
-#: src-en/data/blueprints.xml.append:5177
+#: src-en/data/blueprints.xml.append:5063
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[3]"
 msgstr "Получает 1 ОЗ/с урона, находясь за пределами отсека фабрики."
 
-#: src-en/data/blueprints.xml.append:5178
+#: src-en/data/blueprints.xml.append:5064
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[4]"
 msgstr "Исцеляется на 1 ОЗ/с, пока находится в отсеке фабрики."
 
-#: src-en/data/blueprints.xml.append:5179
+#: src-en/data/blueprints.xml.append:5065
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[5]"
 msgstr ""
 "Взрывается через 10 секунд после выхода из отсека фабрики, взрыв отменяется "
 "смертью."
 
-#: src-en/data/blueprints.xml.append:5180
+#: src-en/data/blueprints.xml.append:5066
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[6]"
 msgstr ""
 "Взрыв наносит 1 урон системе и 15 урона экипажу с 100% вероятностью пожара."
 
-#: src-en/data/blueprints.xml.append:5186
+#: src-en/data/blueprints.xml.append:5072
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/class"
 msgstr "Минный крейсер"
 
-#: src-en/data/blueprints.xml.append:5187
+#: src-en/data/blueprints.xml.append:5073
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/name"
 msgstr "Минное поле"
 
-#: src-en/data/blueprints.xml.append:5188
+#: src-en/data/blueprints.xml.append:5074
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/desc"
 msgstr ""
 "Говорят, что этот корабль был реквизирован пиратом, которому надоело ждать, "
 "пока кто-нибудь забредет на минное поле..."
 
-#: src-en/data/blueprints.xml.append:5259
+#: src-en/data/blueprints.xml.append:5145
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY\"]/title"
 msgstr "СКРЫТАЯ ФАБРИКА ДРОНОВ"
 
-#: src-en/data/blueprints.xml.append:5260
+#: src-en/data/blueprints.xml.append:5146
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
-#: src-en/data/blueprints.xml.append:5267
+#: src-en/data/blueprints.xml.append:5153
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY_2\"]/title"
 msgstr "СКРЫТАЯ ФАБРИКА ДРОНОВ"
 
-#: src-en/data/blueprints.xml.append:5268
+#: src-en/data/blueprints.xml.append:5154
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY_2\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
-#: src-en/data/blueprints.xml.append:5275
+#: src-en/data/blueprints.xml.append:5161
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MISSILE_BOMBS\"]/title"
 msgstr "Вторичные боеголовки"
 
-#: src-en/data/blueprints.xml.append:5276
+#: src-en/data/blueprints.xml.append:5162
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MISSILE_BOMBS\"]/desc"
 msgstr ""
-"Мы убрали часть бесполезного электронного хлама и засунули туда одну из этих "
-"ходячих бомб с таймером. Теперь все ваши ракетницы и бомбы будут порождать "
+"Мы убрали часть бесполезного электронного хлама и засунули туда одну из этих"
+" ходячих бомб с таймером. Теперь все ваши ракетницы и бомбы будут порождать "
 "бомбу с таймером, которая наносит 1 урон корпусу, 1 урон системе и 30 урона "
 "экипажу через 10 секунд."
 
-#: src-en/data/blueprints.xml.append:5283
+#: src-en/data/blueprints.xml.append:5169
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/class"
 msgstr "Крейсер с полезной нагрузкой"
 
-#: src-en/data/blueprints.xml.append:5284
+#: src-en/data/blueprints.xml.append:5170
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/name"
 msgstr "Гаубица"
 
-#: src-en/data/blueprints.xml.append:5285
+#: src-en/data/blueprints.xml.append:5171
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/desc"
 msgstr ""
 "Тяжелый ракетный крейсер, созданный для того, чтобы сеять хаос среди "
-"вражеского экипажа, с дополнительной полезной нагрузкой в виде ходячих бомб, "
-"установленных в каждой боеголовке."
+"вражеского экипажа, с дополнительной полезной нагрузкой в виде ходячих бомб,"
+" установленных в каждой боеголовке."
 
-#: src-en/data/blueprints.xml.append:5358
+#: src-en/data/blueprints.xml.append:5244
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/class"
 msgstr "Минный крейсер"
 
-#: src-en/data/blueprints.xml.append:5359
+#: src-en/data/blueprints.xml.append:5245
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/name"
 msgstr "Минный разрушитель"
 
-#: src-en/data/blueprints.xml.append:5360
+#: src-en/data/blueprints.xml.append:5246
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/desc"
 msgstr ""
-"Способен выдержать почти беспрецедентный уровень разрушений. Этот корабль не "
-"способен установить орудия, но они ему и не нужны, когда спаренные фабрики "
+"Способен выдержать почти беспрецедентный уровень разрушений. Этот корабль не"
+" способен установить орудия, но они ему и не нужны, когда спаренные фабрики "
 "дронов могут создать столько мин."
 
-#: src-en/data/blueprints.xml.append:5426
+#: src-en/data/blueprints.xml.append:5310
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"ARC_SUPER_HULL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5320
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/title"
 msgstr "Экспериментальный минер"
 
-#: src-en/data/blueprints.xml.append:5427
+#: src-en/data/blueprints.xml.append:5321
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/short"
 msgstr "Эксп. Мин."
 
-#: src-en/data/blueprints.xml.append:5428
+#: src-en/data/blueprints.xml.append:5322
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/desc"
 msgstr ""
-"Минометы быстро заряжаются и выпускают серию медленно движущихся снарядов, "
-"которые специально разработаны для установки самоходных мин, способных "
-"перемещаться по вражескому кораблю для его уничтожения. Также служат "
-"эффективным средством создания ловушек для флота.\n"
+"Минометы быстро заряжаются и выпускают серию медленно движущихся снарядов, которые специально разработаны для установки самоходных мин, способных перемещаться по вражескому кораблю для его уничтожения. Также служат эффективным средством создания ловушек для флота.\n"
 "\t\n"
 "\tМожет задержать флот на 2 прыжка за 13 боеголовок на пустых маяках."

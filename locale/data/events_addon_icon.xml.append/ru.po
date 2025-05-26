@@ -1,0 +1,79 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_addon_icon.xml.append:3
+msgid ""
+"data/events_addon_icon.xml.append$//event[@name=\"ADDON_AEA_DISABLED\"]/hover-"
+"text"
+msgstr ""
+
+#: src-en/data/events_addon_icon.xml.append:5
+msgid ""
+"data/events_addon_icon.xml.append$//event[@name=\"ADDON_AEA_DISABLED\"]/text"
+msgstr ""
+
+#: src-en/data/events_addon_icon.xml.append:14
+msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_RAD\"]/hover-text"
+msgstr ""
+
+#: src-en/data/events_addon_icon.xml.append:16
+msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_RAD\"]/text"
+msgstr ""
+"R&D\n"
+"Разработчик: Arc\n"
+"В настоящее время отключен.\n"
+"\n"
+"Аддон, созданный на основе использования Lua для создания забавных и уникальных фишек. В него входят различные корабли, оружие, экипаж, дроны и квесты, хотя они и не совсем сбалансированы, все они пытаются представить и сосредоточиться на уникальных фишках, которых вы не найдете в оригинальном МВ.\n"
+"\n"
+"Чтобы включить R&D, зайдите на форумы Multiverse и посетите раздел аддонов!"
+
+#: src-en/data/events_addon_icon.xml.append:25
+msgid ""
+"data/events_addon_icon.xml.append$//event[@name=\"ADDON_FISH_DISABLED\"]/hover-"
+"text"
+msgstr ""
+
+#: src-en/data/events_addon_icon.xml.append:27
+msgid ""
+"data/events_addon_icon.xml.append$//event[@name=\"ADDON_FISH_DISABLED\"]/text"
+msgstr ""
+"FTL: FISHIER THAN LIGHT\n"
+"Разработчик: Arc\n"
+"В настоящее время отключен.\n"
+"      \n"
+"FTL рыбалка, что еще нужно сказать. Более 60 рыб, каждая из которых имеет уникальные применения и эффекты.\n"
+"      \n"
+"Чтобы включить Fishier Than Light, зайдите на форумы Multiverse и посетите раздел аддонов!"
+
+#: src-en/data/events_addon_icon.xml.append:36
+msgid ""
+"data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRADE_DISABLED\"]/hover-"
+"text"
+msgstr ""
+
+#: src-en/data/events_addon_icon.xml.append:38
+msgid ""
+"data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRADE_DISABLED\"]/text"
+msgstr ""
+
+#: src-en/data/events_addon_icon.xml.append:47
+msgid ""
+"data/events_addon_icon.xml.append$//event[@name=\"ADDON_GOF_DISABLED\"]/hover-"
+"text"
+msgstr ""
+
+#: src-en/data/events_addon_icon.xml.append:49
+msgid ""
+"data/events_addon_icon.xml.append$//event[@name=\"ADDON_GOF_DISABLED\"]/text"
+msgstr ""
+"FTL: GALAXY ON FIRE\n"
+"Разработчик: Arc\n"
+"В настоящее время отключен.\n"
+"        \n"
+"Добавляет 3 корабля, 40 новых видов оружия, 2 новых члена экипажа и 1 новое событие, основанное на франшизе \"Galaxy on fire\". Все оружие работает совершенно новыми, невиданными ранее способами, используя совершенно новые функции Lua.\n"
+"        \n"
+"Чтобы включить Galaxy On Fire, зайдите на форумы Multiverse и посетите раздел аддонов!"

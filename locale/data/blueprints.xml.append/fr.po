@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 12:32+0000\n"
+"PO-Revision-Date: 2025-05-26 13:58+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/fr/>\n"
@@ -467,6 +467,7 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FLESH_HULL\"]/title"
 msgstr "Revêtement de coque organique"
 
 #: src-en/data/blueprints.xml.append:885
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FLESH_HULL\"]/desc"
 msgstr ""
 "Grâce à une bio-ingénierie avancée, votre coque est capable de se réparer "

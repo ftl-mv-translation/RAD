@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-26 12:32+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataevents_sector_rad_sciencexml/ru/>\n"
 "Language: ru\n"
@@ -198,8 +198,7 @@ msgid ""
 msgstr ""
 "Вы замечаете, что неподалеку дрейфует мина, а за ней еще несколько. "
 "Большинство из них, если не все, неактивны, вероятно, они остались после "
-"каких-то учений. К счастью, это означает, что их можно с легкостью "
-"разобрать."
+"каких-то учений. К счастью, это означает, что их можно с легкостью разобрать."
 
 #: src-en/data/events_sector_rad_science.xml:179
 msgid ""

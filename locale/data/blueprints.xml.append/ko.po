@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-26 12:32+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/rad/"
+"datablueprintsxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
@@ -1399,8 +1406,8 @@ msgstr "Burst IV"
 #: src-en/data/blueprints.xml.append:3853
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SCIENCE_LOOT\"]/desc"
-msgstr ""
-"최강의 점사형 레이저입니다. 일반 함선엔 판매되지 않지만, 그 어떤 레이저 무기보다도 강력한 레이저 세례를 퍼부을 수 있습니다."
+msgstr "최강의 점사형 레이저입니다. 일반 함선엔 판매되지 않지만, 그 어떤 레이저 "
+"무기보다도 강력한 레이저 세례를 퍼부을 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:3889
 msgid ""

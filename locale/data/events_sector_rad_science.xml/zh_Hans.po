@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-26 12:33+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/rad/dataevents_sector_rad_sciencexml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_rad_science.xml:28
 msgid ""
@@ -163,7 +170,8 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:178
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"RAD_SCIENCE_FREE_DRONES\"]/text[2]"
-msgstr "你注意到附近飘荡着一颗空雷，周围还有更多。大多应该未被激活，可能是很久之前军事训练的遗留物。幸运的是，这意味着你应该能轻松地搜刮一番。"
+msgstr "你注意到附近飘荡着一颗空雷，周围还有更多。大多应该未被激活，可能是很久之前军"
+"事训练的遗留物。幸运的是，这意味着你应该能轻松地搜刮一番。"
 
 #: src-en/data/events_sector_rad_science.xml:179
 msgid ""
@@ -329,7 +337,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:345
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[1]"
-msgstr "“你的杀戮欲…总有一天会成为你的致命弱点，变元者。你只证明了…联邦相比叛军…好不到哪去…”"
+msgstr "“你的杀戮欲…总有一天会成为你的致命弱点，变元者。你只证明了…联邦相比叛军…好不"
+"到哪去…”"
 
 #: src-en/data/events_sector_rad_science.xml:346
 msgid ""
@@ -401,7 +410,8 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:385
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_CAPTURE_RAD_SCIENCE\"]/text"
-msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你处置。船上就是预想当中的特殊科技，你将它带回星舰。"
+msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你处置。船上就是预想当中的特殊"
+"科技，你将它带回星舰。"
 
 #: src-en/data/events_sector_rad_science.xml:398
 msgid ""
@@ -1067,7 +1077,9 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:1017
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[1]"
-msgstr "\"神军永远不败！联邦的结局只会是灭亡！\"你无法理解这句话是如何从一个仅为了防守星区就滥杀平民的人嘴中说出的，但若是叛军要战，那便战。"
+msgstr "\"神军永远不败！联邦的结局只会是灭亡！\""
+"你无法理解这句话是如何从一个仅为了防守星区就滥杀平民的人嘴中说出的，但若是叛"
+"军要战，那便战。"
 
 #: src-en/data/events_sector_rad_science.xml:1018
 msgid ""

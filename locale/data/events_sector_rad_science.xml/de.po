@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-26 11:34+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://weblate.hyperq.be/projects/rad/"
+"dataevents_sector_rad_sciencexml/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_rad_science.xml:28
 msgid ""
@@ -261,8 +268,7 @@ msgstr "Nichts tun."
 #: src-en/data/events_sector_rad_science.xml:284
 msgid ""
 "data/events_sector_rad_science.xml$//ship[@name=\"SHIP_RAD_SCIENCE_TRANSPORT\"]/escape/text"
-msgstr ""
-"Es scheint nicht, als ob sie kämpfen wollen. Sie versuchen zu fliehen."
+msgstr "Es scheint nicht, als ob sie kämpfen wollen. Sie versuchen zu fliehen."
 
 #: src-en/data/events_sector_rad_science.xml:302
 msgid ""

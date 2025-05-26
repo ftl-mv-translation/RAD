@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-26 12:32+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -2318,8 +2318,7 @@ msgstr "Déployeur de bombes"
 #: src-en/data/blueprints.xml.append:4912
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[55]/desc"
 msgstr ""
-"Chaque fois qu'il se recharge, il construit une nouvelle bombe à "
-"retardement."
+"Chaque fois qu'il se recharge, il construit une nouvelle bombe à retardement."
 
 #: src-en/data/blueprints.xml.append:4931
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/title"

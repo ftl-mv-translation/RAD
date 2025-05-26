@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 13:58+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-05-27 14:49+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "dataevents_addon_iconxmlappend/ru/>\n"
 "Language: ru\n"
@@ -18,15 +18,28 @@ msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_AEA_DISABLED\"]/hover-"
 "text"
 msgstr ""
+"The Outer Expansion \n"
+"\tНажмите, чтобы увидеть больше информации."
 
 #: src-en/data/events_addon_icon.xml.append:5
 msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_AEA_DISABLED\"]/text"
 msgstr ""
+"FTL: The Outer Expansion\n"
+"Разработчик: Arc\n"
+"В настоящее время отключено.\n"
+"        \n"
+"На данный момент, один из самых больших аддонов, добавляющий множество новых "
+"рас, экипажей, кораблей, секторов и многое другое.\n"
+"        \n"
+"Чтобы включить The Outer Expansion, зайдите на форумы Multiverse и посетите "
+"раздел аддонов!"
 
 #: src-en/data/events_addon_icon.xml.append:14
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_RAD\"]/hover-text"
 msgstr ""
+"R&D\n"
+"\tНажмите, чтобы увидеть больше информации."
 
 #: src-en/data/events_addon_icon.xml.append:16
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_RAD\"]/text"
@@ -48,6 +61,8 @@ msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_FISH_DISABLED\"]/hover-"
 "text"
 msgstr ""
+"FTL: FISHIER THAN LIGHT\n"
+"\tНажмите, чтобы увидеть больше информации."
 
 #: src-en/data/events_addon_icon.xml.append:27
 #, fuzzy
@@ -69,17 +84,30 @@ msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRADE_DISABLED\"]/hover-"
 "text"
 msgstr ""
+"FTL: TRADING\n"
+"\tНажмите, чтобы увидеть больше информации."
 
 #: src-en/data/events_addon_icon.xml.append:38
 msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRADE_DISABLED\"]/text"
 msgstr ""
+"FTL: TRADING\n"
+"Разработчик: Arc\n"
+"В настоящее время отключено.\n"
+"        \n"
+"Добавляет глубокую систему торговли, которая позволяет принимать разумные "
+"финансовые решения и генерировать лом менее опасным способом.\n"
+"        \n"
+"Чтобы включить Trading, зайдите на форумы Multiverse и посетите раздел "
+"аддонов!"
 
 #: src-en/data/events_addon_icon.xml.append:47
 msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_GOF_DISABLED\"]/hover-"
 "text"
 msgstr ""
+"FTL: GALAXY ON FIRE\n"
+"\tНажмите, чтобы увидеть больше информации."
 
 #: src-en/data/events_addon_icon.xml.append:49
 #, fuzzy

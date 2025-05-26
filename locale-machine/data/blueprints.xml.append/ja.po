@@ -232,107 +232,107 @@ msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_GATLING\"]/desc"
 msgstr ""
 "この武器は、実際には過熱したペレットを樽に積み込み、ペレットをプラズマに変えます。残念ながら、冷却システムはむしろ不足しており、長期間の発砲に対処できません。"
 
-#: src-en/data/blueprints.xml.append:425
+#: src-en/data/blueprints.xml.append:429
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY\"]/title"
 msgstr "科学適応レーザー"
 
-#: src-en/data/blueprints.xml.append:426
+#: src-en/data/blueprints.xml.append:430
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY\"]/short"
 msgstr "科学A-l。"
 
-#: src-en/data/blueprints.xml.append:428
+#: src-en/data/blueprints.xml.append:432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY\"]/desc"
 msgstr "状況に適応するレーザー武器は、2つのボレーショットごとにダメージを増やします。"
 
-#: src-en/data/blueprints.xml.append:470
+#: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY_OFFSET\"]/title"
 msgstr "科学適応レーザー"
 
-#: src-en/data/blueprints.xml.append:471
+#: src-en/data/blueprints.xml.append:474
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY_OFFSET\"]/short"
 msgstr "科学A-l。"
 
-#: src-en/data/blueprints.xml.append:473
+#: src-en/data/blueprints.xml.append:476
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY_OFFSET\"]/desc"
 msgstr "状況に適応するレーザー武器は、2つのボレーショットごとにダメージを増やします。"
 
-#: src-en/data/blueprints.xml.append:514
+#: src-en/data/blueprints.xml.append:517
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE\"]/title"
 msgstr "科学適応レーザー"
 
-#: src-en/data/blueprints.xml.append:515
+#: src-en/data/blueprints.xml.append:518
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE\"]/short"
 msgstr "科学A-l。"
 
-#: src-en/data/blueprints.xml.append:517
+#: src-en/data/blueprints.xml.append:520
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE\"]/desc"
 msgstr "状況に適応するレーザー武器は、2つのボレーショットごとにダメージを増やします。"
 
-#: src-en/data/blueprints.xml.append:559
+#: src-en/data/blueprints.xml.append:562
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_0\"]/title"
 msgstr "バーストビーム発射体"
 
-#: src-en/data/blueprints.xml.append:560
+#: src-en/data/blueprints.xml.append:563
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_0\"]/short"
 msgstr "バーストビーム発射体"
 
-#: src-en/data/blueprints.xml.append:561
+#: src-en/data/blueprints.xml.append:564
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_0\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:593
+#: src-en/data/blueprints.xml.append:596
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_1\"]/title"
 msgstr "バーストビーム発射体"
 
-#: src-en/data/blueprints.xml.append:594
+#: src-en/data/blueprints.xml.append:597
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_1\"]/short"
 msgstr "バーストビーム発射体"
 
-#: src-en/data/blueprints.xml.append:595
+#: src-en/data/blueprints.xml.append:598
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:628
+#: src-en/data/blueprints.xml.append:631
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHT_BEAM\"]/title"
 msgstr "軽いピンポイント"
 
-#: src-en/data/blueprints.xml.append:629
+#: src-en/data/blueprints.xml.append:632
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHT_BEAM\"]/short"
 msgstr "軽いピンポイント"
 
-#: src-en/data/blueprints.xml.append:630
+#: src-en/data/blueprints.xml.append:633
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHT_BEAM\"]/desc"
 msgstr "このビームは、シールドをポップする短い低電力ビームを発射することにより、より効率的に電力を使用します。"
 
-#: src-en/data/blueprints.xml.append:660
+#: src-en/data/blueprints.xml.append:661
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_1\"]/title"
 msgstr "バーストピンポイントマークi"
 
-#: src-en/data/blueprints.xml.append:661
+#: src-en/data/blueprints.xml.append:662
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_1\"]/short"
 msgstr "バーストピンI"
 
-#: src-en/data/blueprints.xml.append:662
+#: src-en/data/blueprints.xml.append:663
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_1\"]/desc"
 msgstr "このビームは、ポップシールドを使用する複数の短い低電力ビームを発射することにより、より効率的に電力を使用します。"
@@ -352,125 +352,86 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_2\"]/desc"
 msgstr "このビームは、ポップシールドを使用する複数の短い低電力ビームを発射することにより、より効率的に電力を使用します。"
 
-#: src-en/data/blueprints.xml.append:724
+#: src-en/data/blueprints.xml.append:723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_3\"]/title"
 msgstr "バーストピンポイントマークIII"
 
-#: src-en/data/blueprints.xml.append:725
+#: src-en/data/blueprints.xml.append:724
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_3\"]/short"
 msgstr "バーストピンIII"
 
-#: src-en/data/blueprints.xml.append:726
+#: src-en/data/blueprints.xml.append:725
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_3\"]/desc"
 msgstr "このビームは、ポップシールドを使用する複数の短い低電力ビームを発射することにより、より効率的に電力を使用します。"
 
-#: src-en/data/blueprints.xml.append:756
+#: src-en/data/blueprints.xml.append:753
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_COMBINER\"]/title"
 msgstr "マルチレーザー"
 
-#: src-en/data/blueprints.xml.append:757
+#: src-en/data/blueprints.xml.append:754
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_COMBINER\"]/short"
 msgstr "マルチレーザー"
 
-#: src-en/data/blueprints.xml.append:758
+#: src-en/data/blueprints.xml.append:755
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_COMBINER\"]/desc"
 msgstr "このレーザーは、実際には1つのバレルに押し込まれた複数のレーザーです。"
 
-#: src-en/data/blueprints.xml.append:801
+#: src-en/data/blueprints.xml.append:798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART\"]/title"
 msgstr "スマートレーザー"
 
-#: src-en/data/blueprints.xml.append:802
+#: src-en/data/blueprints.xml.append:799
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART\"]/short"
 msgstr "スマートレーザー"
 
-#: src-en/data/blueprints.xml.append:803
+#: src-en/data/blueprints.xml.append:800
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART\"]/desc"
 msgstr ""
 "この武器には、ターゲティングコントロールを手から外すAIが組み込まれています。シールド、次に武器、次にパイロット/エンジンを削除することを優先し、その後、指定された部屋をターゲットにします。"
 
-#: src-en/data/blueprints.xml.append:842
+#: src-en/data/blueprints.xml.append:839
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART_ENEMY\"]/title"
 msgstr "スマートレーザー"
 
-#: src-en/data/blueprints.xml.append:843
+#: src-en/data/blueprints.xml.append:840
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART_ENEMY\"]/short"
 msgstr "スマートレーザー"
 
-#: src-en/data/blueprints.xml.append:844
+#: src-en/data/blueprints.xml.append:841
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART_ENEMY\"]/desc"
 msgstr ""
 "この武器には、ターゲティングコントロールを手から外すAIが組み込まれています。シールド、次に武器、次にパイロット/エンジンを削除することを優先し、その後、指定された部屋をターゲットにします。"
 
-#: src-en/data/blueprints.xml.append:879
-msgid ""
-"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RADLAB_1\"]/class"
-msgstr "R＆D研究所"
-
-#: src-en/data/blueprints.xml.append:880
-msgid ""
-"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RADLAB_1\"]/name"
-msgstr "ステーション37-A"
-
-#: src-en/data/blueprints.xml.append:881
-msgid ""
-"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RADLAB_1\"]/desc"
-msgstr ""
-"重く修正された民間局。科学者たちは、それにエンジンのペアをインストールしました。しかし、彼らはステーションのジャンプを可能にするのにかろうじて十分です。あなたがそれで多くをかわすことができることはまずありません。"
-
-#: src-en/data/blueprints.xml.append:953
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_COATING\"]/title"
-msgstr "sh散弾コーティング"
-
-#: src-en/data/blueprints.xml.append:954
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_COATING\"]/desc"
-msgstr "1つの武器または武器クラスの弾薬にsh散弾コーティングを適用して、隣接する部屋にその武器1システムの損傷を許可することができます。"
-
-#: src-en/data/blueprints.xml.append:961
+#: src-en/data/blueprints.xml.append:876
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_JUMP_TRACKER\"]/title"
 msgstr "ジャンプトレーサー"
 
-#: src-en/data/blueprints.xml.append:962
+#: src-en/data/blueprints.xml.append:877
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_JUMP_TRACKER\"]/desc"
 msgstr "高度なセンサーと科学を使用することにより、このデバイスにより、船は特定の船のジャンプを追跡できます。"
 
-#: src-en/data/blueprints.xml.append:969
+#: src-en/data/blueprints.xml.append:884
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FLESH_HULL\"]/title"
 msgstr "肉の船体メッキ"
 
-#: src-en/data/blueprints.xml.append:970
+#: src-en/data/blueprints.xml.append:885
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FLESH_HULL\"]/desc"
 msgstr ""
-"高度なバイオエンジニアリングを使用することで、船体は時間とともに自らを修復することができます。しかし、それは非常に不安定です。\n"
-"武器を発射するたびに、船体は1つの損傷、または武器の船体損傷に等しい損傷を受けます。\n"
-"戦闘の開始時に、あなたは10頭の船体ダメージを自動的に癒します"
 
-#: src-en/data/blueprints.xml.append:980
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_RAD_SHRAPNEL_COATING\"]/title"
-msgstr "sh散弾コーティング"
-
-#: src-en/data/blueprints.xml.append:981
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_RAD_SHRAPNEL_COATING\"]/desc"
-msgstr "1つの武器または武器クラスの弾薬にsh散弾コーティングを適用して、隣接する部屋にその武器1システムの損傷を許可することができます。"
-
-#: src-en/data/blueprints.xml.append:988
+#: src-en/data/blueprints.xml.append:894
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/desc"
 msgstr ""
@@ -479,84 +440,84 @@ msgstr ""
 "継承されたファントム統計：ハザードから損傷を受けず、0.8倍の速度があり、ドアフェージングプロパティがあります\n"
 "それがどこまで歩く場所に火の跡を残します。"
 
-#: src-en/data/blueprints.xml.append:994
+#: src-en/data/blueprints.xml.append:900
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/title"
 msgstr "実験26"
 
-#: src-en/data/blueprints.xml.append:995
+#: src-en/data/blueprints.xml.append:901
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/short"
 msgstr "元。26"
 
-#: src-en/data/blueprints.xml.append:998
+#: src-en/data/blueprints.xml.append:904
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/powerList/power"
 msgstr "110、2倍の妨害速度のMax Health"
 
-#: src-en/data/blueprints.xml.append:1008
+#: src-en/data/blueprints.xml.append:914
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/title"
 msgstr "反発ドローン"
 
-#: src-en/data/blueprints.xml.append:1009
+#: src-en/data/blueprints.xml.append:915
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/short"
 msgstr "反発ドローン"
 
-#: src-en/data/blueprints.xml.append:1010
+#: src-en/data/blueprints.xml.append:916
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1014
+#: src-en/data/blueprints.xml.append:920
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/powerList/power"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1021
+#: src-en/data/blueprints.xml.append:927
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR\"]/title"
 msgstr "反発ドローン"
 
-#: src-en/data/blueprints.xml.append:1022
+#: src-en/data/blueprints.xml.append:928
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR\"]/short"
 msgstr "反発器"
 
-#: src-en/data/blueprints.xml.append:1023
+#: src-en/data/blueprints.xml.append:929
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR\"]/desc"
 msgstr ""
 "その部屋を標的とする発射体を撃退することにより、部屋に保護を提供する制御可能なユーティリティドローン。\n"
 "\n"
 "-75 HP、2倍の移動速度"
 
-#: src-en/data/blueprints.xml.append:1033
+#: src-en/data/blueprints.xml.append:939
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor_enemy\"]/title"
 msgstr "反発ドローン"
 
-#: src-en/data/blueprints.xml.append:1034
+#: src-en/data/blueprints.xml.append:940
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor_enemy\"]/short"
 msgstr "反発ドローン"
 
-#: src-en/data/blueprints.xml.append:1035
+#: src-en/data/blueprints.xml.append:941
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor_enemy\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1039
+#: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor_enemy\"]/powerList/power"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1046
+#: src-en/data/blueprints.xml.append:952
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR_ENEMY\"]/title"
 msgstr "反発ドローン"
 
-#: src-en/data/blueprints.xml.append:1047
+#: src-en/data/blueprints.xml.append:953
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR_ENEMY\"]/short"
 msgstr "反発器"
 
-#: src-en/data/blueprints.xml.append:1048
+#: src-en/data/blueprints.xml.append:954
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR_ENEMY\"]/desc"
 msgstr ""
@@ -564,325 +525,305 @@ msgstr ""
 "\n"
 "-75 HP、2倍の移動速度"
 
-#: src-en/data/blueprints.xml.append:1058
+#: src-en/data/blueprints.xml.append:964
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION\"]/class"
 msgstr "高度なステーション"
 
-#: src-en/data/blueprints.xml.append:1059
+#: src-en/data/blueprints.xml.append:965
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION\"]/name"
 msgstr "ステーション27a"
 
-#: src-en/data/blueprints.xml.append:1061
+#: src-en/data/blueprints.xml.append:967
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION\"]/desc"
 msgstr ""
 "これは、R＆Dラボの最も高度なプロトタイプステーションの1つです。エンジンが装備されています。ただし、AからBに到達する以外には、実際には役に立ちません。ヒットを避けるために他の方法に依存する必要があります。"
 
-#: src-en/data/blueprints.xml.append:1135
+#: src-en/data/blueprints.xml.append:1041
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_2\"]/class"
 msgstr "高度なステーション"
 
-#: src-en/data/blueprints.xml.append:1136
+#: src-en/data/blueprints.xml.append:1042
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_2\"]/name"
 msgstr "ステーション33b"
 
-#: src-en/data/blueprints.xml.append:1138
+#: src-en/data/blueprints.xml.append:1044
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_2\"]/desc"
 msgstr "このステーションは、高度なドローンを使用して、発射体から身を守り、エンジンの出力の欠如を補うことです。"
 
-#: src-en/data/blueprints.xml.append:1212
+#: src-en/data/blueprints.xml.append:1118
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH\"]/class"
 msgstr "肉の巡洋艦"
 
-#: src-en/data/blueprints.xml.append:1213
+#: src-en/data/blueprints.xml.append:1119
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH\"]/name"
 msgstr "食べないでください"
 
-#: src-en/data/blueprints.xml.append:1215
+#: src-en/data/blueprints.xml.append:1121
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH\"]/desc"
 msgstr ""
 "誰かが本当にこれが存在するのを止めるべきでした。\r\n"
 "肉の外観はそれほど強くはありませんが、すぐに修理します。肉を過度にストレスせずに船体を破壊するためには注意を払わなければなりません。"
 
-#: src-en/data/blueprints.xml.append:1290
+#: src-en/data/blueprints.xml.append:1196
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/title"
 msgstr "肉質の心"
 
-#: src-en/data/blueprints.xml.append:1291
+#: src-en/data/blueprints.xml.append:1197
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/short"
 msgstr "肉質の心"
 
-#: src-en/data/blueprints.xml.append:1292
+#: src-en/data/blueprints.xml.append:1198
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/desc"
 msgstr ""
 "[基地クールダウン：4]この心は、文字通り船の心です。\n"
 "充電するたびに、1頭の船体の損傷が修復されます。"
 
-#: src-en/data/blueprints.xml.append:1294
+#: src-en/data/blueprints.xml.append:1200
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/tooltip"
 msgstr "船を癒します"
 
-#: src-en/data/blueprints.xml.append:1311
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_ZS\"]/title"
-msgstr "ゾルタンシールドジェネレーター"
-
-#: src-en/data/blueprints.xml.append:1312
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_ZS\"]/short"
-msgstr "ゾルタンシールドジェネレーター"
-
-#: src-en/data/blueprints.xml.append:1313
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_ZS\"]/desc"
-msgstr "[Base Cooldown：12]は、砲撃が発火するたびにスーパーシールド層を生成します。"
-
-#: src-en/data/blueprints.xml.append:1316
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_ZS\"]/tooltip"
-msgstr "スーパーシールドを作成します。"
-
-#: src-en/data/blueprints.xml.append:1333
+#: src-en/data/blueprints.xml.append:1217
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/title"
 msgstr "スイッチドライブ"
 
-#: src-en/data/blueprints.xml.append:1334
+#: src-en/data/blueprints.xml.append:1218
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/short"
 msgstr "スイッチドライブ"
 
-#: src-en/data/blueprints.xml.append:1335
+#: src-en/data/blueprints.xml.append:1219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/desc"
 msgstr "[基地クールダウン：25]各船のすべての乗組員が発射するたびに、どの船から由来するかに関係なく、他の船にテレポートされます。"
 
-#: src-en/data/blueprints.xml.append:1338
+#: src-en/data/blueprints.xml.append:1222
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/tooltip"
 msgstr "スーパーシールドを作成します。"
 
-#: src-en/data/blueprints.xml.append:1355
+#: src-en/data/blueprints.xml.append:1239
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/title"
 msgstr "肉質の心"
 
-#: src-en/data/blueprints.xml.append:1356
+#: src-en/data/blueprints.xml.append:1240
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/short"
 msgstr "肉質の心"
 
-#: src-en/data/blueprints.xml.append:1357
+#: src-en/data/blueprints.xml.append:1241
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1358
+#: src-en/data/blueprints.xml.append:1242
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/tooltip"
 msgstr "船を癒します"
 
-#: src-en/data/blueprints.xml.append:1374
+#: src-en/data/blueprints.xml.append:1258
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/class"
 msgstr "実験的なゴーストクルーザー"
 
-#: src-en/data/blueprints.xml.append:1375
+#: src-en/data/blueprints.xml.append:1259
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/name"
 msgstr "26の巡洋艦"
 
-#: src-en/data/blueprints.xml.append:1377
+#: src-en/data/blueprints.xml.append:1261
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/desc"
 msgstr ""
 "この船は、実験的なゴーストクルーと刺すようなトーチビームの両方を使用して、敵の船を降りることができます。\r\n"
 "幸いなことに、この船のテレポーターには、爆発するときに敵の船に乗っている場合に乗組員を回復する特別なフェイルセーフ機能が装備されています。"
 
-#: src-en/data/blueprints.xml.append:1449
+#: src-en/data/blueprints.xml.append:1333
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TELE_EVAC\"]/title"
 msgstr "組み合わせたメドクローン湾"
 
-#: src-en/data/blueprints.xml.append:1450
+#: src-en/data/blueprints.xml.append:1334
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TELE_EVAC\"]/desc"
 msgstr ""
 "メドベイの効果とクローンベイの効果を組み合わせて、クローンベイの両方を治癒とクローンの両方にすることができます。残念ながら、メドベイよりも低い速度で治癒します。"
 
-#: src-en/data/blueprints.xml.append:1461
+#: src-en/data/blueprints.xml.append:1345
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"DEFENSE_FOCUS\"]/title"
 msgstr "ピンポイントディフェンダードローン"
 
-#: src-en/data/blueprints.xml.append:1462
+#: src-en/data/blueprints.xml.append:1346
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"DEFENSE_FOCUS\"]/short"
 msgstr "防御ビーム"
 
-#: src-en/data/blueprints.xml.append:1463
+#: src-en/data/blueprints.xml.append:1347
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"DEFENSE_FOCUS\"]/desc"
 msgstr ""
 "レーザーまたは固体発射体をターゲットにできる防御ドローン。レーザーではなくピンポイントビームを撃ちます。\n"
 "リロード：250ミリ秒"
 
-#: src-en/data/blueprints.xml.append:1479
+#: src-en/data/blueprints.xml.append:1363
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_LASER_DEFENSE_INVIS\"]/title"
 msgstr "ドローンレーザー"
 
-#: src-en/data/blueprints.xml.append:1509
+#: src-en/data/blueprints.xml.append:1393
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_RAD_ZAPPER\"]/title"
 msgstr "ドローンザッパーMK III"
 
-#: src-en/data/blueprints.xml.append:1510
+#: src-en/data/blueprints.xml.append:1394
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_RAD_ZAPPER\"]/short"
 msgstr "Zapper III"
 
-#: src-en/data/blueprints.xml.append:1511
+#: src-en/data/blueprints.xml.append:1395
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_RAD_ZAPPER\"]/desc"
 msgstr "この武器は敵の船にはあまり役に立たないが、敵の戦闘と防衛ドローンの両方を自動的に標的と発射します。"
 
-#: src-en/data/blueprints.xml.append:1546
+#: src-en/data/blueprints.xml.append:1430
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_NODAMAGE_1\"]/title"
 msgstr "バーストビーム発射体"
 
-#: src-en/data/blueprints.xml.append:1547
+#: src-en/data/blueprints.xml.append:1431
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_NODAMAGE_1\"]/short"
 msgstr "バーストビーム発射体"
 
-#: src-en/data/blueprints.xml.append:1548
+#: src-en/data/blueprints.xml.append:1432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_NODAMAGE_1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1579
+#: src-en/data/blueprints.xml.append:1463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SINGULARITY_MINE\"]/title"
 msgstr "特異点ランチャー"
 
-#: src-en/data/blueprints.xml.append:1580
+#: src-en/data/blueprints.xml.append:1464
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SINGULARITY_MINE\"]/short"
 msgstr "特異点"
 
-#: src-en/data/blueprints.xml.append:1581
+#: src-en/data/blueprints.xml.append:1465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SINGULARITY_MINE\"]/desc"
 msgstr ""
 "穴を引き裂くことができる1つの大きな爆弾を発射するのは時空であり、それ自体では損傷はありませんが、それに向かってすべての自由な浮遊発射体を引っ張ります。"
 
-#: src-en/data/blueprints.xml.append:1611
+#: src-en/data/blueprints.xml.append:1495
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT\"]/title"
 msgstr "マスタークレジットカード"
 
-#: src-en/data/blueprints.xml.append:1612
+#: src-en/data/blueprints.xml.append:1496
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT\"]/desc"
 msgstr ""
 "無限の金額にアクセスして、スクラップを保管するためにどこにも必要なのですか？\n"
 "\n"
 "残念ながら、毎月の支出制限が200スクラップです"
 
-#: src-en/data/blueprints.xml.append:1621
+#: src-en/data/blueprints.xml.append:1505
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT_2\"]/title"
 msgstr "銀行の金庫"
 
-#: src-en/data/blueprints.xml.append:1622
+#: src-en/data/blueprints.xml.append:1506
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT_2\"]/desc"
 msgstr "2000年のスクラップから始めて、これ以上得ることはできません。"
 
-#: src-en/data/blueprints.xml.append:1629
+#: src-en/data/blueprints.xml.append:1513
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SYSTEM_DUMB\"]/title"
 msgstr "低スキルシステム"
 
-#: src-en/data/blueprints.xml.append:1630
+#: src-en/data/blueprints.xml.append:1514
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SYSTEM_DUMB\"]/desc"
 msgstr ""
 "マニングボーナスは乗組員のスキルレベルに逆に比例します。これは、レベル0パイロットがレベル2のマニングを提供し、レベル2パイロットがレベル0のマニングを提供することを意味します。\n"
 "\n"
 "これは、システムが低いスキルクルーメンバー向けに設計されているため、スキルクルーのメンバーが高いため、それを考え直して効率が低下するためです。"
 
-#: src-en/data/blueprints.xml.append:1639
+#: src-en/data/blueprints.xml.append:1523
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH\"]/class"
 msgstr "ヨットクラスの巡洋艦"
 
-#: src-en/data/blueprints.xml.append:1640
+#: src-en/data/blueprints.xml.append:1524
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH\"]/name"
 msgstr "ソラリス"
 
-#: src-en/data/blueprints.xml.append:1641
+#: src-en/data/blueprints.xml.append:1525
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH\"]/desc"
 msgstr ""
 "かなり高価な船、1人の高価な船長がいます。豊かな大物の息子として、このキャプテンは無制限の資金にアクセスでき、したがって、彼の旅行中にスクラップを収集するためにとにかく設置しないことに決めましたが、彼のカードには毎月の引き出し限度があります..."
 
-#: src-en/data/blueprints.xml.append:1716
+#: src-en/data/blueprints.xml.append:1600
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_3\"]/class"
 msgstr "高度なステーション"
 
-#: src-en/data/blueprints.xml.append:1717
+#: src-en/data/blueprints.xml.append:1601
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_3\"]/name"
 msgstr "ステーション99c"
 
-#: src-en/data/blueprints.xml.append:1719
+#: src-en/data/blueprints.xml.append:1603
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_3\"]/desc"
 msgstr ""
 "このステーションは、誘ductionビームを使用して船の乗組員を殺しています。また、エンジンをアップグレードし、過去のステーションよりもはるかに多くのモビリティを可能にします。"
 
-#: src-en/data/blueprints.xml.append:1790
+#: src-en/data/blueprints.xml.append:1674
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_2\"]/class"
 msgstr "ヨットクラスの巡洋艦"
 
-#: src-en/data/blueprints.xml.append:1791
+#: src-en/data/blueprints.xml.append:1675
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_2\"]/name"
 msgstr "トレーナー1"
 
-#: src-en/data/blueprints.xml.append:1792
+#: src-en/data/blueprints.xml.append:1676
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_2\"]/desc"
 msgstr ""
 "ある時点で、この船は非常にエレガントであると考えられていましたが、長年にわたって修正され、より有用な状態に修理されてきました。船はトレーニングプラットフォームとして設計されているため、機能するために非常に高い熟練した乗組員を必要としません。"
 
-#: src-en/data/blueprints.xml.append:1863
+#: src-en/data/blueprints.xml.append:1747
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_3\"]/class"
 msgstr "ヨットクラスの巡洋艦"
 
-#: src-en/data/blueprints.xml.append:1864
+#: src-en/data/blueprints.xml.append:1748
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_3\"]/name"
 msgstr "高い"
 
-#: src-en/data/blueprints.xml.append:1866
+#: src-en/data/blueprints.xml.append:1750
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_3\"]/desc"
 msgstr "深刻な強盗の後、あなたは多くの金を確保することができましたが、あなたはまだあなたのスクラップを置く場所を持っていません。"
 
-#: src-en/data/blueprints.xml.append:1939
+#: src-en/data/blueprints.xml.append:1823
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SMALL\"]/title"
 msgstr "エリートシャトルテクノロジー"
 
-#: src-en/data/blueprints.xml.append:1940
+#: src-en/data/blueprints.xml.append:1824
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SMALL\"]/desc"
 msgstr ""
 "すべてのシステムを自動的に修理します（侵害または燃えている場合を除く）。\n"
@@ -891,34 +832,34 @@ msgstr ""
 "50％の船体抵抗を与えます。\n"
 "武器は50％速く充電します。"
 
-#: src-en/data/blueprints.xml.append:1951
+#: src-en/data/blueprints.xml.append:1835
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_HUGE\"]/class"
 msgstr "戦闘シャトル"
 
-#: src-en/data/blueprints.xml.append:1952
+#: src-en/data/blueprints.xml.append:1836
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_HUGE\"]/name"
 msgstr "巨大な"
 
-#: src-en/data/blueprints.xml.append:1954
+#: src-en/data/blueprints.xml.append:1838
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_HUGE\"]/desc"
 msgstr "この船はゲームを破るだけかもしれないので、走るだけで壊れるように準備してください。"
 
-#: src-en/data/blueprints.xml.append:2027
+#: src-en/data/blueprints.xml.append:1911
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/title"
 msgstr "シールドドレインビーム"
 
-#: src-en/data/blueprints.xml.append:2028
+#: src-en/data/blueprints.xml.append:1912
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/short"
 msgstr "Sドレインビーム"
 
-#: src-en/data/blueprints.xml.append:2029
+#: src-en/data/blueprints.xml.append:1913
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2030
+#: src-en/data/blueprints.xml.append:1914
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/descriptionOverride"
 msgstr ""
@@ -936,58 +877,58 @@ msgstr ""
 "\n"
 "デフォルト価格：80〜-販売価格：40〜"
 
-#: src-en/data/blueprints.xml.append:2072
+#: src-en/data/blueprints.xml.append:1959
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_CHARGE\"]/title"
 msgstr "ゾルタンシールド充電器"
 
-#: src-en/data/blueprints.xml.append:2073
+#: src-en/data/blueprints.xml.append:1960
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_CHARGE\"]/desc"
 msgstr "シールドジェネレーターは、通常のシールドレイヤーの代わりにスーパーシールドレイヤーを生成するようになりました。"
 
-#: src-en/data/blueprints.xml.append:2082
+#: src-en/data/blueprints.xml.append:1969
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/class"
 msgstr "ゾルギクルーザー"
 
-#: src-en/data/blueprints.xml.append:2083
+#: src-en/data/blueprints.xml.append:1970
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/name"
 msgstr "持久力"
 
-#: src-en/data/blueprints.xml.append:2085
+#: src-en/data/blueprints.xml.append:1972
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/desc"
 msgstr ""
 "ZoltanとEngiテクノロジーの組み合わせであるこの船は、Engi発電技術とZoltan "
 "Shieldテクノロジーの技術を組み合わせて、船が数秒ごとにスーパーシールド層を生成できるようにします。"
 
-#: src-en/data/blueprints.xml.append:2160
+#: src-en/data/blueprints.xml.append:2046
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/class"
 msgstr "スイッチバッククルーザー"
 
-#: src-en/data/blueprints.xml.append:2161
+#: src-en/data/blueprints.xml.append:2047
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/name"
 msgstr "シップスワップ"
 
-#: src-en/data/blueprints.xml.append:2163
+#: src-en/data/blueprints.xml.append:2049
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/desc"
 msgstr ""
 "高度なテレポートシステムにより、敵の船に乗って乗組員全員がテレポートすることができますが、不幸な副作用は、敵の乗組員全体を船にテレポートすることです。"
 
-#: src-en/data/blueprints.xml.append:2239
+#: src-en/data/blueprints.xml.append:2125
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/class"
 msgstr "シールドクルーザー"
 
-#: src-en/data/blueprints.xml.append:2240
+#: src-en/data/blueprints.xml.append:2126
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/name"
 msgstr "アンダーアーマー"
 
-#: src-en/data/blueprints.xml.append:2242
+#: src-en/data/blueprints.xml.append:2128
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/desc"
 msgstr ""
@@ -995,258 +936,258 @@ msgstr ""
 "\n"
 "このような船舶に伝統的に配備されている4つの砲兵武器は、Zoltanシールドの外にシールドを展開できる特別なデバイスに交換されています。"
 
-#: src-en/data/blueprints.xml.append:2319
+#: src-en/data/blueprints.xml.append:2205
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/class"
 msgstr "スクランブルクルーザー"
 
-#: src-en/data/blueprints.xml.append:2320
+#: src-en/data/blueprints.xml.append:2206
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/name"
 msgstr "狂気"
 
-#: src-en/data/blueprints.xml.append:2322
+#: src-en/data/blueprints.xml.append:2208
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/desc"
 msgstr "この船では何かが非常に間違っていました。"
 
-#: src-en/data/blueprints.xml.append:2389
+#: src-en/data/blueprints.xml.append:2275
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_UNDER\"]/title"
 msgstr "ゾルタンアンダーシールド"
 
-#: src-en/data/blueprints.xml.append:2390
+#: src-en/data/blueprints.xml.append:2276
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_UNDER\"]/desc"
 msgstr "ゾルタンのオーバーシールドのように、しかし、それは通常のシールドバブルの下に行きます。"
 
-#: src-en/data/blueprints.xml.append:2398
+#: src-en/data/blueprints.xml.append:2284
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAM\"]/title"
 msgstr "スクランブルドライブ"
 
-#: src-en/data/blueprints.xml.append:2399
+#: src-en/data/blueprints.xml.append:2285
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAM\"]/desc"
 msgstr "15秒ごとに船の全員が不思議なことに新しい部屋に移動します。幸いなことに、パイロットルームがその効果を逃れたようです。"
 
-#: src-en/data/blueprints.xml.append:2408
+#: src-en/data/blueprints.xml.append:2294
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/title"
 msgstr "スーパーシールドMK III"
 
-#: src-en/data/blueprints.xml.append:2409
+#: src-en/data/blueprints.xml.append:2295
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/short"
 msgstr "シールドIII"
 
-#: src-en/data/blueprints.xml.append:2410
+#: src-en/data/blueprints.xml.append:2296
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/desc"
 msgstr "この武器は敵の船にはあまり役に立たないが、充電して発射するたびに3つのエネルギーシールドレイヤーを充電する。"
 
-#: src-en/data/blueprints.xml.append:2446
+#: src-en/data/blueprints.xml.append:2332
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/title"
 msgstr "スーパーシールドMK II"
 
-#: src-en/data/blueprints.xml.append:2447
+#: src-en/data/blueprints.xml.append:2333
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/short"
 msgstr "シールドII"
 
-#: src-en/data/blueprints.xml.append:2448
+#: src-en/data/blueprints.xml.append:2334
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/desc"
 msgstr "この武器は敵の船にはあまり役に立たないが、充電して発射するたびに2つのエネルギーシールド層を充電する。"
 
-#: src-en/data/blueprints.xml.append:2485
+#: src-en/data/blueprints.xml.append:2371
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/title"
 msgstr "スーパーシールドMk i"
 
-#: src-en/data/blueprints.xml.append:2486
+#: src-en/data/blueprints.xml.append:2372
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/short"
 msgstr "シールドi"
 
-#: src-en/data/blueprints.xml.append:2487
+#: src-en/data/blueprints.xml.append:2373
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/desc"
 msgstr "この武器は敵の船にはあまり役に立たないが、充電して発射するたびにエネルギーシールド層を充電する。"
 
-#: src-en/data/blueprints.xml.append:2525
+#: src-en/data/blueprints.xml.append:2411
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/title"
 msgstr "稲妻発射体"
 
-#: src-en/data/blueprints.xml.append:2526
+#: src-en/data/blueprints.xml.append:2412
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/short"
 msgstr "稲妻発射体"
 
-#: src-en/data/blueprints.xml.append:2527
+#: src-en/data/blueprints.xml.append:2413
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2558
+#: src-en/data/blueprints.xml.append:2444
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/title"
 msgstr "テスラキャノンMK i"
 
-#: src-en/data/blueprints.xml.append:2559
+#: src-en/data/blueprints.xml.append:2445
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/short"
 msgstr "テスラi"
 
-#: src-en/data/blueprints.xml.append:2561
+#: src-en/data/blueprints.xml.append:2447
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/desc"
 msgstr "この稲妻の武器は、隣接する部屋に5回連れて行きます。"
 
-#: src-en/data/blueprints.xml.append:2598
+#: src-en/data/blueprints.xml.append:2484
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/title"
 msgstr "テスラキャノンMK II"
 
-#: src-en/data/blueprints.xml.append:2599
+#: src-en/data/blueprints.xml.append:2485
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/short"
 msgstr "テスラII"
 
-#: src-en/data/blueprints.xml.append:2601
+#: src-en/data/blueprints.xml.append:2487
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/desc"
 msgstr "この稲妻の武器は、隣接する部屋に4回鎖をつけます。"
 
-#: src-en/data/blueprints.xml.append:2638
+#: src-en/data/blueprints.xml.append:2524
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/title"
 msgstr "テスラキャノンMK III"
 
-#: src-en/data/blueprints.xml.append:2639
+#: src-en/data/blueprints.xml.append:2525
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/short"
 msgstr "テスラIII"
 
-#: src-en/data/blueprints.xml.append:2641
+#: src-en/data/blueprints.xml.append:2527
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/desc"
 msgstr "この稲妻の武器は、隣接する部屋に2回連れて行きます。"
 
-#: src-en/data/blueprints.xml.append:2679
+#: src-en/data/blueprints.xml.append:2565
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/title"
 msgstr "イオンカスケードキャノン"
 
-#: src-en/data/blueprints.xml.append:2680
+#: src-en/data/blueprints.xml.append:2566
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/short"
 msgstr "イオンカスケード"
 
-#: src-en/data/blueprints.xml.append:2682
+#: src-en/data/blueprints.xml.append:2568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/desc"
 msgstr "この稲妻の武器は、隣接する部屋に3回チェーンします。"
 
-#: src-en/data/blueprints.xml.append:2722
+#: src-en/data/blueprints.xml.append:2608
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/title"
 msgstr "再アクションキャノン"
 
-#: src-en/data/blueprints.xml.append:2723
+#: src-en/data/blueprints.xml.append:2609
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/short"
 msgstr "反応"
 
-#: src-en/data/blueprints.xml.append:2725
+#: src-en/data/blueprints.xml.append:2611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/desc"
 msgstr "この稲妻の武器は、隣接する部屋に3回チェーンします。この武器は、シールドレイヤーもポップします"
 
-#: src-en/data/blueprints.xml.append:2762
+#: src-en/data/blueprints.xml.append:2648
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_MULTISHOT\"]/title"
 msgstr "マルチショット武器"
 
-#: src-en/data/blueprints.xml.append:2763
+#: src-en/data/blueprints.xml.append:2649
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_MULTISHOT\"]/desc"
 msgstr ""
 "2つで発射するすべての発射体またはビームを分割しますが、船体の損傷、システムの損傷、イオンの損傷は半分になります。基本値が奇妙な場合、一方の発射体は他の発射体よりも多くの損傷をもたらします。高エネルギー兵器で使用すると、すべての発射体は2倍になりますが、元の損傷を保持します。\n"
 "\n"
 "ストレージメニューに20のスクラップ用に内部的にインストールできます。"
 
-#: src-en/data/blueprints.xml.append:2772
+#: src-en/data/blueprints.xml.append:2658
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/title"
 msgstr "高エネルギー兵器"
 
-#: src-en/data/blueprints.xml.append:2773
+#: src-en/data/blueprints.xml.append:2659
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/desc"
 msgstr ""
 "発射するすべての発射体またはビームの船体損傷、システム損傷、およびイオン損傷を2倍にしますが、武器の充電率を60％減らします。MultiShotで使用すると、すべての発射体は2倍になりますが、元の損傷を保持します。\n"
 "\n"
 "ストレージメニューに20のスクラップで内部的にインストールできますが、スタックしません。"
 
-#: src-en/data/blueprints.xml.append:2782
+#: src-en/data/blueprints.xml.append:2668
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_RAILGUN\"]/title"
 msgstr "レール加速武器"
 
-#: src-en/data/blueprints.xml.append:2783
+#: src-en/data/blueprints.xml.append:2669
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_RAILGUN\"]/desc"
 msgstr ""
 "すべての発射体と梁の速度に4倍になります。レールガン、ええ！\n"
 "ストレージメニューに10個のスクラップで内部的にインストールできますが、スタックしません。"
 
-#: src-en/data/blueprints.xml.append:2791
+#: src-en/data/blueprints.xml.append:2677
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MOD_SUS\"]/title"
 msgstr "サステインを修理します"
 
-#: src-en/data/blueprints.xml.append:2792
+#: src-en/data/blueprints.xml.append:2678
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MOD_SUS\"]/desc"
 msgstr ""
 "乗組員は部分的にのみ修理された部屋を離れると、修理レベルは維持され、乗組員が部屋を出るために失われません。\n"
 "ストレージメニューに10個のスクラップで内部的にインストールできますが、スタックしません。"
 
-#: src-en/data/blueprints.xml.append:2801
+#: src-en/data/blueprints.xml.append:2687
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_MULTISHOT\"]/title"
 msgstr "マルチショット武器"
 
-#: src-en/data/blueprints.xml.append:2802
+#: src-en/data/blueprints.xml.append:2688
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_MULTISHOT\"]/desc"
 msgstr ""
 "2つで発射するすべての発射体またはビームを分割しますが、船体の損傷、システムの損傷、イオンの損傷は半分になります。基本値が奇妙な場合、一方の発射体は他の発射体よりも多くの損傷をもたらします。\n"
 "ストレージメニューに20のスクラップ用に内部的にインストールできます。"
 
-#: src-en/data/blueprints.xml.append:2812
+#: src-en/data/blueprints.xml.append:2698
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_BIGSHOT\"]/title"
 msgstr "高エネルギー兵器"
 
-#: src-en/data/blueprints.xml.append:2813
+#: src-en/data/blueprints.xml.append:2699
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_BIGSHOT\"]/desc"
 msgstr ""
 "発射するすべての発射体またはビームの船体損傷、システム損傷、およびイオン損傷を2倍にしますが、マルチショットと互換性のない武器充電率を60％減らします。\n"
 "ストレージメニューに20のスクラップ用に内部的にインストールできます。"
 
-#: src-en/data/blueprints.xml.append:2823
+#: src-en/data/blueprints.xml.append:2709
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_RAILGUN\"]/title"
 msgstr "レール加速武器"
 
-#: src-en/data/blueprints.xml.append:2824
+#: src-en/data/blueprints.xml.append:2710
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_RAILGUN\"]/desc"
 msgstr ""
 "すべての発射体と梁の速度に4倍になります。レールガン、ええ！\n"
 "ストレージメニューに10個のスクラップで内部的にインストールできます。"
 
-#: src-en/data/blueprints.xml.append:2834
+#: src-en/data/blueprints.xml.append:2720
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_MOD_SUS\"]/title"
 msgstr "サステインを修理します"
 
-#: src-en/data/blueprints.xml.append:2835
+#: src-en/data/blueprints.xml.append:2721
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_MOD_SUS\"]/desc"
 msgstr ""
 "乗組員は部分的にのみ修理された部屋を離れると、修理レベルは維持され、乗組員が部屋を出るために失われません。\n"
 "ストレージメニューに10個のスクラップで内部的にインストールできます。"
 
-#: src-en/data/blueprints.xml.append:2844
+#: src-en/data/blueprints.xml.append:2730
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_REFLECT_HULL\"]/title"
 msgstr "反射船体メッキ"
 
-#: src-en/data/blueprints.xml.append:2845
+#: src-en/data/blueprints.xml.append:2731
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_REFLECT_HULL\"]/desc"
 msgstr ""
 "この船体メッキは、船に当たった梁を反映するように特別に設計されています。\n"
@@ -1254,404 +1195,404 @@ msgstr ""
 "\n"
 "このメッキは5つのスーパーハルポイントも提供します。これは、船体にダメージを与えることで戦闘ごとに5ヒットを止めます。"
 
-#: src-en/data/blueprints.xml.append:2856
+#: src-en/data/blueprints.xml.append:2742
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_TIME_HULL\"]/title"
 msgstr "ゆがんだ船体メッキ"
 
-#: src-en/data/blueprints.xml.append:2857
+#: src-en/data/blueprints.xml.append:2743
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_TIME_HULL\"]/desc"
 msgstr ""
 "この船が船体の損傷を受けるたびに、時間システムのクールダウンが終了し、1つのランダムな武器がクールダウンが終了し、また武器充電率を25％削減します。\n"
 "\n"
 "このメッキはまた、1つのスーパーハルポイントを提供します。これは、船体へのダメージを与えることで戦闘ごとに1つの船体の損傷を止めます。"
 
-#: src-en/data/blueprints.xml.append:2867
+#: src-en/data/blueprints.xml.append:2753
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_HULL\"]/title"
 msgstr "スーパーハルメッキ"
 
-#: src-en/data/blueprints.xml.append:2868
+#: src-en/data/blueprints.xml.append:2754
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_HULL\"]/desc"
 msgstr "このメッキは5つのスーパーハルポイントを提供します。これは、船体にダメージを与えることで戦闘ごとに5ヒットを止めます。"
 
-#: src-en/data/blueprints.xml.append:2876
+#: src-en/data/blueprints.xml.append:2762
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_BULLET_HELL\"]/title"
 msgstr "暗い船体メッキ"
 
-#: src-en/data/blueprints.xml.append:2877
+#: src-en/data/blueprints.xml.append:2763
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_BULLET_HELL\"]/desc"
 msgstr ""
 "この船体は完全に無敵ですが、時空の連続体の反りのため、すべての発射体が速度の1/4に減速し、乗組員の損傷が最大75まで増加し、船の衝撃点を示しています。\n"
 "また、船のクローンベイは、空間と時間の反りによってほとんど役に立たないようになっているため、誰もクローンできないため、ジャンプで乗組員を癒すことができます。\n"
 "乗組員は他のソースから癒すことができませんが、乗組員全員が1.5倍のダメージを与えます。"
 
-#: src-en/data/blueprints.xml.append:2888
+#: src-en/data/blueprints.xml.append:2774
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/title"
 msgstr "トラクタービーム"
 
-#: src-en/data/blueprints.xml.append:2889
+#: src-en/data/blueprints.xml.append:2775
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/short"
 msgstr "トラクター"
 
-#: src-en/data/blueprints.xml.append:2890
+#: src-en/data/blueprints.xml.append:2776
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/desc"
 msgstr ""
 "ビーム自体には損傷はありませんが、衝撃に強い重力プルを作成します。\n"
 "タイルごとにビームがヒットすると、小惑星がタイルに向かって引き込みます。"
 
-#: src-en/data/blueprints.xml.append:2918
+#: src-en/data/blueprints.xml.append:2804
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/class"
 msgstr "ミラークルーザー"
 
-#: src-en/data/blueprints.xml.append:2919
+#: src-en/data/blueprints.xml.append:2805
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/name"
 msgstr "変曲"
 
-#: src-en/data/blueprints.xml.append:2921
+#: src-en/data/blueprints.xml.append:2807
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/desc"
 msgstr ""
 "この船は、敵にまっすぐに梁を反映できる神秘的な結晶構造を利用しています。\r\n"
 "また、5つのスーパーハルポイントを提供します。"
 
-#: src-en/data/blueprints.xml.append:2998
+#: src-en/data/blueprints.xml.append:2884
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/class"
 msgstr "タイムレッカークルーザー"
 
-#: src-en/data/blueprints.xml.append:2999
+#: src-en/data/blueprints.xml.append:2885
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/name"
 msgstr "ウィルツェク"
 
-#: src-en/data/blueprints.xml.append:3001
+#: src-en/data/blueprints.xml.append:2887
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/desc"
 msgstr "船の船体には奇妙な施設があり、それが打たれるたびに部屋がランダムな時間的効果に襲われ、1つの武器がクールダウン仕上げになります。"
 
-#: src-en/data/blueprints.xml.append:3076
+#: src-en/data/blueprints.xml.append:2962
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/class"
 msgstr "ダーククルーザー"
 
-#: src-en/data/blueprints.xml.append:3077
+#: src-en/data/blueprints.xml.append:2963
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/name"
 msgstr "ブラックホール"
 
-#: src-en/data/blueprints.xml.append:3079
+#: src-en/data/blueprints.xml.append:2965
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/desc"
 msgstr ""
 "船上の鎧の特性により、船が爆発することを心配する必要はありませんが、乗組員に注意する必要があります。それらは非常に脆弱です。\n"
 "クローンベイからのわずかな癒しでは十分ではないかもしれません。"
 
-#: src-en/data/blueprints.xml.append:3138
+#: src-en/data/blueprints.xml.append:3024
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREVERSAL\"]/title"
 msgstr "exp。クローキングシステム"
 
-#: src-en/data/blueprints.xml.append:3139
+#: src-en/data/blueprints.xml.append:3025
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREVERSAL\"]/desc"
 msgstr ""
 "この実験的なクローキングシステムは、敵の発射体を撃退する能力とマントの期間の半分を失い、敵の船でそれらをリターゲティングすることを交換します。"
 
-#: src-en/data/blueprints.xml.append:3146
+#: src-en/data/blueprints.xml.append:3032
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CBEAM\"]/title"
 msgstr "クローキング砲システム"
 
-#: src-en/data/blueprints.xml.append:3147
+#: src-en/data/blueprints.xml.append:3033
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CBEAM\"]/desc"
 msgstr ""
 "この実験的なクローキングシステムは、敵のシールドシステムから武器システムにラインを描く壊滅的なビームを発射する能力とマントの期間の半分を失うことを交換します。\n"
 "\n"
 "ビームは1つのダメージを与え、武器システムの各パワーに追加の半ダメージを与えます。"
 
-#: src-en/data/blueprints.xml.append:3156
+#: src-en/data/blueprints.xml.append:3042
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CHACK\"]/title"
 msgstr "強化されたクローキングシステム"
 
-#: src-en/data/blueprints.xml.append:3157
+#: src-en/data/blueprints.xml.append:3043
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CHACK\"]/desc"
 msgstr "この実験的なクローキングシステムは、覆われたときに敵のシールドシステムをハッキングしますが、その過程で自分の武器を無効にします。"
 
-#: src-en/data/blueprints.xml.append:3164
+#: src-en/data/blueprints.xml.append:3050
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/class"
 msgstr "科学コルベット"
 
-#: src-en/data/blueprints.xml.append:3165
+#: src-en/data/blueprints.xml.append:3051
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/name"
 msgstr "ダイナミック"
 
-#: src-en/data/blueprints.xml.append:3167
+#: src-en/data/blueprints.xml.append:3053
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/desc"
 msgstr "この船は、そのクローキングシステムを使用して、敵の発射体をかわすだけでなく、それに応じて敵の船に送り返します。"
 
-#: src-en/data/blueprints.xml.append:3240
+#: src-en/data/blueprints.xml.append:3126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/title"
 msgstr "マントビーム"
 
-#: src-en/data/blueprints.xml.append:3241
+#: src-en/data/blueprints.xml.append:3127
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/short"
 msgstr "マントビーム"
 
-#: src-en/data/blueprints.xml.append:3242
+#: src-en/data/blueprints.xml.append:3128
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3269
+#: src-en/data/blueprints.xml.append:3155
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/class"
 msgstr "科学コルベット"
 
-#: src-en/data/blueprints.xml.append:3270
+#: src-en/data/blueprints.xml.append:3156
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/name"
 msgstr "幻想"
 
-#: src-en/data/blueprints.xml.append:3272
+#: src-en/data/blueprints.xml.append:3158
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/desc"
 msgstr "この船のクローキングシステムは、敵の船を損傷することができる大きなエネルギービームを生成するために特別に装備されています。"
 
-#: src-en/data/blueprints.xml.append:3344
+#: src-en/data/blueprints.xml.append:3230
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/class"
 msgstr "科学コルベット"
 
-#: src-en/data/blueprints.xml.append:3345
+#: src-en/data/blueprints.xml.append:3231
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/name"
 msgstr "幻想"
 
-#: src-en/data/blueprints.xml.append:3347
+#: src-en/data/blueprints.xml.append:3233
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/desc"
 msgstr ""
 "この船のクローキングシステムには、補足的なハッキングシステムが組み込まれており、マントするときに敵のシールドシステムをハッキングしますが、これにより、自分の武器システムがハッキングされます。"
 
-#: src-en/data/blueprints.xml.append:3421
+#: src-en/data/blueprints.xml.append:3307
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/title"
 msgstr "ハック"
 
-#: src-en/data/blueprints.xml.append:3422
+#: src-en/data/blueprints.xml.append:3308
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/short"
 msgstr "ハック"
 
-#: src-en/data/blueprints.xml.append:3424
+#: src-en/data/blueprints.xml.append:3310
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/desc"
 msgstr "いいえ"
 
-#: src-en/data/blueprints.xml.append:3467
+#: src-en/data/blueprints.xml.append:3353
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/title"
 msgstr "ハック"
 
-#: src-en/data/blueprints.xml.append:3468
+#: src-en/data/blueprints.xml.append:3354
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/short"
 msgstr "ハック"
 
-#: src-en/data/blueprints.xml.append:3470
+#: src-en/data/blueprints.xml.append:3356
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/desc"
 msgstr "いいえ"
 
-#: src-en/data/blueprints.xml.append:3513
+#: src-en/data/blueprints.xml.append:3399
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/title"
 msgstr "ハック"
 
-#: src-en/data/blueprints.xml.append:3514
+#: src-en/data/blueprints.xml.append:3400
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/short"
 msgstr "ハック"
 
-#: src-en/data/blueprints.xml.append:3516
+#: src-en/data/blueprints.xml.append:3402
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/desc"
 msgstr "いいえ"
 
-#: src-en/data/blueprints.xml.append:3558
+#: src-en/data/blueprints.xml.append:3444
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/class"
 msgstr "サイエンスカッター"
 
-#: src-en/data/blueprints.xml.append:3559
+#: src-en/data/blueprints.xml.append:3445
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/name"
 msgstr "スプートニク"
 
-#: src-en/data/blueprints.xml.append:3561
+#: src-en/data/blueprints.xml.append:3447
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/desc"
 msgstr ""
 "スペースクラフトの小さい端にあるこのマシンは、6つの武器スロットを備えた有能な武器です。\r\n"
 "サイズが小さいため、原子炉は1つのパワー武器を提供するのに十分なほど強力であり、オプションを大幅に制限します。"
 
-#: src-en/data/blueprints.xml.append:3631
+#: src-en/data/blueprints.xml.append:3517
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_WEAPON\"]/title"
 msgstr "低電力武器"
 
-#: src-en/data/blueprints.xml.append:3632
+#: src-en/data/blueprints.xml.append:3518
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_WEAPON\"]/desc"
 msgstr "船上の反応器が不十分なため、発射できる電力と少ない武器のみが発射されますが、これらの武器は発射体/ビームの2倍を発射します。"
 
-#: src-en/data/blueprints.xml.append:3639
+#: src-en/data/blueprints.xml.append:3525
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/class"
 msgstr "サイエンスカッター"
 
-#: src-en/data/blueprints.xml.append:3640
+#: src-en/data/blueprints.xml.append:3526
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/name"
 msgstr "銃が硬い"
 
-#: src-en/data/blueprints.xml.append:3642
+#: src-en/data/blueprints.xml.append:3528
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/desc"
 msgstr ""
 "特殊な武器マウントにより、この船は、ディスカウンターの電力コストで4つの電源以下の武器を効果的に取り付けることができますが、2パワー以下の武器をマウントすることはできません。"
 
-#: src-en/data/blueprints.xml.append:3712
+#: src-en/data/blueprints.xml.append:3598
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CUTTER_OXY\"]/title"
 msgstr "低電力酸素"
 
-#: src-en/data/blueprints.xml.append:3713
+#: src-en/data/blueprints.xml.append:3599
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CUTTER_OXY\"]/desc"
 msgstr ""
 "船内の反応器が不十分なため、酸素システムは酸素を生成することができません。それは非常に悪いので、すべての嫌気性が窒息の免疫を失い、窒息の損傷が2倍になります。"
 
-#: src-en/data/blueprints.xml.append:3720
+#: src-en/data/blueprints.xml.append:3606
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/class"
 msgstr "サイエンスカッター"
 
-#: src-en/data/blueprints.xml.append:3721
+#: src-en/data/blueprints.xml.append:3607
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/name"
 msgstr "パンドラの箱"
 
-#: src-en/data/blueprints.xml.append:3723
+#: src-en/data/blueprints.xml.append:3609
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/desc"
 msgstr "戦闘に参加するたびに、武器が交換されると、武器を再シャッフルするために戦闘から飛び降りることを慎重に使用する必要があります。"
 
-#: src-en/data/blueprints.xml.append:3797
+#: src-en/data/blueprints.xml.append:3683
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SHIELD\"]/title"
 msgstr "武器スクランブラー"
 
-#: src-en/data/blueprints.xml.append:3798
+#: src-en/data/blueprints.xml.append:3684
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SHIELD\"]/desc"
 msgstr ""
 "すべての戦闘すべての武器がランダムに交換されます。3つの武器がある場合、それはそれらの3つだけを置き換えます。旗艦の戦いには適用されません。"
 
-#: src-en/data/blueprints.xml.append:3805
+#: src-en/data/blueprints.xml.append:3691
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/desc"
 msgstr ""
 "科学的に訓練されたユニットは、ドローンに対してより効果的です。\n"
 "\n"
 "継承された人間の統計：軽微な窒息抵抗は、スキルをより速く学びます"
 
-#: src-en/data/blueprints.xml.append:3810
+#: src-en/data/blueprints.xml.append:3696
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/title"
 msgstr "人間の科学者"
 
-#: src-en/data/blueprints.xml.append:3811
+#: src-en/data/blueprints.xml.append:3697
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/short"
 msgstr "科学者"
 
-#: src-en/data/blueprints.xml.append:3814
+#: src-en/data/blueprints.xml.append:3700
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[1]"
 msgstr "同じ部屋の敵対的なドローンは、すべてのソースから1.25倍のダメージを受けます"
 
-#: src-en/data/blueprints.xml.append:3815
+#: src-en/data/blueprints.xml.append:3701
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[2]"
 msgstr "1.20x修理速度"
 
-#: src-en/data/blueprints.xml.append:3816
+#: src-en/data/blueprints.xml.append:3702
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[3]"
 msgstr "火災から0.6倍のダメージを受けます"
 
-#: src-en/data/blueprints.xml.append:3817
+#: src-en/data/blueprints.xml.append:3703
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[4]"
 msgstr "さらに速く修理を学びます"
 
-#: src-en/data/blueprints.xml.append:3822
+#: src-en/data/blueprints.xml.append:3708
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_SHIELD\"]/title"
 msgstr "sh散弾シールド"
 
-#: src-en/data/blueprints.xml.append:3823
+#: src-en/data/blueprints.xml.append:3709
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_SHIELD\"]/desc"
 msgstr "aaaaa。"
 
-#: src-en/data/blueprints.xml.append:3830
+#: src-en/data/blueprints.xml.append:3716
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/class"
 msgstr "エリートサイエンスコルベット"
 
-#: src-en/data/blueprints.xml.append:3831
+#: src-en/data/blueprints.xml.append:3717
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/name"
 msgstr "交渉者"
 
-#: src-en/data/blueprints.xml.append:3833
+#: src-en/data/blueprints.xml.append:3719
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/desc"
 msgstr "この船は、近づきすぎる入ってくる発射体と迷いのドローンから保護するために、それ自体にrap散弾の盾を作成します。"
 
-#: src-en/data/blueprints.xml.append:3909
+#: src-en/data/blueprints.xml.append:3795
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/title"
 msgstr "チャフキャノン"
 
-#: src-en/data/blueprints.xml.append:3910
+#: src-en/data/blueprints.xml.append:3796
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/short"
 msgstr "チャフキャノン"
 
-#: src-en/data/blueprints.xml.append:3911
+#: src-en/data/blueprints.xml.append:3797
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/desc"
 msgstr "[基地クールダウン：8]この大砲は、船の周りにrap散弾の盾を配備し、それぞれが発射体をブロックできる。"
 
-#: src-en/data/blueprints.xml.append:3912
+#: src-en/data/blueprints.xml.append:3798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/tooltip"
 msgstr "チャフキャノン"
 
-#: src-en/data/blueprints.xml.append:3939
+#: src-en/data/blueprints.xml.append:3825
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_civilian\"]/title"
 msgstr "民間人"
 
-#: src-en/data/blueprints.xml.append:3940
+#: src-en/data/blueprints.xml.append:3826
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_civilian\"]/short"
 msgstr "民間人"
 
-#: src-en/data/blueprints.xml.append:3964
+#: src-en/data/blueprints.xml.append:3850
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SCIENCE_LOOT\"]/title"
 msgstr "バーストレーザーMK IV"
 
-#: src-en/data/blueprints.xml.append:3965
+#: src-en/data/blueprints.xml.append:3851
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SCIENCE_LOOT\"]/short"
 msgstr "バーストIV"
 
-#: src-en/data/blueprints.xml.append:3967
+#: src-en/data/blueprints.xml.append:3853
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SCIENCE_LOOT\"]/desc"
 msgstr "バーストレーザーラインの最強。一般的な船には販売されていませんが、この武器はレーザー武器の中で最大のサルボを発射できます。"
 
-#: src-en/data/blueprints.xml.append:4003
+#: src-en/data/blueprints.xml.append:3889
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/desc"
 msgstr ""
@@ -1659,42 +1600,42 @@ msgstr ""
 "\n"
 "継承された人間の統計：軽微な窒息抵抗は、スキルをより速く学びます"
 
-#: src-en/data/blueprints.xml.append:4007
+#: src-en/data/blueprints.xml.append:3893
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/title"
 msgstr "人間の科学者"
 
-#: src-en/data/blueprints.xml.append:4008
+#: src-en/data/blueprints.xml.append:3894
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/short"
 msgstr "科学者"
 
-#: src-en/data/blueprints.xml.append:4011
+#: src-en/data/blueprints.xml.append:3897
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[1]"
 msgstr "乗組員の戦闘で1.2倍のダメージを与えます"
 
-#: src-en/data/blueprints.xml.append:4012
+#: src-en/data/blueprints.xml.append:3898
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[2]"
 msgstr "乗組員の戦闘から0.7倍のダメージ、火災から0.6倍"
 
-#: src-en/data/blueprints.xml.append:4013
+#: src-en/data/blueprints.xml.append:3899
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[3]"
 msgstr "同じ部屋の敵対的なドローンは、すべてのソースから2倍のダメージを受けます"
 
-#: src-en/data/blueprints.xml.append:4014
+#: src-en/data/blueprints.xml.append:3900
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[4]"
 msgstr "1.20x修理速度"
 
-#: src-en/data/blueprints.xml.append:4015
+#: src-en/data/blueprints.xml.append:3901
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[5]"
 msgstr "さらに速く修理を学びます"
 
-#: src-en/data/blueprints.xml.append:4020
+#: src-en/data/blueprints.xml.append:3906
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/desc"
 msgstr ""
@@ -1702,206 +1643,206 @@ msgstr ""
 "\n"
 "継承された人間の統計：軽微な窒息抵抗は、スキルをより速く学びます"
 
-#: src-en/data/blueprints.xml.append:4024
+#: src-en/data/blueprints.xml.append:3910
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/title"
 msgstr "人間の科学者"
 
-#: src-en/data/blueprints.xml.append:4025
+#: src-en/data/blueprints.xml.append:3911
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/short"
 msgstr "科学者"
 
-#: src-en/data/blueprints.xml.append:4028
+#: src-en/data/blueprints.xml.append:3914
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[1]"
 msgstr "乗組員の戦闘で1.2倍のダメージを与えます"
 
-#: src-en/data/blueprints.xml.append:4029
+#: src-en/data/blueprints.xml.append:3915
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[2]"
 msgstr "乗組員の戦闘から0.7倍のダメージ、火災から0.6倍"
 
-#: src-en/data/blueprints.xml.append:4030
+#: src-en/data/blueprints.xml.append:3916
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[3]"
 msgstr "同じ部屋の敵対的なドローンは、すべてのソースから2倍のダメージを受けます"
 
-#: src-en/data/blueprints.xml.append:4031
+#: src-en/data/blueprints.xml.append:3917
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[4]"
 msgstr "1.20x修理速度"
 
-#: src-en/data/blueprints.xml.append:4032
+#: src-en/data/blueprints.xml.append:3918
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[5]"
 msgstr "さらに速く修理を学びます"
 
-#: src-en/data/blueprints.xml.append:4037
+#: src-en/data/blueprints.xml.append:3923
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/class"
 msgstr "エリート武器巡洋艦"
 
-#: src-en/data/blueprints.xml.append:4038
+#: src-en/data/blueprints.xml.append:3924
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/name"
 msgstr "より多くのパウア"
 
-#: src-en/data/blueprints.xml.append:4040
+#: src-en/data/blueprints.xml.append:3926
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/desc"
 msgstr ""
 "この船の武器システムは、最大システムの電力を12の強化するために強化されていますが、この追加の電源ドローは、どんな種類の医療システムを設置できないことを意味します。"
 
-#: src-en/data/blueprints.xml.append:4113
+#: src-en/data/blueprints.xml.append:3999
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOOR_LOCKS\"]/title"
 msgstr "強力な武器システム"
 
-#: src-en/data/blueprints.xml.append:4114
+#: src-en/data/blueprints.xml.append:4000
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOOR_LOCKS\"]/desc"
 msgstr ""
 "武器システムは12の最大システム電力を持つように強化されていますが、この追加のパワードローは、武器システムの電源を入れている間にドアがロックされることを意味します。"
 
-#: src-en/data/blueprints.xml.append:4121
+#: src-en/data/blueprints.xml.append:4007
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SCRAP\"]/title"
 msgstr "小貨物ホールド"
 
-#: src-en/data/blueprints.xml.append:4122
+#: src-en/data/blueprints.xml.append:4008
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SCRAP\"]/desc"
 msgstr ""
 "貨物ホールドで75のスクラップに達すると、戦闘やイベントからこれ以上得ることができません。\n"
 "+20％スクラップゲイン。"
 
-#: src-en/data/blueprints.xml.append:4131
+#: src-en/data/blueprints.xml.append:4017
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/title"
 msgstr "拡散キャノンMk i"
 
-#: src-en/data/blueprints.xml.append:4132
+#: src-en/data/blueprints.xml.append:4018
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/short"
 msgstr "拡散i"
 
-#: src-en/data/blueprints.xml.append:4133
+#: src-en/data/blueprints.xml.append:4019
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/desc"
 msgstr ""
 "この武器から発射された各発射体は、シールドに衝撃を与え、1つのシールドレイヤーを倒してから、敵の船のどこかに衝突する2つの発射体に分割されます。\n"
 "発射体がそれぞれの新しい発射体を分割すると、衝撃点から最大10ピクセル逸脱します。スーパーシールドを介して動作しません。"
 
-#: src-en/data/blueprints.xml.append:4175
+#: src-en/data/blueprints.xml.append:4061
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/title"
 msgstr "拡散キャノンMK II"
 
-#: src-en/data/blueprints.xml.append:4176
+#: src-en/data/blueprints.xml.append:4062
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/short"
 msgstr "びまん性II"
 
-#: src-en/data/blueprints.xml.append:4177
+#: src-en/data/blueprints.xml.append:4063
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/desc"
 msgstr ""
 "この武器から発射された各発射体は、シールドに衝撃を与え、1つのシールドレイヤーを倒してから、敵の船のどこかに衝突する2つの発射体に分割されます。\n"
 "発射体がそれぞれの新しい発射体を分割すると、衝撃点から最大10ピクセル逸脱します。スーパーシールドを介して動作しません。"
 
-#: src-en/data/blueprints.xml.append:4219
+#: src-en/data/blueprints.xml.append:4105
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/title"
 msgstr "拡散キャノンMK III"
 
-#: src-en/data/blueprints.xml.append:4220
+#: src-en/data/blueprints.xml.append:4106
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/short"
 msgstr "びまん性III"
 
-#: src-en/data/blueprints.xml.append:4221
+#: src-en/data/blueprints.xml.append:4107
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/desc"
 msgstr ""
 "この武器から発射された各発射体は、シールドに衝撃を与え、1つのシールドレイヤーを倒してから、敵の船のどこかに衝突する2つの発射体に分割されます。\n"
 "発射体がそれぞれの新しい発射体を分割すると、衝撃点から最大10ピクセル逸脱します。スーパーシールドを介して動作しません。"
 
-#: src-en/data/blueprints.xml.append:4263
+#: src-en/data/blueprints.xml.append:4149
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/title"
 msgstr "拡散イオン"
 
-#: src-en/data/blueprints.xml.append:4264
+#: src-en/data/blueprints.xml.append:4150
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/short"
 msgstr "びまん性イオン"
 
-#: src-en/data/blueprints.xml.append:4265
+#: src-en/data/blueprints.xml.append:4151
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/desc"
 msgstr ""
 "この武器から発射された各発射体は、シールドに影響を与え、イオンに衝撃を与え、それぞれが敵の船のどこかに当たる2つの発射体に分割されます。\n"
 "発射体がそれぞれの新しい発射体を分割すると、衝撃点から最大10ピクセル逸脱します。スーパーシールドを介して動作しません。"
 
-#: src-en/data/blueprints.xml.append:4309
+#: src-en/data/blueprints.xml.append:4195
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/class"
 msgstr "エリートリアクタークルーザー"
 
-#: src-en/data/blueprints.xml.append:4310
+#: src-en/data/blueprints.xml.append:4196
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/name"
 msgstr "コンパクトコレクター"
 
-#: src-en/data/blueprints.xml.append:4312
+#: src-en/data/blueprints.xml.append:4198
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/desc"
 msgstr "巨大な原子炉を備えた船ですが、これは貨物室に侵入し、あなたが保持できるスクラップの量を制限します"
 
-#: src-en/data/blueprints.xml.append:4385
+#: src-en/data/blueprints.xml.append:4271
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/class"
 msgstr "エリート砲兵隊"
 
-#: src-en/data/blueprints.xml.append:4386
+#: src-en/data/blueprints.xml.append:4272
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/name"
 msgstr "アクセラレータ"
 
-#: src-en/data/blueprints.xml.append:4388
+#: src-en/data/blueprints.xml.append:4274
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/desc"
 msgstr ""
 "この船には特別に設計された砲があり、敵の船にフィニッシュヒットを届けるときに電力を獲得できるようになり、このパワーを使用して砲兵の統計をアップグレードできます。"
 
-#: src-en/data/blueprints.xml.append:4463
+#: src-en/data/blueprints.xml.append:4349
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/title"
 msgstr "Hektarモジュラーレーザー砲"
 
-#: src-en/data/blueprints.xml.append:4464
+#: src-en/data/blueprints.xml.append:4350
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/short"
 msgstr "Hektarモジュラーレーザー砲"
 
-#: src-en/data/blueprints.xml.append:4465
+#: src-en/data/blueprints.xml.append:4351
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/desc"
 msgstr "[ベースクールダウン：15]デフォルトで3つのレーザーを発射し、無限の数のモジュラーコンポーネントをインストールできます。"
 
-#: src-en/data/blueprints.xml.append:4468
+#: src-en/data/blueprints.xml.append:4354
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/tooltip"
 msgstr "モジュラーレーザー。"
 
-#: src-en/data/blueprints.xml.append:4482
+#: src-en/data/blueprints.xml.append:4368
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_NO_DOOR\"]/title"
 msgstr "個人的なテレポーター"
 
-#: src-en/data/blueprints.xml.append:4483
+#: src-en/data/blueprints.xml.append:4369
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_NO_DOOR\"]/desc"
 msgstr "乗組員は船の周りでテレポートすることができますが、武器システムが無効になっている場合にのみ機能します。"
 
-#: src-en/data/blueprints.xml.append:4490
+#: src-en/data/blueprints.xml.append:4376
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOCKING_DRILL\"]/title"
 msgstr "ドッキングドリル"
 
-#: src-en/data/blueprints.xml.append:4491
+#: src-en/data/blueprints.xml.append:4377
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOCKING_DRILL\"]/desc"
 msgstr ""
@@ -1911,19 +1852,19 @@ msgstr ""
 "さらに、これにより、発射体はあなたとあなたの敵の両方に脱皮を怠ります（クロークされたときは除く）。\n"
 "あなたが彼らと一緒にドッキングすると、敵は2分間逃げることができません。"
 
-#: src-en/data/blueprints.xml.append:4502
+#: src-en/data/blueprints.xml.append:4388
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_UP_ARTI\"]/title"
 msgstr "アップグレードされた砲"
 
-#: src-en/data/blueprints.xml.append:4503
+#: src-en/data/blueprints.xml.append:4389
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_UP_ARTI\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4510
+#: src-en/data/blueprints.xml.append:4396
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAP_HULL\"]/title"
 msgstr "スクラップハル"
 
-#: src-en/data/blueprints.xml.append:4511
+#: src-en/data/blueprints.xml.append:4397
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAP_HULL\"]/desc"
 msgstr ""
 "船体の健康状態を持つ代わりに、0のスクラップに達した場合、船は死にます。\n"
@@ -1931,506 +1872,510 @@ msgstr ""
 "\n"
 "スクラップゲインを25％増加させる"
 
-#: src-en/data/blueprints.xml.append:4522
+#: src-en/data/blueprints.xml.append:4408
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/title"
 msgstr "コインキャノンMk i"
 
-#: src-en/data/blueprints.xml.append:4523
+#: src-en/data/blueprints.xml.append:4409
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/short"
 msgstr "コインガンi"
 
-#: src-en/data/blueprints.xml.append:4524
+#: src-en/data/blueprints.xml.append:4410
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/desc"
 msgstr ""
 "この武器はコインを発射し、各発射体は船から2つのスクラップを除去しますが、船に正常に衝突すると、スクラップと追加が追加され、シールドやドローンを打つときはスクラップを返さないようにします。"
 
-#: src-en/data/blueprints.xml.append:4558
+#: src-en/data/blueprints.xml.append:4444
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/title"
 msgstr "コインキャノンMk i"
 
-#: src-en/data/blueprints.xml.append:4559
+#: src-en/data/blueprints.xml.append:4445
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/short"
 msgstr "コインガンi"
 
-#: src-en/data/blueprints.xml.append:4560
+#: src-en/data/blueprints.xml.append:4446
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/desc"
 msgstr ""
 "この武器はコインを発射し、各発射体は船から2つのスクラップを除去しますが、船に正常にヒットすると、スクラップを返します。シールドやドローンを打つときはスクラップを返しません。"
 
-#: src-en/data/blueprints.xml.append:4593
+#: src-en/data/blueprints.xml.append:4479
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/class"
 msgstr "ロックダウンクルーザー"
 
-#: src-en/data/blueprints.xml.append:4594
+#: src-en/data/blueprints.xml.append:4480
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/name"
 msgstr "アドアラブル"
 
-#: src-en/data/blueprints.xml.append:4596
+#: src-en/data/blueprints.xml.append:4482
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/desc"
 msgstr "この船は、小さな個人のテレポーターを利用して乗組員を船の周りに移動させますが、武器が動力を与えている間は機能しません。"
 
-#: src-en/data/blueprints.xml.append:4669
+#: src-en/data/blueprints.xml.append:4555
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/class"
 msgstr "スクラップクルーザー"
 
-#: src-en/data/blueprints.xml.append:4670
+#: src-en/data/blueprints.xml.append:4556
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/name"
 msgstr "スクラピード"
 
-#: src-en/data/blueprints.xml.append:4672
+#: src-en/data/blueprints.xml.append:4558
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/desc"
 msgstr ""
 "この船の船体はほぼ完全にスクラップで構成されているため、非常に簡単に修理できますが、非常に簡単に離れているため、スクラップをすばやく失う可能性があります。"
 
-#: src-en/data/blueprints.xml.append:4745
+#: src-en/data/blueprints.xml.append:4631
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/class"
 msgstr "侵略巡洋艦"
 
-#: src-en/data/blueprints.xml.append:4746
+#: src-en/data/blueprints.xml.append:4632
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/name"
 msgstr "ドッキングスピード！"
 
-#: src-en/data/blueprints.xml.append:4748
+#: src-en/data/blueprints.xml.append:4634
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/desc"
 msgstr "この船は、乗組員が敵の船に即座に出入りできるようにするためのドッキングドリルの場合に使用されます。"
 
-#: src-en/data/blueprints.xml.append:4825
+#: src-en/data/blueprints.xml.append:4711
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/title"
 msgstr "ワンダードロン+（TM）"
 
-#: src-en/data/blueprints.xml.append:4826
+#: src-en/data/blueprints.xml.append:4712
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/short"
 msgstr "Wonderdrone+"
 
-#: src-en/data/blueprints.xml.append:4827
+#: src-en/data/blueprints.xml.append:4713
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/desc"
 msgstr ""
 "ワンダードロンのアップグレードされたバリアントは、4つの武器すべてに一度に電力を供給することができます。それらはミサイル、イオン、ビーム、レーザーです。"
 
-#: src-en/data/blueprints.xml.append:4842
+#: src-en/data/blueprints.xml.append:4728
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DRONE_BEAM_COMBAT\"]/title"
 msgstr "ドローンビーム"
 
-#: src-en/data/blueprints.xml.append:4861
+#: src-en/data/blueprints.xml.append:4747
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/title"
 msgstr "バーストドローンmk i"
 
-#: src-en/data/blueprints.xml.append:4862
+#: src-en/data/blueprints.xml.append:4748
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/short"
 msgstr "バーストドローンi"
 
-#: src-en/data/blueprints.xml.append:4863
+#: src-en/data/blueprints.xml.append:4749
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/desc"
 msgstr ""
 "ワンダードロンのアップグレードされたバリアントは、4つの武器すべてに一度に電力を供給することができます。それらはミサイル、イオン、ビーム、レーザーです。"
 
-#: src-en/data/blueprints.xml.append:4878
+#: src-en/data/blueprints.xml.append:4764
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DRONE_BEAM_COMBAT2\"]/title"
 msgstr "ドローンビーム"
 
-#: src-en/data/blueprints.xml.append:4897
+#: src-en/data/blueprints.xml.append:4783
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/title"
 msgstr "ダイナミック砲"
 
-#: src-en/data/blueprints.xml.append:4898
+#: src-en/data/blueprints.xml.append:4784
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4899
+#: src-en/data/blueprints.xml.append:4785
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/desc"
 msgstr "[ベースクールダウン：20]デフォルトでは、それぞれ1ダメージを与える2つのレーザーを発射します。"
 
-#: src-en/data/blueprints.xml.append:4930
+#: src-en/data/blueprints.xml.append:4816
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/class"
 msgstr "エリートサイエンスカッター"
 
-#: src-en/data/blueprints.xml.append:4931
+#: src-en/data/blueprints.xml.append:4817
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/name"
 msgstr "ISS"
 
-#: src-en/data/blueprints.xml.append:4933
+#: src-en/data/blueprints.xml.append:4819
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/desc"
 msgstr "幸運のキャプテン。"
 
-#: src-en/data/blueprints.xml.append:5006
+#: src-en/data/blueprints.xml.append:4892
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_HIGH_WEAPON\"]/title"
 msgstr "高出力兵器"
 
-#: src-en/data/blueprints.xml.append:5007
+#: src-en/data/blueprints.xml.append:4893
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_HIGH_WEAPON\"]/desc"
 msgstr ""
 "この船の武器マウントは、4つ以上の電力を使用する武器用に特別に設計されています。これらの武器は、2つの電力のみを必要とするように縮小されています。\n"
 "2パワー以下を使用する武器は、これらの武器スロットでは機能しません。3パワー武器は正常に機能します"
 
-#: src-en/data/blueprints.xml.append:5015
+#: src-en/data/blueprints.xml.append:4901
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_RANDOM\"]/title"
 msgstr "スーパースクランブラー"
 
-#: src-en/data/blueprints.xml.append:5016
+#: src-en/data/blueprints.xml.append:4902
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_RANDOM\"]/desc"
 msgstr "すべての武器、乗組員、ドローンをすべての戦闘に置き換えます。"
 
-#: src-en/data/blueprints.xml.append:5024
+#: src-en/data/blueprints.xml.append:4910
+msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[55]/title"
+msgstr "時限爆弾の配備者"
+
+#: src-en/data/blueprints.xml.append:4911
+msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[55]/short"
+msgstr "爆弾の配備者"
+
+#: src-en/data/blueprints.xml.append:4912
+msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[55]/desc"
+msgstr "請求するたびに、別の時刻爆弾が構築されます。"
+
+#: src-en/data/blueprints.xml.append:4931
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/title"
 msgstr "時限爆弾の配備者"
 
-#: src-en/data/blueprints.xml.append:5025
+#: src-en/data/blueprints.xml.append:4932
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/short"
 msgstr "爆弾の配備者"
 
-#: src-en/data/blueprints.xml.append:5026
+#: src-en/data/blueprints.xml.append:4933
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/desc"
 msgstr "請求するたびに、別の時刻爆弾が構築されます。"
 
-#: src-en/data/blueprints.xml.append:5045
-msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[57]/title"
-msgstr "時限爆弾の配備者"
-
-#: src-en/data/blueprints.xml.append:5046
-msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[57]/short"
-msgstr "爆弾の配備者"
-
-#: src-en/data/blueprints.xml.append:5047
-msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[57]/desc"
-msgstr "請求するたびに、別の時刻爆弾が構築されます。"
-
-#: src-en/data/blueprints.xml.append:5078
+#: src-en/data/blueprints.xml.append:4964
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/title"
 msgstr "時限爆弾工場"
 
-#: src-en/data/blueprints.xml.append:5079
+#: src-en/data/blueprints.xml.append:4965
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/short"
 msgstr "時限爆弾工場"
 
-#: src-en/data/blueprints.xml.append:5080
+#: src-en/data/blueprints.xml.append:4966
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/desc"
 msgstr ""
 "[ベースクールダウン：20]\n"
 "請求するたびに、別の時刻爆弾が構築されます。"
 
-#: src-en/data/blueprints.xml.append:5083
+#: src-en/data/blueprints.xml.append:4969
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/tooltip"
 msgstr "請求するたびに新しい時爆弾を作成します。"
 
-#: src-en/data/blueprints.xml.append:5100
+#: src-en/data/blueprints.xml.append:4986
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/title"
 msgstr "二次爆弾工場"
 
-#: src-en/data/blueprints.xml.append:5101
+#: src-en/data/blueprints.xml.append:4987
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/short"
 msgstr "二次爆弾工場"
 
-#: src-en/data/blueprints.xml.append:5102
+#: src-en/data/blueprints.xml.append:4988
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/desc"
 msgstr ""
 "[ベースクールダウン：20]\n"
 "請求するたびに、別の時刻爆弾が構築されます。"
 
-#: src-en/data/blueprints.xml.append:5105
+#: src-en/data/blueprints.xml.append:4991
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/tooltip"
 msgstr "請求するたびに新しい時爆弾を作成します。"
 
-#: src-en/data/blueprints.xml.append:5121
+#: src-en/data/blueprints.xml.append:5007
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/title"
 msgstr "ウォーキング時爆弾"
 
-#: src-en/data/blueprints.xml.append:5122
+#: src-en/data/blueprints.xml.append:5008
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/short"
 msgstr "ウォーキング時爆弾"
 
-#: src-en/data/blueprints.xml.append:5123
+#: src-en/data/blueprints.xml.append:5009
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/desc"
 msgstr "この爆弾が爆発すると、1頭の船体損傷、1つのシステム損傷、および30の乗組員の損傷が50％の違反チャンスを与えます。"
 
-#: src-en/data/blueprints.xml.append:5126
+#: src-en/data/blueprints.xml.append:5012
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[1]"
 msgstr "0.5倍の戦闘ダメージ"
 
-#: src-en/data/blueprints.xml.append:5127
+#: src-en/data/blueprints.xml.append:5013
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[2]"
 msgstr "0.5x移動速度。"
 
-#: src-en/data/blueprints.xml.append:5128
+#: src-en/data/blueprints.xml.append:5014
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[3]"
 msgstr "窒息の免疫は、火災による0.2倍の損傷を受けます。"
 
-#: src-en/data/blueprints.xml.append:5129
+#: src-en/data/blueprints.xml.append:5015
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[4]"
 msgstr "10秒後に爆発します。"
 
-#: src-en/data/blueprints.xml.append:5130
+#: src-en/data/blueprints.xml.append:5016
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[5]"
 msgstr "爆発は、1頭のハルダマガー、1つのシステム損傷、30の乗組員の損傷を50％の違反チャンスで行います。"
 
-#: src-en/data/blueprints.xml.append:5136
+#: src-en/data/blueprints.xml.append:5022
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/title"
 msgstr "ウォーキング時爆弾"
 
-#: src-en/data/blueprints.xml.append:5137
+#: src-en/data/blueprints.xml.append:5023
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/short"
 msgstr "ウォーキング時爆弾"
 
-#: src-en/data/blueprints.xml.append:5138
+#: src-en/data/blueprints.xml.append:5024
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/desc"
 msgstr "この爆弾が爆発すると、2つの船体損傷、2つのシステム損傷、および60の乗組員の損傷が100％違反する可能性があります。"
 
-#: src-en/data/blueprints.xml.append:5141
+#: src-en/data/blueprints.xml.append:5027
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[1]"
 msgstr "0.5倍の戦闘ダメージ"
 
-#: src-en/data/blueprints.xml.append:5142
+#: src-en/data/blueprints.xml.append:5028
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[2]"
 msgstr "0.5x移動速度。"
 
-#: src-en/data/blueprints.xml.append:5143
+#: src-en/data/blueprints.xml.append:5029
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[3]"
 msgstr "窒息の免疫は、火災による0.2倍の損傷を受けます。"
 
-#: src-en/data/blueprints.xml.append:5144
+#: src-en/data/blueprints.xml.append:5030
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[4]"
 msgstr "工場の部屋の外側に1秒あたり1ダメージがかかります。"
 
-#: src-en/data/blueprints.xml.append:5145
+#: src-en/data/blueprints.xml.append:5031
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[5]"
 msgstr "工場の部屋にいる間、1秒あたり1ダメージを癒します。"
 
-#: src-en/data/blueprints.xml.append:5146
+#: src-en/data/blueprints.xml.append:5032
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[6]"
 msgstr "工場の部屋を出てから10秒後に爆発し、爆発は死によってキャンセルされました。"
 
-#: src-en/data/blueprints.xml.append:5147
+#: src-en/data/blueprints.xml.append:5033
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[7]"
 msgstr "爆発は、2匹の船体ダマガー、2つのシステム損傷、60の乗組員の損傷を100％違反する可能性があります。"
 
-#: src-en/data/blueprints.xml.append:5153
+#: src-en/data/blueprints.xml.append:5039
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/title"
 msgstr "ウォーキング時爆弾"
 
-#: src-en/data/blueprints.xml.append:5154
+#: src-en/data/blueprints.xml.append:5040
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/short"
 msgstr "ウォーキング時爆弾"
 
-#: src-en/data/blueprints.xml.append:5155
+#: src-en/data/blueprints.xml.append:5041
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/desc"
 msgstr "この爆弾が爆発すると、50％の違反チャンスで2つの船体損傷、1つのシステム損傷、30の乗組員の損傷が発生します。"
 
-#: src-en/data/blueprints.xml.append:5158
+#: src-en/data/blueprints.xml.append:5044
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[1]"
 msgstr "0.5倍の戦闘ダメージ"
 
-#: src-en/data/blueprints.xml.append:5159
+#: src-en/data/blueprints.xml.append:5045
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[2]"
 msgstr "0.5x移動速度。"
 
-#: src-en/data/blueprints.xml.append:5160
+#: src-en/data/blueprints.xml.append:5046
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[3]"
 msgstr "窒息の免疫は、火災による0.2倍の損傷を受けます。"
 
-#: src-en/data/blueprints.xml.append:5161
+#: src-en/data/blueprints.xml.append:5047
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[4]"
 msgstr "工場の部屋の外側に1秒あたり1ダメージがかかります。"
 
-#: src-en/data/blueprints.xml.append:5162
+#: src-en/data/blueprints.xml.append:5048
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[5]"
 msgstr "工場の部屋にいる間、1秒あたり1ダメージを癒します。"
 
-#: src-en/data/blueprints.xml.append:5163
+#: src-en/data/blueprints.xml.append:5049
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[6]"
 msgstr "指揮官と死に爆発します。"
 
-#: src-en/data/blueprints.xml.append:5164
+#: src-en/data/blueprints.xml.append:5050
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[7]"
 msgstr "爆発は、2頭の船体ダマガー、1つのシステム損傷、および30の乗組員の損傷を50％の違反チャンスで行います。"
 
-#: src-en/data/blueprints.xml.append:5170
+#: src-en/data/blueprints.xml.append:5056
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/title"
 msgstr "ウォーキング時爆弾"
 
-#: src-en/data/blueprints.xml.append:5171
+#: src-en/data/blueprints.xml.append:5057
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/short"
 msgstr "ウォーキング時爆弾"
 
-#: src-en/data/blueprints.xml.append:5172
+#: src-en/data/blueprints.xml.append:5058
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/desc"
 msgstr "この爆弾が爆発すると、1つのシステム損傷が発生し、15％の火災が発生し、15の乗組員の損傷が発生します。"
 
-#: src-en/data/blueprints.xml.append:5175
+#: src-en/data/blueprints.xml.append:5061
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[1]"
 msgstr "0.5倍の戦闘ダメージ"
 
-#: src-en/data/blueprints.xml.append:5176
+#: src-en/data/blueprints.xml.append:5062
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[2]"
 msgstr "窒息や火の免疫。"
 
-#: src-en/data/blueprints.xml.append:5177
+#: src-en/data/blueprints.xml.append:5063
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[3]"
 msgstr "工場の部屋の外側に1秒あたり1ダメージがかかります。"
 
-#: src-en/data/blueprints.xml.append:5178
+#: src-en/data/blueprints.xml.append:5064
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[4]"
 msgstr "工場の部屋にいる間、1秒あたり1ダメージを癒します。"
 
-#: src-en/data/blueprints.xml.append:5179
+#: src-en/data/blueprints.xml.append:5065
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[5]"
 msgstr "工場の部屋を出てから10秒後に爆発し、爆発は死によってキャンセルされました。"
 
-#: src-en/data/blueprints.xml.append:5180
+#: src-en/data/blueprints.xml.append:5066
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[6]"
 msgstr "爆発により、1つのシステム損傷が発生し、15％の火災が発生し、15の乗組員が損傷します。"
 
-#: src-en/data/blueprints.xml.append:5186
+#: src-en/data/blueprints.xml.append:5072
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/class"
 msgstr "Minelayer Cruiser"
 
-#: src-en/data/blueprints.xml.append:5187
+#: src-en/data/blueprints.xml.append:5073
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/name"
 msgstr "地雷原"
 
-#: src-en/data/blueprints.xml.append:5188
+#: src-en/data/blueprints.xml.append:5074
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/desc"
 msgstr "この船は、人々が地雷原をさまようのを待つことに飽きてきた海賊による要求であったと言われています..."
 
-#: src-en/data/blueprints.xml.append:5259
+#: src-en/data/blueprints.xml.append:5145
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY\"]/title"
 msgstr "ドローン工場が隠されています"
 
-#: src-en/data/blueprints.xml.append:5260
+#: src-en/data/blueprints.xml.append:5146
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5267
+#: src-en/data/blueprints.xml.append:5153
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY_2\"]/title"
 msgstr "ドローン工場が隠されています"
 
-#: src-en/data/blueprints.xml.append:5268
+#: src-en/data/blueprints.xml.append:5154
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5275
+#: src-en/data/blueprints.xml.append:5161
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MISSILE_BOMBS\"]/title"
 msgstr "二次ペイロード"
 
-#: src-en/data/blueprints.xml.append:5276
+#: src-en/data/blueprints.xml.append:5162
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MISSILE_BOMBS\"]/desc"
 msgstr ""
 "私たちはその役に立たない電子ジャンクのいくつかを除去し、そこにこれらの歩行時間爆弾の1つを押し込みました。これにより、すべてのミサイルと爆弾が、10秒後に1頭の船体損傷、1つのシステム損傷、30乗組員の損傷をもたらす時刻爆弾を生み出します。"
 
-#: src-en/data/blueprints.xml.append:5283
+#: src-en/data/blueprints.xml.append:5169
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/class"
 msgstr "ペイロードクルーザー"
 
-#: src-en/data/blueprints.xml.append:5284
+#: src-en/data/blueprints.xml.append:5170
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/name"
 msgstr "howitzer"
 
-#: src-en/data/blueprints.xml.append:5285
+#: src-en/data/blueprints.xml.append:5171
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/desc"
 msgstr "すべてのミサイルに設置された歩行爆弾の二次ペイロードで、敵の乗組員の間で大混乱をもたらすように設計されたミサイル重い巡洋艦。"
 
-#: src-en/data/blueprints.xml.append:5358
+#: src-en/data/blueprints.xml.append:5244
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/class"
 msgstr "Minelayer Cruiser"
 
-#: src-en/data/blueprints.xml.append:5359
+#: src-en/data/blueprints.xml.append:5245
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/name"
 msgstr "鉱山フレイヤー"
 
-#: src-en/data/blueprints.xml.append:5360
+#: src-en/data/blueprints.xml.append:5246
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/desc"
 msgstr ""
 "ほぼ比類のないレベルの破壊を維持することができます。この船は武器を取り付けることができませんが、ツインドローン工場が非常に多くの鉱山を供給できる場合、実際には必要ありません。"
 
-#: src-en/data/blueprints.xml.append:5426
+#: src-en/data/blueprints.xml.append:5310
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"ARC_SUPER_HULL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5320
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/title"
 msgstr "実験的な鉱物"
 
-#: src-en/data/blueprints.xml.append:5427
+#: src-en/data/blueprints.xml.append:5321
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/short"
 msgstr "exp。私の"
 
-#: src-en/data/blueprints.xml.append:5428
+#: src-en/data/blueprints.xml.append:5322
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/desc"
 msgstr ""
 "鉱山発射装置は迅速に充電し、ゆっくりと移動する発射体のバーストを発射しますが、これらの発射体は、究極の破壊のために敵の船を横断できる歩行鉱山を展開するように特別に設計されています。また、艦隊のためにトラップを敷設する効率的な方法としても機能します。\n"

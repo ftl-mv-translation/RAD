@@ -453,8 +453,8 @@ msgstr "Flesh Hull Plating"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FLESH_HULL\"]/desc"
 msgstr ""
 "Through use of advanced bio-engineering, your hull is able to repair itself over time. However, it's quite unstable.\n"
-"\tWhenever you fire a weapon, your hull takes 1 damage, or damage equal to the hull damage of the weapon, whichever is higher.\n"
-"  At the start of battle you'll heal 10 hull damage automatically"
+"Whenever you fire a weapon, your hull takes 1 damage, or damage equal to the hull damage of the weapon, whichever is higher.\n"
+"At the start of battle you'll heal 10 hull damage automatically"
 
 #: src-en/data/blueprints.xml.append:894
 msgid ""

@@ -1,7 +1,7 @@
 {
   "lang": "ja",
   "originalLang": "en",
-  "version": "1.5.5",
+  "version": "1.5.7",
   "translation": {
     "Union Laboratory": {
       "deepl": "",
@@ -373,26 +373,6 @@
       "machine": "この武器には、ターゲティングコントロールを手から外すAIが組み込まれています。シールド、次に武器、次にパイロット/エンジンを削除することを優先し、その後、指定された部屋をターゲットにします。",
       "done": false
     },
-    "Station 37-A": {
-      "deepl": "",
-      "machine": "ステーション37-A",
-      "done": false
-    },
-    "A heavily modified civilian station. The Scientists installed a pair of engines to it. However, they're barely enough to make the station jump capable. It's unlikely you'll be able to dodge much with it.": {
-      "deepl": "",
-      "machine": "重く修正された民間局。科学者たちは、それにエンジンのペアをインストールしました。しかし、彼らはステーションのジャンプを可能にするのにかろうじて十分です。あなたがそれで多くをかわすことができることはまずありません。",
-      "done": false
-    },
-    "Shrapnel Coating": {
-      "deepl": "",
-      "machine": "sh散弾コーティング",
-      "done": false
-    },
-    "Allows you to apply a shrapnel coating to the ammo of one weapon, or weapon class, granting that weapon 1 system damage to adjacent rooms.": {
-      "deepl": "",
-      "machine": "1つの武器または武器クラスの弾薬にsh散弾コーティングを適用して、隣接する部屋にその武器1システムの損傷を許可することができます。",
-      "done": false
-    },
     "Jump Tracer": {
       "deepl": "",
       "machine": "ジャンプトレーサー",
@@ -408,9 +388,9 @@
       "machine": "肉の船体メッキ",
       "done": false
     },
-    "Through use of advanced bio-engineering, your hull is able to repair itself over time. However, it's quite unstable.\n\tWhenever you fire a weapon, your hull takes 1 damage, or damage equal to the hull damage of the weapon, whichever is higher.\n  At the start of battle you'll heal 10 hull damage automatically": {
+    "Through use of advanced bio-engineering, your hull is able to repair itself over time. However, it's quite unstable.\nWhenever you fire a weapon, your hull takes 1 damage, or damage equal to the hull damage of the weapon, whichever is higher.\nAt the start of battle you'll heal 10 hull damage automatically": {
       "deepl": "",
-      "machine": "高度なバイオエンジニアリングを使用することで、船体は時間とともに自らを修復することができます。しかし、それは非常に不安定です。\n武器を発射するたびに、船体は1つの損傷、または武器の船体損傷に等しい損傷を受けます。\n戦闘の開始時に、あなたは10頭の船体ダメージを自動的に癒します",
+      "machine": "",
       "done": false
     },
     "Alpha Experiment Crew. Once a powerful phantom at the end of its lifespan, it has been experimented and modified to set everything it touches on fire.\n\t\n\tInherited Phantom stats: takes no damage from hazards, 0.8x speed, has door phasing properties\n\tLeaves a trail of fire where ever it walks.": {
@@ -508,21 +488,6 @@
       "machine": "船を癒します",
       "done": false
     },
-    "Zoltan Shield Generator": {
-      "deepl": "",
-      "machine": "ゾルタンシールドジェネレーター",
-      "done": false
-    },
-    "[BASE COOLDOWN: 12] Generates a Super Shield Layer every time the artillery fires.": {
-      "deepl": "",
-      "machine": "[Base Cooldown：12]は、砲撃が発火するたびにスーパーシールド層を生成します。",
-      "done": false
-    },
-    "Creates a Super Shield.": {
-      "deepl": "",
-      "machine": "スーパーシールドを作成します。",
-      "done": false
-    },
     "Switch Drive": {
       "deepl": "",
       "machine": "スイッチドライブ",
@@ -531,6 +496,11 @@
     "[BASE COOLDOWN: 25] Each time it fires all the crew on each ship are teleported across to the other ship, regardless of which ship they originate from.": {
       "deepl": "",
       "machine": "[基地クールダウン：25]各船のすべての乗組員が発射するたびに、どの船から由来するかに関係なく、他の船にテレポートされます。",
+      "done": false
+    },
+    "Creates a Super Shield.": {
+      "deepl": "",
+      "machine": "スーパーシールドを作成します。",
       "done": false
     },
     "Experimental Ghost Cruiser": {
@@ -1836,6 +1806,11 @@
     "Able to sustain almost unparalleled levels of destruction. This ship is unable to mount weapons, however it doesn't really need them when the twin drone factories can supply so many mines.": {
       "deepl": "",
       "machine": "ほぼ比類のないレベルの破壊を維持することができます。この船は武器を取り付けることができませんが、ツインドローン工場が非常に多くの鉱山を供給できる場合、実際には必要ありません。",
+      "done": false
+    },
+    "Super hull": {
+      "deepl": "",
+      "machine": "",
       "done": false
     },
     "Experimental Minelayer": {
@@ -3441,6 +3416,56 @@
     "You arrive at the beacon face to face with a large pirate ship, it appears these must be the pirates who hired the scientists, they've probably got some pretty good stuff lying around, you'll just have to kill them for it.": {
       "deepl": "",
       "machine": "あなたは大きな海賊船で顔を合わせてビーコンに到着します。これらは科学者を雇った海賊でなければならないようです。",
+      "done": false
+    },
+    "The Outer Expansion \n\tClick to see more info.": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "FTL: The Outer Expansion\nDeveloped by: Arc\nCurrently Disabled.\n        \nCurrently one of the largest addon, adds many new races, crew, ships, sectors and more.\n        \nTo enable The Outer Expansion, go to the Multiverse Forums and visit the addon section!.": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "R&D\n\tClick to see more info.": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "R&D\nDeveloped by: Arc\nCurrently Enabled.\n\nAn addon designed around the use of Lua to create fun and unique gimmicks, this includes a variety of ships, weapons, crew, drones, and quests, although not entirely balanced they all try to introduce and focus on a unique gimmick you wouldn't find in MV otherwise.\n\nTo enable R&D, go to the Multiverse Forums and visit the addon section!.": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "FTL: FISHIER THAN LIGHT\n\tClick to see more info.": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "FTL: FISHIER THAN LIGHT\nDeveloped by: Arc\nCurrently Disabled.\n      \nFTL Fishing, what more do I need to say. Over 60 fish, all with unique uses and effects.\n      \nTo enable Fishier Than Light, go to the Multiverse Forums and visit the addon section!.": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "FTL: TRADING\n\tClick to see more info.": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "FTL: TRADING\nDeveloped by: Arc\nCurrently Disabled.\n        \nAdds an in depth trading system that lets you make smart financial decisions and generate scrap in a less dangerous way.\n        \nTo enable Trading, go to the Multiverse Forums and visit the addon section!.": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "FTL: GALAXY ON FIRE\n\tClick to see more info.": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "FTL: GALAXY ON FIRE\nDeveloped by: Arc\nCurrently Disabled.\n        \nAdds 3 ships, 40 new weapons, 2 new crew, and 1 new event based on the galaxy on fire franchise. All weapons function in completely new ways never seen before using brand new lua functions.\n        \nTo enable Galaxy On Fire, go to the Multiverse Forums and visit the addon section!.": {
+      "deepl": "",
+      "machine": "",
       "done": false
     },
     "Explore.": {

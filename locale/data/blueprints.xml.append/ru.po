@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 13:58+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-27 14:49+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -472,14 +472,13 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FLESH_HULL\"]/title"
 msgstr "Обшивка корпуса из плоти"
 
 #: src-en/data/blueprints.xml.append:885
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FLESH_HULL\"]/desc"
 msgstr ""
 "Благодаря использованию передовой биоинженерии ваш корпус способен со "
 "временем самовосстанавливаться. Однако он весьма нестабилен.\n"
-"\tКогда вы стреляете из оружия, ваш корпус получает 1 урон или урон, равный "
+"Когда вы стреляете из оружия, ваш корпус получает 1 урон или урон, равный "
 "урону по корпусу оружия, в зависимости от того, что выше.\n"
-"  В начале боя вы автоматически восстановите 10 корпуса."
+"В начале боя вы автоматически восстановите 10 корпуса."
 
 #: src-en/data/blueprints.xml.append:894
 msgid ""
@@ -2638,7 +2637,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:5310
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"ARC_SUPER_HULL\"]/title"
-msgstr ""
+msgstr "Суперобшивка"
 
 #: src-en/data/blueprints.xml.append:5320
 msgid ""

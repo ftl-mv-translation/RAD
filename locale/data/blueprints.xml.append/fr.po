@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-27 14:49+0000\n"
+"PO-Revision-Date: 2025-05-28 21:50+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/fr/>\n"
@@ -2411,7 +2411,7 @@ msgstr "0,5 fois la vitesse de déplacement."
 #: src-en/data/blueprints.xml.append:5014
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[3]"
-msgstr "Immunisé contre l'asphyxie, subit 0,2 fois les dégâts des incendies."
+msgstr "Immunisé à la suffocation, subit 0,2 fois les dégâts des incendies."
 
 #: src-en/data/blueprints.xml.append:5015
 msgid ""
@@ -2453,7 +2453,7 @@ msgstr "0,5 fois la vitesse de déplacement."
 #: src-en/data/blueprints.xml.append:5029
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[3]"
-msgstr "Immunisé contre l'asphyxie, subit 0,2 fois les dégâts des incendies."
+msgstr "Immunisé à la suffocation, subit 0,2 fois les dégâts des incendies."
 
 #: src-en/data/blueprints.xml.append:5030
 msgid ""
@@ -2513,7 +2513,7 @@ msgstr "0,5 fois la vitesse de déplacement."
 #: src-en/data/blueprints.xml.append:5046
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[3]"
-msgstr "Immunisé contre l'asphyxie, subit 0,2 fois les dégâts des incendies."
+msgstr "Immunisé à la suffocation, subit 0,2 fois les dégâts des incendies."
 
 #: src-en/data/blueprints.xml.append:5047
 msgid ""

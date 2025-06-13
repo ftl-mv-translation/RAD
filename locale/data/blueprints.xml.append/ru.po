@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-04 10:50+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-06-13 16:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1054,7 +1054,7 @@ msgstr "На этом корабле что-то пошло очень очен�
 
 #: src-en/data/blueprints.xml.append:2275
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_UNDER\"]/title"
-msgstr "Золтан под щитом"
+msgstr "Золтанский подщит"
 
 #: src-en/data/blueprints.xml.append:2276
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_UNDER\"]/desc"
@@ -2137,7 +2137,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4479
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/class"
-msgstr "Запирающий крейсер"
+msgstr "Закрытый крейсер"
 
 #: src-en/data/blueprints.xml.append:4480
 msgid ""

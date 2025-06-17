@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-17 10:14+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/rad/"
+"datablueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
@@ -909,11 +916,14 @@ msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:1914
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/descriptionOverride"
 msgstr ""
-"Cette arme draine complètement le bouclier de la cible, ce qui permet à vos armes de faire des ravages dans ses systèmes.\n"
-"Elle peut également détruire complètement un super-bouclier, mais il faut alors tirer une deuxième fois pour drainer le bouclier.\n"
+"Cette arme draine complètement le bouclier de la cible, ce qui permet à vos "
+"armes de faire des ravages dans ses systèmes.\n"
+"Elle peut également détruire complètement un super-bouclier, mais il faut "
+"alors tirer une deuxième fois pour drainer le bouclier.\n"
 "      \n"
 "Stats:\n"
 "Puissance requise : 2\n"
@@ -1171,9 +1181,14 @@ msgid ""
 msgstr "Armes à tirs multiples"
 
 #: src-en/data/blueprints.xml.append:2651
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_MULTISHOT\"]/desc"
 msgstr ""
-"Divise chaque projectile ou rayon tiré en deux, cependant les dégâts de coque, de système et d'ion sont réduits de moitié. Si la valeur de base est impaire, un projectile infligera plus de dégâts que l'autre. Lorsqu'il est utilisé avec des armes à haute énergie, tous les projectiles sont doublés mais conservent leurs dégâts d'origine.\n"
+"Divise chaque projectile ou rayon tiré en deux, cependant les dégâts de "
+"coque, de système et d'ion sont réduits de moitié. Si la valeur de base est "
+"impaire, un projectile infligera plus de dégâts que l'autre. Lorsqu'il est "
+"utilisé avec des armes à haute énergie, tous les projectiles sont doublés "
+"mais conservent leurs dégâts d'origine.\n"
 "\n"
 "Peut être installé en interne pour 20 ferrailles dans le menu de stockage."
 
@@ -1182,11 +1197,16 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/title
 msgstr "Armes à haute énergie"
 
 #: src-en/data/blueprints.xml.append:2661
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/desc"
 msgstr ""
-"Double les dégâts à la coque, les dégâts au système et les dégâts ioniques de tous les projectiles ou rayons que vous tirez, mais réduit le taux de recharge des armes de 60 %. Lorsqu'il est utilisé avec le tir multiple, tous les projectiles sont doublés mais conservent leurs dégâts d'origine.\n"
+"Double les dégâts à la coque, les dégâts au système et les dégâts ioniques "
+"de tous les projectiles ou rayons que vous tirez, mais réduit le taux de "
+"recharge des armes de 60 %. Lorsqu'il est utilisé avec le tir multiple, tous "
+"les projectiles sont doublés mais conservent leurs dégâts d'origine.\n"
 "\n"
-"Peut être installé en interne pour 20 ferrailles dans le menu de stockage, ne se cumule pas."
+"Peut être installé en interne pour 20 ferrailles dans le menu de stockage, "
+"ne se cumule pas."
 
 #: src-en/data/blueprints.xml.append:2670
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_RAILGUN\"]/title"

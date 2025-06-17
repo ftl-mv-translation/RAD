@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-17 10:02+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/rad/"
-"datatext_blueprintsxmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/text_blueprints.xml.append:2
 msgid ""
@@ -75,7 +68,8 @@ msgstr "Découvrir ce qu'il est advenu de la station disparue."
 #: src-en/data/text_blueprints.xml.append:14
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MANTIS_unlock\"]"
-msgstr "Se ranger du côté des scientifiques et trahir une certaine expérience."
+msgstr ""
+"Se ranger du côté des scientifiques et trahir une certaine expérience."
 
 #: src-en/data/text_blueprints.xml.append:15
 msgid ""
@@ -101,8 +95,8 @@ msgstr "Terminer toutes les quêtes du laboratoire R&D."
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_2_unlock\"]"
 msgstr ""
-"Terminer toutes les quêtes du laboratoire de R&D et débloquer le type C pour "
-"chacun des croiseurs de quête."
+"Terminer toutes les quêtes du laboratoire de R&D et débloquer le type C pour"
+" chacun des croiseurs de quête."
 
 #: src-en/data/text_blueprints.xml.append:21
 msgid ""

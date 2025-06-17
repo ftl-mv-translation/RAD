@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-17 10:02+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/rad/"
-"datatext_blueprintsxmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/text_blueprints.xml.append:2
 msgid ""
@@ -135,5 +128,4 @@ msgstr "이 함선을 해금하려면 A타입으로 5 구역에 도달하십시�
 #: src-en/data/text_blueprints.xml.append:28
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_3_unlock\"]"
-msgstr "이 함선을 해금하려면 B타입으로 5 구역에 도달하십시오. 혹은 A타입으로 게임을 "
-"승리하십시오."
+msgstr "이 함선을 해금하려면 B타입으로 5 구역에 도달하십시오. 혹은 A타입으로 게임을 승리하십시오."

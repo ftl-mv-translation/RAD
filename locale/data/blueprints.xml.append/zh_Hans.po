@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-17 10:03+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/rad/datablueprintsxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
@@ -746,1411 +739,1410 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/descriptionOverride"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1959
+#: src-en/data/blueprints.xml.append:1961
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_CHARGE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1960
+#: src-en/data/blueprints.xml.append:1962
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_CHARGE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1969
+#: src-en/data/blueprints.xml.append:1971
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1970
+#: src-en/data/blueprints.xml.append:1972
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1972
+#: src-en/data/blueprints.xml.append:1974
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2046
+#: src-en/data/blueprints.xml.append:2048
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2047
+#: src-en/data/blueprints.xml.append:2049
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2049
+#: src-en/data/blueprints.xml.append:2051
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2125
+#: src-en/data/blueprints.xml.append:2127
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2126
+#: src-en/data/blueprints.xml.append:2128
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2128
+#: src-en/data/blueprints.xml.append:2130
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2205
+#: src-en/data/blueprints.xml.append:2207
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2206
+#: src-en/data/blueprints.xml.append:2208
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2208
+#: src-en/data/blueprints.xml.append:2210
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2275
+#: src-en/data/blueprints.xml.append:2277
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_UNDER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2276
+#: src-en/data/blueprints.xml.append:2278
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_UNDER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2284
+#: src-en/data/blueprints.xml.append:2286
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAM\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2285
+#: src-en/data/blueprints.xml.append:2287
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAM\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2294
+#: src-en/data/blueprints.xml.append:2296
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2295
+#: src-en/data/blueprints.xml.append:2297
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2296
+#: src-en/data/blueprints.xml.append:2298
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2332
+#: src-en/data/blueprints.xml.append:2334
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2333
+#: src-en/data/blueprints.xml.append:2335
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2334
+#: src-en/data/blueprints.xml.append:2336
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2371
+#: src-en/data/blueprints.xml.append:2373
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2372
+#: src-en/data/blueprints.xml.append:2374
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2373
+#: src-en/data/blueprints.xml.append:2375
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2411
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2412
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/short"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:2413
 msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2414
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2415
+msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:2444
+#: src-en/data/blueprints.xml.append:2446
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2445
+#: src-en/data/blueprints.xml.append:2447
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2447
+#: src-en/data/blueprints.xml.append:2449
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2484
+#: src-en/data/blueprints.xml.append:2486
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2485
+#: src-en/data/blueprints.xml.append:2487
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2487
+#: src-en/data/blueprints.xml.append:2489
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2524
+#: src-en/data/blueprints.xml.append:2526
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2525
+#: src-en/data/blueprints.xml.append:2527
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2527
+#: src-en/data/blueprints.xml.append:2529
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2565
+#: src-en/data/blueprints.xml.append:2567
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2566
+#: src-en/data/blueprints.xml.append:2568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2568
+#: src-en/data/blueprints.xml.append:2570
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2608
+#: src-en/data/blueprints.xml.append:2610
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2609
+#: src-en/data/blueprints.xml.append:2611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2611
+#: src-en/data/blueprints.xml.append:2613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2648
+#: src-en/data/blueprints.xml.append:2650
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_MULTISHOT\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2649
+#: src-en/data/blueprints.xml.append:2651
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_MULTISHOT\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2658
+#: src-en/data/blueprints.xml.append:2660
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2659
+#: src-en/data/blueprints.xml.append:2661
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2668
+#: src-en/data/blueprints.xml.append:2670
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_RAILGUN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2669
+#: src-en/data/blueprints.xml.append:2671
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_RAILGUN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2677
+#: src-en/data/blueprints.xml.append:2679
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MOD_SUS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2678
+#: src-en/data/blueprints.xml.append:2680
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MOD_SUS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2687
+#: src-en/data/blueprints.xml.append:2689
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_MULTISHOT\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2688
+#: src-en/data/blueprints.xml.append:2690
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_MULTISHOT\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2698
+#: src-en/data/blueprints.xml.append:2700
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_BIGSHOT\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2699
+#: src-en/data/blueprints.xml.append:2701
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_BIGSHOT\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2709
+#: src-en/data/blueprints.xml.append:2711
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_RAILGUN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2710
+#: src-en/data/blueprints.xml.append:2712
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_RAILGUN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2720
+#: src-en/data/blueprints.xml.append:2722
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_MOD_SUS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2721
+#: src-en/data/blueprints.xml.append:2723
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_MOD_SUS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2730
+#: src-en/data/blueprints.xml.append:2732
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_REFLECT_HULL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2731
+#: src-en/data/blueprints.xml.append:2733
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_REFLECT_HULL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2742
+#: src-en/data/blueprints.xml.append:2744
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_TIME_HULL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2743
+#: src-en/data/blueprints.xml.append:2745
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_TIME_HULL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2753
+#: src-en/data/blueprints.xml.append:2755
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_HULL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2754
+#: src-en/data/blueprints.xml.append:2756
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_HULL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2762
+#: src-en/data/blueprints.xml.append:2764
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_BULLET_HELL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2763
+#: src-en/data/blueprints.xml.append:2765
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_BULLET_HELL\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2774
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2775
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/short"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:2776
 msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2777
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2778
+msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2804
+#: src-en/data/blueprints.xml.append:2806
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2805
+#: src-en/data/blueprints.xml.append:2807
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2807
+#: src-en/data/blueprints.xml.append:2809
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2884
+#: src-en/data/blueprints.xml.append:2886
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2885
+#: src-en/data/blueprints.xml.append:2887
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2887
+#: src-en/data/blueprints.xml.append:2889
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2962
+#: src-en/data/blueprints.xml.append:2964
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2963
+#: src-en/data/blueprints.xml.append:2965
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2965
+#: src-en/data/blueprints.xml.append:2967
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3024
+#: src-en/data/blueprints.xml.append:3026
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREVERSAL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3025
+#: src-en/data/blueprints.xml.append:3027
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREVERSAL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3032
+#: src-en/data/blueprints.xml.append:3034
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CBEAM\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3033
+#: src-en/data/blueprints.xml.append:3035
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CBEAM\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3042
+#: src-en/data/blueprints.xml.append:3044
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CHACK\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3043
+#: src-en/data/blueprints.xml.append:3045
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CHACK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3050
+#: src-en/data/blueprints.xml.append:3052
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3051
+#: src-en/data/blueprints.xml.append:3053
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3053
+#: src-en/data/blueprints.xml.append:3055
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3126
+#: src-en/data/blueprints.xml.append:3128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3127
+#: src-en/data/blueprints.xml.append:3129
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3128
+#: src-en/data/blueprints.xml.append:3130
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:3155
+#: src-en/data/blueprints.xml.append:3157
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3156
+#: src-en/data/blueprints.xml.append:3158
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3158
+#: src-en/data/blueprints.xml.append:3160
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3230
+#: src-en/data/blueprints.xml.append:3232
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3231
+#: src-en/data/blueprints.xml.append:3233
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3233
+#: src-en/data/blueprints.xml.append:3235
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3307
+#: src-en/data/blueprints.xml.append:3309
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3308
+#: src-en/data/blueprints.xml.append:3310
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3310
+#: src-en/data/blueprints.xml.append:3312
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3353
+#: src-en/data/blueprints.xml.append:3355
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3354
+#: src-en/data/blueprints.xml.append:3356
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3356
+#: src-en/data/blueprints.xml.append:3358
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3399
+#: src-en/data/blueprints.xml.append:3401
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3400
+#: src-en/data/blueprints.xml.append:3402
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3402
+#: src-en/data/blueprints.xml.append:3404
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3444
+#: src-en/data/blueprints.xml.append:3446
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3445
+#: src-en/data/blueprints.xml.append:3447
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3447
+#: src-en/data/blueprints.xml.append:3449
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3517
+#: src-en/data/blueprints.xml.append:3519
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_WEAPON\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3518
+#: src-en/data/blueprints.xml.append:3520
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_WEAPON\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3525
+#: src-en/data/blueprints.xml.append:3527
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3526
+#: src-en/data/blueprints.xml.append:3528
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3528
+#: src-en/data/blueprints.xml.append:3530
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3598
+#: src-en/data/blueprints.xml.append:3600
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CUTTER_OXY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3599
+#: src-en/data/blueprints.xml.append:3601
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CUTTER_OXY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3606
+#: src-en/data/blueprints.xml.append:3608
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3607
+#: src-en/data/blueprints.xml.append:3609
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/name"
 msgstr "潘多拉魔盒"
 
-#: src-en/data/blueprints.xml.append:3609
+#: src-en/data/blueprints.xml.append:3611
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3683
+#: src-en/data/blueprints.xml.append:3685
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SHIELD\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3684
+#: src-en/data/blueprints.xml.append:3686
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SHIELD\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3691
+#: src-en/data/blueprints.xml.append:3693
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3696
+#: src-en/data/blueprints.xml.append:3698
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/title"
 msgstr "人类科学家"
 
-#: src-en/data/blueprints.xml.append:3697
+#: src-en/data/blueprints.xml.append:3699
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3700
+#: src-en/data/blueprints.xml.append:3702
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[1]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3701
+#: src-en/data/blueprints.xml.append:3703
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[2]"
 msgstr "1.2倍维修速度"
 
-#: src-en/data/blueprints.xml.append:3702
+#: src-en/data/blueprints.xml.append:3704
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[3]"
 msgstr "受到0.6倍灼烧伤害"
 
-#: src-en/data/blueprints.xml.append:3703
+#: src-en/data/blueprints.xml.append:3705
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[4]"
 msgstr "维修技能提升速度特别快"
 
-#: src-en/data/blueprints.xml.append:3708
+#: src-en/data/blueprints.xml.append:3710
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_SHIELD\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3709
+#: src-en/data/blueprints.xml.append:3711
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_SHIELD\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3716
+#: src-en/data/blueprints.xml.append:3718
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3717
+#: src-en/data/blueprints.xml.append:3719
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3719
+#: src-en/data/blueprints.xml.append:3721
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3795
+#: src-en/data/blueprints.xml.append:3797
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3796
+#: src-en/data/blueprints.xml.append:3798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3797
+#: src-en/data/blueprints.xml.append:3799
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3798
+#: src-en/data/blueprints.xml.append:3800
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3825
+#: src-en/data/blueprints.xml.append:3827
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_civilian\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3826
+#: src-en/data/blueprints.xml.append:3828
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_civilian\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3850
+#: src-en/data/blueprints.xml.append:3852
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SCIENCE_LOOT\"]/title"
 msgstr "爆裂激光IV"
 
-#: src-en/data/blueprints.xml.append:3851
+#: src-en/data/blueprints.xml.append:3853
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SCIENCE_LOOT\"]/short"
 msgstr "爆裂激光IV"
 
-#: src-en/data/blueprints.xml.append:3853
+#: src-en/data/blueprints.xml.append:3855
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SCIENCE_LOOT\"]/desc"
-msgstr "最强的爆裂激光。虽然不出售给普通舰船，但这件武器可以发射远多于任何其他激光武"
-"器的弹体数量。"
+msgstr "最强的爆裂激光。虽然不出售给普通舰船，但这件武器可以发射远多于任何其他激光武器的弹体数量。"
 
-#: src-en/data/blueprints.xml.append:3889
+#: src-en/data/blueprints.xml.append:3891
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3893
+#: src-en/data/blueprints.xml.append:3895
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/title"
 msgstr "人类科学家"
 
-#: src-en/data/blueprints.xml.append:3894
+#: src-en/data/blueprints.xml.append:3896
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3897
+#: src-en/data/blueprints.xml.append:3899
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[1]"
 msgstr "1.2倍战斗伤害"
 
-#: src-en/data/blueprints.xml.append:3898
+#: src-en/data/blueprints.xml.append:3900
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[2]"
 msgstr "受到0.7倍战斗伤害与0.6倍灼烧伤害"
 
-#: src-en/data/blueprints.xml.append:3899
+#: src-en/data/blueprints.xml.append:3901
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[3]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3900
+#: src-en/data/blueprints.xml.append:3902
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[4]"
 msgstr "1.2倍维修速度"
 
-#: src-en/data/blueprints.xml.append:3901
+#: src-en/data/blueprints.xml.append:3903
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[5]"
 msgstr "维修技能提升速度特别快"
 
-#: src-en/data/blueprints.xml.append:3906
+#: src-en/data/blueprints.xml.append:3908
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3910
+#: src-en/data/blueprints.xml.append:3912
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/title"
 msgstr "人类科学家"
 
-#: src-en/data/blueprints.xml.append:3911
+#: src-en/data/blueprints.xml.append:3913
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3914
+#: src-en/data/blueprints.xml.append:3916
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[1]"
 msgstr "1.2倍战斗伤害"
 
-#: src-en/data/blueprints.xml.append:3915
+#: src-en/data/blueprints.xml.append:3917
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[2]"
 msgstr "受到0.7倍战斗伤害与0.6倍灼烧伤害"
 
-#: src-en/data/blueprints.xml.append:3916
+#: src-en/data/blueprints.xml.append:3918
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[3]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3917
+#: src-en/data/blueprints.xml.append:3919
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[4]"
 msgstr "1.2倍维修速度"
 
-#: src-en/data/blueprints.xml.append:3918
+#: src-en/data/blueprints.xml.append:3920
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[5]"
 msgstr "维修技能提升速度特别快"
 
-#: src-en/data/blueprints.xml.append:3923
+#: src-en/data/blueprints.xml.append:3925
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3924
+#: src-en/data/blueprints.xml.append:3926
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3926
+#: src-en/data/blueprints.xml.append:3928
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3999
+#: src-en/data/blueprints.xml.append:4001
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOOR_LOCKS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4000
+#: src-en/data/blueprints.xml.append:4002
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOOR_LOCKS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4007
+#: src-en/data/blueprints.xml.append:4009
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SCRAP\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4008
+#: src-en/data/blueprints.xml.append:4010
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SCRAP\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4017
+#: src-en/data/blueprints.xml.append:4019
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4018
+#: src-en/data/blueprints.xml.append:4020
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4019
+#: src-en/data/blueprints.xml.append:4021
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4061
+#: src-en/data/blueprints.xml.append:4063
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4062
+#: src-en/data/blueprints.xml.append:4064
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4063
+#: src-en/data/blueprints.xml.append:4065
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4105
+#: src-en/data/blueprints.xml.append:4107
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4106
+#: src-en/data/blueprints.xml.append:4108
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4107
+#: src-en/data/blueprints.xml.append:4109
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:4149
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:4150
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/short"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:4151
 msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4152
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4153
+msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4195
+#: src-en/data/blueprints.xml.append:4197
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4196
+#: src-en/data/blueprints.xml.append:4198
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4198
+#: src-en/data/blueprints.xml.append:4200
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4271
+#: src-en/data/blueprints.xml.append:4273
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4272
+#: src-en/data/blueprints.xml.append:4274
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4274
+#: src-en/data/blueprints.xml.append:4276
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4349
+#: src-en/data/blueprints.xml.append:4351
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4350
+#: src-en/data/blueprints.xml.append:4352
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4351
+#: src-en/data/blueprints.xml.append:4353
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4354
+#: src-en/data/blueprints.xml.append:4356
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4368
+#: src-en/data/blueprints.xml.append:4370
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_NO_DOOR\"]/title"
 msgstr "个人传送器"
 
-#: src-en/data/blueprints.xml.append:4369
+#: src-en/data/blueprints.xml.append:4371
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_NO_DOOR\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4376
+#: src-en/data/blueprints.xml.append:4378
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOCKING_DRILL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4377
+#: src-en/data/blueprints.xml.append:4379
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOCKING_DRILL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4388
+#: src-en/data/blueprints.xml.append:4390
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_UP_ARTI\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4389
+#: src-en/data/blueprints.xml.append:4391
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_UP_ARTI\"]/desc"
 msgstr "开发人员信息。"
 
-#: src-en/data/blueprints.xml.append:4396
+#: src-en/data/blueprints.xml.append:4398
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAP_HULL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4397
+#: src-en/data/blueprints.xml.append:4399
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAP_HULL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4408
+#: src-en/data/blueprints.xml.append:4410
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4409
+#: src-en/data/blueprints.xml.append:4411
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4410
+#: src-en/data/blueprints.xml.append:4412
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:4444
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:4445
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/short"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:4446
 msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4447
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4448
+msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4479
+#: src-en/data/blueprints.xml.append:4481
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4480
+#: src-en/data/blueprints.xml.append:4482
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4482
+#: src-en/data/blueprints.xml.append:4484
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4555
+#: src-en/data/blueprints.xml.append:4557
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4556
+#: src-en/data/blueprints.xml.append:4558
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4558
+#: src-en/data/blueprints.xml.append:4560
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4631
+#: src-en/data/blueprints.xml.append:4633
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4632
+#: src-en/data/blueprints.xml.append:4634
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4634
+#: src-en/data/blueprints.xml.append:4636
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4711
+#: src-en/data/blueprints.xml.append:4713
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4712
+#: src-en/data/blueprints.xml.append:4714
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4713
+#: src-en/data/blueprints.xml.append:4715
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4728
+#: src-en/data/blueprints.xml.append:4730
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DRONE_BEAM_COMBAT\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4747
+#: src-en/data/blueprints.xml.append:4749
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4748
+#: src-en/data/blueprints.xml.append:4750
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4749
+#: src-en/data/blueprints.xml.append:4751
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4764
+#: src-en/data/blueprints.xml.append:4766
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DRONE_BEAM_COMBAT2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4783
+#: src-en/data/blueprints.xml.append:4785
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4784
+#: src-en/data/blueprints.xml.append:4786
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4785
+#: src-en/data/blueprints.xml.append:4787
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4816
+#: src-en/data/blueprints.xml.append:4818
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4817
+#: src-en/data/blueprints.xml.append:4819
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4819
+#: src-en/data/blueprints.xml.append:4821
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4892
+#: src-en/data/blueprints.xml.append:4894
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_HIGH_WEAPON\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4893
+#: src-en/data/blueprints.xml.append:4895
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_HIGH_WEAPON\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4901
+#: src-en/data/blueprints.xml.append:4903
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_RANDOM\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4902
+#: src-en/data/blueprints.xml.append:4904
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_RANDOM\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4910
+#: src-en/data/blueprints.xml.append:4912
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[55]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4911
+#: src-en/data/blueprints.xml.append:4913
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[55]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4912
+#: src-en/data/blueprints.xml.append:4914
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[55]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4931
+#: src-en/data/blueprints.xml.append:4933
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4932
+#: src-en/data/blueprints.xml.append:4934
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4933
+#: src-en/data/blueprints.xml.append:4935
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:4964
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:4965
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/short"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:4966
 msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4967
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4968
+msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4969
+#: src-en/data/blueprints.xml.append:4971
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4986
+#: src-en/data/blueprints.xml.append:4988
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4987
+#: src-en/data/blueprints.xml.append:4989
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4988
+#: src-en/data/blueprints.xml.append:4990
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4991
+#: src-en/data/blueprints.xml.append:4993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5007
+#: src-en/data/blueprints.xml.append:5009
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5008
+#: src-en/data/blueprints.xml.append:5010
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5009
+#: src-en/data/blueprints.xml.append:5011
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5012
+#: src-en/data/blueprints.xml.append:5014
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[1]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5013
+#: src-en/data/blueprints.xml.append:5015
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[2]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5014
+#: src-en/data/blueprints.xml.append:5016
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[3]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5015
+#: src-en/data/blueprints.xml.append:5017
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[4]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5016
+#: src-en/data/blueprints.xml.append:5018
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[5]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5022
+#: src-en/data/blueprints.xml.append:5024
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5023
+#: src-en/data/blueprints.xml.append:5025
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5024
+#: src-en/data/blueprints.xml.append:5026
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:5027
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[1]"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:5028
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[2]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5029
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[3]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[1]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5030
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[4]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[2]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5031
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[5]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[3]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5032
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[6]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[4]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5033
 msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[5]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5034
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[6]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5035
+msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[7]"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:5039
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:5040
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/short"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5041
 msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5042
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5043
+msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:5044
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[1]"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:5045
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[2]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5046
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[3]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[1]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5047
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[4]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[2]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5048
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[5]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[3]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5049
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[6]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[4]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5050
 msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[5]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5051
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[6]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5052
+msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[7]"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:5056
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:5057
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/short"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5058
 msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5059
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5060
+msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:5061
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[1]"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:5062
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[2]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5063
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[3]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[1]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5064
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[4]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[2]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5065
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[5]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[3]"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5066
 msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5067
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[5]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5068
+msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[6]"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:5072
-msgid ""
-"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/class"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:5073
-msgid ""
-"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/name"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5074
 msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5075
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5076
+msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5145
+#: src-en/data/blueprints.xml.append:5147
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5146
+#: src-en/data/blueprints.xml.append:5148
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY\"]/desc"
 msgstr "开发人员信息。"
 
-#: src-en/data/blueprints.xml.append:5153
+#: src-en/data/blueprints.xml.append:5155
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY_2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5154
+#: src-en/data/blueprints.xml.append:5156
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY_2\"]/desc"
 msgstr "开发人员信息。"
 
-#: src-en/data/blueprints.xml.append:5161
+#: src-en/data/blueprints.xml.append:5163
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MISSILE_BOMBS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5162
+#: src-en/data/blueprints.xml.append:5164
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MISSILE_BOMBS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5169
+#: src-en/data/blueprints.xml.append:5171
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5170
+#: src-en/data/blueprints.xml.append:5172
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5171
+#: src-en/data/blueprints.xml.append:5173
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5244
+#: src-en/data/blueprints.xml.append:5246
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5245
+#: src-en/data/blueprints.xml.append:5247
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5246
+#: src-en/data/blueprints.xml.append:5248
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5310
+#: src-en/data/blueprints.xml.append:5312
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"ARC_SUPER_HULL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5320
+#: src-en/data/blueprints.xml.append:5322
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5321
+#: src-en/data/blueprints.xml.append:5323
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5322
+#: src-en/data/blueprints.xml.append:5324
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/desc"
 msgstr ""

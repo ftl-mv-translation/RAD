@@ -104,6 +104,12 @@ local function offset_point_direction(oldX, oldY, angle, distance)
     return Hyperspace.Pointf(newX, newY)
 end
 
+local function get_random_point_in_radius(center, radius)
+    r = radius * math.sqrt(math.random())
+    theta = math.random() * 2 * math.pi
+    return Hyperspace.Pointf(center.x + r * math.cos(theta), center.y + r * math.sin(theta))
+end
+
 --[[
 int iDamage;
 int iShieldPiercing;
@@ -546,9 +552,9 @@ diffuseWeapons["RAD_DIFFUSE_3"] = "rad_diff_shot"
 diffuseWeapons["RAD_DIFFUSE_ION"] = "ion_4_shot"
 
 script.on_internal_event(Defines.InternalEvents.SHIELD_COLLISION, function(shipManager, projectile, damage, response) 
-    local diffData = nil
     --local otherShip = Hyperspace.Global.GetInstance():GetShipManager()
-    if pcall(function() diffData = diffuseWeapons[Hyperspace.Get_Projectile_Extend(projectile).name] end) and diffData and shipManager.shieldSystem.shields.power.super.first <= 0 then
+    if projectile and diffuseWeapons[projectile.extend.name] and shipManager.shieldSystem.shields.power.super.first <= 0 then
+        local diffData = diffuseWeapons[projectile.extend.name]
         local damage = projectile.damage
         local spaceManager = Hyperspace.Global.GetInstance():GetCApp().world.space
         local proj1 = spaceManager:CreateBurstProjectile(
@@ -573,5 +579,50 @@ script.on_internal_event(Defines.InternalEvents.SHIELD_COLLISION, function(shipM
             projectile.heading)
         proj1:SetDamage(damage)
         proj2:SetDamage(damage)
+    end
+end)
+
+mods.rad.popWeapons = {}
+local popWeapons = mods.rad.popWeapons
+popWeapons["RAD_PROJECTILE_BEAM_FOCUS_1"] = {
+    count =1,
+    countSuper =1,
+    delete = true
+}
+popWeapons["RAD_PROJECTILE_BEAM_FOCUS_0"] = {
+    count =1,
+    countSuper =1,
+    delete = true
+}
+popWeapons["RAD_SDRAIN"] = {
+    count = 16,
+    countSuper = 16,
+    delete = true
+}
+popWeapons["RAD_LIGHTNING_FIRE"] = {
+    count = 1,
+    countSuper = 1,
+    delete = false
+}
+
+script.on_internal_event(Defines.InternalEvents.SHIELD_COLLISION, function(shipManager, projectile, damage, response)
+    local shieldPower = shipManager.shieldSystem.shields.power
+    local popData = popWeapons[projectile.extend.name]
+    if popData then
+        if shieldPower.super.first > 0 then
+            if popData.countSuper > 0 then
+                shipManager.shieldSystem:CollisionReal(projectile.position.x, projectile.position.y, Hyperspace.Damage(), true)
+                shieldPower.super.first = math.max(0, shieldPower.super.first - popData.countSuper)
+                if popData.delete == true then
+                    projectile:Kill()
+                end
+            end
+        else
+            shipManager.shieldSystem:CollisionReal(projectile.position.x, projectile.position.y, Hyperspace.Damage(), true)
+            shieldPower.first = math.max(0, shieldPower.first - popData.count)
+            if popData.delete == true then
+                projectile:Kill()
+            end
+        end
     end
 end)

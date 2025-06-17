@@ -93,9 +93,9 @@
 
     "packaging": {
         "fullOriginal": [
-            "https://github.com/ftl-mv-translation/RAD/raw/RAD-english/Multiverse_-_RAD_1.5.7.zip",
+            "https://github.com/ftl-mv-translation/RAD/raw/RAD-english/Multiverse_-_RAD_1.5.8.zip",
         ],
         "prefix": "RAD",
-        "version": "1.5.7"
+        "version": "1.5.8"
     }
 }

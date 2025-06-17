@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 12:33+0000\n"
+"PO-Revision-Date: 2025-06-17 10:03+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/rad/dataevents_special_lightspeedxmlappend/zh_Hans/>\n"

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-17 10:14+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-06-23 15:46+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -916,7 +916,6 @@ msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:1914
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/descriptionOverride"
 msgstr ""
@@ -928,6 +927,7 @@ msgstr ""
 "Stats:\n"
 "Puissance requise : 2\n"
 "Temps de charge : 15 secondes\n"
+"Tirs maximum : 2\n"
 "\n"
 "Tirs par charge : 1\n"
 "\n"
@@ -1181,29 +1181,24 @@ msgid ""
 msgstr "Armes à tirs multiples"
 
 #: src-en/data/blueprints.xml.append:2651
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_MULTISHOT\"]/desc"
 msgstr ""
-"Divise chaque projectile ou rayon tiré en deux, cependant les dégâts de "
-"coque, de système et d'ion sont réduits de moitié. Si la valeur de base est "
-"impaire, un projectile infligera plus de dégâts que l'autre. Lorsqu'il est "
-"utilisé avec des armes à haute énergie, tous les projectiles sont doublés "
-"mais conservent leurs dégâts d'origine.\n"
+"Toutes les armes tirent deux fois plus de projectiles/tirs/lasers, mais la "
+"vitesse de recharge des armes est réduite de 50 %.\n"
 "\n"
-"Peut être installé en interne pour 20 ferrailles dans le menu de stockage."
+"Peut être installé en interne pour 20 ferrailles dans le menu de stockage, "
+"ne se cumule pas."
 
 #: src-en/data/blueprints.xml.append:2660
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/title"
 msgstr "Armes à haute énergie"
 
 #: src-en/data/blueprints.xml.append:2661
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/desc"
 msgstr ""
 "Double les dégâts à la coque, les dégâts au système et les dégâts ioniques "
 "de tous les projectiles ou rayons que vous tirez, mais réduit le taux de "
-"recharge des armes de 60 %. Lorsqu'il est utilisé avec le tir multiple, tous "
-"les projectiles sont doublés mais conservent leurs dégâts d'origine.\n"
+"recharge des armes de 50 %.\n"
 "\n"
 "Peut être installé en interne pour 20 ferrailles dans le menu de stockage, "
 "ne se cumule pas."

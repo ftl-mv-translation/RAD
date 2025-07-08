@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-23 15:46+0000\n"
+"PO-Revision-Date: 2025-07-09 04:46+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/fr/>\n"
@@ -795,9 +795,14 @@ msgstr "Systèmes à faible niveau de compétences"
 #: src-en/data/blueprints.xml.append:1514
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SYSTEM_DUMB\"]/desc"
 msgstr ""
-"Rend la prime d'équipage inversement proportionnel au niveau de compétence des membres d’équipage. Cela signifie qu’un pilote de niveau 0 fournira une prime de niveau 2, tandis qu’un pilote de niveau 2 fournira une prime de niveau 0.\n"
+"Rend la prime d'équipage inversement proportionnel au niveau de compétence "
+"des membres d'équipage. Cela signifie qu'un pilote de niveau 0 fournira une "
+"prime de niveau 2, tandis qu'un pilote de niveau 2 fournira une prime de "
+"niveau 0.\n"
 "\n"
-"Cela est dû au fait que les systèmes sont conçus pour des équipages peu qualifiés. Ainsi, les membres hautement qualifiés réfléchissent trop et deviennent moins efficaces."
+"Cela est dû au fait que les systèmes sont conçus pour des équipages peu "
+"qualifiés. Ainsi, les membres hautement qualifiés réfléchissent trop et "
+"deviennent moins efficaces."
 
 #: src-en/data/blueprints.xml.append:1523
 msgid ""
@@ -871,7 +876,7 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_3\"]/desc"
 msgstr ""
 "Après un braquage réussi, vous avez mis la main sur une grande quantité "
-"d’or. Cependant, vous n’avez toujours nulle part où stocker votre ferraille."
+"d'or. Cependant, vous n'avez toujours nulle part où stocker votre ferraille."
 
 #: src-en/data/blueprints.xml.append:1823
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SMALL\"]/title"
@@ -1534,8 +1539,10 @@ msgstr "Sputnik"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/desc"
 msgstr ""
-"Sur le plus petit des vaisseaux spatiaux, cette machine reste une arme redoutable avec 6 emplacements d’armes.\n"
-"Cependant, en raison de sa taille réduite, le réacteur ne peut alimenter que des armes nécessitant 1 point d'énergie, limitant grandement vos options."
+"Sur le plus petit des vaisseaux spatiaux, cette machine reste une arme "
+"redoutable avec 6 emplacements d'armes.\n"
+"Cependant, en raison de sa taille réduite, le réacteur ne peut alimenter que "
+"des armes nécessitant 1 point d'énergie, limitant grandement vos options."
 
 #: src-en/data/blueprints.xml.append:3519
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_WEAPON\"]/title"
@@ -1574,9 +1581,9 @@ msgstr "Oxygène à faible puissance"
 #: src-en/data/blueprints.xml.append:3601
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CUTTER_OXY\"]/desc"
 msgstr ""
-"En raison du réacteur défaillant du vaisseau, le système d’oxygène est "
-"incapable de produire de l’oxygène. La situation est si critique que tous "
-"les êtres anaérobies perdent leur immunité à l’asphyxie, et les dégâts de "
+"En raison du réacteur défaillant du vaisseau, le système d'oxygène est "
+"incapable de produire de l'oxygène. La situation est si critique que tous "
+"les êtres anaérobies perdent leur immunité à l'asphyxie, et les dégâts de "
 "suffocation sont doublés."
 
 #: src-en/data/blueprints.xml.append:3608
@@ -1981,7 +1988,7 @@ msgstr "Téléporteurs Personnels"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_NO_DOOR\"]/desc"
 msgstr ""
 "Permet à votre équipage de se téléporter dans le vaisseau, mais uniquement "
-"lorsque votre système d’armement est désactivé."
+"lorsque votre système d'armement est désactivé."
 
 #: src-en/data/blueprints.xml.append:4378
 msgid ""

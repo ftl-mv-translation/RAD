@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-05 12:46+0000\n"
+"PO-Revision-Date: 2025-07-13 16:46+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/ru/>\n"
@@ -1292,7 +1292,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2755
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_HULL\"]/title"
-msgstr "Суперобщивка корпуса"
+msgstr "Суперобшивка корпуса"
 
 #: src-en/data/blueprints.xml.append:2756
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_HULL\"]/desc"

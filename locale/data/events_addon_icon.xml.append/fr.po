@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-09 04:46+0000\n"
+"PO-Revision-Date: 2025-08-03 10:32+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "dataevents_addon_iconxmlappend/fr/>\n"
@@ -32,8 +32,8 @@ msgstr ""
 "nombreuses nouvelles races, membres d'équipage, vaisseaux, secteurs et bien "
 "plus encore.\n"
 "        \n"
-"Pour activer L'Extension Extérieure, rendez-vous sur les forums de "
-"Multiverse et consultez la section des modules additionnels !."
+"Pour activer The Outer Expansion, rendez-vous sur les forums Multiverse et "
+"visitez la section des addons !."
 
 #: src-en/data/events_addon_icon.xml.append:14
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_RAD\"]/hover-text"

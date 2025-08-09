@@ -1,14 +1,25 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-08-10 14:56+0000\n"
+"Last-Translator: Ssstranger <1913944184@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/rad/mod-appendixmetadataxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/mod-appendix/metadata.xml:2
 msgid "mod-appendix/metadata.xml$/metadata/title"
-msgstr ""
+msgstr "R&D - FTL:多元宇宙子mod"
 
 #: src-en/mod-appendix/metadata.xml:10
 msgid "mod-appendix/metadata.xml$/metadata/description"
 msgstr ""
+"R&D拥有各种武器、无人机、增强部件以及星舰等各类东西，这些都源于多元宇宙中最先"
+"进的实验室。\n"
+"\n"
+"R&D的具体含义无人知晓。"

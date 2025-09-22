@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-09 04:46+0000\n"
+"PO-Revision-Date: 2025-09-23 10:19+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "dataeventsxmlappend/fr/>\n"
@@ -1725,8 +1725,8 @@ msgstr "Ceci est l'emplacement d'un Lien Harmonique."
 msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/text"
 msgstr ""
 "Il semble que vous soyez arrivé à un Lien Harmonique. Ces structures "
-"massives de la taille d'une planète sont constituées de billions de nanobots"
-" et transmettent un signal puissant à tous les Engi du secteur."
+"massives de la taille d'une planète sont constituées de billions de "
+"nanorobots et transmettent un signal puissant à tous les Engi du secteur."
 
 #: src-en/data/events.xml.append:1566
 msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/choice/text"

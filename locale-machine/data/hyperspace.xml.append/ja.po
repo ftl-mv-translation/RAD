@@ -5,61 +5,61 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/hyperspace.xml.append:1201
+#: src-en/data/hyperspace.xml.append:1203
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"phantom_experiment_alpha\"]/powerEffect/buttonText"
 msgstr "炎"
 
-#: src-en/data/hyperspace.xml.append:1202
+#: src-en/data/hyperspace.xml.append:1204
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"phantom_experiment_alpha\"]/powerEffect/tooltip"
-msgstr "現在の部屋で火災を起こします。"
+msgstr "現在の部屋で火災を発生させる。"
 
-#: src-en/data/hyperspace.xml.append:1574
+#: src-en/data/hyperspace.xml.append:1576
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_missile\"]/powerEffect/buttonText"
-msgstr "ブーム"
+msgstr "爆発"
 
-#: src-en/data/hyperspace.xml.append:1575
+#: src-en/data/hyperspace.xml.append:1577
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_missile\"]/powerEffect/tooltip"
-msgstr "爆発します。"
+msgstr "爆発する。"
 
-#: src-en/data/hyperspace.xml.append:1674
+#: src-en/data/hyperspace.xml.append:1676
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_bomb\"]/powerEffect/buttonText"
-msgstr "ブーム"
+msgstr "爆発"
 
-#: src-en/data/hyperspace.xml.append:1675
+#: src-en/data/hyperspace.xml.append:1677
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_bomb\"]/powerEffect/tooltip"
-msgstr "爆発します。"
+msgstr "爆発する。"
 
-#: src-en/data/hyperspace.xml.append:1772
+#: src-en/data/hyperspace.xml.append:1774
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_bomb_2\"]/powerEffect/buttonText"
-msgstr "ブーム"
+msgstr "爆発"
 
-#: src-en/data/hyperspace.xml.append:1773
+#: src-en/data/hyperspace.xml.append:1775
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_bomb_2\"]/powerEffect/tooltip"
-msgstr "爆発します。"
+msgstr "爆発する。"
 
-#: src-en/data/hyperspace.xml.append:1871
+#: src-en/data/hyperspace.xml.append:1873
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_bomb_3\"]/powerEffect/buttonText"
-msgstr "ブーム"
+msgstr "爆発"
 
-#: src-en/data/hyperspace.xml.append:1872
+#: src-en/data/hyperspace.xml.append:1874
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"drone_rad_bomb_3\"]/powerEffect/tooltip"
-msgstr "爆発します。"
+msgstr "爆発する。"
 
-#: src-en/data/hyperspace.xml.append:1890
+#: src-en/data/hyperspace.xml.append:1892
 msgid "data/hyperspace.xml.append$//drone[@name=\"RAD_REPULSOR\"]/tooltipName"
-msgstr "反発ドローン"
+msgstr "リパルサードローン"
 
-#: src-en/data/hyperspace.xml.append:1894
+#: src-en/data/hyperspace.xml.append:1896
 msgid ""
 "data/hyperspace.xml.append$//drone[@name=\"RAD_REPULSOR_ENEMY\"]/tooltipName"
-msgstr "反発ドローン"
+msgstr "リパルサードローン"

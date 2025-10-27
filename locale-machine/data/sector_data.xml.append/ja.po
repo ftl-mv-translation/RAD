@@ -8,4 +8,4 @@ msgstr ""
 #: src-en/data/sector_data.xml.append:8
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECRET_RAD_SCIENCE\"]/nameList/name"
-msgstr "科学部門"
+msgstr "科学者セクター"

@@ -24,7 +24,7 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"START_RAD_SCIENCE\"]/text"
 msgstr ""
-"あなたは科学者に属する部門に到着しました。科学者は自分自身を守っていますが、セクターで安全だと感じる民間人が多いです。科学者たちは、トラブルを起こそうとするすべての人に対してビーコンを守り始めました。邪魔にならないなら、私たちは大丈夫です。"
+"科学者たちのセクターに到着した。科学者たちはあまり表に出ないが、このセクターには安全だと感じている多くの民間人がいる。その見返りとして、科学者たちはトラブルを起こそうとする者たちからビーコンを守り始めている。邪魔をしなければ問題ないだろう。"
 
 #: src-en/data/events_sector_rad_science.xml:51
 msgid ""
@@ -35,7 +35,7 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/text"
 msgstr ""
-"警備員はあなたを歓迎します。「反逆者、私たちはあなたの大義を理解していますが、ここであなたが反乱を引きずりさせることで、研究や人々の生活の混乱を危険にさらすことはできません。私たちはそれに参加したくありません！」"
+"警備員から通信が入る。「反逆者よ、君の大義は理解しているが、君たちが反乱をここに引きずり込むことで、研究や人々の生活を乱すリスクを冒すことはできない。我々は関わりたくない！」"
 
 #: src-en/data/events_sector_rad_science.xml:60
 msgid ""
@@ -55,12 +55,12 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:71
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[2]/text"
-msgstr "それらを賄briしてみてください。"
+msgstr "賄賂を試みる。"
 
 #: src-en/data/events_sector_rad_science.xml:73
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[2]/event/text"
-msgstr "あなたはこれが彼らを満足させるのに十分であることを願っています..."
+msgstr "これで彼らが満足してくれることを願う…"
 
 #: src-en/data/events_sector_rad_science.xml:78
 msgid ""
@@ -70,17 +70,17 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:80
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[2]/event/choice/event/text"
-msgstr "「面白い、私は誰が私にこのスクラップを与えたのか覚えていないようです...今、私が心を変える前に急いでいます。」"
+msgstr "「面白いな、誰がこのスクラップをくれたのか、どうしても思い出せない…さあ、気が変わる前に早く行ってくれ。」"
 
 #: src-en/data/events_sector_rad_science.xml:86
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr "（人間の乗組員）あなたを手放すように彼らを説得しようとします。"
+msgstr "（人間のクルー）彼らを説得して行かせてもらう。"
 
 #: src-en/data/events_sector_rad_science.xml:90
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[@req=\"rad_scientist\"]/text"
-msgstr "（人間の科学者）科学者に彼らにあなたを通り抜けるように説得させます。"
+msgstr "（人間の科学者）科学者に彼らを説得させて通してもらう。"
 
 #: src-en/data/events_sector_rad_science.xml:94
 msgid ""
@@ -105,7 +105,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:113
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[1]/text"
-msgstr "「私はあなたの大義を理解していますが、もしあなたが去らなければ、私はあなたを去らせることを余儀なくされます！」"
+msgstr "「君の大義は理解するが、もし立ち去らないなら、力ずくで追い出すことになるぞ！」"
 
 #: src-en/data/events_sector_rad_science.xml:116
 msgid ""
@@ -115,7 +115,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:121
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[2]/text"
-msgstr "「私はあなたの大義を理解していますが、もしあなたが去らなければ、私はあなたを去らせることを余儀なくされます！」"
+msgstr "「君の大義は理解するが、もし立ち去らないなら、力ずくで追い出すことになるぞ！」"
 
 #: src-en/data/events_sector_rad_science.xml:124
 msgid ""
@@ -125,12 +125,12 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:129
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[3]/text"
-msgstr "「おそらくあなたの大義はリスクに見合うだけの価値があります。"
+msgstr "「もしかしたら、君の大義はそのリスクを冒す価値があるのかもしれない。よろしい、通っていい。我々は反乱軍をできる限り食い止めよう。」"
 
 #: src-en/data/events_sector_rad_science.xml:135
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[1]/text"
-msgstr "「ああ、仲間の科学者です。あなたが望むならあなたは通り抜けるかもしれませんが、あなたの乗組員の残りの部分はできません。」"
+msgstr "「ああ、同業の科学者か。君だけなら通ってもいいが、残りのクルーは駄目だ。」"
 
 #: src-en/data/events_sector_rad_science.xml:138
 msgid ""
@@ -140,12 +140,12 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:143
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[2]/text"
-msgstr "「ああ、私の間違い、私はあなたの船に仲間の科学者がいることに気づかなかった、あなたは通り抜けるかもしれない。」"
+msgstr "「おっと、失礼。君の船に同業の科学者がいるとは気づかなかった。通っていいぞ。」"
 
 #: src-en/data/events_sector_rad_science.xml:147
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[3]/text"
-msgstr "「ああ、私の間違い、私はあなたの船に仲間の科学者がいることに気づかなかった、あなたは通り抜けるかもしれない。」"
+msgstr "「おっと、失礼。君の船に同業の科学者がいるとは気づかなかった。通っていいぞ。」"
 
 #: src-en/data/events_sector_rad_science.xml:168
 msgid ""
@@ -160,25 +160,24 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:177
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"RAD_SCIENCE_FREE_DRONES\"]/text[1]"
-msgstr ""
-"近くのいくつかの廃棄されたドローンをドリフトしますが、それらは機能的ではないかもしれませんが、それらからいくつかのドローン部品を回収することができます。"
+msgstr "近くにいくつかの廃棄されたドローンが漂っている。機能しないかもしれないが、そこからいくつかのドローンパーツを回収できた。"
 
 #: src-en/data/events_sector_rad_science.xml:178
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"RAD_SCIENCE_FREE_DRONES\"]/text[2]"
 msgstr ""
-"あなたは近くに漂っている鉱山に気づき、さらにいくつかが続きます。すべてではないにしても、ほとんどは非アクティブであり、おそらく何らかのトレーニング演習から残されています。幸いなことに、これはあなたがそれらを比較的簡単に救うことができることを意味します。"
+"近くに機雷が漂っているのに気づき、さらにいくつも続く。ほとんど、あるいはすべてが不活性で、おそらく何らかの訓練演習の残り物だろう。幸いなことに、これは比較的簡単に回収できることを意味する。"
 
 #: src-en/data/events_sector_rad_science.xml:179
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"RAD_SCIENCE_FREE_DRONES\"]/text[3]"
 msgstr ""
-"スキャナーに小さなクラフトが表示されますが、それはあなたに向かってまっすぐになっているように見えます。あなたの乗組員はすぐに行動に移動し、それをバラバラに爆破します、あなたはそれを救おうとしますが、生き残ったのはドローンパーツの箱だけでした。"
+"スキャナーに小型艇が現れ、まっすぐこちらに向かってくるようだ。クルーは素早く行動し、それを粉々に吹き飛ばした。回収を試みたが、生き残ったのはドローンパーツの箱だけだった。"
 
 #: src-en/data/events_sector_rad_science.xml:183
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/text"
-msgstr "あなたは近くに浮かぶ小さな工芸からあられを受け取ります、それは科学者の一人のようです。"
+msgstr "近くに浮かんでいる小型艇から通信が入った。科学者の一人のようだ。"
 
 #: src-en/data/events_sector_rad_science.xml:185
 msgid ""
@@ -188,17 +187,18 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:187
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/text"
-msgstr "「ああ、あなたにはキャプテンがいる素晴らしい船、あなたは私を乗せていると思いますか？」"
+msgstr "「ああ、素晴らしい船だな、キャプテン。私を乗せてはもらえないだろうか？」"
 
 #: src-en/data/events_sector_rad_science.xml:189
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[1]/text"
-msgstr "彼を乗せてください。"
+msgstr "彼を船に乗せる。"
 
 #: src-en/data/events_sector_rad_science.xml:193
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[1]/event/text"
-msgstr "「今、私はおそらくこれに言及すべきだったが、一部の海賊は私を殺したいと思っている。"
+msgstr ""
+"「さて、これを言っておくべきだったかもしれないが、海賊たちが私を殺したがっているんだ。君のような強くて有能なキャプテンなら、彼らを処理できるだろうがな。」"
 
 #: src-en/data/events_sector_rad_science.xml:195
 msgid ""
@@ -213,7 +213,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:203
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[2]/event/text"
-msgstr "科学者の小さなクラフトは飛び去ります。"
+msgstr "科学者の小型艇が飛び去り、終わったかと思ったその時、追跡中の海賊船がすぐそばを通り過ぎていくのが見えた。"
 
 #: src-en/data/events_sector_rad_science.xml:205
 msgid ""
@@ -228,8 +228,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:233
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_DESTROY\"]/text"
-msgstr ""
-"あなたは科学者警備員を倒しました。彼らの貨物にあったかもしれないものは何でも確実に破壊されましたが、少なくとも船からいくつかの物資を救うことができます。"
+msgstr "科学者の警備員を倒した。彼らの貨物にあったものは確実に破壊されたが、少なくとも船からいくつかの物資を回収できる。"
 
 #: src-en/data/events_sector_rad_science.xml:236
 msgid ""
@@ -239,8 +238,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:241
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_DEADCREW\"]/text"
-msgstr ""
-"あなたは科学者警備員を倒しました。乗組員があなたを止めるために船内にいなければ、あなたは彼らの貨物を調査することができます。船に戻す武器を見つけ、船体を廃棄するために移動します。"
+msgstr "科学者の警備員を倒した。あなたを止めるクルーがいないので、彼らの貨物を調査できる。船に持ち帰る武器を見つけ、船体を解体する。"
 
 #: src-en/data/events_sector_rad_science.xml:245
 msgid ""
@@ -250,7 +248,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:253
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_FOLLOWUP\"]/text"
-msgstr "科学者警備員を殺すことで、あなたは間違いなく誰かを怒らせました。言葉が速く旅行しないことを願っています。"
+msgstr "科学者の警備員を殺したことで、間違いなく誰かを怒らせた。噂が早く広まらないことを願おう。"
 
 #: src-en/data/events_sector_rad_science.xml:255
 msgid ""
@@ -276,7 +274,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:306
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_CIVILIAN_TRANSFORM\"]/text"
-msgstr "あなたの船の民間人があなたに乗組員に加わることを申し出ます。"
+msgstr "船の民間人がクルーに加わることを申し出る。"
 
 #: src-en/data/events_sector_rad_science.xml:308
 msgid ""
@@ -299,27 +297,27 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:325
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[1]"
-msgstr "科学者の船の遺跡を収穫すると、彼らの高度な技術があなたからそれらを救うのに十分ではないことは明らかです。"
+msgstr "科学者の船の残骸を回収するにつれ、彼らの先進技術もあなたから彼らを守るには十分ではなかったことが明らかになる。"
 
 #: src-en/data/events_sector_rad_science.xml:326
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[2]"
-msgstr "科学者のキャプテンは、船が消滅するにつれて、最後の1つのlet然としたものを出します。"
+msgstr "船が破壊されると、科学者の船長は最後の悪態をついた。"
 
 #: src-en/data/events_sector_rad_science.xml:327
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[3]"
-msgstr "科学者のきらめく船体は、宇宙に断片化されます。あなたは身をかがめて遺体を救います。"
+msgstr "輝く科学者の船の船体が宇宙に散らばる。残骸を回収するために急降下する。"
 
 #: src-en/data/events_sector_rad_science.xml:328
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[4]"
-msgstr "船は爆発し、内部のすべての命を消します。あなたの乗組員は、彼らが船を救うとき、彼らの遺体を避けます。"
+msgstr "船が爆発し、中のすべての命が消え去った。クルーは船の破片を回収する際、彼らの遺体を避けた。"
 
 #: src-en/data/events_sector_rad_science.xml:329
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[5]"
-msgstr "火花と爆発の激怒で、船の船体が崩壊します。あなたはすぐに遺体を廃棄しますが、それはまだ良質であるように見えます。"
+msgstr "火花と爆発の嵐の中、船の船体が崩壊する。まだ品質が良さそうな残骸を素早く解体する。"
 
 #: src-en/data/events_sector_rad_science.xml:336
 msgid ""
@@ -336,28 +334,27 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:345
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[1]"
-msgstr "「あなたの血。...いつかあなたの没落になります、反逆者。あなたは唯一の証拠です...連邦は...反乱よりも優れていません...」"
+msgstr "「その血に飢えた渇望が…いつかお前の破滅を招くぞ、反逆者。お前はただの証明だ…連邦が…反乱軍と何ら変わらないという…」"
 
 #: src-en/data/events_sector_rad_science.xml:346
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[2]"
-msgstr "「男、男！ああ！」乗組員の叫び声は、彼が残りの乗組員と一緒に置かれているので、前代未聞になります。"
+msgstr "「仲間がやられた、仲間がやられた！うわっ！」クルーの叫びは、他のクルーと共に倒される中で誰にも聞かれなかった。"
 
 #: src-en/data/events_sector_rad_science.xml:347
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[3]"
-msgstr "あなたは乗組員全体を虐殺しました。残っているのは、船を廃棄することだけです。"
+msgstr "クルー全員を虐殺した。残るは彼らの船を解体するだけだ。"
 
 #: src-en/data/events_sector_rad_science.xml:348
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[4]"
-msgstr "「公平を期すために...これは私の...給料グレードよりもずっと上だった...」敵のキャプテンは心をつかんで倒れます。"
+msgstr "「公平に言って…これは私の…給料の範囲を…はるかに超えていた…」敵の船長は心臓を押さえて倒れた。"
 
 #: src-en/data/events_sector_rad_science.xml:349
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[5]"
-msgstr ""
-"「あなたはこれを後悔するでしょう！カルマはいつもあなたのような人々に戻ってきます。あなたをくそー...私たちの科学者はあなたの周りのあなたがいなければもっと良かったでしょう...」"
+msgstr "「後悔するぞ！お前のような奴には必ず報いが来る。くそ…我々科学者は、お前のような反逆者がいなければもっと良かったのに…」"
 
 #: src-en/data/events_sector_rad_science.xml:355
 msgid ""
@@ -367,7 +364,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:357
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"SURRENDER_ACCEPT\"]/text"
-msgstr "科学者は、たとえ少し貧しいとしても、彼らが生きている方が良いことを知るのに十分賢いです"
+msgstr "科学者たちは、少し貧しくなっても生きている方がましだと知るほど賢い"
 
 #: src-en/data/events_sector_rad_science.xml:361
 msgid ""
@@ -385,30 +382,29 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[1]"
 msgstr ""
-"「お願い！米国の科学者は、マルチバースの技術の半分が存在する唯一の理由であり、スペースワッフルアイアンを発明しました！あなたは私たちを殺すことはできません！」"
+"「お願いだ！マルチバースの技術の半分が存在するのは我々科学者のおかげだ。我々は宇宙ワッフルアイロンを発明したんだぞ！我々を殺すなんてできない！」"
 
 #: src-en/data/events_sector_rad_science.xml:378
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[2]"
-msgstr ""
-"「見て、私たちを生きさせてください、そして私たちはあなたに私たちのものを与えてください、それはあなたが再系統が正しく望んでいることですよね？」"
+msgstr "「いいか、我々を生かしてくれれば、我々の物をやる。それがお前たち反逆者が欲しいものだろう？」"
 
 #: src-en/data/events_sector_rad_science.xml:379
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[3]"
 msgstr ""
-"科学者のキャプテンはあなたに彼らを生きさせるように懇願します。「お願いします、私の家族！彼らは私を必要としています、私は彼らの唯一の収入源です！"
+"科学者の船長はあなたに命乞いをする。「お願いだ、私の家族が！彼らは私を必要としているんだ、私が唯一の収入源なんだ！生かしてくれるなら、できる限りのものをすべてやる！」"
 
 #: src-en/data/events_sector_rad_science.xml:380
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[4]"
 msgstr ""
-"あなたは船の別の部分からあられを受け取ります。そこでは、船長以外の別の乗組員がそっと話します。「お願いします、あなたが発砲をやめたら、私はあなたに貨物に残っているものをあげます。私たちの船長は頑固ですが、残りの乗組員は死にたくありません！」"
+"船の別の部分から通信が入る。船長以外の別のクルーが静かに話す。「お願いです、発砲をやめてくれれば、貨物に残っているものをすべて差し上げます。船長は頑固ですが、残りのクルーは死にたくありません！」"
 
 #: src-en/data/events_sector_rad_science.xml:381
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[5]"
-msgstr "科学者船はボロボロになっています。おそらく、この時点で彼らの降伏を交渉することができます。"
+msgstr "科学者の船はボロボロだ。この時点で彼らの降伏を交渉できるだろう。"
 
 #: src-en/data/events_sector_rad_science.xml:385
 msgid ""
@@ -419,19 +415,19 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/text"
 msgstr ""
-"あなたは防衛巡洋艦を片付けて、それを駅に戻します、あなたは感謝し、報酬として大量のスクラップを受け取ります。\n"
+"防衛巡洋艦を一掃し、ステーションに曳航して戻る。感謝され、報酬として大量のスクラップを受け取った。\n"
 "\n"
-"駅の乗組員の一人は、乗組員に加わることを申し出ます。"
+"ステーションのクルーの一人があなたのクルーに加わることを申し出る。"
 
 #: src-en/data/events_sector_rad_science.xml:402
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/choice[1]/text"
-msgstr "それらをあなたの船に受け入れてください。"
+msgstr "彼らを船に受け入れる。"
 
 #: src-en/data/events_sector_rad_science.xml:405
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/choice[1]/event/text"
-msgstr "以前は防衛巡洋艦に駐留していた兵士の一人であることがわかりました。"
+msgstr "それは以前、防衛巡洋艦に配属されていた兵士の一人だったことが判明した。"
 
 #: src-en/data/events_sector_rad_science.xml:410
 msgid ""
@@ -441,7 +437,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:413
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/choice[2]/event/text"
-msgstr "あなたは申し出を断ります、あなたは今すぐ新しい乗組員を必要としません。"
+msgstr "申し出を断る。今は新しいクルーは必要ない。"
 
 #: src-en/data/events_sector_rad_science.xml:429
 msgid ""
@@ -461,8 +457,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:433
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/text"
-msgstr ""
-"このビーコンは科学者輸送をホストしています。船が特別な技術を運んでいる可能性が最も高いことは安全です。あなたがその乗組員を殺すことができれば、彼らの貨物はあなたのものになります。"
+msgstr "このビーコンには科学者の輸送船がいる。この船が特殊な技術を運んでいる可能性は高い。クルーを殺せば、彼らの貨物はあなたのものになる。"
 
 #: src-en/data/events_sector_rad_science.xml:436
 msgid ""
@@ -502,12 +497,12 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:473
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[1]/text"
-msgstr "彼らと戦う！"
+msgstr "奴らと戦え！"
 
 #: src-en/data/events_sector_rad_science.xml:475
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[1]/event/text"
-msgstr "あなたは武器を動かし、科学者を攻撃します。"
+msgstr "武器にエネルギーを供給し、科学者を攻撃する。"
 
 #: src-en/data/events_sector_rad_science.xml:478
 msgid ""
@@ -517,12 +512,12 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:484
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[2]/text"
-msgstr "科学者船を無視してください。"
+msgstr "科学者の船を無視する。"
 
 #: src-en/data/events_sector_rad_science.xml:486
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[2]/event/text"
-msgstr "科学者の船を通り過ぎます。"
+msgstr "科学者の船を通り過ぎる。"
 
 #: src-en/data/events_sector_rad_science.xml:488
 msgid ""
@@ -537,48 +532,47 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:499
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[1]"
-msgstr "科学者の船は、この地域の惑星を調査しています。他の船は近くにありません。"
+msgstr "科学者の船がこのエリアの惑星を調査している。近くに他の船はいない。"
 
 #: src-en/data/events_sector_rad_science.xml:500
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[2]"
-msgstr "科学者に属している別の船に気づき、少し離れて漂流しています。船は完全に機能していますが、あられを丁寧に断ります。"
+msgstr "科学者のものと思われる別の船が、少し離れたところを漂っているのに気づく。船は完全に機能しているが、どんな通信にも丁寧に応答を拒否する。"
 
 #: src-en/data/events_sector_rad_science.xml:501
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[3]"
-msgstr ""
-"きちんと武装した科学者の船がビーコンをパトロールしています。もしあなたがトラブルを起こさなければ、彼らはあなたのことを気にする可能性は低いです。"
+msgstr "そこそこ武装した科学者の船がビーコンを巡回している。トラブルを起こさなければ、彼らはあなたのことを気にしないだろう。"
 
 #: src-en/data/events_sector_rad_science.xml:505
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/text"
-msgstr "近くの科学者の船は供給デポとして機能しています。彼らはあなたに補給を提供します。"
+msgstr "近くの科学者の船が補給基地として機能しており、補給を申し出てきた。"
 
 #: src-en/data/events_sector_rad_science.xml:508
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[1]/text"
-msgstr "IDを提出して、いくつかの物資を入手してください。"
+msgstr "IDを提出して物資を受け取る。"
 
 #: src-en/data/events_sector_rad_science.xml:514
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[@req=\"rad_scientist\"]/text"
-msgstr "（人間の科学者）より多くの物資を要求します。"
+msgstr "（人間の科学者）追加の物資を要求する。"
 
 #: src-en/data/events_sector_rad_science.xml:520
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[@req=\"LIST_CREW_MEDIC\"]/text"
-msgstr "（メディッククルー）医療用品をリクエストします。"
+msgstr "（メディックのクルー）医療品を要求する。"
 
 #: src-en/data/events_sector_rad_science.xml:527
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[4]/text"
-msgstr "攻撃、確かに私たちは彼らからもっと多くを得ることができます！"
+msgstr "攻撃だ、きっともっと奪えるはずだ！"
 
 #: src-en/data/events_sector_rad_science.xml:529
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[4]/event/text"
-msgstr "あなたは武器を動かし、科学者を攻撃します。"
+msgstr "武器にエネルギーを供給し、科学者を攻撃する。"
 
 #: src-en/data/events_sector_rad_science.xml:532
 msgid ""
@@ -588,12 +582,12 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:538
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[5]/text"
-msgstr "デポを無視します。"
+msgstr "基地を無視する。"
 
 #: src-en/data/events_sector_rad_science.xml:540
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[5]/event/text"
-msgstr "あなたは科学者を無視します。"
+msgstr "科学者を無視する。"
 
 #: src-en/data/events_sector_rad_science.xml:542
 msgid ""
@@ -608,17 +602,17 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:554
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/text"
-msgstr "近くの駅が苦痛のビーコンを出していますが、彼らの防衛巡洋艦は海賊によって盗まれたようです。"
+msgstr "近くのステーションが遭難信号を発している。どうやら彼らの防衛巡洋艦が海賊に盗まれたようだ。"
 
 #: src-en/data/events_sector_rad_science.xml:557
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[1]/text"
-msgstr "防衛巡洋艦を破壊または再捕獲します。"
+msgstr "防衛巡洋艦を破壊するか、再奪取する。"
 
 #: src-en/data/events_sector_rad_science.xml:559
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[1]/event/text"
-msgstr "あなたは武器に動力を供給し、海賊を攻撃します。"
+msgstr "武器にエネルギーを供給し、海賊を攻撃する。"
 
 #: src-en/data/events_sector_rad_science.xml:562
 msgid ""
@@ -628,22 +622,22 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:568
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[@req=\"cloaking\"]/text"
-msgstr "（Upg。Cloaking）駅の一部を巻き、廃棄しますが、無防備です。"
+msgstr "（強化クローキング）クローキングして、無防備なステーションの一部を解体する。"
 
 #: src-en/data/events_sector_rad_science.xml:570
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[@req=\"cloaking\"]/event/text"
-msgstr "防衛巡洋艦が盗まれたので、駅を守る人はいません。マントのベールの下で、メッキの一部を引き裂き、すぐに出発します。"
+msgstr "防衛巡洋艦が盗まれたため、ステーションを守る者は誰もいない。クロークに隠れて、いくつかの装甲を剥ぎ取り、素早く立ち去る。"
 
 #: src-en/data/events_sector_rad_science.xml:575
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[3]/text"
-msgstr "これから離れてください。"
+msgstr "これには関わらない。"
 
 #: src-en/data/events_sector_rad_science.xml:577
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[3]/event/text"
-msgstr "あなたは駅を通り過ぎます。うまくいけば、状況は解決されるでしょう...あなたに感謝します。"
+msgstr "ステーションを通り過ぎる。うまくいけば、状況は解決するだろう…あなたのおかげではないが。"
 
 #: src-en/data/events_sector_rad_science.xml:579
 msgid ""
@@ -658,27 +652,27 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:591
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/text"
-msgstr "あなたはビーコンに到着し、巡回セールスマンを見つけます。さらに良いのは科学者です。"
+msgstr "ビーコンに到着すると、旅のセールスマンを見つけた。しかも、科学者だ。"
 
 #: src-en/data/events_sector_rad_science.xml:594
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/text"
-msgstr "謎の武器を購入します。"
+msgstr "ミステリーウェポンを購入する。"
 
 #: src-en/data/events_sector_rad_science.xml:596
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/text"
-msgstr "セールスマンは、飛び去る前に大きな箱を届けます。"
+msgstr "セールスマンはジャンプで去る前に、大きな箱を届けてくれた。"
 
 #: src-en/data/events_sector_rad_science.xml:601
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/choice/text"
-msgstr "ボックスを開きます"
+msgstr "箱を開ける"
 
 #: src-en/data/events_sector_rad_science.xml:603
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/choice/event/text"
-msgstr "彼は嘘をついていなかったようです。"
+msgstr "彼は嘘をついていなかったようだ。"
 
 #: src-en/data/events_sector_rad_science.xml:606
 msgid ""
@@ -693,12 +687,12 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:618
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[2]/text"
-msgstr "彼の製品を見る。"
+msgstr "彼の商品を見る。"
 
 #: src-en/data/events_sector_rad_science.xml:620
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[2]/event/text"
-msgstr "彼はあなたを彼の小さな店に迎えます。"
+msgstr "彼はあなたを自分の小さな店に歓迎する。"
 
 #: src-en/data/events_sector_rad_science.xml:623
 msgid ""
@@ -713,12 +707,12 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:633
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[3]/text"
-msgstr "彼を攻撃！"
+msgstr "奴を攻撃しろ！"
 
 #: src-en/data/events_sector_rad_science.xml:635
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[3]/event/text"
-msgstr "あなたは武器に電源を入れ、セールスマンを攻撃します。"
+msgstr "武器にエネルギーを供給し、セールスマンを攻撃する。"
 
 #: src-en/data/events_sector_rad_science.xml:638
 msgid ""
@@ -728,17 +722,17 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:664
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/text"
-msgstr "苦痛の源は、反乱軍の搭乗船による攻撃を受けている民間船のようです！支援する必要がありますか？"
+msgstr "遭難信号の発信源は、反乱軍の乗船船に攻撃されている民間船のようだ！助けるべきか？"
 
 #: src-en/data/events_sector_rad_science.xml:667
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[1]/text"
-msgstr "民間人を救います。"
+msgstr "民間人を救う。"
 
 #: src-en/data/events_sector_rad_science.xml:669
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[1]/event/text"
-msgstr "あなたは武器を動かし、海賊船に従事します。船の上にはまだ2人の民間人が生きているように見えます。"
+msgstr "武器にエネルギーを供給し、海賊船と交戦する。船にはまだ2人の民間人が生きているようだ。反乱軍を排除すれば、彼らを救出できるかもしれない。"
 
 #: src-en/data/events_sector_rad_science.xml:673
 msgid ""
@@ -753,7 +747,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:681
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[2]/event/text"
-msgstr "あなたは彼らが自分自身を救うことができることを願っています。"
+msgstr "彼らが自力で助かることを願う。"
 
 #: src-en/data/events_sector_rad_science.xml:683
 msgid ""
@@ -768,7 +762,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:696
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/text"
-msgstr "苦痛のビーコンの源泉は小さな民間のシャトルであり、科学者船にすくい上げられる過程にあります。"
+msgstr "遭難信号の発信源は小さな民間シャトルで、科学者の船に回収されている最中だ。"
 
 #: src-en/data/events_sector_rad_science.xml:698
 msgid ""
@@ -779,18 +773,18 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/text"
 msgstr ""
-"「反逆者、あなたの距離を保ち、海賊組織のメンバーに私たちが信じている2人の民間人を逮捕したばかりです。私たちは復venのために海賊が現れないことを望んでいます。」"
+"「反逆者よ、距離を保て。我々はちょうど、海賊組織のメンバーと思われる民間人2名を逮捕したところだ。復讐のために海賊が現れないことを願っている。」"
 
 #: src-en/data/events_sector_rad_science.xml:702
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[1]/text"
-msgstr "民間人を救います。"
+msgstr "民間人を救出する。"
 
 #: src-en/data/events_sector_rad_science.xml:704
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"あなたは武器を動かし、科学者を引き付けます。2人の民間人はまだ生きており、彼らは戦いなしに降りていないようです。あなたが反政府勢力を片付けるなら、あなたは彼らを救うことができるかもしれません。"
+"武器にエネルギーを供給し、科学者と交戦する。2人の民間人はまだ生きており、抵抗せずにやられるつもりはないようだ。反乱軍を排除すれば、彼らを救出できるかもしれない。"
 
 #: src-en/data/events_sector_rad_science.xml:708
 msgid ""
@@ -800,12 +794,12 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:714
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[2]/text"
-msgstr "科学者の船をしばらく守り、守ります。"
+msgstr "しばらくここに留まり、科学者の船を守る。"
 
 #: src-en/data/events_sector_rad_science.xml:716
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[2]/event/text"
-msgstr "数分後、海賊船が飛び込んで、あなたが戦いに参加しているようなループ！"
+msgstr "数分も経たないうちに海賊船がジャンプインしてきた。戦闘になりそうだ！"
 
 #: src-en/data/events_sector_rad_science.xml:719
 msgid ""
@@ -820,7 +814,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:727
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[3]/event/text"
-msgstr "ジャンプドライブが充電されている間、あなたは自分の船に注意を向けます。"
+msgstr "ジャンプドライブがチャージされる間、自分の船に注意を向ける。"
 
 #: src-en/data/events_sector_rad_science.xml:729
 msgid ""
@@ -835,7 +829,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:760
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_GHOST\"]/text"
-msgstr "あなたはそのインターセプターの残されたものを破壊しました。"
+msgstr "あのインターセプターの残骸を破壊した。"
 
 #: src-en/data/events_sector_rad_science.xml:763
 msgid ""
@@ -852,7 +846,7 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:773
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE_GHOST\"]/text"
-msgstr "あなたは幽霊の難破船を一掃しました。"
+msgstr "残骸からゴーストを一掃した。"
 
 #: src-en/data/events_sector_rad_science.xml:776
 msgid ""
@@ -869,11 +863,12 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:786
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_GHOST_SUR\"]/text"
-msgstr "最後のヒットは敵の反応器を過負荷にしたようです。"
+msgstr "最後の一撃が敵のリアクターを過負荷にさせたようだ。"
 
 #: src-en/data/events_sector_rad_science.xml:792
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/text"
-msgstr "あなたはビーコンに到着し、破壊された科学者迎撃者を見つけます。船の特定の部分はまだ部分的に無傷であるように見えます。"
+msgstr ""
+"ビーコンに到着すると、破壊された科学者のインターセプターを発見した。船の一部の部品はまだ部分的に無傷のようで、遭難信号がまだ発信されている。"
 
 #: src-en/data/events_sector_rad_science.xml:797
 msgid ""
@@ -884,14 +879,14 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[1]/event/text"
 msgstr ""
-"あなたが難破船に近づくにつれて、それは力を与えます。トランスミッションを受け取ります。\n"
+"残骸に近づくと、それが起動した。通信が入る。\n"
 "\n"
-"「助けてください、私たちは幽霊に攻撃され、私の乗組員は死んでいます。この船から私をテレポートするか、個人のテレポーターを介して反応器とテレポートを過負荷にすることができるほど十分に損傷します。」"
+"「助けてくれ、ゴーストに襲われてクルーは死んだ。私をこの船からテレポートさせてくれるか、あるいはリアクターを過負荷にして個人用テレポーターでテレポートできるように、船に十分なダメージを与えてくれ。」"
 
 #: src-en/data/events_sector_rad_science.xml:802
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[1]/event/crewMember"
-msgstr "C. Swartwout博士"
+msgstr "C・スワートワウト博士"
 
 #: src-en/data/events_sector_rad_science.xml:805
 msgid ""
@@ -901,12 +896,12 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:811
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[2]/text"
-msgstr "難破船を無視します。"
+msgstr "残骸を無視する。"
 
 #: src-en/data/events_sector_rad_science.xml:813
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[2]/event/text"
-msgstr "調査する価値はありません。"
+msgstr "調査する価値はない。"
 
 #: src-en/data/events_sector_rad_science.xml:815
 msgid ""
@@ -921,22 +916,22 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:827
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FAILED\"]/text"
-msgstr "残念ながら、あなたはその科学者を救うことができませんでした。おそらく別の宇宙では、あなたは失敗しませんでした。"
+msgstr "残念ながら、その科学者を救うことはできなかった。もしかしたら、別の宇宙では失敗しなかったかもしれない。"
 
 #: src-en/data/events_sector_rad_science.xml:831
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_SAVED\"]/text"
 msgstr ""
-"「キャプテンの良い仕事、あなたはちょうど間に合うように到着しました、私の名前はコーネリアスのスワートワウトです。\n"
-"私の乗組員と私は、新しい巡洋艦のテストのために私たちのプロジェクト施設の1つに輸送していたと思います。"
+"「見事な働きでした、キャプテン。ちょうど良い時に来てくれました。私の名前はコーネリアス・スワートワウトです。\n"
+"これ以上助けていただくわけにはいかないでしょうか。私とクルーは、新しい巡洋艦のテストのために我々のプロジェクト施設に向かう途中でした。私をそこまで送り届けてくれると大変助かります。」"
 
 #: src-en/data/events_sector_rad_science.xml:851
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FACILITY\"]/text"
 msgstr ""
-"あなたはテスト施設に到着しました、それは今、クルーザーが今テストのために展開されているようです。\n"
-"\n"
-"Swartwout博士があなたに参加してテストを視聴します。「今日私たちがテストしているのは、巡洋艦が武器を使用する能力だけで、テストのために反乱軍の自動車船を持ち込みました。」"
+"テスト施設に到着した。どうやら巡洋艦はちょうど今、テストのために展開されているところのようだ。\n"
+"    \n"
+"スワートワウト博士があなたと一緒にテストを見守る。「今日テストするのは、巡洋艦が武器を使用する能力だけです。テストのために反乱軍の自動船を持ってきました。」"
 
 #: src-en/data/events_sector_rad_science.xml:855
 msgid ""
@@ -947,9 +942,9 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FACILITY\"]/choice/event/text"
 msgstr ""
-"テスト火災が始まっているように、反乱軍の自動車はオンラインで登場し、巡洋艦でハッキングドローンを開始します。この地域の他の科学者が何が起こっているのかを認識しているので、あなたは通信時にこもった驚きを聞きます。\n"
-"\n"
-"ドローンがあまりにも多くのダメージを与える前に、ドローンを取り出すために移動します。"
+"試射が始まろうとしたその時、反乱軍の自動船が起動し、巡洋艦にハッキングドローンを発射した。通信からは、エリア内の他の科学者たちが何が起こっているのかを理解した、くぐもった驚きの声が聞こえる。\n"
+"        \n"
+"ドローンが大きな損害を与える前に、それを排除するために動き出す。"
 
 #: src-en/data/events_sector_rad_science.xml:862
 msgid ""
@@ -960,19 +955,18 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_REBEL_AUTO\"]/text"
 msgstr ""
-"あなたはなんとか反乱軍の自動車を破壊することができましたが、あなたは遅すぎるように見えます、ハッキングドローン展開された反乱軍の船は科学船の支配を取ることに成功し、それは飛び去りました。\n"
-"科学者たちは、それが飛び降りた場所もたどることができましたが、うまくいけば容器を回復するか、少なくとも反乱の手に落ちるのを止めることができます。"
+"反乱軍の自動船を破壊することに成功したが、どうやら少し遅かったようだ。反乱軍の船が展開したハッキングドローンが科学者の船の制御を乗っ取ることに成功し、ジャンプで去ってしまった。\n"
+"科学者たちはそれがどこへジャンプしたかを追跡できた。うまくいけば船を回収できるか、少なくとも反乱軍の手に渡るのを阻止できるだろう。"
 
 #: src-en/data/events_sector_rad_science.xml:894
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_FIGHT_2\"]/text"
-msgstr ""
-"あなたは反乱軍の自動車を破壊しましたが、それはあなたが遅すぎたように見えます、科学巡洋艦はオンラインに戻っていますが、今回は反乱軍の制御下にあります..."
+msgstr "反乱軍の自動船を破壊したが、どうやら少し遅かったようだ。科学者の巡洋艦は再びオンラインになったが、今回は反乱軍の制御下にある…"
 
 #: src-en/data/events_sector_rad_science.xml:899
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_FIGHT_2_2\"]/text"
-msgstr "あなたは時間を使い果たしています、科学巡洋艦はあなたのほぼ上にいます。"
+msgstr "時間切れだ。科学者の巡洋艦がもうすぐ真上にいる。"
 
 #: src-en/data/events_sector_rad_science.xml:902
 msgid ""
@@ -983,8 +977,8 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_SECOND\"]/text"
 msgstr ""
-"あなたはビーコンに到着し、科学者の独裁者がスタンバイモードに座っているのを見つけます。あなたは反乱軍を打ち負かしたように見えます。\n"
-"あなたが船に向かって動き始めたとき、それはその武器に力を与えます、反乱軍は戦いなしでそれを引き渡すだけではないように見えます。"
+"ビーコンに到着すると、科学者の自動巡洋艦が待機モードでいるのを見つけた。どうやら反乱軍より先に着いたようだ。\n"
+"船に向かって動き始めると、武器にエネルギーが供給された。反乱軍は戦わずしてそれを手放すつもりはないようだ。"
 
 #: src-en/data/events_sector_rad_science.xml:912
 msgid ""
@@ -995,7 +989,7 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_CUTTERENEMY\"]/text"
 msgstr ""
-"「うわー、私たちはあなたがここにいたのは幸運だった。それはかなりひどくなったかもしれない。私たちの感謝のトークンは、私たちがあなたが強調したこれらの脆弱性に対処したら、巡洋艦の計画を連邦に送るからだ」"
+"「すごい、あなたがここにいてくれて幸運でした。そうでなければ、かなり悪いことになっていたかもしれません。感謝の印として、あなたが指摘してくれたこれらの脆弱性に対処した後、巡洋艦の設計図を連邦に送ります。」"
 
 #: src-en/data/events_sector_rad_science.xml:944
 msgid ""
@@ -1005,22 +999,23 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:949
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[1]"
-msgstr "民間船の残骸は近くに漂いますが、その一部を救うために考える前に、科学者の船があなたを攻撃者と間違え、民間人を復avenする準備をします。"
+msgstr "民間船の残骸が近くを漂っているが、それを回収しようと考える間もなく、科学者の船があなたを攻撃者と誤解し、民間人の復讐を準備する。"
 
 #: src-en/data/events_sector_rad_science.xml:950
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[2]"
-msgstr "あなたはこのビーコンで科学者船とのあなたの識別についていくつかのトラブルに巻き込まれ、物事が紛争のポイントに熱くなってから間もなく！"
+msgstr "このビーコンで科学者の船との身元確認でトラブルになり、間もなく事態は紛争にまで発展した！"
 
 #: src-en/data/events_sector_rad_science.xml:951
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[3]"
-msgstr "このビーコンの科学者は、あなたの乗組員の一人を悪名高い海賊と間違えているようです。乗組員を引き渡そうとしていないので、戦う準備をします。"
+msgstr ""
+"このビーコンの科学者たちは、あなたのクルーの一人を高額の賞金がかかった悪名高い海賊と間違えているようだ。クルーを引き渡すつもりはなく、戦闘の準備をする。"
 
 #: src-en/data/events_sector_rad_science.xml:955
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/text"
-msgstr "あなたはこのビーコンの近くの科学者の前post基地に出くわします。どうやらこのビーコンは通過するために通行料を必要とします。"
+msgstr "このビーコンの近くで科学者の前哨基地に遭遇し、通過を拒否された。どうやらこのビーコンを通過するには通行料が必要なようだ。"
 
 #: src-en/data/events_sector_rad_science.xml:958
 msgid ""
@@ -1030,7 +1025,7 @@ msgstr "支払いを拒否する。"
 #: src-en/data/events_sector_rad_science.xml:960
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[1]/event/text"
-msgstr "科学者たちは会話で時間を無駄にしません - あなたが彼らの武器をオンラインで拒否することを拒否する2番目は！"
+msgstr "科学者たちは会話に時間を無駄にしない。あなたが拒否した瞬間に、彼らの武器が起動した！"
 
 #: src-en/data/events_sector_rad_science.xml:963
 msgid ""
@@ -1040,12 +1035,12 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:969
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[2]/text"
-msgstr "通行料を支払います。"
+msgstr "通行料を支払う。"
 
 #: src-en/data/events_sector_rad_science.xml:971
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[2]/event/text"
-msgstr "科学者は支払いを集めて、あなたが継続することを可能にします。"
+msgstr "科学者たちは支払いを受け取り、あなたが続けることを許可した。"
 
 #: src-en/data/events_sector_rad_science.xml:983
 msgid ""
@@ -1056,24 +1051,24 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[1]"
 msgstr ""
-"大胆な海賊船長（または愚かな船長）が科学者の分野を撮影しようとします。敵対的な船が近づいていることに気付いたとき、戦闘の準備をするとき、彼らが後者であることを願っています。"
+"科学者の領域に挑むのは、大胆な海賊船長か、あるいは愚かな船長だ。敵対的な船が接近してくるのに気づいたとき、戦闘準備をしながら後者であることを願う。"
 
 #: src-en/data/events_sector_rad_science.xml:989
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[2]"
 msgstr ""
-"海賊船が近づき、すでに充電されている武器。彼らはこの領土でかなり殺害されているに違いありません、そして、彼らは科学者や民間人の船から休憩を取り、あなたと戦う準備ができています！"
+"海賊船が接近し、すでに武器をチャージしている。彼らはこの領域でかなりの殺戮を繰り広げているに違いなく、科学者や民間船から一休みして、あなたの船と戦う準備ができている！"
 
 #: src-en/data/events_sector_rad_science.xml:990
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[3]"
-msgstr "彼らの高度な技術にもかかわらず、科学者は海賊を完全に一掃することができなかったようです。あなたの船に向かってまっすぐに向かっています！"
+msgstr "先進技術にもかかわらず、科学者たちは海賊を完全に一掃することはできなかったようだ。一隻があなたの船にまっすぐ向かってくる！"
 
 #: src-en/data/events_sector_rad_science.xml:991
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[4]"
 msgstr ""
-"紫色のハエを垣間見ることができます。まもなく、海賊船が見えます。「ハハ！私は多くの民間人の命を主張しました。そして今、私はあなたのものを主張します！戦う準備をしてください！」"
+"紫色の船が通り過ぎるのをちらりと見る。その後まもなく、海賊船が視界に入る。「ははは！私は多くの民間人の命を奪ってきた。今度はお前の命を奪う！戦闘準備だ！」"
 
 #: src-en/data/events_sector_rad_science.xml:998
 msgid ""
@@ -1084,17 +1079,17 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[1]"
 msgstr ""
-"科学艦隊は大量の船を誇っていますが、これは彼らを新しい乗り物を必要とする海賊の主要な標的にもなります。海賊が管理する科学船が近づき、武器の燃え上がり。"
+"科学者の艦隊は多数の船を誇るが、これは新しい乗り物を必要とする海賊にとって格好の標的でもある。海賊が操る科学者の船が、武器を光らせながら接近してくる。"
 
 #: src-en/data/events_sector_rad_science.xml:1004
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[2]"
-msgstr "海賊船は、科学者から盗んだばかりの新しいギアをテストしようとしており、船にロックして攻撃します！"
+msgstr "科学者から盗んだばかりの新しい装備を試そうとしている海賊船が、あなたの船にロックオンし、攻撃してきた！"
 
 #: src-en/data/events_sector_rad_science.xml:1005
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[3]"
-msgstr "最初は、ここの船は、船体を飾る海賊塗料を見るまで、別の普通の科学者船であると想定しています。パイレーツインバウンド！"
+msgstr "最初は、ここにいる船はただの普通の科学者の船だと思っていたが、船体を飾る海賊のペイントを見るまでは。海賊接近！"
 
 #: src-en/data/events_sector_rad_science.xml:1012
 msgid ""
@@ -1105,35 +1100,34 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[1]"
 msgstr ""
-"「反乱は決して止まらないだろう！連邦と同盟を結ぶすべての人が殺されるだろう！」あなたは、民間人を殺害することの道徳的優位性を彼らのセクターを保護しようとするだけであると疑っていますが、反政府勢力が戦いを望むなら、彼らは戦いを得るでしょう。"
+"「反乱は決して終わらない！連邦に味方する者は皆殺しだ！」自分たちのセクターを守ろうとしているだけの民間人を殺害することの道徳的優位性を疑うが、もし反乱軍が戦いを望むなら、戦いを受けるまでだ。"
 
 #: src-en/data/events_sector_rad_science.xml:1018
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[2]"
 msgstr ""
-"反乱は科学者に対するgrみを抱いているようです。おそらく、彼らはあまりにも多くの科学者のカジノでお金を失ったからです。ここの反政府勢力は戦いで地獄に屈しているようで、あなたがここで唯一の船であるので、彼らはあなたが満足のいく相手になると判断します。"
+"反乱軍は科学者たちに恨みを持っているようだ。おそらく、科学者のカジノで金を失いすぎたのだろう。ここにいる反乱軍の船は戦いに血眼になっており、ここにいる船はあなただけなので、あなたが満足のいく相手だと判断した。"
 
 #: src-en/data/events_sector_rad_science.xml:1019
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[3]"
-msgstr ""
-"反乱軍の船は、民間局の遺体をきれいに選んだ。あなたがジャンプしてからほぼ数秒後、彼らはあなたを見つけて、あなたに次のターゲットを作ることにしました。"
+msgstr "反乱軍の船が民間ステーションの残骸をきれいに片付けた。あなたがジャンプインして数秒後、彼らはあなたを見つけ、次の標的にすることに決めた。"
 
 #: src-en/data/events_sector_rad_science.xml:1035
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_ELITE\"]/text"
-msgstr "あなたはセクターで最も危険な船の1つを破壊することができました。あなたは彼らの船を廃棄し、それのためにより豊かに出てきます。"
+msgstr "セクターで最も危険な船の一つを破壊することに成功した。彼らの船を解体し、より裕福になった。"
 
 #: src-en/data/events_sector_rad_science.xml:1040
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE_ELITE\"]/text"
-msgstr "最後の兵士が倒れると、乗組員は船をこすり始めます。あなたは彼らの船をたくさんのスクラップで放置します。"
+msgstr "最後の兵士が倒れると、クルーは彼らの船を解体し始めた。あなたは大量のスクラップを持って彼らの船を去る。"
 
 #: src-en/data/events_sector_rad_science.xml:1045
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_ELITE\"]/text"
 msgstr ""
-"エリートR＆D防衛部隊の船舶は、科学者艦隊で最も致命的なものの一部であり、正当な理由があります。高度に訓練された乗組員を誇るこれらの船は、戦闘で混乱しません。あなたにとって残念なことに、ここの船はあなたが脅威と攻撃であるとみなします！"
+"エリートR&D防衛部隊の船は、科学者の艦隊で最も危険なものの一つであり、それには正当な理由がある。高度に訓練されたクルーを誇り、これらの船は戦闘でふざけることはない。残念ながら、ここにいる船はあなたを脅威とみなし、攻撃してきた！"
 
 #: src-en/data/events_sector_rad_science.xml:1048
 msgid ""
@@ -1143,16 +1137,16 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:1105
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/beaconType/unvisitedTooltip"
-msgstr "科学者の主な基盤。"
+msgstr "科学者の本拠地。"
 
 #: src-en/data/events_sector_rad_science.xml:1106
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/beaconType/visitedTooltip"
-msgstr "科学者の主な基盤。"
+msgstr "科学者の本拠地。"
 
 #: src-en/data/events_sector_rad_science.xml:1108
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/text"
-msgstr "あなたは科学者の主な基盤に到着しました。駅は人員不足であり、ほとんどの艦隊は前進する反政府勢力の脅威に対処するために移動しているようです。"
+msgstr "科学者の本拠地に到着した。どうやらステーションは人手不足のようだ。艦隊のほとんどが、進行する反乱軍の脅威に対処するために移動している。"
 
 #: src-en/data/events_sector_rad_science.xml:1112
 msgid ""
@@ -1163,7 +1157,7 @@ msgstr ""
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/choice/event/text"
 msgstr ""
-"スタッフのほとんどが駅から外れているので、忍び込み、駅に搭載された技術にアクセスできるようになり、駅の片側に大きな巡洋艦の不足があるように見えます。"
+"スタッフのほとんどがステーションを離れているため、忍び込んでステーションの技術にアクセスできるかもしれない。ステーションの片側には、建造中の大型巡洋艦さえあるようだ。"
 
 #: src-en/data/events_sector_rad_science.xml:1116
 msgid ""
@@ -1177,7 +1171,7 @@ msgstr ""
 
 #: src-en/data/events_sector_rad_science.xml:1128
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LEAVE\"]/text"
-msgstr "あなたはそのエリアを離れます。"
+msgstr "エリアを離れる。"
 
 #: src-en/data/events_sector_rad_science.xml:1130
 msgid ""
@@ -1192,27 +1186,26 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:1148
 msgid ""
 "data/events_sector_rad_science.xml$//eventButton[@name=\"UI_RAD_BOARD\"]/tooltip"
-msgstr "ステーションを離れます（戻ってこない）。"
+msgstr "ステーションを離れる（戻ってくることはできません）。"
 
 #: src-en/data/events_sector_rad_science.xml:1149
 msgid ""
 "data/events_sector_rad_science.xml$//eventButton[@name=\"UI_RAD_BOARD\"]/inactiveTooltip"
-msgstr "あなたの乗組員は、去るためにテレポーターの部屋にいる必要があります。"
+msgstr "出発するには、クルーがテレポーター室にいる必要があります。"
 
 #: src-en/data/events_sector_rad_science.xml:1156
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_BOARD\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "敵のドアシステムは、この時間の後に無効になります。"
+msgstr "この時間が経過すると、敵のドアシステムは無効になります。"
 
 #: src-en/data/events_sector_rad_science.xml:1175
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_RETURN2\"]/text"
-msgstr "まあ、あなたは確かに駅を爆破することはできませんが、あなたの秘密の浸透ミッションはうまくいきました。"
+msgstr "まあ、ステーションを爆破することはできないだろうが、潜入作戦はうまくいった。"
 
 #: src-en/data/events_sector_rad_science.xml:1200
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_1\"]/text"
-msgstr ""
-"ビーコンに到着し、大規模な科学者のコルベットと顔を合わせます。それはドックヤードの船の完成バージョンのようで、あなたは戦いに参加しているようです。"
+msgstr "ビーコンに到着すると、巨大な科学者のコルベットと対峙した。造船所にあった船の完成版のようで、戦闘になりそうだ。"
 
 #: src-en/data/events_sector_rad_science.xml:1203
 msgid ""
@@ -1221,26 +1214,25 @@ msgstr ""
 
 #: src-en/data/events_sector_rad_science.xml:1209
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2\"]/text"
-msgstr "コルベットは爆発しているように見えますが、軽微な損傷を負うだけです。船はまだ修理が必要であり、飛び去ります。"
+msgstr "コルベットは爆発したように見えるが、軽微な損傷しか受けていない。船はまだ修理が必要で、ジャンプで去っていった。"
 
 #: src-en/data/events_sector_rad_science.xml:1215
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3\"]/text"
-msgstr "コルベットは爆発しているように見えますが、軽微な損傷を負うだけです。船はまだ修理が必要であり、飛び去ります。"
+msgstr "コルベットは爆発したように見えるが、軽微な損傷しか受けていない。船はまだ修理が必要で、ジャンプで去っていった。"
 
 #: src-en/data/events_sector_rad_science.xml:1229
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP\"]/text"
-msgstr ""
-"船の一部が行方不明になっていても、彼らはまだ戦っていて、さらにいくつかのシステムで動力を与えています。船が戦闘範囲内にある前に、息を止める時間があります。"
+msgstr "船の一部が欠けていても、彼らはまだ戦っており、さらにいくつかのシステムを起動している。船が戦闘範囲内に入る前に、一息つく時間がある。"
 
 #: src-en/data/events_sector_rad_science.xml:1234
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "コルベットは、このクールダウンが終了した後、稼働します。"
+msgstr "このクールダウンが終わると、コルベットは稼働します。"
 
 #: src-en/data/events_sector_rad_science.xml:1240
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP_2\"]/text"
-msgstr "コルベットは発射距離内にあります..."
+msgstr "コルベットは射程距離内だ…"
 
 #: src-en/data/events_sector_rad_science.xml:1243
 msgid ""
@@ -1249,17 +1241,17 @@ msgstr ""
 
 #: src-en/data/events_sector_rad_science.xml:1256
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP\"]/text"
-msgstr "あなたは科学のコルベットに従っていますが、船はまだ死んでいません。敵の船があなたを攻撃することができる前に、あなたはしばらくしています。"
+msgstr "科学者のコルベットを追ってきたが、船はまだ死んでいない。敵船が攻撃できるようになるまで、少し時間がある。"
 
 #: src-en/data/events_sector_rad_science.xml:1262
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "コルベットは、このクールダウンが終了した後、稼働します。"
+msgstr "このクールダウンが終わると、コルベットは稼働します。"
 
 #: src-en/data/events_sector_rad_science.xml:1268
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP_2\"]/text"
-msgstr "コルベットは発射距離内にあります..."
+msgstr "コルベットは射程距離内だ…"
 
 #: src-en/data/events_sector_rad_science.xml:1271
 msgid ""
@@ -1268,94 +1260,94 @@ msgstr ""
 
 #: src-en/data/events_sector_rad_science.xml:1277
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_WEAPON\"]/text"
-msgstr "あなたは武器庫に入りましたが、それはほとんど掃除されているように見えますが、まだラックに武器があります。"
+msgstr "武器庫に入った。ほとんど空にされているようだが、ラックにはまだ武器が一つある。"
 
 #: src-en/data/events_sector_rad_science.xml:1281
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/text"
-msgstr "あなたは保管室に入りました。いくつかの機械がありますが、テレポーターに1つだけ適合できるようになります。"
+msgstr "保管室に入った。いくつかの機械部品があるが、テレポーターには一つしか乗せられないだろう。"
 
 #: src-en/data/events_sector_rad_science.xml:1283
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[1]/text"
-msgstr "増強を取る："
+msgstr "増設パーツを取る："
 
 #: src-en/data/events_sector_rad_science.xml:1289
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[2]/text"
-msgstr "増強を取る："
+msgstr "増設パーツを取る："
 
 #: src-en/data/events_sector_rad_science.xml:1295
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[3]/text"
-msgstr "増強を取る："
+msgstr "増設パーツを取る："
 
 #: src-en/data/events_sector_rad_science.xml:1301
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[4]/text"
-msgstr "増強を取る："
+msgstr "増設パーツを取る："
 
 #: src-en/data/events_sector_rad_science.xml:1307
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[5]/text"
-msgstr "何も取らずに出発します。"
+msgstr "何も取らずに去る。"
 
 #: src-en/data/events_sector_rad_science.xml:1313
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/text"
-msgstr "原子炉制御室に入りました。"
+msgstr "リアクター制御室に入った。"
 
 #: src-en/data/events_sector_rad_science.xml:1315
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/choice/text"
-msgstr "セキュリティシステムをオフにします。"
+msgstr "セキュリティシステムをオフにする。"
 
 #: src-en/data/events_sector_rad_science.xml:1318
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/choice/event/text"
-msgstr "ドアシステムがオフになります。"
+msgstr "ドアシステムがオフになる。"
 
 #: src-en/data/events_sector_rad_science.xml:1323
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/text"
-msgstr "あなたは極低温部屋に入りました。ポッドの1つに凍った人間がいるようです。"
+msgstr "低温室に入った。ポッドの一つに人間が凍っているようだ。"
 
 #: src-en/data/events_sector_rad_science.xml:1325
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/choice[1]/text"
-msgstr "ポッドを開きます。"
+msgstr "ポッドを開ける。"
 
 #: src-en/data/events_sector_rad_science.xml:1327
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/choice[1]/event/text"
-msgstr "あなたはポッドを開けて人間を解放します、彼らは混乱していますが、あなたの乗組員に加わることを申し出ます。"
+msgstr "ポッドを開けて人間を解放する。彼らは混乱しているが、クルーに加わることを申し出る。"
 
 #: src-en/data/events_sector_rad_science.xml:1332
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/choice[2]/text"
-msgstr "彼を残してください。"
+msgstr "彼を放っておく。"
 
 #: src-en/data/events_sector_rad_science.xml:1337
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/text"
-msgstr "造船所の制御室に入りました。接続されたコンソールはロックダウンされています。"
+msgstr "造船所制御室に入った。接続されているコンソールはロックダウンされている。"
 
 #: src-en/data/events_sector_rad_science.xml:1340
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/choice/text"
-msgstr "コンソールのロックを解除します。"
+msgstr "コンソールのロックを解除する。"
 
 #: src-en/data/events_sector_rad_science.xml:1342
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/choice/event/text"
 msgstr ""
-"データストレージセンターからダウンロードしたパスワードを使用して、コンソールのロックを解除します。\n"
-"\n"
-"科学者のデータをダウンロードすることができます。彼らが構築している新しいタイプの巡洋艦のために、現在フィールドでテストされているように見えます。船の追跡データをダウンロードします。"
+"データ保管センターからダウンロードしたパスワードを使って、コンソールのロックを解除する。\n"
+"        \n"
+"科学者たちが建造している新しいタイプの巡洋艦のデータをダウンロードできた。どうやら現在、一隻が現場でテストされているようだ。船の追跡データをダウンロードする。"
 
 #: src-en/data/events_sector_rad_science.xml:1350
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_HACK\"]/text"
-msgstr "データストラージルームに入りました。造船所制御センター（パイロットルーム）のアクセスコードをダウンロードできます。"
+msgstr "データ保管室に入った。造船所制御センター（操縦室）のアクセスコードをダウンロードできた。"
 
 #: src-en/data/events_sector_rad_science.xml:1354
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_4\"]/text"
-msgstr "船は最終的に破片の畑に爆発し、キルを略奪する前に船体のパッチを上げ始めます。"
+msgstr "船はついに爆発し、瓦礫の野原となった。戦利品を略奪する前に、船体の修復を始める。"
 
 #: src-en/data/events_sector_rad_science.xml:1360
 msgid ""
@@ -1365,4 +1357,4 @@ msgstr ""
 #: src-en/data/events_sector_rad_science.xml:1362
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_4\"]/choice/event/text"
-msgstr "残骸の中に浮かぶ略奪品で満たされた小さな収納箱が見つかります。"
+msgstr "残骸の中に、戦利品で満たされた小さな保管箱が浮かんでいるのを見つけた。"

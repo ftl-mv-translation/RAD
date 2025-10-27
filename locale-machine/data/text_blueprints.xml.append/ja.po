@@ -8,97 +8,97 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:2
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_STATION_unlock\"]"
-msgstr "いくつかの海賊からこの駅を回収します。"
+msgstr "海賊からこのステーションを回収する。"
 
 #: src-en/data/text_blueprints.xml.append:3
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_STATION_2_unlock\"]"
-msgstr "不正な従業員を追い詰めます。"
+msgstr "逃亡した職員を追い詰める。"
 
 #: src-en/data/text_blueprints.xml.append:4
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_STATION_3_unlock\"]"
-msgstr "この船のAまたはBバリアントのいずれかでセクター5に行きます。"
+msgstr "この船のAまたはBバリアントでセクター5に到達する。"
 
 #: src-en/data/text_blueprints.xml.append:5
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLESH_unlock\"]"
-msgstr "プロトタイプクルーザーを回収します。"
+msgstr "プロトタイプの巡洋艦を回収する。"
 
 #: src-en/data/text_blueprints.xml.append:6
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLESH_2_unlock\"]"
-msgstr "ENGIとの共同プロジェクトを回復します。"
+msgstr "エンジーとの共同プロジェクトを回収する。"
 
 #: src-en/data/text_blueprints.xml.append:7
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_GHOST_unlock\"]"
-msgstr "拷問されたファントムで取得して側面を取得します。"
+msgstr "拷問されたファントムを回収し、味方する。"
 
 #: src-en/data/text_blueprints.xml.append:8
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_GHOST_2_unlock\"]"
-msgstr "貧しい顧客に対処します。"
+msgstr "貧しい顧客に対処する。"
 
 #: src-en/data/text_blueprints.xml.append:9
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_RICH_unlock\"]"
-msgstr "豊かな大物の息子との側。"
+msgstr "裕福な大物の息子に味方する。"
 
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_POOR_unlock\"]"
-msgstr "豊かな大物の息子に対する側面。"
+msgstr "裕福な大物の息子に敵対する。"
 
 #: src-en/data/text_blueprints.xml.append:11
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_HUGE_unlock\"]"
-msgstr "このページの他のすべての船のロックを解除します。"
+msgstr "このページの他のすべての船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:12
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CRYSTAL_unlock\"]"
-msgstr "結晶性の反逆者に対処します。"
+msgstr "クリスタルの反乱軍に対処する。"
 
 #: src-en/data/text_blueprints.xml.append:13
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CRYSTAL_2_unlock\"]"
-msgstr "行方不明のステーションに何が起こったのかを見つけてください。"
+msgstr "行方不明のステーションに何が起こったのかを突き止める。"
 
 #: src-en/data/text_blueprints.xml.append:14
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MANTIS_unlock\"]"
-msgstr "科学者と側面と特定の実験を裏切る。"
+msgstr "科学者に味方し、とある実験体を裏切る。"
 
 #: src-en/data/text_blueprints.xml.append:15
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MANTIS_2_unlock\"]"
-msgstr "いくつかの高速道路のエイリアンと対処します。"
+msgstr "高速道路のエイリアンに対処する。"
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MINE_unlock\"]"
-msgstr "海賊との新しい武器と賃金戦争をテストします。"
+msgstr "新しい武器をテストし、海賊と戦争を始める。"
 
 #: src-en/data/text_blueprints.xml.append:17
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_MINE_2_unlock\"]"
-msgstr "新しい武器をテストし、海賊と和解してください。"
+msgstr "新しい武器をテストし、海賊と和平を結ぶ。"
 
 #: src-en/data/text_blueprints.xml.append:19
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_unlock\"]"
-msgstr "R＆Dラボからすべてのクエストを完了します。"
+msgstr "R&Dラボのすべてのクエストを完了する。"
 
 #: src-en/data/text_blueprints.xml.append:20
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_2_unlock\"]"
-msgstr "R＆Dラボのすべてのクエストを完了し、各クエストクルーザーのタイプCのロックを解除します。"
+msgstr "R&Dラボのすべてのクエストを完了し、各クエスト巡洋艦のタイプCをアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:21
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_FLAGSHIP_3_unlock\"]"
-msgstr "すべてのクエストクルーザー（スロットAとB）で勝ちます。近日公開"
+msgstr "すべてのクエスト巡洋艦（スロットAおよびB）で勝利する。近日公開"
 
 #: src-en/data/text_blueprints.xml.append:22
 msgid ""
@@ -108,17 +108,17 @@ msgstr "近日公開"
 #: src-en/data/text_blueprints.xml.append:23
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_ELITE_unlock\"]"
-msgstr "両方の科学巡洋艦のすべてのスロットのロックを解除します。"
+msgstr "両方の科学巡洋艦のすべてのスロットをアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:24
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_ELITE_2_unlock\"]"
-msgstr "両方の科学巡洋艦のスロットAで勝ちます。"
+msgstr "両方の科学巡洋艦のスロットAで勝利する。"
 
 #: src-en/data/text_blueprints.xml.append:26
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_RAD_CORVETTE_unlock\"]"
-msgstr "でロックされていますか？セクタ。"
+msgstr "???セクターでアンロックされます。"
 
 #: src-en/data/text_blueprints.xml.append:27
 msgid ""

@@ -7,71 +7,71 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_lab\"]"
-msgstr "R＆Dラボ"
+msgstr "R&Dラボ"
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_quest\"]"
-msgstr "クエスト[！]"
+msgstr "クエスト [!]"
 
 #: src-en/data/text_misc.xml.append:5
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pirate\"]"
-msgstr "海賊[！]"
+msgstr "海賊 [!]"
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pirate_d\"]"
-msgstr "破損した海賊[！]"
+msgstr "損傷した海賊 [!]"
 
 #: src-en/data/text_misc.xml.append:7
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pirate_e\"]"
-msgstr "海賊執行者[！]"
+msgstr "海賊エンフォーサー [!]"
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_dynasty_out\"]"
-msgstr "王朝の前post基地[！]"
+msgstr "ダイナスティ前哨基地 [!]"
 
 #: src-en/data/text_misc.xml.append:9
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_dynasty_sta\"]"
-msgstr "王朝駅[！]"
+msgstr "ダイナスティステーション [!]"
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_science_meet\"]"
-msgstr "rendezvous [！]"
+msgstr "ランデブー [!]"
 
 #: src-en/data/text_misc.xml.append:11
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pulsar\"]"
-msgstr "パルサー[！]"
+msgstr "パルサー [!]"
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_link\"]"
-msgstr "リンク[Quest] [！]"
+msgstr "リンク[クエスト] [!]"
 
 #: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_under\"]"
-msgstr "盗まれた船[！]"
+msgstr "盗まれた船 [!]"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mirror1\"]"
-msgstr "前post基地[！]"
+msgstr "前哨基地 [!]"
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mirror2\"]"
-msgstr "メインベース[！]"
+msgstr "本拠地 [!]"
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_warped1\"]"
-msgstr "トラッカー[！]"
+msgstr "追跡装置 [!]"
 
 #: src-en/data/text_misc.xml.append:17
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_warped2\"]"
-msgstr "クエスト[！]"
+msgstr "クエスト [!]"
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_scrap1\"]"
-msgstr "輸送 [！]"
+msgstr "輸送船 [!]"
 
 #: src-en/data/text_misc.xml.append:19
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_main_lab\"]"
-msgstr "R＆D本部"
+msgstr "R&D本部"
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_main_quest\"]"
@@ -79,53 +79,53 @@ msgstr "テスト施設"
 
 #: src-en/data/text_misc.xml.append:21
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_corvette\"]"
-msgstr "コルベット[！]"
+msgstr "コルベット [!]"
 
 #: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mines_h\"]"
-msgstr "海賊[！]"
+msgstr "海賊 [!]"
 
 #: src-en/data/text_misc.xml.append:23
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mines_p\"]"
-msgstr "フェデレーション[！]"
+msgstr "連邦 [!]"
 
 #: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_rad2\"]"
 msgstr ""
-"R＆D\n"
-"現在有効になっています。\n"
-"クリックして詳細を確認してください。"
+"R&D\n"
+"現在有効\n"
+"クリックして詳細を表示。"
 
 #: src-en/data/text_misc.xml.append:30
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_rad\"]"
 msgstr ""
-"R＆D\n"
-"現在有効になっています。\n"
-"クリックして詳細を確認してください。"
+"R&D\n"
+"現在有効\n"
+"クリックして詳細を表示。"
 
 #: src-en/data/text_misc.xml.append:33
 msgid "data/text_misc.xml.append$//text[@name=\"tip_rad_loot\"]"
 msgstr ""
-"科学の戦利品\n"
-"-1ダメージ\n"
-"+1システム損傷\n"
-"+1シールドピアス\n"
-"-2パワー\n"
-"-10秒のクールダウン"
+"科学者の戦利品\n"
+"ダメージ-1\n"
+"システムダメージ+1\n"
+"シールド貫通+1\n"
+"消費電力-2\n"
+"クールダウン-10秒"
 
 #: src-en/data/text_misc.xml.append:40
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lightning\"]"
-msgstr "稲妻の武器は隣接する部屋にジャンプし、同じダメージをもう一度受けます。彼らは最初のジャンプの後にこれを再び繰り返します。"
+msgstr "ライトニング兵器は隣接する部屋にジャンプし、再び同じダメージを与える。最初のジャンプの後、これをもう一度繰り返す。"
 
 #: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_combiner\"]"
-msgstr "Flak Weaponに似た、いくつかの発射物に小さな半径で一度に発射されます。"
+msgstr "フラック兵器と同様に、小さな半径を持つ複数の弾を一度に発射する。"
 
 #: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_laser_smart\"]"
-msgstr "スマート武器は、優先順位リストに基づいて手動ターゲティングをオーバーライドします。"
+msgstr "スマート兵器は、優先順位リストに基づいて手動照準を上書きする。"
 
 #: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_focus_burst\"]"
 msgstr ""
-"ヒント：バーストピンポイントビームは、複数の連続した低電力ビームのバーストに対してほとんどのピンポイントの高いダメージを取引し、通常のピンポイントビームと比較すると充電時間が短くなります。"
+"ヒント：バースト・ピンポイントビームは、ほとんどのピンポイントビームの高いダメージと引き換えに、複数の連続した低出力ビームをバースト発射する。これにより、通常のピンポイントビームと比較してチャージ時間が短縮される。"

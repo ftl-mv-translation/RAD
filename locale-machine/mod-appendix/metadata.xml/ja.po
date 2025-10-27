@@ -7,11 +7,11 @@ msgstr ""
 
 #: src-en/mod-appendix/metadata.xml:2
 msgid "mod-appendix/metadata.xml$/metadata/title"
-msgstr "R＆D -FTL MVアドオン"
+msgstr "R&D - FTL MV アドオン"
 
 #: src-en/mod-appendix/metadata.xml:10
 msgid "mod-appendix/metadata.xml$/metadata/description"
 msgstr ""
-"R＆Dは、武器、ドローン、拡張、さらには船のコレクションであり、すべてがマルチバースから最も先進的な研究所に由来しています。\n"
+"R&Dは、武器、ドローン、増設パーツ、そして艦船のコレクションであり、そのすべてがマルチバースで最も先進的な研究所から生まれたものである。\n"
 "\n"
-"R＆Dが表すもの、誰も確実に知っていません。"
+" R&Dが何の略であるか、誰も確かなことは知らない。"

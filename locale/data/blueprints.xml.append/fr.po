@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-07 14:12+0000\n"
+"PO-Revision-Date: 2026-01-07 23:28+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datablueprintsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
@@ -466,9 +466,12 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/desc"
 msgstr ""
-"Équipage Expérimental Alpha. Autrefois un puissant fantôme en fin de vie, il a été modifié par des expériences pour enflammer tout ce qu'il touche..\n"
+"Équipage Expérimental Alpha. Autrefois un puissant Irréel en fin de vie, il "
+"a été modifié par des expériences pour enflammer tout ce qu'il touche..\n"
 "\t\n"
-"\tCaractéristiques héritées du fantôme : ne subit aucun dégât des dangers environnementaux, vitesse réduite à 0.8x, capacité de traverser les portes..\n"
+"\tCaractéristiques héritées des Irréels : ne subit aucun dégât des dangers "
+"environnementaux, vitesse réduite à 0.8x, capacité de traverser les portes.."
+"\n"
 "\tLaisse une traînée de feu partout où il passe."
 
 #: src-en/data/blueprints.xml.append:900

@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-10 14:56+0000\n"
-"Last-Translator: Ssstranger <1913944184@qq.com>\n"
+"PO-Revision-Date: 2026-01-12 23:38+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/rad/dataevents_addon_iconxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_addon_icon.xml.append:3
 msgid ""
@@ -77,19 +77,42 @@ msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRADE_DISABLED\"]/hover-"
 "text"
 msgstr ""
+"FTL:贸易\n"
+"\t点击查看详细信息。"
 
 #: src-en/data/events_addon_icon.xml.append:38
+#, fuzzy
 msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRADE_DISABLED\"]/text"
 msgstr ""
+"超光速航行：贸易系统\n"
+"开发者：Arc\n"
+"当前状态：已禁用\n"
+"\t\t\n"
+"添加一套深度贸易系统，让您能够通过明智的财务决策，以较低风险的方式获取废料。"
+"\n"
+"\t\t\n"
+"请前往多元宇宙论坛（Multiverse Forums）的扩展模块板块激活该功能！。"
 
 #: src-en/data/events_addon_icon.xml.append:47
+#, fuzzy
 msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_GOF_DISABLED\"]/hover-"
 "text"
 msgstr ""
+"FTL:浴火银河\n"
+"\t点击查看详细信息。"
 
 #: src-en/data/events_addon_icon.xml.append:49
+#, fuzzy
 msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_GOF_DISABLED\"]/text"
 msgstr ""
+"FTL：浴火银河\n"
+"开发者：Arc\n"
+"当前状态：已禁用\n"
+"\t\t\n"
+"基于《浴火银河》系列，新增3艘舰船、40种新武器、2种新船员以及1个新事件。所有武"
+"器均采用全新的Lua脚本功能，实现前所未有的运作机制。\n"
+"\t\t\n"
+"请前往多元宇宙论坛（Multiverse Forums）的扩展模块板块激活该功能！。"

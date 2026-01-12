@@ -1,13 +1,20 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-12 12:09+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/rad/datatext_miscxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_lab\"]"
-msgstr ""
+msgstr "RAD物种实验室"
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_quest\"]"
@@ -19,47 +26,47 @@ msgstr "海盗[!]"
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pirate_d\"]"
-msgstr ""
+msgstr "受损海盗 [!]"
 
 #: src-en/data/text_misc.xml.append:7
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pirate_e\"]"
-msgstr ""
+msgstr "海盗执法舰 [!]"
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_dynasty_out\"]"
-msgstr ""
+msgstr "灵朝哨站[!]"
 
 #: src-en/data/text_misc.xml.append:9
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_dynasty_sta\"]"
-msgstr ""
+msgstr "灵朝空间站[!]"
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_science_meet\"]"
-msgstr ""
+msgstr "会合点[!]"
 
 #: src-en/data/text_misc.xml.append:11
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_pulsar\"]"
-msgstr ""
+msgstr "脉冲星 [!]"
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_link\"]"
-msgstr ""
+msgstr "谐合链[任务] [!]"
 
 #: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_under\"]"
-msgstr ""
+msgstr "失窃星舰 [!]"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mirror1\"]"
-msgstr ""
+msgstr "哨站 [!]"
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mirror2\"]"
-msgstr ""
+msgstr "主基地 [!]"
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_warped1\"]"
-msgstr ""
+msgstr "追踪者 [!]"
 
 #: src-en/data/text_misc.xml.append:17
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_warped2\"]"
@@ -67,52 +74,65 @@ msgstr "任务[!]"
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_scrap1\"]"
-msgstr ""
+msgstr "运输舰 [!]"
 
 #: src-en/data/text_misc.xml.append:19
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_main_lab\"]"
-msgstr ""
+msgstr "RAD总部"
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_main_quest\"]"
-msgstr ""
+msgstr "测试设施"
 
 #: src-en/data/text_misc.xml.append:21
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_corvette\"]"
-msgstr ""
+msgstr "轻型护卫舰 [!]"
 
 #: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mines_h\"]"
-msgstr ""
+msgstr "海盗 [!]"
 
 #: src-en/data/text_misc.xml.append:23
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_mines_p\"]"
-msgstr ""
+msgstr "联邦 [!]"
 
 #: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_rad2\"]"
 msgstr ""
+"RAD\n"
+"当前状态：已启用\n"
+"点击查看详情。"
 
 #: src-en/data/text_misc.xml.append:30
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_rad\"]"
 msgstr ""
+"RAD\n"
+"当前状态：已启用\n"
+"点击查看详细信息。"
 
 #: src-en/data/text_misc.xml.append:33
 msgid "data/text_misc.xml.append$//text[@name=\"tip_rad_loot\"]"
 msgstr ""
+"科研战利品\n"
+"-1 伤害\n"
+"+1 系统伤害\n"
+"+1 护盾穿透\n"
+"-2 能量需求\n"
+"-10 秒充能时间"
 
 #: src-en/data/text_misc.xml.append:40
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lightning\"]"
-msgstr ""
+msgstr "连锁闪电武器会跳跃至相邻舱室，并再次造成等量伤害。首次跳跃后将重复此效果。"
 
 #: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_combiner\"]"
-msgstr ""
+msgstr "一次性发射多发弹体，覆盖范围较小，效果类似防空炮武器。"
 
 #: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_laser_smart\"]"
-msgstr ""
+msgstr "智能武器会根据预设优先级列表，覆盖您的手动瞄准操作。"
 
 #: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_focus_burst\"]"
-msgstr ""
+msgstr "提示： 爆裂光点光束牺牲了多数光点光束的高伤害，转为发射一连串连续的低功率光束"
+"，从而相较普通光点光束拥有更短的充能时间。"

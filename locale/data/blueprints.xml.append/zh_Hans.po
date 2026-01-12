@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-10 14:56+0000\n"
-"Last-Translator: Ssstranger <1913944184@qq.com>\n"
+"PO-Revision-Date: 2026-01-12 12:09+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/rad/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
@@ -144,16 +144,34 @@ msgstr "开发人员信息"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR\"]/descriptionOverride"
 msgstr ""
+"有人突发奇想，将传送器内部的技术与一系列透镜和科学装置结合，使其能够锁定另一"
+"艘飞船上的特定目标。这套系统在传送过程中对目标影响有限，所以请做好准备，在武"
+"器舱室迎接这位“客人”。\n"
+"\t\n"
+"\t参数：\n"
+"\t所需能量： 1\n"
+"\t充能时间： 20秒\n"
+"\n"
+"\t单次充能射击次数： 1\n"
+"\n"
+"\t舰体伤害： 0\n"
+"\t系统伤害： 0\n"
+"\t船员伤害： 0\n"
+"\t护盾穿透： 10\n"
+"\n"
+"\t破舱几率： 30%（修正后：30%）\n"
+"\n"
+"\t默认价格： 80~-出售价格： 40~"
 
 #: src-en/data/blueprints.xml.append:264
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR_ENEMY\"]/title"
-msgstr ""
+msgstr "'绑架者'传送光点"
 
 #: src-en/data/blueprints.xml.append:265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ABDUCTOR_ENEMY\"]/short"
-msgstr ""
+msgstr "'绑架者'"
 
 #: src-en/data/blueprints.xml.append:266
 msgid ""
@@ -161,14 +179,16 @@ msgid ""
 msgstr "开发人员信息"
 
 #: src-en/data/blueprints.xml.append:295
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_JAILERBEAM\"]/title"
-msgstr ""
+msgstr "'绑架者'传送光点"
 
 #: src-en/data/blueprints.xml.append:296
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_JAILERBEAM\"]/short"
-msgstr ""
+msgstr "'绑架者'"
 
 #: src-en/data/blueprints.xml.append:297
 msgid ""
@@ -178,12 +198,12 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:325
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_JAILERBEAM_PLAYER\"]/title"
-msgstr ""
+msgstr "'囚禁者'传送光束"
 
 #: src-en/data/blueprints.xml.append:326
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_JAILERBEAM_PLAYER\"]/short"
-msgstr ""
+msgstr "'囚禁者'"
 
 #: src-en/data/blueprints.xml.append:327
 msgid ""
@@ -194,28 +214,48 @@ msgstr "开发人员信息"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_JAILERBEAM_PLAYER\"]/descriptionOverride"
 msgstr ""
+"一种威力更强的绑架光束，该武器能够扫过飞船，对系统造成1点伤害，同时仍会绑架被"
+"光束击中的船员，有时甚至连部分甲板也会一同消失。\n"
+"参数：\n"
+"\n"
+"\t所需能量： 4\n"
+"\t充能时间： 20秒\n"
+"\t光束长度： 160\n"
+"\n"
+"\t光束速度： 3\n"
+"\t船体伤害： 1\n"
+"\n"
+"\t系统伤害： 1\n"
+"\t船员伤害： 15\n"
+"\t护盾穿透： 10\n"
+"\n"
+"\t起火几率： 60%\n"
+"\t破舱几率： 60%（修正后：24%）\n"
+"\n"
+"\t默认价格： 100~-出售价格： 50~"
 
 #: src-en/data/blueprints.xml.append:376
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_GATLING\"]/title"
-msgstr ""
+msgstr "过热链式机炮"
 
 #: src-en/data/blueprints.xml.append:377
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_GATLING\"]/short"
-msgstr ""
+msgstr "过热"
 
 #: src-en/data/blueprints.xml.append:378
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_GATLING\"]/desc"
-msgstr ""
+msgstr "该武器在枪管中装入高热弹丸，将其转化为等离子体。遗憾的是，其冷却系统相当不足"
+"，无法应对长时间的连续射击。"
 
 #: src-en/data/blueprints.xml.append:429
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY\"]/title"
-msgstr ""
+msgstr "科研适配型激光"
 
 #: src-en/data/blueprints.xml.append:430
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY\"]/short"
-msgstr ""
+msgstr "考研 A-L。"
 
 #: src-en/data/blueprints.xml.append:432
 msgid ""
@@ -225,12 +265,12 @@ msgstr "可根据环境自动调节的激光武器，每2组射击增加其伤�
 #: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY_OFFSET\"]/title"
-msgstr ""
+msgstr "科研适配型激光器"
 
 #: src-en/data/blueprints.xml.append:474
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE_ENEMY_OFFSET\"]/short"
-msgstr ""
+msgstr "考研 A-L。"
 
 #: src-en/data/blueprints.xml.append:476
 msgid ""
@@ -240,12 +280,12 @@ msgstr "可根据环境自动调节的激光武器，每2组射击增加其伤�
 #: src-en/data/blueprints.xml.append:517
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE\"]/title"
-msgstr ""
+msgstr "科研适配型激光器"
 
 #: src-en/data/blueprints.xml.append:518
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CHAINGUN_DAMAGE\"]/short"
-msgstr ""
+msgstr "科研 A-L。"
 
 #: src-en/data/blueprints.xml.append:520
 msgid ""
@@ -255,12 +295,12 @@ msgstr "可根据环境自动调节的激光武器，每2组射击增加其伤�
 #: src-en/data/blueprints.xml.append:562
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_0\"]/title"
-msgstr ""
+msgstr "连发光束弹体"
 
 #: src-en/data/blueprints.xml.append:563
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_0\"]/short"
-msgstr ""
+msgstr "连发光束弹体"
 
 #: src-en/data/blueprints.xml.append:564
 msgid ""
@@ -270,12 +310,12 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:596
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_1\"]/title"
-msgstr ""
+msgstr "连发光束弹体"
 
 #: src-en/data/blueprints.xml.append:597
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_PROJECTILE_BEAM_FOCUS_1\"]/short"
-msgstr ""
+msgstr "连发光束弹体"
 
 #: src-en/data/blueprints.xml.append:598
 msgid ""
@@ -285,152 +325,168 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:631
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHT_BEAM\"]/title"
-msgstr ""
+msgstr "轻型光点"
 
 #: src-en/data/blueprints.xml.append:632
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHT_BEAM\"]/short"
-msgstr ""
+msgstr "轻型光点"
 
 #: src-en/data/blueprints.xml.append:633
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHT_BEAM\"]/desc"
-msgstr ""
+msgstr "该光点武器通过发射一道短暂的低功率光点来击破护盾，从而实现了更高效的能量利用"
+"。"
 
 #: src-en/data/blueprints.xml.append:661
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_1\"]/title"
-msgstr ""
+msgstr "爆裂光点I"
 
 #: src-en/data/blueprints.xml.append:662
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_1\"]/short"
-msgstr ""
+msgstr "爆裂光点I"
 
 #: src-en/data/blueprints.xml.append:663
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_1\"]/desc"
-msgstr ""
+msgstr "该光点武器通过发射多道短暂的低功率光点来击破护盾，从而实现了更高效的能量利用"
+"。"
 
 #: src-en/data/blueprints.xml.append:692
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_2\"]/title"
-msgstr ""
+msgstr "爆裂光点II"
 
 #: src-en/data/blueprints.xml.append:693
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_2\"]/short"
-msgstr ""
+msgstr "爆裂光点II"
 
 #: src-en/data/blueprints.xml.append:694
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_2\"]/desc"
-msgstr ""
+msgstr "该光点武器通过发射多道短暂的低功率光点来击破护盾，从而实现了更高效的能量利用"
+"。"
 
 #: src-en/data/blueprints.xml.append:723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_3\"]/title"
-msgstr ""
+msgstr "爆裂光点III"
 
 #: src-en/data/blueprints.xml.append:724
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_3\"]/short"
-msgstr ""
+msgstr "爆裂光点III"
 
 #: src-en/data/blueprints.xml.append:725
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_BURST_3\"]/desc"
-msgstr ""
+msgstr "该光点武器通过发射多道短暂的低功率光点来击破护盾，从而实现了更高效的能量利用"
+"。"
 
 #: src-en/data/blueprints.xml.append:753
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_COMBINER\"]/title"
-msgstr ""
+msgstr "多重激光"
 
 #: src-en/data/blueprints.xml.append:754
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_COMBINER\"]/short"
-msgstr ""
+msgstr "多重激光"
 
 #: src-en/data/blueprints.xml.append:755
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_COMBINER\"]/desc"
-msgstr ""
+msgstr "这款激光实质上是将多道激光强行压缩进同一根炮管中发射。"
 
 #: src-en/data/blueprints.xml.append:798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART\"]/title"
-msgstr ""
+msgstr "智能激光"
 
 #: src-en/data/blueprints.xml.append:799
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART\"]/short"
-msgstr ""
+msgstr "智能激光"
 
 #: src-en/data/blueprints.xml.append:800
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART\"]/desc"
-msgstr ""
+msgstr "该武器内置人工智能，可将瞄准控制权从您手中接管。它将优先摧毁护盾，其次是武器"
+"系统，接着是驾驶/引擎系统，最后才会攻击指定舱室。"
 
 #: src-en/data/blueprints.xml.append:839
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART_ENEMY\"]/title"
-msgstr ""
+msgstr "智能激光"
 
 #: src-en/data/blueprints.xml.append:840
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART_ENEMY\"]/short"
-msgstr ""
+msgstr "智能激光"
 
 #: src-en/data/blueprints.xml.append:841
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LASER_SMART_ENEMY\"]/desc"
-msgstr ""
+msgstr "该武器内置人工智能，可将瞄准控制权从您手中接管。它将优先摧毁护盾，其次是武器"
+"系统，接着是驾驶/引擎系统，最后才会攻击指定舱室。"
 
 #: src-en/data/blueprints.xml.append:876
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_JUMP_TRACKER\"]/title"
-msgstr ""
+msgstr "跃迁追踪弹"
 
 #: src-en/data/blueprints.xml.append:877
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_JUMP_TRACKER\"]/desc"
-msgstr ""
+msgstr "借助先进的传感器与科技原理，该装置使您的飞船能够追踪特定舰船的跃迁轨迹。"
 
 #: src-en/data/blueprints.xml.append:884
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FLESH_HULL\"]/title"
-msgstr ""
+msgstr "活性舰体装甲"
 
 #: src-en/data/blueprints.xml.append:885
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FLESH_HULL\"]/desc"
 msgstr ""
+"通过先进的生物工程技术，您的船体能够随时间自我修复。然而，其状态极不稳定。\n"
+"每当您武器发射时，船体会受到1点伤害，或受到等同于该武器船体伤害值的伤害，以较"
+"高者为准。\n"
+"战斗开始时，您的船体将自动修复10点"
 
 #: src-en/data/blueprints.xml.append:894
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/desc"
 msgstr ""
+"阿尔法实验体船员。曾是生命周期末期的强大幻灵，经过实验与改造后，能使接触的一"
+"切起火燃烧。\n"
+"\t\n"
+"\t继承幻灵属性：不受环境危害伤害、移动速度×0.8、具备无视舱门特性\n"
+"\t移动时沿途留下火焰轨迹。"
 
 #: src-en/data/blueprints.xml.append:900
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/title"
-msgstr ""
+msgstr "实验体 26"
 
 #: src-en/data/blueprints.xml.append:901
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/short"
-msgstr ""
+msgstr "Ex.26"
 
 #: src-en/data/blueprints.xml.append:904
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"phantom_experiment_alpha\"]/powerList/power"
-msgstr ""
+msgstr "最大生命值:110,破坏伤害×2"
 
 #: src-en/data/blueprints.xml.append:914
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/title"
-msgstr ""
+msgstr "斥力无人机"
 
 #: src-en/data/blueprints.xml.append:915
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/short"
-msgstr ""
+msgstr "斥力无人机"
 
 #: src-en/data/blueprints.xml.append:916
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor\"]/desc"
@@ -443,25 +499,28 @@ msgstr "无人机"
 
 #: src-en/data/blueprints.xml.append:927
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR\"]/title"
-msgstr ""
+msgstr "斥力无人机"
 
 #: src-en/data/blueprints.xml.append:928
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR\"]/short"
-msgstr ""
+msgstr "斥力"
 
 #: src-en/data/blueprints.xml.append:929
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR\"]/desc"
 msgstr ""
+"可控型通用无人机，通过排斥任何飞向该舱室的弹体来提供防护。\n"
+"\t\n"
+"-生命值：75,移动速度：×2"
 
 #: src-en/data/blueprints.xml.append:939
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor_enemy\"]/title"
-msgstr ""
+msgstr "斥力无人机"
 
 #: src-en/data/blueprints.xml.append:940
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_repulsor_enemy\"]/short"
-msgstr ""
+msgstr "斥力无人机"
 
 #: src-en/data/blueprints.xml.append:941
 msgid ""
@@ -476,112 +535,123 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:952
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR_ENEMY\"]/title"
-msgstr ""
+msgstr "斥力无人机"
 
 #: src-en/data/blueprints.xml.append:953
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR_ENEMY\"]/short"
-msgstr ""
+msgstr "斥力"
 
 #: src-en/data/blueprints.xml.append:954
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_REPULSOR_ENEMY\"]/desc"
 msgstr ""
+"可控型通用无人机，通过排斥任何飞向该舱室的弹体来提供防护。\n"
+"\t\n"
+"-生命值：75,移动速度：×2"
 
 #: src-en/data/blueprints.xml.append:964
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION\"]/class"
-msgstr ""
+msgstr "先进空间站"
 
 #: src-en/data/blueprints.xml.append:965
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION\"]/name"
-msgstr ""
+msgstr "空间站 27A"
 
 #: src-en/data/blueprints.xml.append:967
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION\"]/desc"
-msgstr ""
+msgstr "这是RAD实验室中最先进的原型站点之一。它配备了引擎，但这些引擎的功能仅限于实现"
+"从A点到B点的基本移动。站点需依赖其他方式规避攻击。"
 
 #: src-en/data/blueprints.xml.append:1041
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_2\"]/class"
-msgstr ""
+msgstr "先进空间站"
 
 #: src-en/data/blueprints.xml.append:1042
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_2\"]/name"
-msgstr ""
+msgstr "空间站 33B"
 
 #: src-en/data/blueprints.xml.append:1044
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_2\"]/desc"
-msgstr ""
+msgstr "该空间站利用高级无人机来抵御弹体的攻击，以此弥补引擎动力的不足。"
 
 #: src-en/data/blueprints.xml.append:1118
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH\"]/class"
-msgstr ""
+msgstr "血肉星舰"
 
 #: src-en/data/blueprints.xml.append:1119
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH\"]/name"
-msgstr ""
+msgstr "请勿食用"
 
 #: src-en/data/blueprints.xml.append:1121
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH\"]/desc"
 msgstr ""
+"真该有人阻止这东西被造出来。\n"
+"肉质外壳并不坚固，但能快速自我维修。你必须时刻留意，避免过度压迫血肉组织导致"
+"舰体损毁。"
 
 #: src-en/data/blueprints.xml.append:1196
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/title"
-msgstr ""
+msgstr "血肉之心"
 
 #: src-en/data/blueprints.xml.append:1197
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/short"
-msgstr ""
+msgstr "血肉之心"
 
 #: src-en/data/blueprints.xml.append:1198
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/desc"
 msgstr ""
+"[基础冷却时间：4] 这颗心脏名副其实是你星舰的心脏。\n"
+"\t每次充能完成时，它将修复1点舰体损伤。"
 
 #: src-en/data/blueprints.xml.append:1200
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH\"]/tooltip"
-msgstr ""
+msgstr "治疗星舰"
 
 #: src-en/data/blueprints.xml.append:1217
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/title"
-msgstr ""
+msgstr "切换推进器"
 
 #: src-en/data/blueprints.xml.append:1218
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/short"
-msgstr ""
+msgstr "切换推进器"
 
 #: src-en/data/blueprints.xml.append:1219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/desc"
-msgstr ""
+msgstr "[基础冷却时间：25] 每次启动时，两艘星舰上的所有船员都会被传送到对方舰上，无论"
+"他们原本属于哪一方。"
 
 #: src-en/data/blueprints.xml.append:1222
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_SWTCH\"]/tooltip"
-msgstr ""
+msgstr "生成一个超级护盾。"
 
 #: src-en/data/blueprints.xml.append:1239
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/title"
-msgstr ""
+msgstr "血肉之心"
 
 #: src-en/data/blueprints.xml.append:1240
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/short"
-msgstr ""
+msgstr "血肉之心"
 
 #: src-en/data/blueprints.xml.append:1241
 msgid ""
@@ -591,72 +661,78 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1242
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FLESH_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "治疗星舰"
 
 #: src-en/data/blueprints.xml.append:1258
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/class"
-msgstr ""
+msgstr "实验型魂灵星舰"
 
 #: src-en/data/blueprints.xml.append:1259
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/name"
-msgstr ""
+msgstr "26号星舰"
 
 #: src-en/data/blueprints.xml.append:1261
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT\"]/desc"
 msgstr ""
+"这艘星舰能够利用其实验型魂灵船员和穿透性火炬光束点燃敌舰。\n"
+"幸运的是，该舰的传送器配备了特殊安全机制：若船员身处即将爆炸的敌舰上，系统会"
+"自动将其回收。"
 
 #: src-en/data/blueprints.xml.append:1333
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TELE_EVAC\"]/title"
-msgstr ""
+msgstr "医疗克隆复合舱"
 
 #: src-en/data/blueprints.xml.append:1334
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TELE_EVAC\"]/desc"
-msgstr ""
+msgstr "此装置融合了医疗舱与克隆舱的功能，使你的克隆舱同时具备治疗与克隆能力。但遗憾"
+"的是，其治疗效率低于专用医疗舱。"
 
 #: src-en/data/blueprints.xml.append:1345
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"DEFENSE_FOCUS\"]/title"
-msgstr ""
+msgstr "光点防御无人机"
 
 #: src-en/data/blueprints.xml.append:1346
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"DEFENSE_FOCUS\"]/short"
-msgstr ""
+msgstr "防御光束"
 
 #: src-en/data/blueprints.xml.append:1347
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"DEFENSE_FOCUS\"]/desc"
 msgstr ""
+"可锁定激光或实体弹的防御无人机。发射一道光点而非传统激光。\n"
+"\t装填时间：250 毫秒"
 
 #: src-en/data/blueprints.xml.append:1363
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_LASER_DEFENSE_INVIS\"]/title"
-msgstr ""
+msgstr "无人机激光"
 
 #: src-en/data/blueprints.xml.append:1393
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_RAD_ZAPPER\"]/title"
-msgstr ""
+msgstr "电击无人机III"
 
 #: src-en/data/blueprints.xml.append:1394
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_RAD_ZAPPER\"]/short"
-msgstr ""
+msgstr "电击III"
 
 #: src-en/data/blueprints.xml.append:1395
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_RAD_ZAPPER\"]/desc"
-msgstr ""
+msgstr "此武器对敌舰伤害有限，但会自动锁定并攻击敌方战斗无人机与防御无人机。"
 
 #: src-en/data/blueprints.xml.append:1430
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_NODAMAGE_1\"]/title"
-msgstr ""
+msgstr "连发光束弹体"
 
 #: src-en/data/blueprints.xml.append:1431
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BEAM_NODAMAGE_1\"]/short"
-msgstr ""
+msgstr "连发光束弹体"
 
 #: src-en/data/blueprints.xml.append:1432
 msgid ""
@@ -666,46 +742,55 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SINGULARITY_MINE\"]/title"
-msgstr ""
+msgstr "奇点发射器"
 
 #: src-en/data/blueprints.xml.append:1464
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SINGULARITY_MINE\"]/short"
-msgstr ""
+msgstr "奇点"
 
 #: src-en/data/blueprints.xml.append:1465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SINGULARITY_MINE\"]/desc"
-msgstr ""
+msgstr "发射一枚能够撕裂时空的大型炸弹。该炸弹本身不造成伤害，但会吸引所有自由飞行的"
+"弹体向它聚集。"
 
 #: src-en/data/blueprints.xml.append:1495
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT\"]/title"
-msgstr ""
+msgstr "至尊信用卡"
 
 #: src-en/data/blueprints.xml.append:1496
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT\"]/desc"
 msgstr ""
+"既然拥有无尽的财富，何必再需要储存废料的空间？\n"
+"\t\n"
+"\t可惜每月消费额度限制在200废料"
 
 #: src-en/data/blueprints.xml.append:1505
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT_2\"]/title"
-msgstr ""
+msgstr "银行金库"
 
 #: src-en/data/blueprints.xml.append:1506
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREDIT_2\"]/desc"
-msgstr ""
+msgstr "初始拥有2000废料，且无法再获得更多。"
 
 #: src-en/data/blueprints.xml.append:1513
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SYSTEM_DUMB\"]/title"
-msgstr ""
+msgstr "低阶技能系统"
 
 #: src-en/data/blueprints.xml.append:1514
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SYSTEM_DUMB\"]/desc"
 msgstr ""
+"该系统设计为加成效应与船员技能等级成反比：这意味着0级船员将提供2级加成，而2级"
+"船员则提供0级加成。\n"
+"\n"
+"这是因为系统专为低技能船员设计，高技能船员容易因过度思考而降低操作效率。"
 
 #: src-en/data/blueprints.xml.append:1523
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH\"]/class"
-msgstr ""
+msgstr "游艇级星舰"
 
 #: src-en/data/blueprints.xml.append:1524
 msgid ""
@@ -713,85 +798,96 @@ msgid ""
 msgstr "索拉里斯"
 
 #: src-en/data/blueprints.xml.append:1525
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH\"]/desc"
 msgstr ""
+"一艘相当昂贵的星舰，配有一位身价不菲的舰长。作为富商巨贾之子，这位舰长拥有无"
+"限资金权限，因此在航程中未安装任何废料回收装置。不过，他的信用卡设有每月取现"
+"限额……"
 
 #: src-en/data/blueprints.xml.append:1600
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_3\"]/class"
-msgstr ""
+msgstr "先进空间站"
 
 #: src-en/data/blueprints.xml.append:1601
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_3\"]/name"
-msgstr ""
+msgstr "空间站99C"
 
 #: src-en/data/blueprints.xml.append:1603
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_STATION_3\"]/desc"
-msgstr ""
+msgstr "该空间站利用绑架光束消灭沿途所有舰船上的船员，并搭载了升级版引擎，机动性远超"
+"以往的空间站型号。"
 
 #: src-en/data/blueprints.xml.append:1674
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_2\"]/class"
-msgstr ""
+msgstr "游艇级星舰"
 
 #: src-en/data/blueprints.xml.append:1675
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_2\"]/name"
-msgstr ""
+msgstr "训练者一号"
 
 #: src-en/data/blueprints.xml.append:1676
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_2\"]/desc"
-msgstr ""
+msgstr "这艘舰船曾一度被视为相当优雅的设计，但历经多年改造与维修后，已转变为更实用的"
+"形态。该舰作为训练舰台而设计，因此无需高技能船员即可运作。"
 
 #: src-en/data/blueprints.xml.append:1747
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_3\"]/class"
-msgstr ""
+msgstr "游艇级星舰"
 
 #: src-en/data/blueprints.xml.append:1748
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_3\"]/name"
-msgstr ""
+msgstr "昂贵"
 
 #: src-en/data/blueprints.xml.append:1750
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_RICH_3\"]/desc"
-msgstr ""
+msgstr "经历一场重大劫案后，你成功获取了大量黄金，但仍无处存放你的废料。"
 
 #: src-en/data/blueprints.xml.append:1823
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SMALL\"]/title"
-msgstr ""
+msgstr "精英穿梭机技术"
 
 #: src-en/data/blueprints.xml.append:1824
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SMALL\"]/desc"
 msgstr ""
+"自动修复所有系统（除非被破舱或着火）。\n"
+"为武器与护盾系统提供离子抗性。\n"
+"赋予50%系统伤害抗性。\n"
+"赋予50%舰体伤害抗性。\n"
+"武器充能速度提升50%。"
 
 #: src-en/data/blueprints.xml.append:1835
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_HUGE\"]/class"
-msgstr ""
+msgstr "战斗穿梭机"
 
 #: src-en/data/blueprints.xml.append:1836
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_HUGE\"]/name"
-msgstr ""
+msgstr "H.U.G.E"
 
 #: src-en/data/blueprints.xml.append:1838
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_HUGE\"]/desc"
-msgstr ""
+msgstr "这艘舰船或许会破坏游戏平衡，请做好存档崩溃的准备。"
 
 #: src-en/data/blueprints.xml.append:1911
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/title"
-msgstr ""
+msgstr "护盾锁定光束"
 
 #: src-en/data/blueprints.xml.append:1912
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/short"
-msgstr ""
+msgstr "S-锁定光束"
 
 #: src-en/data/blueprints.xml.append:1913
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/desc"
@@ -801,136 +897,158 @@ msgstr "开发人员信息"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_SDRAIN\"]/descriptionOverride"
 msgstr ""
+"该武器可完全吸收目标护盾能量，使你的其他武器能对其系统造成毁灭性打击。\n"
+"它也能彻底摧毁超级护盾，但之后需额外一发射击才能吸尽剩余护盾能量。\n"
+"\t\n"
+"参数：\n"
+"所需能量： 2\n"
+"充能时间： 15秒\n"
+"最大弹容量： 2\n"
+"\n"
+"单次充能射击次数： 1\n"
+"\n"
+"舰体伤害： 0\n"
+"系统伤害： 0\n"
+"\n"
+"默认价格： 80~ -出售价格： 40~"
 
 #: src-en/data/blueprints.xml.append:1961
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_CHARGE\"]/title"
-msgstr ""
+msgstr "超能族护盾充能器"
 
 #: src-en/data/blueprints.xml.append:1962
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_CHARGE\"]/desc"
-msgstr ""
+msgstr "该护盾发生器现在生成超能护盾层，而非普通护盾层。"
 
 #: src-en/data/blueprints.xml.append:1971
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/class"
-msgstr ""
+msgstr "佐尔吉星舰"
 
 #: src-en/data/blueprints.xml.append:1972
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/name"
-msgstr ""
+msgstr "持久号"
 
 #: src-en/data/blueprints.xml.append:1974
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_2\"]/desc"
-msgstr ""
+msgstr "融合超能族与半械族科技的星舰，结合了半械族的能量生成技术与超能族的护盾技术，"
+"使舰船能够每数秒生成一层超能护盾。"
 
 #: src-en/data/blueprints.xml.append:2048
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/class"
-msgstr ""
+msgstr "折返式星舰"
 
 #: src-en/data/blueprints.xml.append:2049
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/name"
-msgstr ""
+msgstr "星舰置换"
 
 #: src-en/data/blueprints.xml.append:2051
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLESH_3\"]/desc"
-msgstr ""
+msgstr "一套先进的传送系统允许你将全体船员传送至敌舰上，但一个不幸的副作用是：它同时"
+"会将所有敌方船员传送到你的舰船上。"
 
 #: src-en/data/blueprints.xml.append:2127
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/class"
-msgstr ""
+msgstr "护盾星舰"
 
 #: src-en/data/blueprints.xml.append:2128
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/name"
-msgstr ""
+msgstr "次级装甲"
 
 #: src-en/data/blueprints.xml.append:2130
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_2\"]/desc"
 msgstr ""
+"这艘星舰能够部署革命性的超能族次级护盾发生器。\n"
+"\n"
+"传统部署在此类舰船上的4门巨炮已被替换为特殊装置，使得护盾可在超能护盾之外独立"
+"展开。"
 
 #: src-en/data/blueprints.xml.append:2207
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/class"
-msgstr ""
+msgstr "扰频星舰"
 
 #: src-en/data/blueprints.xml.append:2208
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/name"
-msgstr ""
+msgstr "狂乱"
 
 #: src-en/data/blueprints.xml.append:2210
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_EXPERIMENT_3\"]/desc"
-msgstr ""
+msgstr "这艘星舰的某个环节出了非常、非常严重的问题。"
 
 #: src-en/data/blueprints.xml.append:2277
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_UNDER\"]/title"
-msgstr ""
+msgstr "超能族次级护盾发生器"
 
 #: src-en/data/blueprints.xml.append:2278
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_ZS_UNDER\"]/desc"
-msgstr ""
+msgstr "类似于超能族超能护盾，但其作用位置位于常规护盾之下的次级护盾。"
 
 #: src-en/data/blueprints.xml.append:2286
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAM\"]/title"
-msgstr ""
+msgstr "扰频推进器"
 
 #: src-en/data/blueprints.xml.append:2287
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAM\"]/desc"
-msgstr ""
+msgstr "每15秒，你舰上的所有船员都会被神秘地转移至随机舱室。幸运的是，驾驶舱似乎能豁"
+"免此效应。"
 
 #: src-en/data/blueprints.xml.append:2296
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/title"
-msgstr ""
+msgstr "超能护盾III"
 
 #: src-en/data/blueprints.xml.append:2297
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/short"
-msgstr ""
+msgstr "护盾III"
 
 #: src-en/data/blueprints.xml.append:2298
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_3\"]/desc"
-msgstr ""
+msgstr "此武器对敌舰伤害有限，但每次充能并发射时会为超能护盾恢复3层护盾。"
 
 #: src-en/data/blueprints.xml.append:2334
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/title"
-msgstr ""
+msgstr "超能护盾II"
 
 #: src-en/data/blueprints.xml.append:2335
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/short"
-msgstr ""
+msgstr "护盾III"
 
 #: src-en/data/blueprints.xml.append:2336
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_2\"]/desc"
-msgstr ""
+msgstr "此武器对敌舰伤害有限，但每次充能并发射时会为超能护盾恢复2层护盾。"
 
 #: src-en/data/blueprints.xml.append:2373
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/title"
-msgstr ""
+msgstr "超能护盾I"
 
 #: src-en/data/blueprints.xml.append:2374
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/short"
-msgstr ""
+msgstr "护盾I"
 
 #: src-en/data/blueprints.xml.append:2375
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_ZSGUN_1\"]/desc"
-msgstr ""
+msgstr "此武器对敌舰伤害有限，但每次充能并发射时会为超能护盾恢复1层护盾。"
 
 #: src-en/data/blueprints.xml.append:2413
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/title"
-msgstr ""
+msgstr "连锁闪电光束弹体"
 
 #: src-en/data/blueprints.xml.append:2414
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_BEAM\"]/short"
-msgstr ""
+msgstr "连锁闪电光束弹体"
 
 #: src-en/data/blueprints.xml.append:2415
 msgid ""
@@ -940,290 +1058,337 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:2446
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/title"
-msgstr ""
+msgstr "特斯拉炮I"
 
 #: src-en/data/blueprints.xml.append:2447
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/short"
-msgstr ""
+msgstr "特斯拉I"
 
 #: src-en/data/blueprints.xml.append:2449
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_1\"]/desc"
-msgstr ""
+msgstr "此连锁闪电武器可连续跳跃至相邻舱室5次。"
 
 #: src-en/data/blueprints.xml.append:2486
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/title"
-msgstr ""
+msgstr "特斯拉炮II"
 
 #: src-en/data/blueprints.xml.append:2487
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/short"
-msgstr ""
+msgstr "特斯拉II"
 
 #: src-en/data/blueprints.xml.append:2489
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_2\"]/desc"
-msgstr ""
+msgstr "此连锁闪电武器可连续跳跃至相邻舱室4次。"
 
 #: src-en/data/blueprints.xml.append:2526
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/title"
-msgstr ""
+msgstr "特斯拉炮III"
 
 #: src-en/data/blueprints.xml.append:2527
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/short"
-msgstr ""
+msgstr "特斯拉III"
 
 #: src-en/data/blueprints.xml.append:2529
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_3\"]/desc"
-msgstr ""
+msgstr "此连锁闪电武器可连续跳跃至相邻舱室2次。"
 
 #: src-en/data/blueprints.xml.append:2567
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/title"
-msgstr ""
+msgstr "连锁离子炮"
 
 #: src-en/data/blueprints.xml.append:2568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/short"
-msgstr ""
+msgstr "连锁离子"
 
 #: src-en/data/blueprints.xml.append:2570
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_ION\"]/desc"
-msgstr ""
+msgstr "此连锁闪电武器可连续跳跃至相邻舱室3次。"
 
 #: src-en/data/blueprints.xml.append:2610
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/title"
-msgstr ""
+msgstr "连锁火炮"
 
 #: src-en/data/blueprints.xml.append:2611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/short"
-msgstr ""
+msgstr "连锁炮"
 
 #: src-en/data/blueprints.xml.append:2613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_LIGHTNING_FIRE\"]/desc"
-msgstr ""
+msgstr "此连锁闪电可连续跳跃至相邻舱室3次，同时能够击破护盾"
 
 #: src-en/data/blueprints.xml.append:2650
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_MULTISHOT\"]/title"
-msgstr ""
+msgstr "多重射击武器"
 
 #: src-en/data/blueprints.xml.append:2651
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_MULTISHOT\"]/desc"
 msgstr ""
+"所有武器发射的弹体/射击次数/光束数量翻倍，但武器充能速度降低50%。\n"
+"\n"
+"可在星舰管理菜单中以20废料安装此系统。"
 
 #: src-en/data/blueprints.xml.append:2660
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/title"
-msgstr ""
+msgstr "高能武器"
 
 #: src-en/data/blueprints.xml.append:2661
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_BIGSHOT\"]/desc"
 msgstr ""
+"使所有你发射的弹体或光束的舰体伤害、系统伤害、离子伤害翻倍，但武器充能速度降"
+"低50%。\n"
+"\n"
+"可在星舰管理菜单中以20废料安装此系统。，效果不可叠加。"
 
 #: src-en/data/blueprints.xml.append:2670
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_RAILGUN\"]/title"
-msgstr ""
+msgstr "轨道加速武器"
 
 #: src-en/data/blueprints.xml.append:2671
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_WM_RAILGUN\"]/desc"
 msgstr ""
+"使你所有弹体和光束的速度提升至4倍。轨道炮，就是这么强！\n"
+"可在星舰管理菜单中以10废料安装此系统。，效果不可叠加。"
 
 #: src-en/data/blueprints.xml.append:2679
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MOD_SUS\"]/title"
-msgstr ""
+msgstr "维修维生装置"
 
 #: src-en/data/blueprints.xml.append:2680
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MOD_SUS\"]/desc"
 msgstr ""
+"当船员离开未完全修复的舱室时，修复进度将被保留，不会因船员离开而丢失。\n"
+"可在星舰管理菜单中以10废料安装此系统。，效果不可叠加。"
 
 #: src-en/data/blueprints.xml.append:2689
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_MULTISHOT\"]/title"
-msgstr ""
+msgstr "多重分裂射击武器"
 
 #: src-en/data/blueprints.xml.append:2690
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_MULTISHOT\"]/desc"
 msgstr ""
+"将你发射的每颗弹体或光束分裂为两发，但舰体伤害、系统伤害与离子伤害减半。若基"
+"础伤害值为奇数，则其中一发造成的伤害会略高于另一发。\n"
+"\t可在星舰管理菜单中以20废料安装此系统。。"
 
 #: src-en/data/blueprints.xml.append:2700
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_BIGSHOT\"]/title"
-msgstr ""
+msgstr "低级高能武器"
 
 #: src-en/data/blueprints.xml.append:2701
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_BIGSHOT\"]/desc"
 msgstr ""
+"使你发射的所有弹体或光束的舰体伤害、系统伤害、离子伤害翻倍，但武器充能速度降"
+"低60%，且与多重射击系统不兼容。\n"
+"\t可在星舰管理菜单中以20废料安装此系统。。"
 
 #: src-en/data/blueprints.xml.append:2711
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_RAILGUN\"]/title"
-msgstr ""
+msgstr "轨道加速武器"
 
 #: src-en/data/blueprints.xml.append:2712
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_WM_RAILGUN\"]/desc"
 msgstr ""
+"使你所有弹体和光束的速度提升至4倍。轨道炮，就是这么强！\n"
+"\t可在星舰管理菜单中以10废料安装此系统。"
 
 #: src-en/data/blueprints.xml.append:2722
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_MOD_SUS\"]/title"
-msgstr ""
+msgstr "维修维生装置"
 
 #: src-en/data/blueprints.xml.append:2723
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"IN_RAD_MOD_SUS\"]/desc"
 msgstr ""
+"当船员离开未完全修复的舱室时，修复进度将被保留，不会因船员离开而丢失。\n"
+"可在星舰管理菜单中以10废料安装此系统。"
 
 #: src-en/data/blueprints.xml.append:2732
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_REFLECT_HULL\"]/title"
-msgstr ""
+msgstr "反射型舰体镀层"
 
 #: src-en/data/blueprints.xml.append:2733
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_REFLECT_HULL\"]/desc"
 msgstr ""
+"该舰体镀层专为反射任何击中舰船的光束而设计。\n"
+"光束将被反射回敌舰，且对自身舰体仅造成一半伤害（向下取整）。\n"
+"\n"
+"此外，镀层还提供5点超能舰体值，每场战斗可抵挡5次对舰体的伤害。"
 
 #: src-en/data/blueprints.xml.append:2744
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_TIME_HULL\"]/title"
-msgstr ""
+msgstr "扭曲舰体镀层"
 
 #: src-en/data/blueprints.xml.append:2745
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_TIME_HULL\"]/desc"
 msgstr ""
+"每当该舰即将受到舰体伤害时，时空系统的冷却会立即结束，且将一件随机武器的冷却"
+"调整为即将完成，同时武器充能速度降低25%。\n"
+"\n"
+"此外，镀层提供1点超能舰体值，每场战斗可抵挡1次舰体伤害。"
 
 #: src-en/data/blueprints.xml.append:2755
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_HULL\"]/title"
-msgstr ""
+msgstr "超能舰体镀层"
 
 #: src-en/data/blueprints.xml.append:2756
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_HULL\"]/desc"
-msgstr ""
+msgstr "该镀层提供5点超能舰体值，每场战斗可抵挡5次对舰体的伤害。"
 
 #: src-en/data/blueprints.xml.append:2764
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_BULLET_HELL\"]/title"
-msgstr ""
+msgstr "暗物质舰体镀层"
 
 #: src-en/data/blueprints.xml.append:2765
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_BULLET_HELL\"]/desc"
 msgstr ""
+"该舰体完全无敌，但由于星域连续体的扭曲，所有弹体速度降至1/4，船员伤害增加45点"
+"（上限为75），并在你的舰体上显示命中点。\n"
+"同时，舰上的克隆舱因时空扭曲几乎失效，无法克隆任何船员，但仍能在跃迁时治疗船"
+"员。\n"
+"你的船员无法通过其他方式治疗，但所有船员造成1.5倍伤害。"
 
 #: src-en/data/blueprints.xml.append:2776
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/title"
-msgstr ""
+msgstr "牵引光束"
 
 #: src-en/data/blueprints.xml.append:2777
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/short"
-msgstr ""
+msgstr "牵引"
 
 #: src-en/data/blueprints.xml.append:2778
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_TRASH_BEAM\"]/desc"
 msgstr ""
+"光束本身不造成伤害，但会在命中时产生强引力牵引。\n"
+"光束每命中一个舱格，就会将一颗陨石拖向该舱格。"
 
 #: src-en/data/blueprints.xml.append:2806
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/class"
-msgstr ""
+msgstr "镜像星舰"
 
 #: src-en/data/blueprints.xml.append:2807
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/name"
-msgstr ""
+msgstr "折射"
 
 #: src-en/data/blueprints.xml.append:2809
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL\"]/desc"
 msgstr ""
+"该星舰利用一种神秘的水晶结构，能够将光束直接反射回敌方。\n"
+"同时提供5点超能舰体值。"
 
 #: src-en/data/blueprints.xml.append:2886
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/class"
-msgstr ""
+msgstr "湮灭时空星舰"
 
 #: src-en/data/blueprints.xml.append:2887
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/name"
-msgstr ""
+msgstr "威尔切克号"
 
 #: src-en/data/blueprints.xml.append:2889
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_2\"]/desc"
-msgstr ""
+msgstr "这艘星舰的舰体具有某种奇特属性：每次被击中时，随机一个舱室会遭受时空异常效应"
+"，且一件武器的冷却会立即完成。"
 
 #: src-en/data/blueprints.xml.append:2964
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/class"
-msgstr ""
+msgstr "暗黑星舰"
 
 #: src-en/data/blueprints.xml.append:2965
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/name"
-msgstr ""
+msgstr "黑洞"
 
 #: src-en/data/blueprints.xml.append:2967
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CRYSTAL_3\"]/desc"
 msgstr ""
+"由于舰体装甲的特性，你无需担心星舰爆炸，但必须谨慎保护船员——他们相当脆弱。\n"
+"你需要尽可能避免船员受到伤害，克隆舱提供的微弱治疗可能不足以应对危机。"
 
 #: src-en/data/blueprints.xml.append:3026
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREVERSAL\"]/title"
-msgstr ""
+msgstr "实验型隐形系统"
 
 #: src-en/data/blueprints.xml.append:3027
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CREVERSAL\"]/desc"
-msgstr ""
+msgstr "这套实验型隐形系统以牺牲一半隐形时间为代价，换取排斥所有敌方弹体并将其重新锁"
+"定回敌舰的能力。"
 
 #: src-en/data/blueprints.xml.append:3034
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CBEAM\"]/title"
-msgstr ""
+msgstr "隐形巨炮系统"
 
 #: src-en/data/blueprints.xml.append:3035
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CBEAM\"]/desc"
 msgstr ""
+"这套实验型隐形系统以牺牲一半隐形时间为代价，换取发射一道毁灭性光束的能力，该"
+"光束将从敌舰护盾系统延伸至武器系统。\n"
+"\n"
+"光束造成1点伤害，并随武器系统每1点能量额外增加0.5伤害。"
 
 #: src-en/data/blueprints.xml.append:3044
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CHACK\"]/title"
-msgstr ""
+msgstr "增强型隐形系统"
 
 #: src-en/data/blueprints.xml.append:3045
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CHACK\"]/desc"
-msgstr ""
+msgstr "这套实验型隐形系统在启动时会入侵敌舰护盾系统，但在此过程中会禁用己方武器。"
 
 #: src-en/data/blueprints.xml.append:3052
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/class"
-msgstr ""
+msgstr "科研护卫舰"
 
 #: src-en/data/blueprints.xml.append:3053
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/name"
-msgstr ""
+msgstr "动态号"
 
 #: src-en/data/blueprints.xml.append:3055
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE\"]/desc"
-msgstr ""
+msgstr "该舰利用其隐形系统不仅能躲避敌方弹体，还能将其反弹回敌舰。"
 
 #: src-en/data/blueprints.xml.append:3128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/title"
-msgstr ""
+msgstr "隐形光束"
 
 #: src-en/data/blueprints.xml.append:3129
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/short"
-msgstr ""
+msgstr "隐形光束"
 
 #: src-en/data/blueprints.xml.append:3130
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_CLOAKBEAM\"]/desc"
@@ -1232,119 +1397,137 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:3157
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/class"
-msgstr ""
+msgstr "科研护卫舰"
 
 #: src-en/data/blueprints.xml.append:3158
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/name"
-msgstr ""
+msgstr "幻影号"
 
 #: src-en/data/blueprints.xml.append:3160
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_2\"]/desc"
-msgstr ""
+msgstr "该舰的隐形系统经过特殊配置，可生成一道能够损伤敌舰的高能光束。"
 
 #: src-en/data/blueprints.xml.append:3232
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/class"
-msgstr ""
+msgstr "科研护卫舰"
 
 #: src-en/data/blueprints.xml.append:3233
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/name"
-msgstr ""
+msgstr "影梭号"
 
 #: src-en/data/blueprints.xml.append:3235
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_3\"]/desc"
-msgstr ""
+msgstr "该舰的隐形系统内置辅助入侵模块，会在你启动隐形时入侵敌舰护盾系统，但这也会导"
+"致己方武器系统被反入侵。"
 
 #: src-en/data/blueprints.xml.append:3309
+#, fuzzy
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/title"
-msgstr ""
+msgstr "入侵"
 
 #: src-en/data/blueprints.xml.append:3310
+#, fuzzy
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/short"
-msgstr ""
+msgstr "入侵"
 
 #: src-en/data/blueprints.xml.append:3312
+#, fuzzy
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK1\"]/desc"
-msgstr ""
+msgstr "不"
 
 #: src-en/data/blueprints.xml.append:3355
+#, fuzzy
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/title"
-msgstr ""
+msgstr "入侵"
 
 #: src-en/data/blueprints.xml.append:3356
+#, fuzzy
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/short"
-msgstr ""
+msgstr "入侵"
 
 #: src-en/data/blueprints.xml.append:3358
+#, fuzzy
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK2\"]/desc"
-msgstr ""
+msgstr "不"
 
 #: src-en/data/blueprints.xml.append:3401
+#, fuzzy
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/title"
-msgstr ""
+msgstr "入侵"
 
 #: src-en/data/blueprints.xml.append:3402
+#, fuzzy
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/short"
-msgstr ""
+msgstr "入侵"
 
 #: src-en/data/blueprints.xml.append:3404
+#, fuzzy
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_HACK3\"]/desc"
-msgstr ""
+msgstr "不"
 
 #: src-en/data/blueprints.xml.append:3446
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/class"
-msgstr ""
+msgstr "科研切割器"
 
 #: src-en/data/blueprints.xml.append:3447
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/name"
-msgstr ""
+msgstr "旅伴号"
 
 #: src-en/data/blueprints.xml.append:3449
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER\"]/desc"
 msgstr ""
+"作为小型航天器，这艘舰艇仍配备6个武器槽位，具备可观火力。\n"
+"由于体积限制，其反应堆仅能支持1点能量的武器供能，极大限制了战术选择。"
 
 #: src-en/data/blueprints.xml.append:3519
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_WEAPON\"]/title"
-msgstr ""
+msgstr "低耗武器"
 
 #: src-en/data/blueprints.xml.append:3520
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_WEAPON\"]/desc"
-msgstr ""
+msgstr "由于舰载反应堆性能低下，仅能为一门武器供能，但这些武器将弹体/光束的发射数量翻"
+"倍。"
 
 #: src-en/data/blueprints.xml.append:3527
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/class"
-msgstr ""
+msgstr "科研切割舰"
 
 #: src-en/data/blueprints.xml.append:3528
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/name"
-msgstr ""
+msgstr "暴力射击"
 
 #: src-en/data/blueprints.xml.append:3530
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_2\"]/desc"
-msgstr ""
+msgstr "凭借特制的武器挂架，该舰能高效搭载需4点及以上能量的武器，且能量消耗有折扣，但"
+"无法安装需2点或更低能量的武器。"
 
 #: src-en/data/blueprints.xml.append:3600
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CUTTER_OXY\"]/title"
-msgstr ""
+msgstr "低耗氧系统"
 
 #: src-en/data/blueprints.xml.append:3601
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_CUTTER_OXY\"]/desc"
-msgstr ""
+msgstr "由于舰载反应堆性能低下，氧气系统完全无法生成氧气。其影响严重到所有厌氧种族会"
+"失去窒息免疫，且窒息伤害翻倍。"
 
 #: src-en/data/blueprints.xml.append:3608
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/class"
-msgstr ""
+msgstr "科研切割舰"
 
 #: src-en/data/blueprints.xml.append:3609
 msgid ""
@@ -1354,19 +1537,25 @@ msgstr "潘多拉魔盒"
 #: src-en/data/blueprints.xml.append:3611
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CUTTER_3\"]/desc"
-msgstr ""
+msgstr "每次进入战斗时，你的武器都会被替换，必须谨慎利用跃迁脱离战斗来重新洗牌武器配"
+"置。"
 
 #: src-en/data/blueprints.xml.append:3685
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SHIELD\"]/title"
-msgstr ""
+msgstr "武器扰频器"
 
 #: src-en/data/blueprints.xml.append:3686
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SHIELD\"]/desc"
-msgstr ""
+msgstr "每场战斗中，你的所有武器都会被随机替换（若你有3件武器，则仅替换这3件）。此效"
+"果不适用于旗舰战——进入旗舰战前装备的武器将保持不变"
 
 #: src-en/data/blueprints.xml.append:3693
+#, fuzzy
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/desc"
 msgstr ""
+"科学家，对无人机作战效率更高。\n"
+"\t\n"
+"继承人类属性：具备轻微窒息抗性，技能学习速度更快。"
 
 #: src-en/data/blueprints.xml.append:3698
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/title"
@@ -1374,12 +1563,12 @@ msgstr "人类科学家"
 
 #: src-en/data/blueprints.xml.append:3699
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/short"
-msgstr ""
+msgstr "科学家"
 
 #: src-en/data/blueprints.xml.append:3702
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/powerList/power[1]"
-msgstr ""
+msgstr "同一舱室内的敌对无人机受到的所有伤害提高至1.25倍"
 
 #: src-en/data/blueprints.xml.append:3703
 msgid ""
@@ -1399,55 +1588,56 @@ msgstr "维修技能提升速度特别快"
 #: src-en/data/blueprints.xml.append:3710
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_SHIELD\"]/title"
-msgstr ""
+msgstr "破片护盾"
 
 #: src-en/data/blueprints.xml.append:3711
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SHRAPNEL_SHIELD\"]/desc"
-msgstr ""
+msgstr "啊啊啊啊啊。"
 
 #: src-en/data/blueprints.xml.append:3718
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/class"
-msgstr ""
+msgstr "精英科研护卫舰"
 
 #: src-en/data/blueprints.xml.append:3719
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/name"
-msgstr ""
+msgstr "谈判者号"
 
 #: src-en/data/blueprints.xml.append:3721
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE\"]/desc"
-msgstr ""
+msgstr "该舰在自身周围形成破片护盾层，用以拦截来袭的弹体与过于接近的游离无人机。"
 
 #: src-en/data/blueprints.xml.append:3797
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/title"
-msgstr ""
+msgstr "碎片干扰炮"
 
 #: src-en/data/blueprints.xml.append:3798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/short"
-msgstr ""
+msgstr "碎片干扰炮"
 
 #: src-en/data/blueprints.xml.append:3799
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/desc"
-msgstr ""
+msgstr "[基础冷却时间：8] 该火炮在舰体周围展开破片护盾，每片破片均可拦截一发射弹。"
 
 #: src-en/data/blueprints.xml.append:3800
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_CORVETTE\"]/tooltip"
-msgstr ""
+msgstr "破片干扰炮"
 
 #: src-en/data/blueprints.xml.append:3827
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_civilian\"]/title"
-msgstr ""
+msgstr "民用型"
 
 #: src-en/data/blueprints.xml.append:3828
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_civilian\"]/short"
-msgstr ""
+msgstr "民用型"
 
 #: src-en/data/blueprints.xml.append:3852
 msgid ""
@@ -1468,6 +1658,9 @@ msgstr "最强的爆裂激光。虽然不出售给普通舰船，但这件武器
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/desc"
 msgstr ""
+"本宇宙顶尖科学家之一，主导了多项重要技术的研发。\n"
+"\n"
+"继承人类属性：具备轻微窒息抗性，技能学习速度更快"
 
 #: src-en/data/blueprints.xml.append:3895
 msgid ""
@@ -1477,7 +1670,7 @@ msgstr "人类科学家"
 #: src-en/data/blueprints.xml.append:3896
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/short"
-msgstr ""
+msgstr "科学家"
 
 #: src-en/data/blueprints.xml.append:3899
 msgid ""
@@ -1492,7 +1685,7 @@ msgstr "受到0.7倍战斗伤害与0.6倍灼烧伤害"
 #: src-en/data/blueprints.xml.append:3901
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist_tele\"]/powerList/power[3]"
-msgstr ""
+msgstr "同一舱室内的敌对无人机受到的所有伤害提高至2倍"
 
 #: src-en/data/blueprints.xml.append:3902
 msgid ""
@@ -1508,6 +1701,9 @@ msgstr "维修技能提升速度特别快"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/desc"
 msgstr ""
+"本宇宙顶尖科学家之一，主导了多项重要技术的研发。\n"
+"\n"
+"继承人类属性：具备轻微窒息抗性，技能学习速度更快"
 
 #: src-en/data/blueprints.xml.append:3912
 msgid ""
@@ -1517,7 +1713,7 @@ msgstr "人类科学家"
 #: src-en/data/blueprints.xml.append:3913
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/short"
-msgstr ""
+msgstr "科学家"
 
 #: src-en/data/blueprints.xml.append:3916
 msgid ""
@@ -1532,7 +1728,7 @@ msgstr "受到0.7倍战斗伤害与0.6倍灼烧伤害"
 #: src-en/data/blueprints.xml.append:3918
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_rad_scientist\"]/powerList/power[3]"
-msgstr ""
+msgstr "同一舱室内的敌对无人机受到的所有伤害提高至2倍"
 
 #: src-en/data/blueprints.xml.append:3919
 msgid ""
@@ -1547,140 +1743,157 @@ msgstr "维修技能提升速度特别快"
 #: src-en/data/blueprints.xml.append:3925
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/class"
-msgstr ""
+msgstr "精英武器星舰"
 
 #: src-en/data/blueprints.xml.append:3926
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/name"
-msgstr ""
+msgstr "更加强大的动力"
 
 #: src-en/data/blueprints.xml.append:3928
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP\"]/desc"
-msgstr ""
+msgstr "该舰武器系统已增强至最大系统能量12点，但额外的能量负载意味着无法安装任何医疗"
+"系统。"
 
 #: src-en/data/blueprints.xml.append:4001
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOOR_LOCKS\"]/title"
-msgstr ""
+msgstr "强效武器系统"
 
 #: src-en/data/blueprints.xml.append:4002
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOOR_LOCKS\"]/desc"
-msgstr ""
+msgstr "武器系统已增强至最大系统能量12点，但额外的能量负载会导致武器系统启动时所有舱"
+"门自动锁定。"
 
 #: src-en/data/blueprints.xml.append:4009
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SCRAP\"]/title"
-msgstr ""
+msgstr "小型货舱"
 
 #: src-en/data/blueprints.xml.append:4010
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_LOW_SCRAP\"]/desc"
 msgstr ""
+"当货舱内废料达到75单位时，你将无法再从战斗或事件中获得更多废料。\n"
+"废料获取量+20%。"
 
 #: src-en/data/blueprints.xml.append:4019
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/title"
-msgstr ""
+msgstr "扩散炮I"
 
 #: src-en/data/blueprints.xml.append:4020
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/short"
-msgstr ""
+msgstr "扩散I"
 
 #: src-en/data/blueprints.xml.append:4021
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_1\"]/desc"
 msgstr ""
+"该武器发射的每发弹体会先命中护盾，击破一层护盾，随后分裂成两发弹体，各自击中"
+"敌舰某处。\n"
+"分裂后的每发新弹体会从命中点偏移最多10像素。无法穿透超能护盾。"
 
 #: src-en/data/blueprints.xml.append:4063
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/title"
-msgstr ""
+msgstr "扩散加农炮II"
 
 #: src-en/data/blueprints.xml.append:4064
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/short"
-msgstr ""
+msgstr "扩散II"
 
 #: src-en/data/blueprints.xml.append:4065
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_2\"]/desc"
 msgstr ""
+"该武器发射的每发弹体会先命中护盾，击破一层护盾，随后分裂成两发弹体，各自击中"
+"敌舰某处。\n"
+"分裂后的每发新弹体会从命中点偏移最多10像素。无法穿透超能护盾。"
 
 #: src-en/data/blueprints.xml.append:4107
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/title"
-msgstr ""
+msgstr "扩散加农炮III"
 
 #: src-en/data/blueprints.xml.append:4108
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/short"
-msgstr ""
+msgstr "扩散III"
 
 #: src-en/data/blueprints.xml.append:4109
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_3\"]/desc"
 msgstr ""
+"该武器发射的每发弹体会先命中护盾，击破一层护盾，随后分裂成两发弹体，各自击中"
+"敌舰某处。\n"
+"分裂后的每发新弹体会从命中点偏移最多10像素。无法穿透超能护盾。"
 
 #: src-en/data/blueprints.xml.append:4151
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/title"
-msgstr ""
+msgstr "扩散离子炮"
 
 #: src-en/data/blueprints.xml.append:4152
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/short"
-msgstr ""
+msgstr "扩散离子炮"
 
 #: src-en/data/blueprints.xml.append:4153
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DIFFUSE_ION\"]/desc"
 msgstr ""
+"该武器发射的每发弹体会先命中护盾，造成离子干扰，随后分裂成两发弹体，各自击中"
+"敌舰某处。\n"
+"分裂后的每发新弹体会从命中点偏移最多10像素。无法穿透超能护盾。"
 
 #: src-en/data/blueprints.xml.append:4197
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/class"
-msgstr ""
+msgstr "精英反应堆星舰"
 
 #: src-en/data/blueprints.xml.append:4198
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/name"
-msgstr ""
+msgstr "紧凑型收集器"
 
 #: src-en/data/blueprints.xml.append:4200
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_2\"]/desc"
-msgstr ""
+msgstr "该舰搭载了巨型反应堆，但因此侵占了货舱空间，限制了可携带的废料总量"
 
 #: src-en/data/blueprints.xml.append:4273
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/class"
-msgstr ""
+msgstr "精英巨炮星舰"
 
 #: src-en/data/blueprints.xml.append:4274
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/name"
-msgstr ""
+msgstr "加速者号"
 
 #: src-en/data/blueprints.xml.append:4276
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_FLAGSHIP_3\"]/desc"
-msgstr ""
+msgstr "该舰配备特制巨炮系统，在对敌舰完成最后一击时可汲取能量，并利用该能量提升巨炮"
+"属性。"
 
 #: src-en/data/blueprints.xml.append:4351
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/title"
-msgstr ""
+msgstr "赫克塔模块化激光巨炮"
 
 #: src-en/data/blueprints.xml.append:4352
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/short"
-msgstr ""
+msgstr "赫克塔模块化激光巨炮"
 
 #: src-en/data/blueprints.xml.append:4353
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/desc"
-msgstr ""
+msgstr "[基础冷却时间：15] 默认发射3道激光，可安装无限数量的模块化组件。"
 
 #: src-en/data/blueprints.xml.append:4356
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_HEKTAR\"]/tooltip"
-msgstr ""
+msgstr "模块化激光。"
 
 #: src-en/data/blueprints.xml.append:4370
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_NO_DOOR\"]/title"
@@ -1688,21 +1901,26 @@ msgstr "个人传送器"
 
 #: src-en/data/blueprints.xml.append:4371
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_NO_DOOR\"]/desc"
-msgstr ""
+msgstr "允许船员在舰内瞬移，但仅在你的武器系统未供能时生效。"
 
 #: src-en/data/blueprints.xml.append:4378
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOCKING_DRILL\"]/title"
-msgstr ""
+msgstr "舰船对接器"
 
 #: src-en/data/blueprints.xml.append:4379
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DOCKING_DRILL\"]/desc"
 msgstr ""
+"使你能够与敌舰侧舷对接。\n"
+"对接后，你的传送器冷却变为瞬时完成，但此效果同样适用于敌方。\n"
+"若选择与敌舰对接，传送治疗效果将被禁用。\n"
+"此外，对接将使双方舰船均无法闪避射弹（隐身状态除外）。\n"
+"与敌舰对接后，敌方在2分钟内无法撤退。"
 
 #: src-en/data/blueprints.xml.append:4390
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_UP_ARTI\"]/title"
-msgstr ""
+msgstr "升级型巨炮"
 
 #: src-en/data/blueprints.xml.append:4391
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_UP_ARTI\"]/desc"
@@ -1710,432 +1928,448 @@ msgstr "开发人员信息。"
 
 #: src-en/data/blueprints.xml.append:4398
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAP_HULL\"]/title"
-msgstr ""
+msgstr "废料舰体"
 
 #: src-en/data/blueprints.xml.append:4399
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SCRAP_HULL\"]/desc"
 msgstr ""
+"你的舰船不再拥有舰体生命值，当废料归零时即被摧毁。\n"
+"每次被击中会损失10%的废料，若损失不足10废料，则固定损失10废料。\n"
+"\n"
+"废料获取量提升25%"
 
 #: src-en/data/blueprints.xml.append:4410
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/title"
-msgstr ""
+msgstr "撒币炮I"
 
 #: src-en/data/blueprints.xml.append:4411
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/short"
-msgstr ""
+msgstr "撒币I"
 
 #: src-en/data/blueprints.xml.append:4412
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN\"]/desc"
-msgstr ""
+msgstr "该武器发射钱币，每发弹体会消耗2废料，但若成功命中舰体则会返还废料（命中护盾或"
+"无人机时不返还）。"
 
 #: src-en/data/blueprints.xml.append:4446
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/title"
-msgstr ""
+msgstr "撒币炮I"
 
 #: src-en/data/blueprints.xml.append:4447
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/short"
-msgstr ""
+msgstr "撒币I"
 
 #: src-en/data/blueprints.xml.append:4448
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_COINGUN_ENEMY\"]/desc"
-msgstr ""
+msgstr "该武器发射钱币，每发弹体会消耗2废料，但若成功命中舰体则会返还废料（命中护盾或"
+"无人机时不返还）。"
 
 #: src-en/data/blueprints.xml.append:4481
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/class"
-msgstr ""
+msgstr "封锁星舰"
 
 #: src-en/data/blueprints.xml.append:4482
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/name"
-msgstr ""
+msgstr "“萌门”号"
 
 #: src-en/data/blueprints.xml.append:4484
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS\"]/desc"
-msgstr ""
+msgstr "该舰使用微型个人传送器在舰内移动船员，但武器系统供能时传送器会失效。"
 
 #: src-en/data/blueprints.xml.append:4557
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/class"
-msgstr ""
+msgstr "废料星舰"
 
 #: src-en/data/blueprints.xml.append:4558
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/name"
-msgstr ""
+msgstr "人为财死鸟为食亡"
 
 #: src-en/data/blueprints.xml.append:4560
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_2\"]/desc"
-msgstr ""
+msgstr "该舰的舰体几乎完全由废料构成，极易修复，但也因此结构松散，可能导致废料快速流"
+"失。"
 
 #: src-en/data/blueprints.xml.append:4633
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/class"
-msgstr ""
+msgstr "入侵星舰"
 
 #: src-en/data/blueprints.xml.append:4634
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/name"
-msgstr ""
+msgstr "疾锁猎星！"
 
 #: src-en/data/blueprints.xml.append:4636
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MANTIS_3\"]/desc"
-msgstr ""
+msgstr "该舰配备舰船对接器，使你的船员能够瞬间出入敌舰。"
 
 #: src-en/data/blueprints.xml.append:4713
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/title"
-msgstr ""
+msgstr "惊奇无人机+(tm)"
 
 #: src-en/data/blueprints.xml.append:4714
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/short"
-msgstr ""
+msgstr "惊奇无人机+"
 
 #: src-en/data/blueprints.xml.append:4715
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_WONDERDRONE\"]/desc"
-msgstr ""
+msgstr "惊奇无人机的升级型号，能够同时为4种武器供能：导弹、离子炮、光束炮与激光炮。"
 
 #: src-en/data/blueprints.xml.append:4730
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DRONE_BEAM_COMBAT\"]/title"
-msgstr ""
+msgstr "无人机光束"
 
 #: src-en/data/blueprints.xml.append:4749
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/title"
-msgstr ""
+msgstr "连爆无人机I"
 
 #: src-en/data/blueprints.xml.append:4750
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/short"
-msgstr ""
+msgstr "连爆无人机I"
 
 #: src-en/data/blueprints.xml.append:4751
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"RAD_BURSTDRONE\"]/desc"
-msgstr ""
+msgstr "惊奇无人机的升级型号，能够同时为4种武器供能：导弹、离子炮、光束炮与激光炮。"
 
 #: src-en/data/blueprints.xml.append:4766
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_DRONE_BEAM_COMBAT2\"]/title"
-msgstr ""
+msgstr "无人机光束"
 
 #: src-en/data/blueprints.xml.append:4785
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/title"
-msgstr ""
+msgstr "动态巨炮"
 
 #: src-en/data/blueprints.xml.append:4786
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/short"
-msgstr ""
+msgstr "巨炮"
 
 #: src-en/data/blueprints.xml.append:4787
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_BIG_ARTI\"]/desc"
-msgstr ""
+msgstr "[基础冷却时间：20] 默认发射2道激光，每道造成1点伤害。"
 
 #: src-en/data/blueprints.xml.append:4818
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/class"
-msgstr ""
+msgstr "精英科研切割舰"
 
 #: src-en/data/blueprints.xml.append:4819
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/name"
-msgstr ""
+msgstr "ISS号"
 
 #: src-en/data/blueprints.xml.append:4821
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_CORVETTE_ELITE_2\"]/desc"
-msgstr ""
+msgstr "祝你好运，舰长。"
 
 #: src-en/data/blueprints.xml.append:4894
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_HIGH_WEAPON\"]/title"
-msgstr ""
+msgstr "高能武器"
 
 #: src-en/data/blueprints.xml.append:4895
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_HIGH_WEAPON\"]/desc"
 msgstr ""
+"该舰的武器挂架专为能耗4点及以上的武器设计，这类武器的能耗需求会降至仅需2点。"
+"\n"
+"能耗2点及以下的武器无法适配这些挂架。能耗3点的武器可正常使用"
 
 #: src-en/data/blueprints.xml.append:4903
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_RANDOM\"]/title"
-msgstr ""
+msgstr "超级扰频器"
 
 #: src-en/data/blueprints.xml.append:4904
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_SUPER_RANDOM\"]/desc"
-msgstr ""
+msgstr "每场战斗都会替换你所有的武器、船员和无人机。"
 
 #: src-en/data/blueprints.xml.append:4912
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[55]/title"
-msgstr ""
+msgstr "定时炸弹部署器"
 
 #: src-en/data/blueprints.xml.append:4913
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[55]/short"
-msgstr ""
+msgstr "炸弹部署器"
 
 #: src-en/data/blueprints.xml.append:4914
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[55]/desc"
-msgstr ""
+msgstr "每次充能完成都会额外构造一枚定时炸弹。"
 
 #: src-en/data/blueprints.xml.append:4933
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/title"
-msgstr ""
+msgstr "定时炸弹部署器"
 
 #: src-en/data/blueprints.xml.append:4934
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/short"
-msgstr ""
+msgstr "炸弹部署器"
 
 #: src-en/data/blueprints.xml.append:4935
 msgid "data/blueprints.xml.append$/FTL/weaponBlueprint[56]/desc"
-msgstr ""
+msgstr "每次充能完成都会额外构造一枚定时炸弹。"
 
 #: src-en/data/blueprints.xml.append:4966
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/title"
-msgstr ""
+msgstr "定时炸弹工厂"
 
 #: src-en/data/blueprints.xml.append:4967
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/short"
-msgstr ""
+msgstr "定时炸弹工厂"
 
 #: src-en/data/blueprints.xml.append:4968
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/desc"
 msgstr ""
+"[基础冷却时间：20]\n"
+"每次充能完成都会额外构造一枚定时炸弹。"
 
 #: src-en/data/blueprints.xml.append:4971
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD\"]/tooltip"
-msgstr ""
+msgstr "每次充能都会生成一枚新的定时炸弹。"
 
 #: src-en/data/blueprints.xml.append:4988
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/title"
-msgstr ""
+msgstr "次级炸弹工厂"
 
 #: src-en/data/blueprints.xml.append:4989
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/short"
-msgstr ""
+msgstr "次级炸弹工厂"
 
 #: src-en/data/blueprints.xml.append:4990
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/desc"
 msgstr ""
+"[基础冷却时间：20]\n"
+"每次充能完成都会额外构造一枚定时炸弹。"
 
 #: src-en/data/blueprints.xml.append:4993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RAD_DD_2\"]/tooltip"
-msgstr ""
+msgstr "每次充能都会生成一枚新的定时炸弹。"
 
 #: src-en/data/blueprints.xml.append:5009
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/title"
-msgstr ""
+msgstr "移动的定时炸弹"
 
 #: src-en/data/blueprints.xml.append:5010
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/short"
-msgstr ""
+msgstr "移动的定时炸弹"
 
 #: src-en/data/blueprints.xml.append:5011
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/desc"
-msgstr ""
+msgstr "该炸弹爆炸时会造成1点舰体伤害、1点系统伤害与30点船员伤害，并有50%的破舱几率。"
 
 #: src-en/data/blueprints.xml.append:5014
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[1]"
-msgstr ""
+msgstr "战斗伤害 ×0.5"
 
 #: src-en/data/blueprints.xml.append:5015
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[2]"
-msgstr ""
+msgstr "移动速度 ×0.5。"
 
 #: src-en/data/blueprints.xml.append:5016
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[3]"
-msgstr ""
+msgstr "免疫窒息，受到火焰伤害×0.2。"
 
 #: src-en/data/blueprints.xml.append:5017
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[4]"
-msgstr ""
+msgstr "将在10秒后爆炸。"
 
 #: src-en/data/blueprints.xml.append:5018
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_missile\"]/powerList/power[5]"
-msgstr ""
+msgstr "爆炸将造成1点舰体伤害、1点系统伤害及30点船员伤害，并附带50%的破舱几率。"
 
 #: src-en/data/blueprints.xml.append:5024
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/title"
-msgstr ""
+msgstr "移动的定时炸弹"
 
 #: src-en/data/blueprints.xml.append:5025
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/short"
-msgstr ""
+msgstr "移动的定时炸弹"
 
 #: src-en/data/blueprints.xml.append:5026
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/desc"
-msgstr ""
+msgstr "该炸弹爆炸时会造成2点舰体伤害、2点系统伤害与60点船员伤害，并附带100%的破舱几"
+"率。"
 
 #: src-en/data/blueprints.xml.append:5029
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[1]"
-msgstr ""
+msgstr "战斗伤害 ×0.5"
 
 #: src-en/data/blueprints.xml.append:5030
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[2]"
-msgstr ""
+msgstr "移动速度 ×0.5。"
 
 #: src-en/data/blueprints.xml.append:5031
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[3]"
-msgstr ""
+msgstr "免疫窒息，受到火焰伤害×0.2。"
 
 #: src-en/data/blueprints.xml.append:5032
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[4]"
-msgstr ""
+msgstr "在工厂舱室外每秒受到1点伤害。"
 
 #: src-en/data/blueprints.xml.append:5033
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[5]"
-msgstr ""
+msgstr "在工厂舱室内每秒恢复1点生命。"
 
 #: src-en/data/blueprints.xml.append:5034
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[6]"
-msgstr ""
+msgstr "离开工厂舱室10秒后爆炸，死亡会取消爆炸。"
 
 #: src-en/data/blueprints.xml.append:5035
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb\"]/powerList/power[7]"
-msgstr ""
+msgstr "爆炸将造成2点舰体伤害、2点系统伤害及60点船员伤害，并附带100%的破舱几率。"
 
 #: src-en/data/blueprints.xml.append:5041
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/title"
-msgstr ""
+msgstr "移动的定时炸弹"
 
 #: src-en/data/blueprints.xml.append:5042
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/short"
-msgstr ""
+msgstr "移动的定时炸弹"
 
 #: src-en/data/blueprints.xml.append:5043
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/desc"
-msgstr ""
+msgstr "该炸弹爆炸时会造成2点舰体伤害、1点系统伤害与30点船员伤害，并附带50%的破舱几率"
+"。"
 
 #: src-en/data/blueprints.xml.append:5046
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[1]"
-msgstr ""
+msgstr "战斗伤害 ×0.5"
 
 #: src-en/data/blueprints.xml.append:5047
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[2]"
-msgstr ""
+msgstr "移动速度 ×0.5。"
 
 #: src-en/data/blueprints.xml.append:5048
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[3]"
-msgstr ""
+msgstr "免疫窒息，受到火焰伤害×0.2。"
 
 #: src-en/data/blueprints.xml.append:5049
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[4]"
-msgstr ""
+msgstr "在工厂舱室外每秒受到1点伤害。"
 
 #: src-en/data/blueprints.xml.append:5050
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[5]"
-msgstr ""
+msgstr "在工厂舱室内每秒恢复1点生命。"
 
 #: src-en/data/blueprints.xml.append:5051
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[6]"
-msgstr ""
+msgstr "将在指令下达时爆炸，并在死亡时爆炸。"
 
 #: src-en/data/blueprints.xml.append:5052
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_2\"]/powerList/power[7]"
-msgstr ""
+msgstr "爆炸将造成2点舰体伤害、1点系统伤害及30点船员伤害，并附带50%的破舱几率。"
 
 #: src-en/data/blueprints.xml.append:5058
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/title"
-msgstr ""
+msgstr "移动的定时炸弹"
 
 #: src-en/data/blueprints.xml.append:5059
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/short"
-msgstr ""
+msgstr "移动的定时炸弹"
 
 #: src-en/data/blueprints.xml.append:5060
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/desc"
-msgstr ""
+msgstr "该炸弹爆炸时会造成1点系统伤害与15点船员伤害，并附带100%的起火几率。"
 
 #: src-en/data/blueprints.xml.append:5063
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[1]"
-msgstr ""
+msgstr "战斗伤害 ×0.5"
 
 #: src-en/data/blueprints.xml.append:5064
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[2]"
-msgstr ""
+msgstr "免疫窒息与火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:5065
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[3]"
-msgstr ""
+msgstr "在工厂舱室外每秒受到1点伤害。"
 
 #: src-en/data/blueprints.xml.append:5066
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[4]"
-msgstr ""
+msgstr "在工厂舱室内每秒恢复1点生命。"
 
 #: src-en/data/blueprints.xml.append:5067
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[5]"
-msgstr ""
+msgstr "离开工厂舱室10秒后爆炸，死亡会取消爆炸。"
 
 #: src-en/data/blueprints.xml.append:5068
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_rad_bomb_3\"]/powerList/power[6]"
-msgstr ""
+msgstr "爆炸将造成1点系统伤害及15点船员伤害，并附带100%的起火几率。"
 
 #: src-en/data/blueprints.xml.append:5074
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/class"
-msgstr ""
+msgstr "布雷星舰"
 
 #: src-en/data/blueprints.xml.append:5075
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/name"
-msgstr ""
+msgstr "雷场号"
 
 #: src-en/data/blueprints.xml.append:5076
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE\"]/desc"
-msgstr ""
+msgstr "据说这艘舰船被一名海盗征用，因为他厌倦了等待敌人闯入空雷区域……"
 
 #: src-en/data/blueprints.xml.append:5147
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY\"]/title"
-msgstr ""
+msgstr "无人机工厂隐藏舱"
 
 #: src-en/data/blueprints.xml.append:5148
 msgid ""
@@ -2145,7 +2379,7 @@ msgstr "开发人员信息。"
 #: src-en/data/blueprints.xml.append:5155
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_DRONE_FACTORY_2\"]/title"
-msgstr ""
+msgstr "无人机工厂隐藏舱"
 
 #: src-en/data/blueprints.xml.append:5156
 msgid ""
@@ -2155,57 +2389,65 @@ msgstr "开发人员信息。"
 #: src-en/data/blueprints.xml.append:5163
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MISSILE_BOMBS\"]/title"
-msgstr ""
+msgstr "次级载荷"
 
 #: src-en/data/blueprints.xml.append:5164
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RAD_MISSILE_BOMBS\"]/desc"
 msgstr ""
+"我们移除了那些无用的电子元件，塞进了一颗行走的定时炸弹。现在你所有的导弹和炸"
+"弹都会在10秒后生成一颗定时炸弹，造成1点舰体伤害、1点系统伤害和30点船员伤害。"
 
 #: src-en/data/blueprints.xml.append:5171
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/class"
-msgstr ""
+msgstr "载荷星舰"
 
 #: src-en/data/blueprints.xml.append:5172
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/name"
-msgstr ""
+msgstr "跟他们爆了"
 
 #: src-en/data/blueprints.xml.append:5173
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_2\"]/desc"
-msgstr ""
+msgstr "一艘以导弹为主的重型巡洋舰，每枚导弹均搭载行走炸弹作为次级载荷，专为对敌方船"
+"员造成毁灭性打击而设计。"
 
 #: src-en/data/blueprints.xml.append:5246
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/class"
-msgstr ""
+msgstr "布雷星舰"
 
 #: src-en/data/blueprints.xml.append:5247
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/name"
-msgstr ""
+msgstr "剥皮空雷号"
 
 #: src-en/data/blueprints.xml.append:5248
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_RAD_MINE_3\"]/desc"
-msgstr ""
+msgstr "该舰具备近乎无与伦比的持续破坏能力。虽无法安装武器系统，但其双联无人机工厂能"
+"源源不断供应大量空雷，实际无需传统武器。"
 
 #: src-en/data/blueprints.xml.append:5312
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"ARC_SUPER_HULL\"]/title"
-msgstr ""
+msgstr "超能舰体"
 
 #: src-en/data/blueprints.xml.append:5322
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/title"
-msgstr ""
+msgstr "实验型布雷舰"
 
 #: src-en/data/blueprints.xml.append:5323
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/short"
-msgstr ""
+msgstr "实验型空雷"
 
 #: src-en/data/blueprints.xml.append:5324
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RAD_MINELAYER\"]/desc"
 msgstr ""
+"空雷发射器充能迅速，可发射一连串慢速弹体。这些弹体专为布设行走空雷而设计，能"
+"在敌舰内部移动并造成毁灭性打击。同时，它也是为舰队布设陷阱的高效手段。\n"
+"\n"
+"在空信标处消耗13枚导弹可为舰队提供2次延迟追击机会。"

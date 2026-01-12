@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-12 23:38+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/rad/dataevents_sector_rad_sciencexml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_rad_science.xml:28
 msgid ""
@@ -24,6 +31,9 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"START_RAD_SCIENCE\"]/text"
 msgstr ""
+"你已抵达科学家星区。科学家们向来独善其身，尽管该星区内生活着大量感到安全的平"
+"民。作为对等举措，他们已开始在所有信标驻防，以防范任何试图制造麻烦的势力。只"
+"要我们保持低调，便不会有事。"
 
 #: src-en/data/events_sector_rad_science.xml:51
 msgid ""
@@ -33,7 +43,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:57
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/text"
-msgstr ""
+msgstr "卫兵向你发出通讯：“叛军，我们理解你们的事业，但绝不能冒险让研究进程或平民生活"
+"因你们引来的战火而中断——我们不愿卷入变元者的事业！”"
 
 #: src-en/data/events_sector_rad_science.xml:60
 msgid ""
@@ -78,7 +89,7 @@ msgstr "(人类船员)尝试说服他们放你走。"
 #: src-en/data/events_sector_rad_science.xml:90
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[@req=\"rad_scientist\"]/text"
-msgstr ""
+msgstr "（人类科学家）让科学家说服他们允许你通过。"
 
 #: src-en/data/events_sector_rad_science.xml:94
 msgid ""
@@ -103,7 +114,7 @@ msgstr "(先进驾驶)启动自动驾驶来尝试逃跑。"
 #: src-en/data/events_sector_rad_science.xml:113
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[1]/text"
-msgstr ""
+msgstr "“我理解你们的事业，但如果你不离开，我将不得不强制你撤离！”"
 
 #: src-en/data/events_sector_rad_science.xml:116
 msgid ""
@@ -113,7 +124,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:121
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[2]/text"
-msgstr ""
+msgstr "“我理解你们的事业，但如果你不离开，我将不得不强制你撤离！”"
 
 #: src-en/data/events_sector_rad_science.xml:124
 msgid ""

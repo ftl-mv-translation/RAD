@@ -1,26 +1,33 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-12 12:09+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/rad/dataevents_special_storagexmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:9
 msgid ""
 "data/events_special_storage.xml.append$/FTL/mod:findName[1]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（舰船对接器）钻入舰体。"
 
 #: src-en/data/events_special_storage.xml.append:19
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_DOCKING_RAM\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "敌方的引擎将在此期间恢复运转。"
 
 #: src-en/data/events_special_storage.xml.append:33
 msgid ""
 "data/events_special_storage.xml.append$/FTL/mod:findName[2]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（舰船对接器）钻入舰体。"
 
 #: src-en/data/events_special_storage.xml.append:89
 msgid ""
@@ -30,12 +37,12 @@ msgstr "炸弹"
 #: src-en/data/events_special_storage.xml.append:95
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_1\"]/crewMember"
-msgstr ""
+msgstr "通用炸弹"
 
 #: src-en/data/events_special_storage.xml.append:98
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_SPAWN_BOMB_2\"]/crewMember"
-msgstr ""
+msgstr "通用炸弹"
 
 #: src-en/data/events_special_storage.xml.append:101
 msgid ""
@@ -46,37 +53,40 @@ msgstr "燃烧炸弹"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "科研科技。"
 
 #: src-en/data/events_special_storage.xml.append:131
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "配置无人机工厂。"
 
 #: src-en/data/events_special_storage.xml.append:133
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "无人机工厂应制造哪种无人机。"
 
 #: src-en/data/events_special_storage.xml.append:135
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "制造通用无人机：2点舰体伤害，2点系统伤害，60点船员伤害，100%破舱几率，无爆炸"
+"控制。"
 
 #: src-en/data/events_special_storage.xml.append:142
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "制造控制无人机：2点舰体伤害，1点系统伤害，30点船员伤害，50%破舱几率，完全爆炸"
+"控制。"
 
 #: src-en/data/events_special_storage.xml.append:149
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "制造火焰无人机：0点舰体伤害，1点系统伤害，15点船员伤害，100%起火几率，无爆炸"
+"控制。"
 
 #: src-en/data/events_special_storage.xml.append:156
 #, fuzzy
@@ -89,31 +99,34 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "配置次级无人机工厂。"
 
 #: src-en/data/events_special_storage.xml.append:164
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "无人机工厂应制造哪种无人机。"
 
 #: src-en/data/events_special_storage.xml.append:166
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "制造通用无人机：2点舰体伤害，2点系统伤害，60点船员伤害，100%破舱几率，无爆炸"
+"控制。"
 
 #: src-en/data/events_special_storage.xml.append:173
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "制造控制无人机：2点舰体伤害，1点系统伤害，30点船员伤害，50%破舱几率，完全爆炸"
+"控制。"
 
 #: src-en/data/events_special_storage.xml.append:180
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "制造火焰无人机：0点舰体伤害，1点系统伤害，15点船员伤害，100%起火几率，无爆炸"
+"控制。"
 
 #: src-en/data/events_special_storage.xml.append:187
 #, fuzzy
@@ -125,12 +138,12 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/text"
-msgstr ""
+msgstr "选择一件内增强部件进行安装。"
 
 #: src-en/data/events_special_storage.xml.append:197
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_BIGSHOT\"]/text"
-msgstr ""
+msgstr "安装内部高能武器系统。"
 
 #: src-en/data/events_special_storage.xml.append:199
 msgid ""
@@ -140,12 +153,12 @@ msgstr "安装完成。"
 #: src-en/data/events_special_storage.xml.append:205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_BIGSHOT\"]/event/choice/text"
-msgstr ""
+msgstr "继续... 1"
 
 #: src-en/data/events_special_storage.xml.append:211
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_MULTISHOT\"]/text"
-msgstr ""
+msgstr "安装内部多重射击武器系统。"
 
 #: src-en/data/events_special_storage.xml.append:213
 msgid ""
@@ -155,12 +168,12 @@ msgstr "安装完成。"
 #: src-en/data/events_special_storage.xml.append:219
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_MULTISHOT\"]/event/choice/text"
-msgstr ""
+msgstr "继续... 1"
 
 #: src-en/data/events_special_storage.xml.append:225
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_RAILGUN\"]/text"
-msgstr ""
+msgstr "安装内部轨道加速武器系统。"
 
 #: src-en/data/events_special_storage.xml.append:227
 msgid ""
@@ -170,12 +183,12 @@ msgstr "安装完成。"
 #: src-en/data/events_special_storage.xml.append:233
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_WM_RAILGUN\"]/event/choice/text"
-msgstr ""
+msgstr "继续... 1"
 
 #: src-en/data/events_special_storage.xml.append:239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_MOD_SUS\"]/text"
-msgstr ""
+msgstr "安装内部维修维生装置。"
 
 #: src-en/data/events_special_storage.xml.append:244
 msgid ""
@@ -185,7 +198,7 @@ msgstr "安装完成。"
 #: src-en/data/events_special_storage.xml.append:247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[@req=\"RAD_MOD_SUS\"]/event/choice/text"
-msgstr ""
+msgstr "继续... 1"
 
 #: src-en/data/events_special_storage.xml.append:253
 #, fuzzy

@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-12 12:09+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/rad/dataevents_special_lightspeedxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_lightspeed.xml.append:6
 msgid ""
@@ -11,9 +18,18 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml.append:11
+#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"RAD_SCIENCE_WARP\"]/text"
 msgstr ""
+"名称：科学家星区\n"
+"类型：中立\n"
+"独特性：是\n"
+"主导势力：无\n"
+"叛军威胁等级：低\n"
+"标记点：RAD总部\n"
+"\n"
+"背景资料待补充"
 
 #: src-en/data/events_special_lightspeed.xml.append:21
 msgid ""
@@ -29,18 +45,30 @@ msgstr "调整航径。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "跃迁至科研星区。"
 
 #: src-en/data/events_special_lightspeed.xml.append:39
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_LASTSTAND\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "跃迁至科研星区。"
 
 #: src-en/data/events_special_lightspeed.xml.append:45
+#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_RAD_SCIENCE\"]/text"
 msgstr ""
+"您即将调整航径。以下是该星区星区数据集：\n"
+"名称：科学家星区\n"
+"类型：中立\n"
+"独特性：是\n"
+"主导势力：无\n"
+"叛军威胁等级：低\n"
+"标记点：研发总部\n"
+"\n"
+"科学家们的主要行动基地。尽管该星区居住着大量感到安全的平民，科学家们仍保持独"
+"立运作。作为回报，他们已开始驻守所有信标，防范任何企图制造麻烦的势力。\n"
+"[警告：改变航线将导致您错过下一星区可能触发的所有任务。]"
 
 #: src-en/data/events_special_lightspeed.xml.append:57
 msgid ""
@@ -67,6 +95,16 @@ msgstr "算了。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_RAD_SCIENCE_BOSS\"]/text"
 msgstr ""
+"您即将调整航径。以下是该星区的星区数据集：\n"
+"名称：科学家星区\n"
+"类型：中立\n"
+"独特性：是\n"
+"主导势力：无\n"
+"叛军威胁等级：低\n"
+"标记点：研发总部\n"
+"\n"
+"背景资料待补充\n"
+"[警告：改变航线将导致您错过下一星区可能触发的所有任务。]"
 
 #: src-en/data/events_special_lightspeed.xml.append:91
 msgid ""

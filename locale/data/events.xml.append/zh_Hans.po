@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 10:05+0000\n"
+"PO-Revision-Date: 2026-01-14 16:50+0000\n"
 "Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/rad/dataeventsxmlappend/zh_Hans/>\n"
@@ -1705,32 +1705,40 @@ msgstr "启动你的武器，准备攻击。"
 #: src-en/data/events.xml.append:1694
 msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_8\"]/text"
 msgstr ""
+"短暂的等待后，一艘星舰抵达，是科学家们。\n"
+"\"干得漂亮，舰长，我们成功回收了你摧毁的那艘星舰的设计图，以及上面的一些技术"
+"，我们会把这些全部交付给你和联邦，作为你在此处工作的报酬。\""
 
 #: src-en/data/events.xml.append:1710
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/text"
 msgstr ""
+"\"这次任务简单快捷，我们受雇于一个富有的佣兵团，为他们设计和建造一种特殊的超"
+"级护盾，这种护盾能部署在常规护盾内部，而非外部。\"\n"
+"\"我们成功研发了这项技术，并将其安装在一艘测试星舰上交给了佣兵团，目的是让他"
+"们在付款将其安装到自己的星舰上之前，先测试一下护盾的效果。\""
 
 #: src-en/data/events.xml.append:1713
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/text"
-msgstr ""
+msgstr "他们偷走了测试星舰，是吧。"
 
 #: src-en/data/events.xml.append:1715
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/event/text"
-msgstr ""
+msgstr "\"很遗憾你说对了。不过，我们倾向于保护自己的成果，在那艘星舰上安装了追踪器。"
+"你只需飞到信标处，摧毁那艘星舰即可。\""
 
 #: src-en/data/events.xml.append:1717
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/event/choice/text"
-msgstr ""
+msgstr "听起来很容易。"
 
 #: src-en/data/events.xml.append:1719
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "\"是的，我这就把星舰的位置上传给你。\""
 
 #: src-en/data/events.xml.append:1734
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_UNDERAIDER\"]/text"
-msgstr ""
+msgstr "你已摧毁了测试星舰。你向科学家们发送信息，告知他们你已经摧毁了那艘星舰。"
 
 #: src-en/data/events.xml.append:1737
 msgid ""
@@ -1739,7 +1747,8 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:1743
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_UNDERAIDER\"]/text"
-msgstr ""
+msgstr "你已消灭了测试星舰的船员。你向科学家们发送信息，告知他们你已经回收了那艘星舰"
+"。"
 
 #: src-en/data/events.xml.append:1746
 msgid ""
@@ -1749,18 +1758,38 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:1754
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_2\"]/text"
 msgstr ""
+"你抵达信标，看来科学家的追踪器很可靠，测试星舰就在你面前，而且你听到一段公开"
+"频率上的争吵。\n"
+"“什么叫星舰会爆炸！”\n"
+"“我是说，如果我们破坏掉超级护盾，星舰就会爆炸。”\n"
+"“你的意思是科学家把星舰设计成能阻止我们拆……等等，考虑到我们偷了这艘星舰，这决"
+"定对他们来说可能还挺明智的……”\n"
+"\n"
+"看来佣兵们刚刚注意到你，他们关闭了通讯，正把武器对准你，看来一场战斗在所难免"
+"了。"
 
 #: src-en/data/events.xml.append:1763
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_2\"]/choice/text"
-msgstr ""
+msgstr "给你的武器充能。"
 
 #: src-en/data/events.xml.append:1769
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_3\"]/text"
 msgstr ""
+"来的不是科学家本人，而是一架小型无人机，它径直飞向测试星舰的残骸。\n"
+"星舰爆炸了。\n"
+"片刻之后，无人机从碎片中出现，递给你一个增强部件，看来它从星舰上提取出了超级"
+"护盾。\n"
+"你收到一条传输信息：\"我们擅自将测试星舰上的超级护盾作为报酬给了你，同时，我"
+"们也把为佣兵团设计的那份图纸发给了联邦，现在我们用不着它了。\""
 
 #: src-en/data/events.xml.append:1782
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/text"
 msgstr ""
+"“你听说过水晶族吧？”\n"
+"“总之，我们曾和他们合作一个项目，开发一种能够反射光束的特殊晶体结构。”\n"
+"“我们把配方卖给了水晶族，但他们后来带着一个问题回来了：不知怎么的，在运输途中"
+"，一群叛军也弄到了这项技术，这给水晶族带来了麻烦。因此，水晶族雇佣我们来处理"
+"这些叛军。”"
 
 #: src-en/data/events.xml.append:1786
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/text"
@@ -1769,16 +1798,22 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:1788
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/event/text"
 msgstr ""
+"“我们已经定位到了他们的一处前哨站，但我们还不知道他们的主基地在哪里。”\n"
+"“现在听仔细，我们已经在现场部署了一些设备，所以你一到那里就得做好准备。”"
 
 #: src-en/data/events.xml.append:1791
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/event/choice/text"
-msgstr ""
+msgstr "好的，我们准备好听取你的指示了。"
 
 #: src-en/data/events.xml.append:1793
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/event/choice/event/text"
 msgstr ""
+"“好的，当你到达那里时，我们会把你传送上他们的星舰。我们会为你提供一名医疗员，"
+"但你需要自己安排好其余的登舰船员。”\n"
+"“一旦你登上星舰，你需要消灭操控空间站的船员，然后你就能找到他们的主基地了。祝"
+"你好运。”"
 
 #: src-en/data/events.xml.append:1796
 msgid ""
@@ -1788,32 +1823,34 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:1798
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "“好的，我们现在上传前哨站的位置。记住，准备好你的登舰船员。”"
 
 #: src-en/data/events.xml.append:1834
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_2\"]/text"
 msgstr ""
+"你抵达信标，一艘科学星舰立即指引你前往他们的前进作战基地。\n"
+"“好的，等你准备好就按下那边的按钮，那样会把你的所有船员都传送上那个前哨站。”"
 
 #: src-en/data/events.xml.append:1842
 msgid "data/events.xml.append$//eventButton[@name=\"UI_RAD_BOARD\"]/tooltip"
-msgstr ""
+msgstr "登上前哨站。"
 
 #: src-en/data/events.xml.append:1843
 msgid ""
 "data/events.xml.append$//eventButton[@name=\"UI_RAD_BOARD\"]/inactiveTooltip"
-msgstr ""
+msgstr "你无法登上前哨站。"
 
 #: src-en/data/events.xml.append:1852
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_3\"]/text"
-msgstr ""
+msgstr "你的船员被传送到了叛军前哨站上。"
 
 #: src-en/data/events.xml.append:1869
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_REBELOUT\"]/text"
-msgstr ""
+msgstr "现在你已经消灭了船员，你下载了关于主基地的信息，并回收了前哨站。"
 
 #: src-en/data/events.xml.append:1880
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_CRYSTALENEMY\"]/text"
-msgstr ""
+msgstr "你已摧毁了水晶族星舰。你向科学家们发送信息，告知他们你已经摧毁了那艘星舰。"
 
 #: src-en/data/events.xml.append:1883
 msgid ""
@@ -1822,7 +1859,8 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:1889
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_CRYSTALENEMY\"]/text"
-msgstr ""
+msgstr "你已消灭了水晶族星舰的船员。你向科学家们发送信息，告知他们你已经回收了那艘星"
+"舰。"
 
 #: src-en/data/events.xml.append:1892
 msgid ""
@@ -1832,6 +1870,11 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:1903
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_4\"]/text"
 msgstr ""
+"你已抵达水晶族叛军的主基地。\n"
+"\n"
+"你立刻被发现了，看来他们有一艘星舰已准备好保卫基地，并且他们正在使用从水晶族"
+"那里偷来的技术。\n"
+"准备战斗。"
 
 #: src-en/data/events.xml.append:1909
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_4\"]/choice/text"
@@ -1840,10 +1883,20 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:1915
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_5\"]/text"
 msgstr ""
+"看来在你们战斗期间，叛军设法疏散了所有人。\n"
+"科学家们抵达了。\n"
+"你告诉他们发生的事，他们开始向基地开火。\n"
+"“我们也许没能抓到所有叛军，但我们已经摧毁了他们的基地，这应该足以向水晶族交代"
+"了。”\n"
+"“我们已经把你刚才对战的那种星舰的蓝图发给了联邦，并且回收了一些技术，我们会把"
+"这些交给你作为报酬。”"
 
 #: src-en/data/events.xml.append:1929
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_1\"]/text"
 msgstr ""
+"“好吧，这事有点尴尬，但我们丢了一座空间站。”\n"
+"“就像我们把一座空间站留在这个信标处，然后回去时它就不见了。”\n"
+"“总之，我们需要你查明发生了什么，我们这次有点毫无头绪。”"
 
 #: src-en/data/events.xml.append:1933
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_1\"]/choice/text"
@@ -1851,7 +1904,8 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:1935
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_1\"]/choice/event/text"
-msgstr ""
+msgstr "“我们会把空间站上追踪器的坐标给你。最好看看你能不能回收那个空间站，希望它只是"
+"飘走了之类的。”"
 
 #: src-en/data/events.xml.append:1937
 msgid ""
@@ -1861,11 +1915,11 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:1939
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_WARPED_1\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "“好的，我们现在上传追踪器的位置。”"
 
 #: src-en/data/events.xml.append:1954
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_CRYSTALENEMY2\"]/text"
-msgstr ""
+msgstr "你已摧毁了水晶族星舰，它上面似乎覆盖着一些奇怪的符文，但你无法翻译这些符号。"
 
 #: src-en/data/events.xml.append:1957
 msgid ""
@@ -1875,11 +1929,13 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:1959
 msgid ""
 "data/events.xml.append$//event[@name=\"DESTROYED_RAD_CRYSTALENEMY2\"]/choice/event/text"
-msgstr ""
+msgstr "你成功从星舰上恢复了一些数据，并利用它确定了星舰是从哪里跃迁而来的，同时你还"
+"找到了一件奇怪的武器。"
 
 #: src-en/data/events.xml.append:1967
 msgid "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_CRYSTALENEMY2\"]/text"
-msgstr ""
+msgstr "你已消灭了水晶族星舰的船员，它上面似乎覆盖着一些奇怪的符文，但你无法翻译这些"
+"符号。"
 
 #: src-en/data/events.xml.append:1970
 msgid ""
@@ -1889,11 +1945,12 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:1972
 msgid ""
 "data/events.xml.append$//event[@name=\"DEAD_CREW_RAD_CRYSTALENEMY2\"]/choice/event/text"
-msgstr ""
+msgstr "你成功从星舰上恢复了一些数据，并利用它确定了星舰是从哪里跃迁而来的，同时你还"
+"找到了一件奇怪的武器。"
 
 #: src-en/data/events.xml.append:1985
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_2\"]/text"
-msgstr ""
+msgstr "你抵达信标，视野中空无一物。"
 
 #: src-en/data/events.xml.append:1987
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_2\"]/choice[1]/text"
@@ -1906,6 +1963,14 @@ msgstr "跳过。"
 #: src-en/data/events.xml.append:1993
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_2_2\"]/text"
 msgstr ""
+"就在你准备放弃时，一艘模样怪异的星舰跃迁到了信标处。\n"
+"这艘星舰立刻启动了武器。\n"
+"\n"
+"幸好你的船员中有人够机警，事先为武器充好了能以防万一，你发射了一轮齐射，击穿"
+"了护盾并击中了舰体。\n"
+"\n"
+"不幸的是，这似乎没对星舰造成多大伤害，相反，这艘星舰竟然能利用冲击力，瞬间为"
+"其一件武器充能，并以一轮齐射还击，幸好打偏了。"
 
 #: src-en/data/events.xml.append:2001
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_2_2\"]/choice/text"
@@ -1913,7 +1978,8 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:2014
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/text"
-msgstr ""
+msgstr "你抵达现场，立刻注意到了那座空间站，看来你摧毁的那艘星舰不知怎么把空间站移动"
+"到了这里。"
 
 #: src-en/data/events.xml.append:2017
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/text"
@@ -1922,21 +1988,25 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:2019
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/event/text"
 msgstr ""
+"你登上空间站，发现里面空无一人。\n"
+"你搜索了星舰，没找到任何有用的东西，但在一台电脑里，你发现了一个奇怪星区的坐"
+"标。不过，它们似乎是用某种你无法破译的奇怪字符写的，你需要某种翻译器才能解读"
+"。"
 
 #: src-en/data/events.xml.append:2022
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/event/choice[@req=\"UPG_AETHER_TRANSLATOR\"]/text"
-msgstr ""
+msgstr "（符文翻译器）翻译坐标。"
 
 #: src-en/data/events.xml.append:2024
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/event/choice[@req=\"UPG_AETHER_TRANSLATOR\"]/event/text"
-msgstr ""
+msgstr "你成功破译了坐标；看来你可以在下一个出口信标处改变航线前往那里。"
 
 #: src-en/data/events.xml.append:2027
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_WARPED_3\"]/choice/event/choice[@req=\"UPG_AETHER_TRANSLATOR\"]/event/choice/text"
-msgstr ""
+msgstr "联系科学家们"
 
 #: src-en/data/events.xml.append:2033
 msgid ""
@@ -1946,22 +2016,26 @@ msgstr "联系科学家。"
 #: src-en/data/events.xml.append:2035
 msgid "data/events.xml.append$//event[@name=\"RAD_WARPED_4\"]/text"
 msgstr ""
+"科学家们抵达了。\n"
+"\n"
+"“干得漂亮，舰长，将来如果我们有工作，一定会再联系你的。”"
 
 #: src-en/data/events.xml.append:2048
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_1\"]/text"
-msgstr ""
+msgstr "“是这样的，我们的运输队遇到了麻烦，总被抢劫，但奇怪的是，只有运载废料时才会被"
+"抢。我们需要你查清楚是谁在抢劫我们，并且需要你阻止他们。”"
 
 #: src-en/data/events.xml.append:2050
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_1\"]/choice/text"
-msgstr ""
+msgstr "“很简单。”"
 
 #: src-en/data/events.xml.append:2052
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_1\"]/choice/event/text"
-msgstr ""
+msgstr "“总之，这是他们抢劫过的一艘运输船的坐标，你也可以顺便看看我们的商品。”"
 
 #: src-en/data/events.xml.append:2065
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_SCRAP_LANIUS1\"]/text"
-msgstr ""
+msgstr "你已清除了食铁族，你在搜索食铁族星舰寻找线索之前，先把废料据为己有……"
 
 #: src-en/data/events.xml.append:2068
 msgid ""
@@ -1971,19 +2045,22 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:2070
 msgid ""
 "data/events.xml.append$//event[@name=\"DESTROYED_RAD_SCRAP_LANIUS1\"]/choice/event/text"
-msgstr ""
+msgstr "你没找到太多线索，但能在船上发现另一个信标的坐标，也许这能引领你找到犯罪团伙"
+"的核心。"
 
 #: src-en/data/events.xml.append:2083
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_2\"]/text"
-msgstr ""
+msgstr "你已抵达信标，附近有一艘科学家星舰的残骸。你注意到旁边有一艘小型但古怪的食铁"
+"族飞船，不过它似乎已被废弃。"
 
 #: src-en/data/events.xml.append:2085
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_2\"]/choice/text"
-msgstr ""
+msgstr "调查..."
 
 #: src-en/data/events.xml.append:2087
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_2\"]/choice/event/text"
-msgstr ""
+msgstr "就在你开始接近那两艘星舰时，科学星舰的残骸突然启动了，看来你打断了食铁族的搜"
+"刮行动。"
 
 #: src-en/data/events.xml.append:2090
 msgid ""
@@ -1992,11 +2069,13 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:2103
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_SCRAP_LANIUS2\"]/text"
-msgstr ""
+msgstr "随着那艘巨大的星舰被解决，该区域的其他食铁族四散而逃，看来你至少暂时拯救了局"
+"面……"
 
 #: src-en/data/events.xml.append:2117
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_3\"]/text"
-msgstr ""
+msgstr "你已抵达信标，发现了一个巨大的废料场，你看到几艘小型食铁族飞船在废料堆之间快"
+"速穿梭移动。"
 
 #: src-en/data/events.xml.append:2119
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_3\"]/choice/text"
@@ -2005,6 +2084,9 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:2121
 msgid "data/events.xml.append$//event[@name=\"RAD_SCRAP_3\"]/choice/event/text"
 msgstr ""
+"片刻之后，一艘巨大的飞船从废料堆中现身，看来这就是在该区域肆虐的元凶了。\n"
+"\n"
+"这艘星舰启动了武器，看来它们不欢迎外人进入自己的地盘……"
 
 #: src-en/data/events.xml.append:2126
 msgid ""
@@ -2013,7 +2095,8 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:2135
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_1\"]/text"
-msgstr ""
+msgstr "“这次我们倒不需要你去追捕谁，这次我们需要你测试一件原型武器，具体来说，是一门"
+"空雷发射器。”"
 
 #: src-en/data/events.xml.append:2141
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_1\"]/choice/text"
@@ -2021,41 +2104,46 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:2145
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_1\"]/choice/event/text"
-msgstr ""
+msgstr "“你需要做的就是把这件武器发射10次，最好是对着活靶子打。完成后我们会联系你。祝"
+"你好运。”"
 
 #: src-en/data/events.xml.append:2152
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_2\"]/text"
-msgstr ""
+msgstr "你已完成科学家们的测试任务，他们传送了一个会合地点给你。"
 
 #: src-en/data/events.xml.append:2162
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_3\"]/text"
-msgstr ""
+msgstr "就在你抵达时，你又收到科学家们的一条信息，看来他们在前往会合地点的途中受阻了"
+"，他们上传了一个新的会面地点。"
 
 #: src-en/data/events.xml.append:2176
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/text"
 msgstr ""
+"就在你准备离开时，一艘海盗船抵达了信标处。\n"
+"“喂，先生，你手上那玩意儿是打哪儿来的？”"
 
 #: src-en/data/events.xml.append:2179
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[1]/text"
-msgstr ""
+msgstr "告诉他们这是机密。"
 
 #: src-en/data/events.xml.append:2181
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“那件家伙可是头儿的，所以你最好告诉我你是从哪儿弄来的，不然我们可就有麻烦了。"
+"”"
 
 #: src-en/data/events.xml.append:2183
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "解释一下你是从哪里得到这件武器的。"
 
 #: src-en/data/events.xml.append:2187
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "去他的。"
 
 #: src-en/data/events.xml.append:2191
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4_HOSTILE\"]/text"
-msgstr ""
+msgstr "敌方星舰启动了武器，看来一场战斗在所难免。"
 
 #: src-en/data/events.xml.append:2194
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4_HOSTILE\"]/choice/text"
@@ -2063,11 +2151,16 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:2202
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[2]/text"
-msgstr ""
+msgstr "解释说是一些科学家派你来测试这件武器的。"
 
 #: src-en/data/events.xml.append:2204
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4_FRIENDLY\"]/text"
 msgstr ""
+"“我觉着这很难信。俺寻思你是个贼，毕竟俺们可是雇了那些科学家给俺们自个儿造那件"
+"家伙事儿的。”\n"
+"        \n"
+"海盗切断了通讯并启动了武器。不过，如果你到处杀他们的客户，对科学家们来说可能"
+"不太好看。"
 
 #: src-en/data/events.xml.append:2209
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4_FRIENDLY\"]/choice/text"
@@ -2075,12 +2168,12 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:2215
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_4\"]/choice[3]/text"
-msgstr ""
+msgstr "无视他们，尝试跃迁离开。"
 
 #: src-en/data/events.xml.append:2221
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_RIGGER_DESTROYED\"]/text"
-msgstr ""
+msgstr "你已摧毁了海盗以及与他们首领和平相处的任何希望，至少你拿到了他们的战利品。"
 
 #: src-en/data/events.xml.append:2224
 msgid ""
@@ -2090,7 +2183,7 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:2230
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_RIGGER_DEADCREW\"]/text"
-msgstr ""
+msgstr "你已将剩余的海盗从他们的星舰中清除干净，现在可以把上面的补给搜刮一空了。"
 
 #: src-en/data/events.xml.append:2233
 msgid ""
@@ -2099,11 +2192,11 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:2241
 msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_RIGGER_DEAD\"]/text"
-msgstr ""
+msgstr "你希望干掉这些家伙不会给你带来后患……"
 
 #: src-en/data/events.xml.append:2255
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现科学家星舰这次真的出现了。"
 
 #: src-en/data/events.xml.append:2257
 msgid ""
@@ -2115,7 +2208,8 @@ msgstr "继续。"
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "“你好啊，变元者，很遗憾我们不能让你活着，放任你到处杀害我们的客户对生意可不好"
+"，准备受死吧。”"
 
 #: src-en/data/events.xml.append:2263
 msgid ""
@@ -2134,6 +2228,11 @@ msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"“我们听说了你和那些海盗的遭遇。说真的，我们真高兴你没决定杀他们，否则会给我们"
+"带来天大的麻烦。”\n"
+"        \n"
+"“我们还没脱离险境呢，你遇到的那些海盗的头目现在正往这边来，他说他只是想谈谈，"
+"但这可能意味着任何事。”"
 
 #: src-en/data/events.xml.append:2276
 msgid ""
@@ -2146,12 +2245,15 @@ msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"片刻之后，一艘大型海盗船抵达信标处，但它立刻启动了武器。\n"
+"科学家们联系你：\"听着，如果你能给我们争取一些时间，我们就能说服他们停手，在"
+"我们谈判的时候，你先拖住他们。\""
 
 #: src-en/data/events.xml.append:2283
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_5\"]/choice[@req=\"rad_mine_4_hostile\""
 " and @lvl=\"0\"]/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "为科学家们争取时间，以便与海盗达成协议。"
 
 #: src-en/data/events.xml.append:2288
 msgid ""
@@ -2162,7 +2264,7 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:2298
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_MSHIP_DESTROYED\"]/text"
-msgstr ""
+msgstr "摧毁星舰后，你从残骸中搜寻任何可用的物品。"
 
 #: src-en/data/events.xml.append:2301
 msgid ""
@@ -2171,7 +2273,7 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:2307
 msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_MSHIP_DEADCREW\"]/text"
-msgstr ""
+msgstr "你已清除了星舰上的所有海盗，可以搜刮一切没被固定住的东西了。"
 
 #: src-en/data/events.xml.append:2310
 msgid ""
@@ -2181,10 +2283,20 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:2318
 msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_MSHIP_DEAD\"]/text"
 msgstr ""
+"你希望干掉这些家伙不会给你带来后患……\n"
+"\n"
+"看来在你与海盗交战时，科学家们放弃了帮忙，离开了。\n"
+"不过，他们在离开前还是传送了他们的去向，以防你活下来。"
 
 #: src-en/data/events.xml.append:2327
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_SUCCEED\"]/text"
 msgstr ""
+"突然，海盗船关闭了武器，科学家们叫你停火，看来他们成功说服了海盗停手。\n"
+"\n"
+"“好吧，我们很感谢你之前没杀我们的人，不过你还是对我们的星舰造成了不小的破坏，"
+"为此你得付出代价。”\n"
+"“科学家们‘好心’地‘主动’提出让你帮我们解决一个问题，具体来说，我们需要你去处理"
+"一艘一直在给我们惹麻烦的联邦星舰。”"
 
 #: src-en/data/events.xml.append:2332
 msgid ""
@@ -2194,11 +2306,16 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:2334
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_SUCCEED\"]/choice/event/text"
-msgstr ""
+msgstr "你离开时，科学家们联系了你。\"完成这个任务，我们就两清了。一旦你完成任务，我"
+"们还会给你一些额外奖励。\""
 
 #: src-en/data/events.xml.append:2346
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_FAIL\"]/text"
 msgstr ""
+"你抵达信标，立刻发现引擎被远程关闭了。\n"
+"\n"
+"\"你好啊，变元者，很遗憾我们不能让你活着，放任你到处杀害我们的客户对生意可不"
+"好，准备受死吧。\""
 
 #: src-en/data/events.xml.append:2352
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_FAIL\"]/choice/text"
@@ -2216,21 +2333,23 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:2383
 msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_SCIENCE_DEAD\"]/text"
-msgstr ""
+msgstr "当你搜寻残骸时，你找到了一艘先进星舰的蓝图，这似乎就是海盗雇佣科学家制造的东"
+"西。"
 
 #: src-en/data/events.xml.append:2396
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_QUEST\"]/text"
-msgstr ""
+msgstr "你抵达信标，果然看到了那艘联邦星舰，它正停靠在一座小型前哨站旁，等待执行下一"
+"个任务。"
 
 #: src-en/data/events.xml.append:2399
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_QUEST\"]/choice[1]/text"
-msgstr ""
+msgstr "与联邦星舰交战。"
 
 #: src-en/data/events.xml.append:2401
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_QUEST\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你启动武器，发起攻击。"
 
 #: src-en/data/events.xml.append:2404
 msgid ""
@@ -2240,7 +2359,7 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:2410
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_QUEST\"]/choice[2]/text"
-msgstr ""
+msgstr "你不会因为海盗一时兴起就去杀害联邦的战友，离开。"
 
 #: src-en/data/events.xml.append:2425
 msgid ""
@@ -2254,7 +2373,8 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:2440
 msgid "data/events.xml.append$//event[@name=\"RAD_B_PIRATE_FED_DEAD\"]/text"
-msgstr ""
+msgstr "你向科学家们汇报了你的成功，他们交付了大量废料，以及他们设计的一艘新星舰的蓝"
+"图。"
 
 #: src-en/data/events.xml.append:2459
 msgid ""
@@ -2268,11 +2388,12 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:2474
 msgid "data/events.xml.append$//event[@name=\"RAD_H_PIRATE_SCIENCE_DEAD\"]/text"
-msgstr ""
+msgstr "当你搜寻残骸时，你找到了雇佣科学家的那些海盗的位置……"
 
 #: src-en/data/events.xml.append:2484
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_HOSTILE_QUEST\"]/text"
-msgstr ""
+msgstr "你抵达信标，与一艘大型海盗船正面相对，看来这些就是雇佣科学家的海盗了，他们船"
+"上肯定有不少好东西，你只要干掉他们就能到手。"
 
 #: src-en/data/events.xml.append:2487
 msgid ""
@@ -2282,7 +2403,7 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:2498
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_H_PIRATE_MSHIP_DESTROYED\"]/text"
-msgstr ""
+msgstr "摧毁星舰后，你从残骸中搜寻任何可用的物品。"
 
 #: src-en/data/events.xml.append:2501
 msgid ""
@@ -2291,7 +2412,7 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:2507
 msgid "data/events.xml.append$//event[@name=\"RAD_H_PIRATE_MSHIP_DEADCREW\"]/text"
-msgstr ""
+msgstr "你已清除了星舰上的所有海盗，可以搜刮一切没被固定住的东西了。"
 
 #: src-en/data/events.xml.append:2510
 msgid ""

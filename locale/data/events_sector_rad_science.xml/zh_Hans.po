@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-12 23:38+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"PO-Revision-Date: 2026-01-14 10:05+0000\n"
+"Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/rad/dataevents_sector_rad_sciencexml/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -134,12 +134,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:129
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[3]/text"
-msgstr ""
+msgstr "\"也许你们的事业值得冒这个险，好吧，你们可以通过，我们会尽力拖住叛军。\""
 
 #: src-en/data/events_sector_rad_science.xml:135
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[1]/text"
-msgstr ""
+msgstr "\"啊，是位同行科学家，如果你愿意，可以通过，但你的其他船员不行。\""
 
 #: src-en/data/events_sector_rad_science.xml:138
 msgid ""
@@ -149,12 +149,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:143
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[2]/text"
-msgstr ""
+msgstr "\"哦，是我弄错了，我没发现你船上有位科学家同行，你们可以通过。\""
 
 #: src-en/data/events_sector_rad_science.xml:147
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[3]/text"
-msgstr ""
+msgstr "\"哦，是我弄错了，我没发现你船上有位科学家同行，你们可以通过。\""
 
 #: src-en/data/events_sector_rad_science.xml:168
 msgid ""
@@ -169,7 +169,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_rad_science.xml:177
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"RAD_SCIENCE_FREE_DRONES\"]/text[1]"
-msgstr ""
+msgstr "附近漂浮着几架被丢弃的无人机，它们可能无法运作，但你能从上面回收一些无人机部"
+"件。"
 
 #: src-en/data/events_sector_rad_science.xml:178
 msgid ""
@@ -179,12 +180,13 @@ msgstr "你注意到附近飘荡着一颗空雷，周围还有更多。大多应
 #: src-en/data/events_sector_rad_science.xml:179
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"RAD_SCIENCE_FREE_DRONES\"]/text[3]"
-msgstr ""
+msgstr "一艘小型飞船出现在你的扫描仪上，它看起来正朝你直冲过来。你的船员迅速行动，将"
+"其炸成碎片，你试图回收它，但唯一幸存下来的是一箱无人机部件。"
 
 #: src-en/data/events_sector_rad_science.xml:183
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/text"
-msgstr ""
+msgstr "你收到附近漂浮的一艘小型飞船的呼叫，它似乎是位科学家。"
 
 #: src-en/data/events_sector_rad_science.xml:185
 msgid ""
@@ -194,17 +196,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:187
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/text"
-msgstr ""
+msgstr "\"啊，舰长，你这艘星舰真不错，考虑让我登船吗？\""
 
 #: src-en/data/events_sector_rad_science.xml:189
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "欢迎他登船。"
 
 #: src-en/data/events_sector_rad_science.xml:193
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "\"现在我也许该提一下，有些海盗想杀我，不过我确信像你这样强大能干的舰长能对付"
+"他们。\""
 
 #: src-en/data/events_sector_rad_science.xml:195
 msgid ""
@@ -219,7 +222,7 @@ msgstr "拒绝。"
 #: src-en/data/events_sector_rad_science.xml:203
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "科学家的小飞船飞走了，就在你以为事情结束时，你看到一艘海盗船紧追其后飞过。"
 
 #: src-en/data/events_sector_rad_science.xml:205
 msgid ""
@@ -234,7 +237,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_rad_science.xml:233
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_DESTROY\"]/text"
-msgstr ""
+msgstr "你已击败了科学家护卫。无论他们货舱里曾有什么，肯定都已被摧毁，但你至少能从这"
+"艘星舰上回收一些补给。"
 
 #: src-en/data/events_sector_rad_science.xml:236
 msgid ""
@@ -244,7 +248,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:241
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_DEADCREW\"]/text"
-msgstr ""
+msgstr "你已击败了科学家护卫。由于船上没有船员阻止你，你可以调查他们的货舱。你找到一"
+"件武器带回星舰，并继续搜刮他们的舰体。"
 
 #: src-en/data/events_sector_rad_science.xml:245
 msgid ""
@@ -254,7 +259,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:253
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE_FOLLOWUP\"]/text"
-msgstr ""
+msgstr "杀死了科学家护卫，你肯定惹恼了某些人；但愿消息别传得太快。"
 
 #: src-en/data/events_sector_rad_science.xml:255
 msgid ""
@@ -280,7 +285,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:306
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_CIVILIAN_TRANSFORM\"]/text"
-msgstr ""
+msgstr "你船上的一名平民请求加入你的船员。"
 
 #: src-en/data/events_sector_rad_science.xml:308
 msgid ""
@@ -303,27 +308,28 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:325
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[1]"
-msgstr ""
+msgstr "当你回收科学家星舰的残骸时，显然他们先进的技术不足以从你手下拯救他们。"
 
 #: src-en/data/events_sector_rad_science.xml:326
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[2]"
-msgstr ""
+msgstr "随着星舰被摧毁，科学家舰长发出了最后一句咒骂。"
 
 #: src-en/data/events_sector_rad_science.xml:327
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[3]"
-msgstr ""
+msgstr "科学家星舰闪闪发光的舰体在太空中碎裂开来。你俯冲过去回收残骸。"
 
 #: src-en/data/events_sector_rad_science.xml:328
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[4]"
-msgstr ""
+msgstr "星舰爆炸，其中的所有生命随之消亡。你的船员避开他们的遗骸，回收星舰碎片。"
 
 #: src-en/data/events_sector_rad_science.xml:329
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DESTROYED_RAD_SCIENCE\"]/text[5]"
-msgstr ""
+msgstr "伴随着一阵火花与爆炸，星舰的舰体崩溃了。你迅速回收了残骸，它们看起来品质依然"
+"不错。"
 
 #: src-en/data/events_sector_rad_science.xml:336
 msgid ""
@@ -350,17 +356,18 @@ msgstr "“有人受伤！有人受伤！啊！”船员的呼喊声并没有被
 #: src-en/data/events_sector_rad_science.xml:347
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[3]"
-msgstr ""
+msgstr "你已屠杀了所有船员。剩下的就是回收他们的星舰了。"
 
 #: src-en/data/events_sector_rad_science.xml:348
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[4]"
-msgstr ""
+msgstr "\"说句公道话……这活儿……远超我的……薪酬等级……\"敌方舰长捂住心脏倒下了。"
 
 #: src-en/data/events_sector_rad_science.xml:349
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[5]"
-msgstr ""
+msgstr "\"你会后悔的！因果报应总会落到你们这种人头上。该死的……要是没有你们这些变元者"
+"，我们科学家的日子会好过得多……\""
 
 #: src-en/data/events_sector_rad_science.xml:355
 msgid ""
@@ -370,7 +377,7 @@ msgstr "接受他们的投降。"
 #: src-en/data/events_sector_rad_science.xml:357
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"SURRENDER_ACCEPT\"]/text"
-msgstr ""
+msgstr "科学家们很聪明，知道活着更好，哪怕会损失些财物。"
 
 #: src-en/data/events_sector_rad_science.xml:361
 msgid ""
@@ -387,27 +394,32 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:377
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[1]"
-msgstr ""
+msgstr "\"求你了！多元宇宙里一半的技术都多亏了我们科学家，我们发明了太空华夫饼机！你"
+"不能杀我们！\""
 
 #: src-en/data/events_sector_rad_science.xml:378
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[2]"
-msgstr ""
+msgstr "\"听着，只要放我们一条生路，我们就交出所有东西，这不就是你们变元者想要的吗？\"
+"""
 
 #: src-en/data/events_sector_rad_science.xml:379
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[3]"
-msgstr ""
+msgstr "科学家舰长恳求你饶他一命。\"求你了，我的家人！他们需要我，我是家里唯一的收入"
+"来源！只要你放我一条生路，我什么都给你！\""
 
 #: src-en/data/events_sector_rad_science.xml:380
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[4]"
 msgstr ""
+"你收到星舰另一区域的呼叫，除了舰长，另一位船员轻声说道：\"求你了，只要你停火"
+"，我就把货舱里剩下的所有东西都给你。我们舰长很固执，但其他船员都不想死！\""
 
 #: src-en/data/events_sector_rad_science.xml:381
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[5]"
-msgstr ""
+msgstr "科学家星舰已支离破碎。你现在大概可以谈判让他们投降了。"
 
 #: src-en/data/events_sector_rad_science.xml:385
 msgid ""
@@ -418,6 +430,9 @@ msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/text"
 msgstr ""
+"你清除了防御星舰，并将其拖回空间站。你受到感谢，并获得了大量废料作为奖励。\n"
+"\n"
+"空间站上的一名船员主动要求加入你的船员。"
 
 #: src-en/data/events_sector_rad_science.xml:402
 msgid ""
@@ -427,7 +442,7 @@ msgstr "接受他们上你的船。"
 #: src-en/data/events_sector_rad_science.xml:405
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/choice[1]/event/text"
-msgstr ""
+msgstr "原来他是先前派驻在防御星舰上的士兵之一。"
 
 #: src-en/data/events_sector_rad_science.xml:410
 msgid ""
@@ -437,7 +452,7 @@ msgstr "拒绝他们的提议。"
 #: src-en/data/events_sector_rad_science.xml:413
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_DEADCREW\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你拒绝了提议，你现在不需要新船员。"
 
 #: src-en/data/events_sector_rad_science.xml:429
 msgid ""
@@ -445,10 +460,9 @@ msgid ""
 msgstr "未探索的信标。"
 
 #: src-en/data/events_sector_rad_science.xml:430
-#, fuzzy
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/beaconType/visitedTooltip"
-msgstr "已探索的信标，没什么值得注意。"
+msgstr "探索完毕的地点。已无值得关注之物。"
 
 #: src-en/data/events_sector_rad_science.xml:431
 msgid ""
@@ -458,7 +472,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_sector_rad_science.xml:433
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"TRANSPORT_RAD_SCIENCE_LOOT\"]/text"
-msgstr ""
+msgstr "这个信标有一艘科学家运输舰。基本可以断定这艘星舰很可能载有特殊技术。如果你能"
+"消灭其船员，他们的货物就归你了。"
 
 #: src-en/data/events_sector_rad_science.xml:436
 msgid ""
@@ -503,7 +518,7 @@ msgstr "攻击对方！"
 #: src-en/data/events_sector_rad_science.xml:475
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你启动武器，攻击科学家。"
 
 #: src-en/data/events_sector_rad_science.xml:478
 msgid ""
@@ -513,12 +528,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:484
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[2]/text"
-msgstr ""
+msgstr "无视科学家星舰。"
 
 #: src-en/data/events_sector_rad_science.xml:486
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_CHOICE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你飞过科学家飞船。"
 
 #: src-en/data/events_sector_rad_science.xml:488
 msgid ""
@@ -533,22 +548,24 @@ msgstr "跳过。"
 #: src-en/data/events_sector_rad_science.xml:499
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[1]"
-msgstr ""
+msgstr "一艘科学家星舰正在勘测该区域的一颗行星。附近没有其他星舰。"
 
 #: src-en/data/events_sector_rad_science.xml:500
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[2]"
-msgstr ""
+msgstr "你注意到不远处还漂浮着另一艘属于科学家的星舰。星舰功能完好，但礼貌地拒绝了任"
+"何呼叫。"
 
 #: src-en/data/events_sector_rad_science.xml:501
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_RAD_SCIENCE_CHOICE\"]/text[3]"
-msgstr ""
+msgstr "一艘装备尚可的科学家飞船正在信标处巡逻，只要你不惹麻烦，他们很可能不会理会你"
+"。"
 
 #: src-en/data/events_sector_rad_science.xml:505
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/text"
-msgstr ""
+msgstr "附近一艘科学家飞船充当着补给站，他们为你提供补给。"
 
 #: src-en/data/events_sector_rad_science.xml:508
 msgid ""
@@ -558,7 +575,7 @@ msgstr "表明身份获取补给资源。"
 #: src-en/data/events_sector_rad_science.xml:514
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[@req=\"rad_scientist\"]/text"
-msgstr ""
+msgstr "（人类科学家）请求更多补给。"
 
 #: src-en/data/events_sector_rad_science.xml:520
 msgid ""
@@ -573,7 +590,7 @@ msgstr "攻击，显然这样能拿到更多！"
 #: src-en/data/events_sector_rad_science.xml:529
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[4]/event/text"
-msgstr ""
+msgstr "你启动武器，攻击科学家。"
 
 #: src-en/data/events_sector_rad_science.xml:532
 msgid ""
@@ -588,7 +605,7 @@ msgstr "忽略仓库。"
 #: src-en/data/events_sector_rad_science.xml:540
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_DEPOT\"]/choice[5]/event/text"
-msgstr ""
+msgstr "你无视了科学家。"
 
 #: src-en/data/events_sector_rad_science.xml:542
 msgid ""
@@ -603,17 +620,17 @@ msgstr "跳过。"
 #: src-en/data/events_sector_rad_science.xml:554
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/text"
-msgstr ""
+msgstr "附近一座空间站正在发出求救信标，似乎是他们的防御星舰被盗了。"
 
 #: src-en/data/events_sector_rad_science.xml:557
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[1]/text"
-msgstr ""
+msgstr "摧毁或夺回防御星舰。"
 
 #: src-en/data/events_sector_rad_science.xml:559
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你启动武器，攻击海盗。"
 
 #: src-en/data/events_sector_rad_science.xml:562
 msgid ""
@@ -623,12 +640,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:568
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "（高级隐形）启动隐形，趁其不备搜刮部分空间站。"
 
 #: src-en/data/events_sector_rad_science.xml:570
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[@req=\"cloaking\"]/event/text"
-msgstr ""
+msgstr "防御星舰被盗，无人守卫空间站。在你的隐形掩护下，你撕下一些外部装甲板后迅速离"
+"开。"
 
 #: src-en/data/events_sector_rad_science.xml:575
 msgid ""
@@ -638,7 +656,7 @@ msgstr "远离他们。"
 #: src-en/data/events_sector_rad_science.xml:577
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_PIRATE_CAPTURE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你飞过空间站。希望情况会得到解决……尽管没你的功劳。"
 
 #: src-en/data/events_sector_rad_science.xml:579
 msgid ""
@@ -653,27 +671,27 @@ msgstr "跳过。"
 #: src-en/data/events_sector_rad_science.xml:591
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/text"
-msgstr ""
+msgstr "你抵达信标，遇到一个旅行商人，而且还是个科学家。"
 
 #: src-en/data/events_sector_rad_science.xml:594
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/text"
-msgstr ""
+msgstr "购买一件神秘武器。"
 
 #: src-en/data/events_sector_rad_science.xml:596
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/text"
-msgstr ""
+msgstr "商人递给你一个大箱子后便跃迁离开。"
 
 #: src-en/data/events_sector_rad_science.xml:601
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "打开箱子"
 
 #: src-en/data/events_sector_rad_science.xml:603
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "看来他没撒谎。"
 
 #: src-en/data/events_sector_rad_science.xml:606
 msgid ""
@@ -688,12 +706,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_rad_science.xml:618
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[2]/text"
-msgstr ""
+msgstr "查看他的商品。"
 
 #: src-en/data/events_sector_rad_science.xml:620
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[2]/event/text"
-msgstr ""
+msgstr "他欢迎你进入他的小店。"
 
 #: src-en/data/events_sector_rad_science.xml:623
 msgid ""
@@ -708,12 +726,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_rad_science.xml:633
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[3]/text"
-msgstr ""
+msgstr "攻击他！"
 
 #: src-en/data/events_sector_rad_science.xml:635
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SALESMAN\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你启动武器，攻击商人。"
 
 #: src-en/data/events_sector_rad_science.xml:638
 msgid ""
@@ -723,17 +741,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:664
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/text"
-msgstr ""
+msgstr "求救信标的来源似乎是一艘民用飞船正遭叛军登舰星舰攻击！我们要帮忙吗？"
 
 #: src-en/data/events_sector_rad_science.xml:667
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[1]/text"
-msgstr ""
+msgstr "拯救平民。"
 
 #: src-en/data/events_sector_rad_science.xml:669
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你启动武器，与海盗船交战，看起来那艘船上还有2名平民活着，如果你能清除叛军，或"
+"许能救下他们。"
 
 #: src-en/data/events_sector_rad_science.xml:673
 msgid ""
@@ -741,15 +760,14 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_rad_science.xml:679
-#, fuzzy
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[2]/text"
-msgstr "无视这艘舰船。"
+msgstr "无视这艘星舰。"
 
 #: src-en/data/events_sector_rad_science.xml:681
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_REBELBOARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你希望他们能自救。"
 
 #: src-en/data/events_sector_rad_science.xml:683
 msgid ""
@@ -764,7 +782,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_rad_science.xml:696
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/text"
-msgstr ""
+msgstr "求救信标来自一艘小型民用穿梭机，它正被一艘科学家星舰打捞。"
 
 #: src-en/data/events_sector_rad_science.xml:698
 msgid ""
@@ -774,7 +792,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:700
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/text"
-msgstr ""
+msgstr "\"变元者，保持距离，我们刚抓获了两名我们认为属于海盗组织的平民。我们只是希望"
+"不会有海盗来寻仇。\""
 
 #: src-en/data/events_sector_rad_science.xml:702
 msgid ""
@@ -784,7 +803,8 @@ msgstr "援救民船。"
 #: src-en/data/events_sector_rad_science.xml:704
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "你启动武器，与科学家交战。两名平民还活着，而且看起来他们不会束手就擒。如果你"
+"能清除叛军，或许能救下他们。"
 
 #: src-en/data/events_sector_rad_science.xml:708
 msgid ""
@@ -794,12 +814,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:714
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "停留片刻，保卫科学家星舰。"
 
 #: src-en/data/events_sector_rad_science.xml:716
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "没过几分钟，一艘海盗船跃迁而至，看来免不了一场战斗！"
 
 #: src-en/data/events_sector_rad_science.xml:719
 msgid ""
@@ -807,15 +827,14 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_rad_science.xml:725
-#, fuzzy
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[3]/text"
-msgstr "无视这艘舰船。"
+msgstr "无视这艘星舰。"
 
 #: src-en/data/events_sector_rad_science.xml:727
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "你将注意力转回自己的星舰，同时等待跃迁驱动器充能。"
 
 #: src-en/data/events_sector_rad_science.xml:729
 msgid ""
@@ -830,7 +849,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_rad_science.xml:760
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_GHOST\"]/text"
-msgstr ""
+msgstr "你已摧毁了那艘拦截舰的残骸。"
 
 #: src-en/data/events_sector_rad_science.xml:763
 msgid ""
@@ -847,7 +866,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:773
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE_GHOST\"]/text"
-msgstr ""
+msgstr "你已清除了灵族的残骸。"
 
 #: src-en/data/events_sector_rad_science.xml:776
 msgid ""
@@ -864,11 +883,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:786
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_GHOST_SUR\"]/text"
-msgstr ""
+msgstr "你的最后一击似乎过载了敌方的反应堆。"
 
 #: src-en/data/events_sector_rad_science.xml:792
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现一艘被摧毁的科学家拦截舰。星舰的某些部分似乎仍部分完好，因为"
+"求救信标仍在发出。"
 
 #: src-en/data/events_sector_rad_science.xml:797
 msgid ""
@@ -879,11 +899,15 @@ msgstr "调查。"
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[1]/event/text"
 msgstr ""
+"当你靠近残骸时，它启动了。你收到一条传输信息。\n"
+"\n"
+"\"求求你帮忙，我们遭到了魂灵族攻击，我的船员都死了。要么把我传送出这艘星舰，"
+"要么把它破坏到足以让我过载反应堆，然后通过个人传送器传送过去。\""
 
 #: src-en/data/events_sector_rad_science.xml:802
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "C·斯瓦特沃特博士"
 
 #: src-en/data/events_sector_rad_science.xml:805
 msgid ""
@@ -898,7 +922,7 @@ msgstr "无视残骸。"
 #: src-en/data/events_sector_rad_science.xml:813
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST\"]/choice[2]/event/text"
-msgstr ""
+msgstr "不值得调查。"
 
 #: src-en/data/events_sector_rad_science.xml:815
 msgid ""
@@ -913,17 +937,24 @@ msgstr "跳过。"
 #: src-en/data/events_sector_rad_science.xml:827
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FAILED\"]/text"
-msgstr ""
+msgstr "不幸的是，你未能救下那位科学家，也许在另一个宇宙里你没有失败。"
 
 #: src-en/data/events_sector_rad_science.xml:831
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_SAVED\"]/text"
 msgstr ""
+"\"干得好，舰长，你来得正是时候，我叫科尼利厄斯·斯瓦特沃特。\n"
+"不知你能否再帮我个忙，我和我的船员当时正在前往我们一个项目设施的途中，去测试"
+"一艘新型星舰，如果你能把我送到那里，那真是帮大忙了。\""
 
 #: src-en/data/events_sector_rad_science.xml:851
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FACILITY\"]/text"
 msgstr ""
+"你已抵达测试设施，那艘星舰似乎正准备推出进行测试。\n"
+"\n"
+"斯瓦特沃特博士加入你观看测试，\"今天我们要测试的是这艘星舰使用武器的能力，我"
+"们弄来了一艘叛军自动舰进行测试。\""
 
 #: src-en/data/events_sector_rad_science.xml:855
 msgid ""
@@ -934,6 +965,10 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_FACILITY\"]/choice/event/text"
 msgstr ""
+"就在试射即将开始时，叛军自动舰突然启动，并向星舰发射了一架黑客无人机。通讯频"
+"道里传来模糊的惊呼，区域内的其他科学家意识到发生了什么。\n"
+"\n"
+"你介入摧毁无人机，以免它造成太大破坏。"
 
 #: src-en/data/events_sector_rad_science.xml:862
 msgid ""
@@ -944,16 +979,21 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_REBEL_AUTO\"]/text"
 msgstr ""
+"你成功摧毁了叛军自动舰，但似乎还是慢了一步，叛军舰艇部署的黑客无人机成功控制"
+"了科学星舰，它已跃迁离开。\n"
+"不过，科学家们追踪到了它的跃迁目的地，希望你能找回这艘星舰，或至少阻止它落入"
+"叛军之手。"
 
 #: src-en/data/events_sector_rad_science.xml:894
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_FIGHT_2\"]/text"
-msgstr ""
+msgstr "你已摧毁叛军自动舰，但似乎还是慢了一步，科学星舰重新上线了，但这次它被叛军控"
+"制了……"
 
 #: src-en/data/events_sector_rad_science.xml:899
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_FIGHT_2_2\"]/text"
-msgstr ""
+msgstr "你没时间了，科学星舰几乎要撞上你了。"
 
 #: src-en/data/events_sector_rad_science.xml:902
 msgid ""
@@ -964,6 +1004,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_QUEST_SECOND\"]/text"
 msgstr ""
+"你抵达信标，发现科学家的自动星舰处于待机模式，看来你比叛军先到一步。\n"
+"就在你开始靠近这艘星舰时，它启动了武器，看来叛军不打算轻易拱手相让。"
 
 #: src-en/data/events_sector_rad_science.xml:912
 msgid ""
@@ -973,7 +1015,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:918
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_CUTTERENEMY\"]/text"
-msgstr ""
+msgstr "\"哇，幸好你在这里，否则情况可能会很糟糕。为表感谢，我们会把这种星舰的设计图"
+"发给联邦，等我们处理好你指出的这些漏洞后。\""
 
 #: src-en/data/events_sector_rad_science.xml:944
 msgid ""
@@ -983,22 +1026,26 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:949
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[1]"
-msgstr ""
+msgstr "一艘民用星舰的残骸在附近漂浮，但你还没来得及想好是否回收，一艘科学家星舰就误"
+"以为你是袭击者，准备为平民复仇。"
 
 #: src-en/data/events_sector_rad_science.xml:950
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[2]"
-msgstr ""
+msgstr "你在这处信标与科学家星舰因身份识别问题发生争执，没过多久情况就升温到了冲突的"
+"地步！"
 
 #: src-en/data/events_sector_rad_science.xml:951
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_RAD_SCIENCE_MISTAKE\"]/text[3]"
-msgstr ""
+msgstr "这处信标的科学家似乎误将你的一名船员当成了悬赏极高的臭名昭著的海盗。你不打算"
+"交出船员，准备战斗。"
 
 #: src-en/data/events_sector_rad_science.xml:955
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/text"
-msgstr ""
+msgstr "你在这处信标附近遇到了一个科学家前哨站，他们拒绝让你通过。显然通过这个信标需"
+"要缴纳通行费。"
 
 #: src-en/data/events_sector_rad_science.xml:958
 msgid ""
@@ -1008,7 +1055,7 @@ msgstr "拒绝付费。"
 #: src-en/data/events_sector_rad_science.xml:960
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "科学家们懒得废话——你刚一拒绝，他们的武器就启动了！"
 
 #: src-en/data/events_sector_rad_science.xml:963
 msgid ""
@@ -1023,7 +1070,7 @@ msgstr "支付过路费。"
 #: src-en/data/events_sector_rad_science.xml:971
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_STATION_MISTAKE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "科学家们收下通行费，允许你继续前进。"
 
 #: src-en/data/events_sector_rad_science.xml:983
 msgid ""
@@ -1033,22 +1080,26 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:988
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[1]"
-msgstr ""
+msgstr "敢于挑战科学家地盘的，要么是胆大包天的海盗舰长，要么是愚蠢至极的。当你注意到"
+"敌意星舰靠近时，你希望是后者，同时准备战斗。"
 
 #: src-en/data/events_sector_rad_science.xml:989
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[2]"
-msgstr ""
+msgstr "一艘海盗船靠近，武器已在充能。他们一定是在这片星域大开杀戒，现在准备换个口味"
+"，不攻击科学家和民用船，转而攻击你的星舰！"
 
 #: src-en/data/events_sector_rad_science.xml:990
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[3]"
-msgstr ""
+msgstr "尽管拥有先进技术，科学家们似乎仍未能彻底消灭海盗。有一艘正朝你的星舰直冲而来"
+"！"
 
 #: src-en/data/events_sector_rad_science.xml:991
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[4]"
-msgstr ""
+msgstr "你瞥见一抹紫色飞掠而过。不久，一艘海盗星舰进入视野。\"哈哈！我已夺取了许多平"
+"民的性命，现在轮到你了！准备战斗吧！\""
 
 #: src-en/data/events_sector_rad_science.xml:998
 msgid ""
@@ -1058,17 +1109,19 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:1003
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[1]"
-msgstr ""
+msgstr "科学舰队拥有大量星舰，但这也使他们成为急需新座驾的海盗的主要目标。一艘海盗控"
+"制的科学星舰正气势汹汹地冲来。"
 
 #: src-en/data/events_sector_rad_science.xml:1004
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[2]"
-msgstr ""
+msgstr "一艘海盗星舰，想试试刚从科学家那里偷来的新装备，锁定了你的星舰并发起攻击！"
 
 #: src-en/data/events_sector_rad_science.xml:1005
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE_ONLY\"]/text[3]"
-msgstr ""
+msgstr "起初你以为这里的星舰只是普通的科学家星舰，直到你看见舰体上涂着的海盗标记。海"
+"盗来袭！"
 
 #: src-en/data/events_sector_rad_science.xml:1012
 msgid ""
@@ -1084,26 +1137,33 @@ msgstr "\"神军永远不败！联邦的结局只会是灭亡！\"你无法理�
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[2]"
 msgstr ""
+"叛军似乎对科学家怀恨在心，可能因为在科学家开的赌场里输太多次了。这里的叛军舰"
+"似乎一心要打一架，既然你是这里唯一的星舰，他们决定把你当作满意的对手。"
 
 #: src-en/data/events_sector_rad_science.xml:1019
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[3]"
-msgstr ""
+msgstr "一艘叛军舰洗劫了一座民用空间站的残骸。几乎在你跃迁到达的瞬间，他们就发现了你"
+"，并决定把你当作下一个目标。"
 
 #: src-en/data/events_sector_rad_science.xml:1035
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_ELITE\"]/text"
-msgstr ""
+msgstr "你成功摧毁了该星区最危险的星舰之一，你回收了他们的星舰，因此变得更富有了。"
 
 #: src-en/data/events_sector_rad_science.xml:1040
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DEAD_CREW_RAD_SCIENCE_ELITE\"]/text"
-msgstr ""
+msgstr "随着最后一名士兵倒下，你的船员开始回收他们的星舰。你带着成桶的废料离开了他们"
+"的星舰。"
 
 #: src-en/data/events_sector_rad_science.xml:1045
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"ENCOUNTER_RAD_SCIENCE_ELITE\"]/text"
 msgstr ""
+"精英研发防御队的星舰是科学家舰队中最致命的星舰之一，这不是没有原因的。拥有训"
+"练有素的船员，这些星舰在战斗中毫不含糊。不幸的是，这里的星舰认定你为威胁并发"
+"起了攻击！"
 
 #: src-en/data/events_sector_rad_science.xml:1048
 msgid ""
@@ -1113,16 +1173,17 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:1105
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "科学家的主基地。"
 
 #: src-en/data/events_sector_rad_science.xml:1106
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "科学家的主基地。"
 
 #: src-en/data/events_sector_rad_science.xml:1108
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/text"
-msgstr ""
+msgstr "你已抵达科学家的主基地。似乎空间站人手不足，大部分舰队都去应对迫近的叛军威胁"
+"了。"
 
 #: src-en/data/events_sector_rad_science.xml:1112
 msgid ""
@@ -1132,7 +1193,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:1114
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LAB\"]/choice/event/text"
-msgstr ""
+msgstr "由于大部分人员都已离开空间站，你可以潜入并获取站内技术，甚至能看到空间站一侧"
+"正在建造一艘大型星舰。"
 
 #: src-en/data/events_sector_rad_science.xml:1116
 msgid ""
@@ -1146,7 +1208,7 @@ msgstr "离开。"
 
 #: src-en/data/events_sector_rad_science.xml:1128
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_LEAVE\"]/text"
-msgstr ""
+msgstr "你离开了该区域。"
 
 #: src-en/data/events_sector_rad_science.xml:1130
 msgid ""
@@ -1161,26 +1223,27 @@ msgstr "跳过。"
 #: src-en/data/events_sector_rad_science.xml:1148
 msgid ""
 "data/events_sector_rad_science.xml$//eventButton[@name=\"UI_RAD_BOARD\"]/tooltip"
-msgstr ""
+msgstr "离开空间站（无法返回）。"
 
 #: src-en/data/events_sector_rad_science.xml:1149
 msgid ""
 "data/events_sector_rad_science.xml$//eventButton[@name=\"UI_RAD_BOARD\"]/inactiveTooltip"
-msgstr ""
+msgstr "你的船员需要在传送室内才能离开。"
 
 #: src-en/data/events_sector_rad_science.xml:1156
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_BOARD\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "敌人的门禁系统将在此时间后失效。"
 
 #: src-en/data/events_sector_rad_science.xml:1175
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_RETURN2\"]/text"
-msgstr ""
+msgstr "你当然无法炸毁空间站，但你的秘密潜入任务很顺利。"
 
 #: src-en/data/events_sector_rad_science.xml:1200
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_1\"]/text"
-msgstr ""
+msgstr "你抵达信标，迎面遇上一艘巨大的科学家护卫舰。它似乎是船坞中那艘星舰的完成版，"
+"看来你要打一场硬仗了。"
 
 #: src-en/data/events_sector_rad_science.xml:1203
 msgid ""
@@ -1189,25 +1252,28 @@ msgstr "继续。"
 
 #: src-en/data/events_sector_rad_science.xml:1209
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2\"]/text"
-msgstr ""
+msgstr "护卫舰似乎爆炸了，但实际上只受了轻微损伤。不过，这艘星舰仍需维修，它跃迁离开"
+"了。"
 
 #: src-en/data/events_sector_rad_science.xml:1215
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3\"]/text"
-msgstr ""
+msgstr "护卫舰似乎爆炸了，但实际上只受了轻微损伤。不过，这艘星舰仍需维修，它跃迁离开"
+"了。"
 
 #: src-en/data/events_sector_rad_science.xml:1229
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP\"]/text"
-msgstr ""
+msgstr "即使舰体缺失了一块，他们仍在战斗，甚至启动了更多系统。在星舰进入交战范围前，"
+"你还有片刻喘息时间。"
 
 #: src-en/data/events_sector_rad_science.xml:1234
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "护卫舰将在冷却结束后恢复运行。"
 
 #: src-en/data/events_sector_rad_science.xml:1240
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_2_SHIP_2\"]/text"
-msgstr ""
+msgstr "护卫舰已进入射程……"
 
 #: src-en/data/events_sector_rad_science.xml:1243
 msgid ""
@@ -1216,17 +1282,18 @@ msgstr "继续。"
 
 #: src-en/data/events_sector_rad_science.xml:1256
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP\"]/text"
-msgstr ""
+msgstr "你追踪了科学护卫舰，但这艘星舰仍未毁灭。在敌方星舰能攻击你之前，你还有片刻时"
+"间。"
 
 #: src-en/data/events_sector_rad_science.xml:1262
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "护卫舰将在冷却结束后恢复运行。"
 
 #: src-en/data/events_sector_rad_science.xml:1268
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_3_SHIP_2\"]/text"
-msgstr ""
+msgstr "护卫舰已进入射程……"
 
 #: src-en/data/events_sector_rad_science.xml:1271
 msgid ""
@@ -1235,64 +1302,64 @@ msgstr "继续。"
 
 #: src-en/data/events_sector_rad_science.xml:1277
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_WEAPON\"]/text"
-msgstr ""
+msgstr "你进入了军械库，大部分已被清空，但架子上还有一件武器。"
 
 #: src-en/data/events_sector_rad_science.xml:1281
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/text"
-msgstr ""
+msgstr "你进入了储存室。有几件机械设备，但传送器只能容纳一件。"
 
 #: src-en/data/events_sector_rad_science.xml:1283
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[1]/text"
-msgstr ""
+msgstr "拿走增强部件："
 
 #: src-en/data/events_sector_rad_science.xml:1289
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[2]/text"
-msgstr ""
+msgstr "拿走增强部件："
 
 #: src-en/data/events_sector_rad_science.xml:1295
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[3]/text"
-msgstr ""
+msgstr "拿走增强部件："
 
 #: src-en/data/events_sector_rad_science.xml:1301
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[4]/text"
-msgstr ""
+msgstr "拿走增强部件："
 
 #: src-en/data/events_sector_rad_science.xml:1307
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_SHIELD\"]/choice[5]/text"
-msgstr ""
+msgstr "什么也不拿，离开。"
 
 #: src-en/data/events_sector_rad_science.xml:1313
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/text"
-msgstr ""
+msgstr "你进入了反应堆控制室。"
 
 #: src-en/data/events_sector_rad_science.xml:1315
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/choice/text"
-msgstr ""
+msgstr "关闭安保系统。"
 
 #: src-en/data/events_sector_rad_science.xml:1318
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_ENGINE\"]/choice/event/text"
-msgstr ""
+msgstr "门禁系统关闭了。"
 
 #: src-en/data/events_sector_rad_science.xml:1323
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/text"
-msgstr ""
+msgstr "你进入了低温休眠室。其中一个舱里似乎冷冻着一名人类。"
 
 #: src-en/data/events_sector_rad_science.xml:1325
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/choice[1]/text"
-msgstr ""
+msgstr "打开舱门。"
 
 #: src-en/data/events_sector_rad_science.xml:1327
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_CLONE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你打开舱门，释放了这名人类，他/她很困惑，但请求加入你的船员。"
 
 #: src-en/data/events_sector_rad_science.xml:1332
 msgid ""
@@ -1301,25 +1368,29 @@ msgstr "不管他了。"
 
 #: src-en/data/events_sector_rad_science.xml:1337
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/text"
-msgstr ""
+msgstr "你进入了星舰船坞控制室。与之相连的控制台被锁定了。"
 
 #: src-en/data/events_sector_rad_science.xml:1340
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/choice/text"
-msgstr ""
+msgstr "解锁控制台。"
 
 #: src-en/data/events_sector_rad_science.xml:1342
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_PILOT\"]/choice/event/text"
 msgstr ""
+"你使用从数据中心下载的密码解锁了控制台。\n"
+"        \n"
+"你下载了科学家们正在建造的一种新型星舰的数据，似乎目前正有一艘在实地测试，你"
+"下载了这艘星舰的追踪数据。"
 
 #: src-en/data/events_sector_rad_science.xml:1350
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_HACK\"]/text"
-msgstr ""
+msgstr "你进入了数据储存室。你下载了船坞控制中心（驾驶室）的访问密码。"
 
 #: src-en/data/events_sector_rad_science.xml:1354
 msgid "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_4\"]/text"
-msgstr ""
+msgstr "星舰最终爆炸成一团残骸，你在补好舰体后开始搜刮战利品。"
 
 #: src-en/data/events_sector_rad_science.xml:1360
 msgid ""
@@ -1329,4 +1400,4 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:1362
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_4\"]/choice/event/text"
-msgstr ""
+msgstr "你在残骸中发现了一个装满战利品的小型储物箱。"

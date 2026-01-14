@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-12 12:09+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"PO-Revision-Date: 2026-01-14 10:05+0000\n"
+"Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/rad/dataevents_special_storagexmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -89,7 +89,6 @@ msgstr "制造火焰无人机：0点舰体伤害，1点系统伤害，15点船�
 "控制。"
 
 #: src-en/data/events_special_storage.xml.append:156
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/choice[4]/text"
@@ -129,7 +128,6 @@ msgstr "制造火焰无人机：0点舰体伤害，1点系统伤害，15点船�
 "控制。"
 
 #: src-en/data/events_special_storage.xml.append:187
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/event/choice[4]/text"
@@ -201,7 +199,6 @@ msgid ""
 msgstr "继续... 1"
 
 #: src-en/data/events_special_storage.xml.append:253
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"RAD_STORAGE_INAUG\"]/choice[5]/text"
 msgstr "算了。"

@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 16:50+0000\n"
+"PO-Revision-Date: 2026-01-16 02:44+0000\n"
 "Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/rad/dataeventsxmlappend/zh_Hans/>\n"
@@ -96,11 +96,12 @@ msgstr ""
 "空间站立刻向你开火。你准备承受冲击。\n"
 "就在攻击即将命中舰船的刹那，一道炫目闪光击中了你。待视野恢复，你发现自己正站"
 "在一群科学家中间，身处空间站内部。\n"
+"\n"
 "一名科学家正等着你。\"呃，抱歉用这种方式联系你。我们只是不能让这情报泄露出去"
 "。顺便说一句，你的船没事。\"\n"
 "科学家示意你旁边的武器控制台。屏幕上显示你的飞船完好无损。\n"
-"\"对了，我是古斯。这个实验室的负责人。你就是我们一直听说的那位变元者，对吧？\"
-"""
+"\"对了，我是古斯。我是这个实验室的负责人。你就是我们一直听说的那位变元者，对"
+"吧？\""
 
 #: src-en/data/events.xml.append:97
 msgid ""

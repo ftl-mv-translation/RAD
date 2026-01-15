@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 16:50+0000\n"
+"PO-Revision-Date: 2026-01-16 02:44+0000\n"
 "Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/rad/datablueprintsxmlappend/zh_Hans/>\n"
@@ -1549,10 +1549,9 @@ msgstr "每场战斗中，你的所有武器都会被随机替换（若你有3�
 "果不适用于旗舰战——进入旗舰战前装备的武器将保持不变"
 
 #: src-en/data/blueprints.xml.append:3693
-#, fuzzy
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rad_scientist\"]/desc"
 msgstr ""
-"科学家，对无人机作战效率更高。\n"
+"一个经过科学训练的单位，对抗无人机更有效。\n"
 "\t\n"
 "继承人类属性：具备轻微窒息抗性，技能学习速度更快"
 

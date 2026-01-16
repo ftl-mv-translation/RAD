@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-16 08:17+0000\n"
+"PO-Revision-Date: 2026-01-16 19:03+0000\n"
 "Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/rad/dataeventsxmlappend/zh_Hans/>\n"
@@ -374,19 +374,19 @@ msgstr "看来很棘手。你想让我们做什么？"
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_QUEST_1\"]/choice/event/text"
 msgstr ""
-"\"啊！幸运的是，我们其实已经追踪到了劫持我们空间站的海盗。只是海盗而已。不幸"
-"的是，我们不知道他们把空间站藏在哪里了。\"\n"
+"“啊！幸运的是，我们其实已经追踪到了劫持我们空间站的海盗。只是海盗而已。不幸的"
+"是，我们不知道他们把空间站藏在哪里了。”\n"
 "科学家在平板上向你展示了一些坐标。\n"
-"\"我们需要你去找到他们，并发动攻击。但别杀他们，只需造成足够伤害让他们试图跃"
-"迁逃跑，然后跟踪他们。我们会给你一个设备，用于在他们跃迁离开时追踪。\"\n"
-"\"哦，一旦你找到空间站，我们会带着报酬来与你汇合。祝狩猎顺利。\""
+"“我们需要你去找到他们，并发动攻击。但别杀他们，只需造成足够伤害让他们试图跃迁"
+"逃跑，然后跟踪他们。我们会给你一个设备，用于在他们跃迁离开时追踪。”\n"
+"“哦，一旦你找到空间站，我们会带着报酬来与你汇合。祝狩猎顺利。”"
 
 #: src-en/data/events.xml.append:385
 msgid "data/events.xml.append$//event[@name=\"RAD_PIRATE_TRACKING_1\"]/text"
 msgstr ""
 "你抵达信标，在扫描仪上发现了海盗船。\n"
-"\"记住，别摧毁他们，只要逼他们逃跑！\"看来古斯还在你到达这些坐标时设置了一段"
-"录音播放。"
+"“记住，别摧毁他们，只要逼他们逃跑！”看来古斯还在你到达这些坐标时设置了一段录"
+"音播放。"
 
 #: src-en/data/events.xml.append:389
 msgid ""
@@ -579,20 +579,20 @@ msgstr "你杀死了灵朝飞船的所有船员。不幸的是，这也意味着
 
 #: src-en/data/events.xml.append:570
 msgid "data/events.xml.append$//event[@name=\"SURRENDER_RAD_DYNASTY_1\"]/text"
-msgstr "魂灵族呼叫你：\"阁下对本舰展现了极大的仁慈……阁下所求为何？想必并非我等必须为"
-"之殒命之事。\""
+msgstr "魂灵族呼叫你：“阁下对本舰展现了极大的仁慈……阁下所求为何？想必并非我等必须为之"
+"殒命之事。”"
 
 #: src-en/data/events.xml.append:573
 msgid ""
 "data/events.xml.append$//event[@name=\"SURRENDER_RAD_DYNASTY_1\"]/choice/text"
-msgstr "\"我们需要你们掌握的任何关于某种太空火焰的信息。据说它最近经过这里。\""
+msgstr "“我们需要你们掌握的所有关于某种太空火焰的信息。据说它最近经过这里。”"
 
 #: src-en/data/events.xml.append:575
 msgid ""
 "data/events.xml.append$//event[@name=\"SURRENDER_RAD_DYNASTY_1\"]/choice/event/text"
 msgstr ""
-"魂灵族思索片刻。\"嗯，我不确定是否该透露此事，但确有一艘飞船载着某样巨大而灼"
-"热之物经过此地。他们说会前往附近的军事空间站。我现在就把坐标传给你。\""
+"魂灵族思索片刻。“嗯，我不确定是否该透露此事，但确有一艘飞船载着某样巨大而灼热"
+"之物经过此地。他们说会前往附近的军事空间站。我现在就把坐标传给你。”"
 
 #: src-en/data/events.xml.append:582
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_DYNASTY_2\"]/text"
@@ -625,10 +625,10 @@ msgstr "科学家们给了你附近的一个汇合地点。"
 #: src-en/data/events.xml.append:606
 msgid "data/events.xml.append$//event[@name=\"RAD_LAB_GHOST_1\"]/text"
 msgstr ""
-"\"非常出色。首先，你要明白这其中很多都是高度先进的技术，所以尽量保密。\"\n"
+"“非常出色。首先，你要明白这其中很多都是高度先进的技术，所以尽量保密。”\n"
 "古斯带你走到墙边的终端前。\n"
-"\"问题相当简单。我们的一件，呃，资产，逃跑了，我们想把它找回来。我们愿意为它"
-"的归还支付丰厚报酬。\""
+"“问题相当简单。我们的一件，呃，资产，逃跑了，我们想把它找回来。我们愿意为它的"
+"归还支付丰厚报酬。”"
 
 #: src-en/data/events.xml.append:610
 msgid "data/events.xml.append$//event[@name=\"RAD_LAB_GHOST_1\"]/choice/text"
@@ -669,9 +669,9 @@ msgid ""
 "data/events.xml.append$//event[@name=\"RAD_GHOST_2\"]/choice/event/choice/event/text"
 msgstr ""
 "在几次被拒后，你找到一个愿意交谈的魂灵族。\n"
-"\"我想我知道你在找什么。类似的东西最近经过这里，但被灵朝带走了。如果你想找到"
-"它，必须和他们谈谈。\"\n"
-"\"我会把坐标传给你，是他们最近的前哨站。它很可能经过那里。\""
+"“我想我知道你在找什么。类似的东西最近经过这里，但被灵朝带走了。如果你想找到它"
+"，必须和他们谈谈。”\n"
+"“我会把坐标传给你，是他们最近的前哨站。它很可能经过那里。”"
 
 #: src-en/data/events.xml.append:667
 msgid "data/events.xml.append$//event[@name=\"RAD_GHOST_3\"]/text"
@@ -725,7 +725,7 @@ msgstr ""
 "你打开气闸，立刻感受到了热浪。尽管没有氧气，空间站里竟有火焰！\n"
 "就在你开始返回飞船时，身后传来一个声音，你转身迎面遇见一堵火墙！仔细看，你分"
 "辨出一个幻灵在里面。这一定是科学家们谈论的那个！\n"
-"\"求求你，帮帮我，他们想杀我！\""
+"“求求你，帮帮我，他们想杀我！”"
 
 #: src-en/data/events.xml.append:717
 msgid ""
@@ -735,8 +735,8 @@ msgstr "交给谁了？"
 #: src-en/data/events.xml.append:719
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_GHOST_4\"]/choice[1]/event/choice/event/text"
-msgstr "\"灵朝。他们追捕我是因为我意外点燃了休息室。我发誓，我控制不了它！请带我回你"
-"的飞船！\""
+msgstr "“灵朝。他们追捕我是因为我意外点燃了休息室。我发誓，我控制不了自己！请带我回你"
+"的飞船！”"
 
 #: src-en/data/events.xml.append:721
 msgid ""
@@ -877,21 +877,21 @@ msgstr "你处理了精英，你的船员成功解密了信号。看来科学船
 #: src-en/data/events.xml.append:891
 msgid "data/events.xml.append$//event[@name=\"RAD_LAB_ROGUE_1\"]/text"
 msgstr ""
-"\"非常出色。首先，你要明白这其中很多都是高度先进的技术，尽量保密。\"\n"
+"“非常出色。首先，你要明白这其中很多都是高度先进的技术，尽量保密。”\n"
 "古斯带你走到墙边的终端前。\n"
-"\"我们面临的问题是背叛。我们的一名雇员盗走了一艘我们先进的飞船。据我们收集的"
-"信息，他们打算将技术卖给超能族。我们需要你去拦截他，找回飞船，或者至少阻止技"
-"术被卖掉。\""
+"“我们面临的问题是背叛。我们的一名雇员盗走了一艘我们先进的飞船。据我们收集的信"
+"息，他们打算将技术卖给超能族。我们需要你去拦截他，找回飞船，或者至少阻止技术"
+"被卖掉。”"
 
 #: src-en/data/events.xml.append:895
 msgid "data/events.xml.append$//event[@name=\"RAD_LAB_ROGUE_1\"]/choice/text"
-msgstr "\"我们从哪里开始？\""
+msgstr "“我们从哪里开始？”"
 
 #: src-en/data/events.xml.append:897
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_ROGUE_1\"]/choice/event/text"
-msgstr "\"嗯，我们追踪这艘飞船到附近一个牧师团空间站。去那里，提取他们掌握的任何信息"
-"。\""
+msgstr "“嗯，我们追踪这艘飞船到附近一个牧师团空间站。去那里，提取他们掌握的任何信息。"
+"”"
 
 #: src-en/data/events.xml.append:908
 msgid "data/events.xml.append$//event[@name=\"RAD_ROGUE_2\"]/text"
@@ -1005,9 +1005,9 @@ msgstr "舰船已解锁"
 #: src-en/data/events.xml.append:1027
 msgid "data/events.xml.append$//event[@name=\"RAD_LAB_FLESH_1\"]/text"
 msgstr ""
-"\"这个有点棘手。我们的一个项目被偷了。被一个外星权利组织偷走的。\"\n"
-"\"他们认为我们的做法残酷且不道德。当然不是，但他们还是偷走了它。总之，那是一"
-"艘原型星舰。我们需要你从他们那里夺回来。\""
+"“这个有点棘手。我们的一个项目被偷了。被一个外星权利组织偷走的。”\n"
+"“他们认为我们的做法残酷且不道德。当然不是，但他们还是偷走了它。总之，那是一艘"
+"原型星舰。我们需要你从他们那里夺回来。”"
 
 #: src-en/data/events.xml.append:1030
 msgid "data/events.xml.append$//event[@name=\"RAD_LAB_FLESH_1\"]/choice/text"
@@ -1016,8 +1016,8 @@ msgstr "好的，他们在哪里？"
 #: src-en/data/events.xml.append:1032
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_LAB_FLESH_1\"]/choice/event/text"
-msgstr "\"嗯，我们知道该组织的办公室在附近一颗行星上，所以我会从那里开始找。不过要小"
-"心，他们在一个相当繁华的行星上。预计会有安保。\""
+msgstr "“嗯，我们知道该组织的办公室在附近一颗行星上，所以我会从那里开始找。不过要小心"
+"，他们在一个相当繁华的行星上。预计会有安保。”"
 
 #: src-en/data/events.xml.append:1043
 msgid "data/events.xml.append$//event[@name=\"RAD_FLESH_2\"]/text"
@@ -1273,9 +1273,9 @@ msgstr ""
 #: src-en/data/events.xml.append:1247
 msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_1\"]/text"
 msgstr ""
-"\"好吧，这不是最刺激的任务，但必须完成。我们的一位赞助人雇佣我们寻找一种特定"
-"类型的行星，它刚好位于脉冲星边缘。然而搜寻这种行星的飞船失踪了，我们需要你去"
-"寻找它。\""
+"“好吧，这不是最刺激的任务，但必须完成。我们的一位赞助人雇佣我们寻找一种特定类"
+"型的行星，它刚好位于脉冲星边缘。然而搜寻这种行星的飞船失踪了，我们需要你去寻"
+"找它。”"
 
 #: src-en/data/events.xml.append:1249
 msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_1\"]/choice/text"
@@ -1283,7 +1283,7 @@ msgstr "听起来不太难。"
 
 #: src-en/data/events.xml.append:1251
 msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_1\"]/choice/event/text"
-msgstr "\"是的，我们会把一份搜索地点列表上传到你的飞船上，祝你好运。\""
+msgstr "“是的，我们会把一份搜索地点列表上传到你的飞船上，祝你好运。”"
 
 #: src-en/data/events.xml.append:1254
 msgid ""
@@ -1356,8 +1356,8 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:1318
 msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_3\"]/choice/event/text"
-msgstr "一位殖民地成员迎接你：\"希望你到这里来不是要完成上一艘飞船尝试的事情，要知道"
-"我们并非毫无防备。\""
+msgstr "一位殖民地成员迎接你：“希望你到这里来不是要完成上一艘飞船尝试的事情，要知道我"
+"们并非毫无防备。”"
 
 #: src-en/data/events.xml.append:1320
 msgid ""
@@ -1367,8 +1367,8 @@ msgstr "解释一下你来的原因。"
 #: src-en/data/events.xml.append:1322
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MONEY_3\"]/choice/event/choice/event/text"
-msgstr "\"我们不确定你在说什么飞船，但如果他们来过这里，你或许能通过我们在轨道上设置"
-"的追踪信标看到他们去了哪里。\""
+msgstr "“我们不确定你在说什么飞船，但如果他们来过这里，你或许能通过我们在轨道上设置的"
+"追踪信标看到他们去了哪里。”"
 
 #: src-en/data/events.xml.append:1324
 msgid ""
@@ -1416,12 +1416,12 @@ msgstr "向他解释情况。"
 
 #: src-en/data/events.xml.append:1374
 msgid "data/events.xml.append$//event[@name=\"RAD_MONEY_4\"]/choice/event/text"
-msgstr "\"在我看来很明显，你需要带我回去，这样我们才能了结这件事。\""
+msgstr "“在我看来很明显，你需要带我回去，这样我们才能了结这件事。”"
 
 #: src-en/data/events.xml.append:1376
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MONEY_4\"]/choice/event/choice[1]/text"
-msgstr "\"好吧，我们会接上你，然后返回殖民地。\"（站在公司一边）"
+msgstr "“好吧，我们会接上你，然后返回殖民地。”（站在公司一边）"
 
 #: src-en/data/events.xml.append:1382
 msgid ""
@@ -1461,12 +1461,12 @@ msgstr "返回对峙受损飞船。"
 msgid "data/events.xml.append$//event[@name=\"RAD_POOR_1\"]/choice/event/text"
 msgstr ""
 "你飞回受损飞船处，但到达时注意到第二艘同样昂贵但完好无损的飞船。\n"
-"\"你来得正好，我的备用船及时赶到，现在我们可以一起消灭那个愚蠢的殖民地了。\""
+"“你来得正好，我的备用船及时赶到，现在我们可以一起消灭那个愚蠢的殖民地了。”"
 
 #: src-en/data/events.xml.append:1435
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_POOR_1\"]/choice/event/choice[1]/text"
-msgstr "\"我不能让你这么做。\" 启动武器"
+msgstr "“我不能让你这么做。”启动武器"
 
 #: src-en/data/events.xml.append:1437
 msgid ""
@@ -1481,12 +1481,12 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:1446
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_POOR_1\"]/choice/event/choice[2]/text"
-msgstr "\"出点修理费，顺便缓和一下关系怎么样？\""
+msgstr "“出点修理费，顺便缓和一下关系怎么样？”"
 
 #: src-en/data/events.xml.append:1448
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_POOR_1\"]/choice/event/choice[2]/event/text"
-msgstr "\"我想也只能这样了，父亲会不高兴的，但这也就是一个月的零花钱，再见\""
+msgstr "“我想也只能这样了，父亲会不高兴的，但这也就是一个月的零花钱，再见”"
 
 #: src-en/data/events.xml.append:1460
 msgid "data/events.xml.append$//event[@name=\"RAD_RICH_1\"]/crewMember"
@@ -1518,10 +1518,10 @@ msgstr ""
 #: src-en/data/events.xml.append:1489
 msgid "data/events.xml.append$//event[@name=\"RAD_RICH_2\"]/text"
 msgstr ""
-"\"太好了，我们做到了，而且这次只花了我一艘船，父亲会很高兴的！\" 雷金纳德宣称"
-"。\n"
-"\"我不知道该怎么奖励你，但你可以拿走我的旧星舰，我每周都换新的，它应该值不少"
-"废料。\""
+"“太好了，我们做到了，而且这次只花了我一艘船，父亲会很高兴的！”雷金纳德宣称。"
+"\n"
+"“我不知道该怎么奖励你，但你可以拿走我的旧星舰，我每周都换新的，它应该值不少废"
+"料。”"
 
 #: src-en/data/events.xml.append:1492
 msgid "data/events.xml.append$//event[@name=\"RAD_RICH_2\"]/choice[1]/text"
@@ -1542,10 +1542,10 @@ msgstr "雷金纳德同意了。你在拆解它之前下载了旧星舰的蓝图
 #: src-en/data/events.xml.append:1520
 msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_1\"]/text"
 msgstr ""
-"\"好了，这个任务应该不会太复杂。我们最近的一个项目是与半械族合作，我们正在研"
-"发一艘能够产生足够能量、无需跳跃即可激活超能护盾的飞船。\"\n"
-"\"然而相关飞船失踪了，我们怀疑是半械分离者所为，但不确定。我们会让你联系负责"
-"该项目的半械族，他们应该能帮你查明去向。\""
+"“好了，这个任务应该不会太复杂。我们最近的一个项目是与半械族合作，我们正在研发"
+"一艘能够产生足够能量、无需跳跃即可激活超能护盾的飞船。”\n"
+"“然而相关飞船失踪了，我们怀疑是半械分离者所为，但不确定。我们会让你联系负责该"
+"项目的半械族，他们应该能帮你查明去向。”"
 
 #: src-en/data/events.xml.append:1523
 msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_1\"]/choice/text"
@@ -1553,7 +1553,7 @@ msgstr "我这就出发。"
 
 #: src-en/data/events.xml.append:1525
 msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_1\"]/choice/event/text"
-msgstr "\"祝你好运。\""
+msgstr "“祝你好运。”"
 
 #: src-en/data/events.xml.append:1538
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_ENGIZOL\"]/text"
@@ -1597,8 +1597,8 @@ msgstr "继续。"
 msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/choice/event/text"
 msgstr ""
 "抵达后片刻，一名半械族呼叫你。\n"
-"\"你好。\"\n"
-"\"我们得知了你的到来。时机正好，我们刚刚发现半械分离者将飞船带去了哪里。\""
+"“你好。”\n"
+"“我们得知了你的到来。时机正好，我们刚刚发现半械分离者将飞船带去了哪里。”"
 
 #: src-en/data/events.xml.append:1573
 msgid ""
@@ -1608,7 +1608,7 @@ msgstr "你确定是半械分离者吗？"
 #: src-en/data/events.xml.append:1575
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/choice/event/choice/event/text"
-msgstr "\"除了我们中的一员，还有谁能偷走飞船呢。\""
+msgstr "“除了我们中的一员，还有谁能偷走飞船呢。”"
 
 #: src-en/data/events.xml.append:1577
 msgid ""
@@ -1619,8 +1619,8 @@ msgstr "好吧，他们把飞船带去了哪里？"
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_2\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"\"附近的一个信标。\"\n"
-"\"我们会将坐标上传到你的飞船。\""
+"“附近的一个信标。”\n"
+"“我们会将坐标上传到你的飞船。”"
 
 #: src-en/data/events.xml.append:1584
 msgid ""
@@ -1725,16 +1725,16 @@ msgstr "启动你的武器，准备攻击。"
 msgid "data/events.xml.append$//event[@name=\"RAD_SUPERGUN_8\"]/text"
 msgstr ""
 "短暂的等待后，一艘星舰抵达，是科学家们。\n"
-"\"干得漂亮，舰长，我们成功回收了你摧毁的那艘星舰的设计图，以及上面的一些技术"
-"，我们会把这些全部交付给你和联邦，作为你在此处工作的报酬。\""
+"“干得漂亮，舰长，我们成功回收了你摧毁的那艘星舰的设计图，以及上面的一些技术，"
+"我们会把这些全部交付给你和联邦，作为你在此处工作的报酬。”"
 
 #: src-en/data/events.xml.append:1710
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/text"
 msgstr ""
-"\"这次任务简单快捷，我们受雇于一个富有的佣兵团，为他们设计和建造一种特殊的超"
-"级护盾，这种护盾能部署在常规护盾内部，而非外部。\"\n"
-"\"我们成功研发了这项技术，并将其安装在一艘测试星舰上交给了佣兵团，目的是让他"
-"们在付款将其安装到自己的星舰上之前，先测试一下护盾的效果。\""
+"“这次任务简单快捷，我们受雇于一个富有的佣兵团，为他们设计和建造一种特殊的超级"
+"护盾，这种护盾能部署在常规护盾内部，而非外部。”\n"
+"“我们成功研发了这项技术，并将其安装在一艘测试星舰上交给了佣兵团，目的是让他们"
+"在付款将其安装到自己的星舰上之前，先测试一下护盾的效果。”"
 
 #: src-en/data/events.xml.append:1713
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/text"
@@ -1742,8 +1742,8 @@ msgstr "他们偷走了测试星舰，是吧。"
 
 #: src-en/data/events.xml.append:1715
 msgid "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/event/text"
-msgstr "\"很遗憾你说对了。不过，我们倾向于保护自己的成果，在那艘星舰上安装了追踪器。"
-"你只需飞到信标处，摧毁那艘星舰即可。\""
+msgstr "“很遗憾你说对了。不过，我们倾向于保护自己的成果，在那艘星舰上安装了追踪器。你"
+"只需飞到信标处，摧毁那艘星舰即可。”"
 
 #: src-en/data/events.xml.append:1717
 msgid ""
@@ -1753,7 +1753,7 @@ msgstr "听起来很容易。"
 #: src-en/data/events.xml.append:1719
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_UNDER_1\"]/choice/event/choice/event/text"
-msgstr "\"是的，我这就把星舰的位置上传给你。\""
+msgstr "“是的，我这就把星舰的位置上传给你。”"
 
 #: src-en/data/events.xml.append:1734
 msgid "data/events.xml.append$//event[@name=\"DESTROYED_RAD_UNDERAIDER\"]/text"
@@ -1798,8 +1798,8 @@ msgstr ""
 "星舰爆炸了。\n"
 "片刻之后，无人机从碎片中出现，递给你一个增强部件，看来它从星舰上提取出了超级"
 "护盾。\n"
-"你收到一条传输信息：\"我们擅自将测试星舰上的超级护盾作为报酬给了你，同时，我"
-"们也把为佣兵团设计的那份图纸发给了联邦，现在我们用不着它了。\""
+"你收到一条传输信息：“我们擅自将测试星舰上的超级护盾作为报酬给了你，同时，我们"
+"也把为佣兵团设计的那份图纸发给了联邦，现在我们用不着它了。”"
 
 #: src-en/data/events.xml.append:1782
 msgid "data/events.xml.append$//event[@name=\"RAD_MIRROR_1\"]/text"
@@ -2265,8 +2265,8 @@ msgid ""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
 "片刻之后，一艘大型海盗船抵达信标处，但它立刻启动了武器。\n"
-"科学家们联系你：\"听着，如果你能给我们争取一些时间，我们就能说服他们停手，在"
-"我们谈判的时候，你先拖住他们。\""
+"科学家们联系你：“听着，如果你能给我们争取一些时间，我们就能说服他们停手，在我"
+"们谈判的时候，你先拖住他们。”"
 
 #: src-en/data/events.xml.append:2283
 msgid ""
@@ -2325,16 +2325,16 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:2334
 msgid ""
 "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_SUCCEED\"]/choice/event/text"
-msgstr "你离开时，科学家们联系了你。\"完成这个任务，我们就两清了。一旦你完成任务，我"
-"们还会给你一些额外奖励。\""
+msgstr "你离开时，科学家们联系了你。“完成这个任务，我们就两清了。一旦你完成任务，我们"
+"还会给你一些额外奖励。”"
 
 #: src-en/data/events.xml.append:2346
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_FAIL\"]/text"
 msgstr ""
 "你抵达信标，立刻发现引擎被远程关闭了。\n"
 "\n"
-"\"你好啊，变元者，很遗憾我们不能让你活着，放任你到处杀害我们的客户对生意可不"
-"好，准备受死吧。\""
+"“你好啊，变元者，很遗憾我们不能让你活着，放任你到处杀害我们的客户对生意可不好"
+"，准备受死吧。”"
 
 #: src-en/data/events.xml.append:2352
 msgid "data/events.xml.append$//event[@name=\"RAD_MINES_PEACE_FAIL\"]/choice/text"

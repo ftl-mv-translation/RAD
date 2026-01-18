@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-18 02:38+0000\n"
+"PO-Revision-Date: 2026-01-18 19:50+0000\n"
 "Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/rad/dataevents_sector_rad_sciencexml/zh_Hans/>\n"
@@ -43,8 +43,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:57
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/text"
-msgstr "卫兵向你发出通讯：“叛军，我们理解你们的事业，但绝不能冒险让研究进程或平民生活"
-"因你们引来的战火而中断——我们不愿卷入变元者的事业！”"
+msgstr "卫兵向你发出通讯：\"叛军，我们理解你们的事业，但绝不能冒险让研究进程或平民生"
+"活因你们引来的战火而中断——我们不愿卷入变元者的事业！\""
 
 #: src-en/data/events_sector_rad_science.xml:60
 msgid ""
@@ -79,7 +79,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:80
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[2]/event/choice/event/text"
-msgstr "“真有意思，我就是想不起来是谁给我这些废料的...现在赶紧走，别等我反悔了。”"
+msgstr "\"真有意思，我就是想不起来是谁给我这些废料的...现在赶紧走，别等我反悔了。\""
 
 #: src-en/data/events_sector_rad_science.xml:86
 msgid ""
@@ -94,7 +94,7 @@ msgstr "（人类科学家）让科学家说服他们允许你通过。"
 #: src-en/data/events_sector_rad_science.xml:94
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"GUARD_RAD_SCIENCE\"]/choice[@req=\"mind\"]/text"
-msgstr "(心灵控制)“说服”守卫放过你。"
+msgstr "(心灵控制)\"说服\"守卫放过你。"
 
 #: src-en/data/events_sector_rad_science.xml:98
 msgid ""
@@ -114,7 +114,7 @@ msgstr "(先进驾驶)启动自动驾驶来尝试逃跑。"
 #: src-en/data/events_sector_rad_science.xml:113
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[1]/text"
-msgstr "“我理解你们的事业，但如果你不离开，我将不得不强制你撤离！”"
+msgstr "\"我理解你们的事业，但如果你不离开，我将不得不强制你撤离！\""
 
 #: src-en/data/events_sector_rad_science.xml:116
 msgid ""
@@ -124,7 +124,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:121
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[2]/text"
-msgstr "“我理解你们的事业，但如果你不离开，我将不得不强制你撤离！”"
+msgstr "\"我理解你们的事业，但如果你不离开，我将不得不强制你撤离！\""
 
 #: src-en/data/events_sector_rad_science.xml:124
 msgid ""
@@ -134,12 +134,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:129
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_TALK\"]/event[3]/text"
-msgstr "“也许你们的事业值得冒这个险，好吧，你们可以通过，我们会尽力拖住叛军。”"
+msgstr "\"也许你们的事业值得冒这个险，好吧，你们可以通过，我们会尽力拖住叛军。\""
 
 #: src-en/data/events_sector_rad_science.xml:135
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[1]/text"
-msgstr "“啊，是位同行科学家，如果你愿意，可以通过，但你的其他船员不行。”"
+msgstr "\"啊，是位同行科学家，如果你愿意，可以通过，但你的其他船员不行。\""
 
 #: src-en/data/events_sector_rad_science.xml:138
 msgid ""
@@ -149,12 +149,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:143
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[2]/text"
-msgstr "“哦，是我弄错了，我没发现你船上有位科学家同行，你们可以通过。”"
+msgstr "\"哦，是我弄错了，我没发现你船上有位科学家同行，你们可以通过。\""
 
 #: src-en/data/events_sector_rad_science.xml:147
 msgid ""
 "data/events_sector_rad_science.xml$//eventList[@name=\"GUARD_RAD_SCIENCE_SCIENTIST_TALK\"]/event[3]/text"
-msgstr "“哦，是我弄错了，我没发现你船上有位科学家同行，你们可以通过。”"
+msgstr "\"哦，是我弄错了，我没发现你船上有位科学家同行，你们可以通过。\""
 
 #: src-en/data/events_sector_rad_science.xml:168
 msgid ""
@@ -196,7 +196,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:187
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/text"
-msgstr "“啊，舰长，你这艘星舰真不错，考虑让我登船吗？”"
+msgstr "\"啊，舰长，你这艘星舰真不错，考虑让我登船吗？\""
 
 #: src-en/data/events_sector_rad_science.xml:189
 msgid ""
@@ -206,8 +206,8 @@ msgstr "欢迎他登船。"
 #: src-en/data/events_sector_rad_science.xml:193
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_SCIENCE_SCIENTIST\"]/choice/event/choice[1]/event/text"
-msgstr "“现在我也许该提一下，有些海盗想杀我，不过我确信像你这样强大能干的舰长能对付他"
-"们。”"
+msgstr "\"现在我也许该提一下，有些海盗想杀我，不过我确信像你这样强大能干的舰长能对付"
+"他们。\""
 
 #: src-en/data/events_sector_rad_science.xml:195
 msgid ""
@@ -346,12 +346,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:345
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[1]"
-msgstr "“你的杀戮欲…总有一天会成为你的致命弱点，变元者。你只证明了…联邦相比叛军…好不到哪去…”"
+msgstr "\"你的杀戮欲…总有一天会成为你的致命弱点，变元者。你只证明了…联邦相比叛军…好不"
+"到哪去…\""
 
 #: src-en/data/events_sector_rad_science.xml:346
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[2]"
-msgstr "“有人受伤！有人受伤！啊！”船员的呼喊声并没有被已经倒下船员听到。"
+msgstr "\"有人受伤！有人受伤！啊！\"船员的呼喊声并没有被已经倒下船员听到。"
 
 #: src-en/data/events_sector_rad_science.xml:347
 msgid ""
@@ -361,13 +362,13 @@ msgstr "你已屠杀了所有船员。剩下的就是回收他们的星舰了。
 #: src-en/data/events_sector_rad_science.xml:348
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[4]"
-msgstr "“说句公道话……这活儿……远超我的……薪酬等级……”敌方舰长捂住心脏倒下了。"
+msgstr "\"说句公道话……这活儿……远超我的……薪酬等级……\"敌方舰长捂住心脏倒下了。"
 
 #: src-en/data/events_sector_rad_science.xml:349
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_DEAD_CREW_RAD_SCIENCE\"]/text[5]"
-msgstr "“你会后悔的！因果报应总会落到你们这种人头上。该死的……要是没有你们这些变元者，"
-"我们科学家的日子会好过得多……”"
+msgstr "\"你会后悔的！因果报应总会落到你们这种人头上。该死的……要是没有你们这些变元者"
+"，我们科学家的日子会好过得多……\""
 
 #: src-en/data/events_sector_rad_science.xml:355
 msgid ""
@@ -394,26 +395,27 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:377
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[1]"
-msgstr "“求你了！多元宇宙里一半的技术都多亏了我们科学家，我们发明了太空华夫饼机！你不"
-"能杀我们！”"
+msgstr "\"求你了！多元宇宙里一半的技术都多亏了我们科学家，我们发明了太空华夫饼机！你"
+"不能杀我们！\""
 
 #: src-en/data/events_sector_rad_science.xml:378
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[2]"
-msgstr "“听着，只要放我们一条生路，我们就交出所有东西，这不就是你们变元者想要的吗？”"
+msgstr "\"听着，只要放我们一条生路，我们就交出所有东西，这不就是你们变元者想要的吗？\"
+"""
 
 #: src-en/data/events_sector_rad_science.xml:379
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[3]"
-msgstr "科学家舰长恳求你饶他一命。“求你了，我的家人！他们需要我，我是家里唯一的收入来"
-"源！只要你放我一条生路，我什么都给你！”"
+msgstr "科学家舰长恳求你饶他一命。\"求你了，我的家人！他们需要我，我是家里唯一的收入"
+"来源！只要你放我一条生路，我什么都给你！\""
 
 #: src-en/data/events_sector_rad_science.xml:380
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_SURRENDER_RAD_SCIENCE\"]/text[4]"
 msgstr ""
-"你收到星舰另一区域的呼叫，除了舰长，另一位船员轻声说道：“求你了，只要你停火，"
-"我就把货舱里剩下的所有东西都给你。我们舰长很固执，但其他船员都不想死！”"
+"你收到星舰另一区域的呼叫，除了舰长，另一位船员轻声说道：\"求你了，只要你停火"
+"，我就把货舱里剩下的所有东西都给你。我们舰长很固执，但其他船员都不想死！\""
 
 #: src-en/data/events_sector_rad_science.xml:381
 msgid ""
@@ -791,8 +793,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:700
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DISTRESS_RAD_SCIENCE_CHOICE\"]/choice/event/text"
-msgstr "“变元者，保持距离，我们刚抓获了两名我们认为属于海盗组织的平民。我们只是希望不"
-"会有海盗来寻仇。”"
+msgstr "\"变元者，保持距离，我们刚抓获了两名我们认为属于海盗组织的平民。我们只是希望"
+"不会有海盗来寻仇。\""
 
 #: src-en/data/events_sector_rad_science.xml:702
 msgid ""
@@ -900,8 +902,8 @@ msgid ""
 msgstr ""
 "当你靠近残骸时，它启动了。你收到一条传输信息。\n"
 "\n"
-"“求求你帮忙，我们遭到了魂灵族攻击，我的船员都死了。要么把我传送出这艘星舰，要"
-"么把它破坏到足以让我过载反应堆，然后通过个人传送器传送过去。”"
+"\"求求你帮忙，我们遭到了魂灵族攻击，我的船员都死了。要么把我传送出这艘星舰，"
+"要么把它破坏到足以让我过载反应堆，然后通过个人传送器传送过去。\""
 
 #: src-en/data/events_sector_rad_science.xml:802
 msgid ""
@@ -942,9 +944,9 @@ msgstr "不幸的是，你未能救下那位科学家，也许在另一个宇宙
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"RAD_MAIN_QUEST_SAVED\"]/text"
 msgstr ""
-"“干得好，舰长，你来得正是时候，我叫科尼利厄斯·斯瓦特沃特。\n"
+"\"干得好，舰长，你来得正是时候，我叫科尼利厄斯·斯瓦特沃特。\n"
 "不知你能否再帮我个忙，我和我的船员当时正在前往我们一个项目设施的途中，去测试"
-"一艘新型星舰，如果你能把我送到那里，那真是帮大忙了。”"
+"一艘新型星舰，如果你能把我送到那里，那真是帮大忙了。\""
 
 #: src-en/data/events_sector_rad_science.xml:851
 msgid ""
@@ -952,8 +954,8 @@ msgid ""
 msgstr ""
 "你已抵达测试设施，那艘星舰似乎正准备推出进行测试。\n"
 "\n"
-"斯瓦特沃特博士加入你观看测试，“今天我们要测试的是这艘星舰使用武器的能力，我们"
-"弄来了一艘叛军自动舰进行测试。”"
+"斯瓦特沃特博士加入你观看测试，\"今天我们要测试的是这艘星舰使用武器的能力，我"
+"们弄来了一艘叛军自动舰进行测试。\""
 
 #: src-en/data/events_sector_rad_science.xml:855
 msgid ""
@@ -1014,8 +1016,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:918
 msgid ""
 "data/events_sector_rad_science.xml$//event[@name=\"DESTROYED_RAD_SCIENCE_CUTTERENEMY\"]/text"
-msgstr "“哇，幸好你在这里，否则情况可能会很糟糕。为表感谢，我们会把这种星舰的设计图发"
-"给联邦，等我们处理好你指出的这些漏洞后。”"
+msgstr "\"哇，幸好你在这里，否则情况可能会很糟糕。为表感谢，我们会把这种星舰的设计图"
+"发给联邦，等我们处理好你指出的这些漏洞后。\""
 
 #: src-en/data/events_sector_rad_science.xml:944
 msgid ""
@@ -1097,8 +1099,8 @@ msgstr "尽管拥有先进技术，科学家们似乎仍未能彻底消灭海盗
 #: src-en/data/events_sector_rad_science.xml:991
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_PIRATE_RAD_SCIENCE\"]/text[4]"
-msgstr "你瞥见一抹紫色飞掠而过。不久，一艘海盗星舰进入视野。“哈哈！我已夺取了许多平民"
-"的性命，现在轮到你了！准备战斗吧！”"
+msgstr "你瞥见一抹紫色飞掠而过。不久，一艘海盗星舰进入视野。\"哈哈！我已夺取了许多平"
+"民的性命，现在轮到你了！准备战斗吧！\""
 
 #: src-en/data/events_sector_rad_science.xml:998
 msgid ""
@@ -1130,8 +1132,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_rad_science.xml:1017
 msgid ""
 "data/events_sector_rad_science.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_RAD_SCIENCE\"]/text[1]"
-msgstr "“神军永远不败！联邦的结局只会是灭亡！”你无法理解这句话是如何从一个仅为了防守"
-"星区就滥杀平民的人嘴中说出的，但若是叛军要战，那便战。"
+msgstr "\"神军永远不败！联邦的结局只会是灭亡！\"你无法理解这句话是如何从一个仅为了防"
+"守星区就滥杀平民的人嘴中说出的，但若是叛军要战，那便战。"
 
 #: src-en/data/events_sector_rad_science.xml:1018
 msgid ""

@@ -268,7 +268,7 @@ script.on_internal_event(Defines.InternalEvents.WEAPON_RENDERBOX, function(weapo
         local oHTable = userdata_table(weapon, "mods.rad.overHeatShots")
         if oHTable.timer then
             if oHTable.timer < oHTable.timerLast then
-                secondLine = tostring(math.ceil(oHTable.timer*10)/10).."s to Cooldown"
+                secondLine = tostring(math.ceil(oHTable.timer*10)/10).."s de temps de recharge"
             end
         end
     end

@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-04 10:46+0000\n"
+"PO-Revision-Date: 2026-05-28 18:35+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/rad/"
 "datatext_miscxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_rad_lab\"]"
@@ -130,8 +130,8 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_combiner\"]"
 msgstr ""
-"Tire plusieurs projectiles à la fois avec un faible rayon, comme une arme de"
-" DCA."
+"Tire plusieurs projectiles à la fois avec un faible rayon, comme une arme "
+"Flak."
 
 #: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"rad_tip_laser_smart\"]"
